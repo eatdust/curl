@@ -16,7 +16,7 @@ html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.5; }
-  @media (min-width: 52rem) {
+  @media (min-width: 80rem) {
     html {
       font-size: 1.25rem; } }
 
@@ -604,7 +604,7 @@ body {
 /* -----------------------------------------------------------
   Tablet / Desktop view
 ----------------------------------------------------------- */
-@media (min-width: 52rem) {
+@media (min-width: 80rem) {
   body {
     flex-direction: row;
     height: 100vh;
@@ -679,7 +679,7 @@ body {
   flex-flow: row wrap;
   justify-content: center;
   margin-top: 1rem; }
-  @media (min-width: 52rem) {
+  @media (min-width: 80rem) {
     #sidebar-icon-links {
       margin-left: -0.25em;
       justify-content: flex-start; } }
@@ -828,7 +828,7 @@ h2.post-title, h2.page-title {
 .index #sidebar {
   padding-bottom: calc(2rem + 1em); }
 
-@media (min-width: 52rem) {
+@media (min-width: 80rem) {
   .pagination > a {
     box-shadow: none; }
     .pagination > a:hover {
