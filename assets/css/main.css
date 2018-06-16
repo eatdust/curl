@@ -16,7 +16,7 @@ html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 1.2rem;
   line-height: 1.5; }
-  @media (min-width: 70rem) {
+  @media (min-width: 60rem) {
     html {
       font-size: 1.1rem; } }
 
@@ -501,7 +501,7 @@ body {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  margin-top: 8vh;
+  margin-top: 0;
   max-height: 92vh;
   border-top-left-radius: 30px 30px; }
   .container > .content {
@@ -594,18 +594,18 @@ body {
 .index #sidebar {
   text-align: center; }
   .index #sidebar .site-title {
-    font-size: 3.25rem; }
+    font-size: large-title-size; }
   .index #sidebar header ~ *, .index #sidebar p.lead {
     display: block; }
   .index #sidebar header ~ nav {
     display: flex; }
   .index #sidebar > *:last-child {
-    margin-bottom: 0.5rem; }
+    margin-bottom: 0.0rem; }
 
 /* -----------------------------------------------------------
   Tablet / Desktop view
 ----------------------------------------------------------- */
-@media (min-width: 70rem) {
+@media (min-width: 60rem) {
   body {
     flex-direction: row;
     height: 100vh;
@@ -639,6 +639,7 @@ body {
     background: #fff;
     color: #515151;
     padding: 2rem 4rem;
+    margin-top: 8vh;
     height: 100vh; }
     .container > header {
       color: inherit;
@@ -680,7 +681,7 @@ body {
   flex-flow: row wrap;
   justify-content: center;
   margin-top: 1rem; }
-  @media (min-width: 70rem) {
+  @media (min-width: 60rem) {
     #sidebar-icon-links {
       margin-left: -0.25em;
       justify-content: flex-start; } }
@@ -829,7 +830,7 @@ h2.post-title, h2.page-title {
 .index #sidebar {
   padding-bottom: calc(2rem + 1em); }
 
-@media (min-width: 70rem) {
+@media (min-width: 60rem) {
   .pagination > a {
     box-shadow: none; }
     .pagination > a:hover {
