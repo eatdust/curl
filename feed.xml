@@ -1,42 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/curl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/curl/" rel="alternate" type="text/html" /><updated>2018-06-28T16:23:23+02:00</updated><id>https://curl.group/curl/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Two cosmology seminars in a row!</title><link href="https://curl.group/curl/news/2018/06/27/seminars.html" rel="alternate" type="text/html" title="Two cosmology seminars in a row!" /><published>2018-06-27T14:00:00+02:00</published><updated>2018-06-27T14:00:00+02:00</updated><id>https://curl.group/curl/news/2018/06/27/seminars</id><content type="html" xml:base="https://curl.group/curl/news/2018/06/27/seminars.html">&lt;p&gt;This Wednesday, we have not one but two cosmology seminars in a row!
-We have the pleasure to receive &lt;strong&gt;Mateo Martinelli&lt;/strong&gt; and &lt;strong&gt;Alkistis Pourtsidou&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;At 13:00, Mateo Martinelli (Leiden U., Euclid), will be talking about&lt;/p&gt;
-
-&lt;h3 id=&quot;future-constraints-on-parametrized-modified-gravity-the-impact-of-non-linear-scales-and-of-theoretical-priors&quot;&gt;Future constraints on parametrized modified gravity: the impact of	non linear scales and of theoretical priors&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;In this talk I will present forecasted constraints on
-Modified Gravity using Galaxy Clustering and Weak Lensing
-measurements. I will explore different possible phenomenological
-parametrizations for Modified Gravity models, encoding the effects of
-these modifications in two generic functions (η and μ) of time and
-space which affect the Poisson equation and the so-called
-gravitational slip. I will focus on forecasts for future surveys and I
-will highlight the constraining power gained when including non linear
-scales in the analysis using phenomenological prescription for the
-modelling of these scales in the Modified Gravity framework.  I will
-then discuss how it is possible to connect phenomenological
-parameterizations to viable theories of modified gravity, imposing
-theoretical conditions on the reconstructed functions.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;After a coffee break, at 14:30, Alkistis Pourtsidou (Queen Mary U.,
-SKA, Euclid) will talk about&lt;/p&gt;
-
-&lt;h3 id=&quot;cosmology-with-neutral-hydrogen-hi-intensity-mapping&quot;&gt;Cosmology with neutral hydrogen (HI) intensity mapping&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;I will introduce the innovative technique of HI intensity
-mapping, which allows for precise cosmological measurements in the
-radio wavelength. After talking about the current status of intensity
-mapping measurements, I will focus on forthcoming surveys using
-instruments like MeerKAT/SKA and CHIME to probe dark energy as well as
-galaxy evolution. I will also present synergies between optical galaxy
-and radio intensity mapping surveys in order to probe dark energy and
-gravity, mitigate systematic effects, calibrate photometric redshifts,
-and measure primordial non-gaussianity.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">This Wednesday, we have not one but two cosmology seminars in a row! We have the pleasure to receive Mateo Martinelli and Alkistis Pourtsidou.</summary></entry><entry><title type="html">Two cosmology seminars in a row!</title><link href="https://curl.group/curl/news/2018/06/26/seminars.html" rel="alternate" type="text/html" title="Two cosmology seminars in a row!" /><published>2018-06-26T14:00:00+02:00</published><updated>2018-06-26T14:00:00+02:00</updated><id>https://curl.group/curl/news/2018/06/26/seminars</id><content type="html" xml:base="https://curl.group/curl/news/2018/06/26/seminars.html">&lt;p&gt;This Wednesday, we have not one but two cosmology seminars in a row!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/curl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/curl/" rel="alternate" type="text/html" /><updated>2018-06-28T16:25:42+02:00</updated><id>https://curl.group/curl/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Two cosmology seminars in a row!</title><link href="https://curl.group/curl/news/2018/06/27/seminars.html" rel="alternate" type="text/html" title="Two cosmology seminars in a row!" /><published>2018-06-27T14:00:00+02:00</published><updated>2018-06-27T14:00:00+02:00</updated><id>https://curl.group/curl/news/2018/06/27/seminars</id><content type="html" xml:base="https://curl.group/curl/news/2018/06/27/seminars.html">&lt;p&gt;This Wednesday, we have not one but two cosmology seminars in a row!
 We have the pleasure to receive &lt;strong&gt;Mateo Martinelli&lt;/strong&gt; and &lt;strong&gt;Alkistis Pourtsidou&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -167,4 +129,8 @@ the Universe and provide the seeds of the super-massive black holes at
 the center of galaxies.  Finding a firm observational evidence for
 even a single primordial black hole would revolutionize our
 understanding of the early Universe, and might help to resolve
-long-standing problems of cosmology and astrophysics.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">Together with a collaborator from UAM-IFT (Madrid), Juan Garcia-Bellido, we have recently published an article in the French science outreach magazine Pour la Science, entitled Matière noire: la piste des trous noirs. This article is available here. For the original English version, published in the Scientific American, see here.</summary></entry></feed>
+long-standing problems of cosmology and astrophysics.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">Together with a collaborator from UAM-IFT (Madrid), Juan Garcia-Bellido, we have recently published an article in the French science outreach magazine Pour la Science, entitled Matière noire: la piste des trous noirs. This article is available here. For the original English version, published in the Scientific American, see here.</summary></entry><entry><title type="html">Einstein Telescope meeting</title><link href="https://curl.group/curl/news/2018/01/29/ET.html" rel="alternate" type="text/html" title="Einstein Telescope meeting" /><published>2018-01-29T09:00:00+01:00</published><updated>2018-01-29T09:00:00+01:00</updated><id>https://curl.group/curl/news/2018/01/29/ET</id><content type="html" xml:base="https://curl.group/curl/news/2018/01/29/ET.html">&lt;p&gt;The University of Liège is hosting the 9th COSPA meeting on 31 January 2018, which will be focused on the
+&lt;a href=&quot;http://www.et-gw.eu/&quot;&gt;&lt;strong&gt;Einstein Telescope&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Program available on their
+&lt;a href=&quot;https://events.uliege.be/telescope-einstein/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The University of Liège is hosting the 9th COSPA meeting on 31 January 2018, which will be focused on the Einstein Telescope.</summary></entry></feed>
