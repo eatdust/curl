@@ -95,7 +95,10 @@ h2 {
 
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem; }
+  font-size: 1.1rem; }
+  @media (min-width: 60rem) {
+    h3 {
+      font-size: 1.2rem; } }
 
 h4, h5, h6 {
   margin-top: 1rem;
@@ -594,7 +597,7 @@ body {
 .index #sidebar {
   text-align: center; }
   .index #sidebar .site-title {
-    font-size: large-title-size; }
+    font-size: 3.25rem; }
   .index #sidebar header ~ *, .index #sidebar p.lead {
     display: block; }
   .index #sidebar header ~ nav {
