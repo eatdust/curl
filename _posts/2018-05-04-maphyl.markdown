@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Des trous noirs nés une milli-seconde après le Big-Bang
+category: Outreach
+date: 2018-05-04 14:00:00 +0100
+---
+
+Lecture by S. Clesse, invited by the [**MaPhyl**](https://www.maphyl.com) ASBL (association of alumini
+students of the UCL in Mathematics and Physics).
+
+French abstract: *La détection d’ondes gravitationnelles issues de la
+fusion de trous noirs par l’expérience LIGO/VIRGO, couronnée du Prix
+Nobel de Physique 2017, ouvre une nouvelle ère de l’astronomie
+moderne.  Déjà, ces détections ont ravivé le débat sur la nature de la
+matière noire.  Elles semblent indiquer la présence d’une population
+inattendue de trous noirs dont l’abondance est étrangement compatible
+avec celle de la matière noire, dont la nature est encore aujourd’hui
+un des grands mystères de la cosmologie.  Ainsi, la matière noire
+pourraient être constituée de trous noirs primordiaux formés moins
+d’une milli-seconde après le Big-Bang.  Aujourd’hui une série d’autres
+observations tendent à corroborer cette hypothèse.  Les détecteurs
+d’ondes gravitationnelles de nouvelle génération, tels le Einstein
+Telescope qui pourrait être construit à la frontière entre la
+Belgique, les Pays-Bas et l’Allemagne, auront la capacité de vérifier,
+ou invalider cette hypothèse.  Ils testeront aussi notre compréhension
+de l’Univers primordial et de la physique fondamentale à des échelles
+d’énergie jusqu’à présent inaccessibles.*
+
+
+
+

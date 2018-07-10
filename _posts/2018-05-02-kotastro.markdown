@@ -1,0 +1,26 @@
+---
+layout: post
+title:  La Cosmologie (pour les nuls)
+category: Outreach
+date: 2018-05-02 14:00:00 +0100
+---
+
+Public lecture by S. Clesse, organized by the [**Kot Astro**](http://www.kotastro.be) of the UCLouvain.
+
+French abstract: *Que se passe-t-il si l'on tombe dans un trou noir?
+Est-il possible de voyager dans le temps? Qu'y avait-il avant le
+Big-Bang? Où s'est-il produit, et dans quoi l'Univers s'étend-il
+aujourd'hui? L'Univers a-t-il un bord? Existe-t-il d'autres Univers,
+d'autres dimensions?  Lorsqu'on discute cosmologie et astrophysique,
+ces questions pas si saugrenues reviennent sans cesse. Difficile de
+faire la différence entre mythe et réalité, entre scénarios réalistes
+et spéculations, entre science et fiction. Nous vous proposons un
+voyage un peu fou aux frontières de la Science. Il vous permettra d'y
+voir un peu plus clair et de faire le point sur les connaissances et
+les défis d'aujourd'hui. Nous lèverons un coin du voile sur notre
+Univers, parfois mystérieux, toujours surprenant...*
+
+![kotastro]({{site.baseurl}}/assets/images/outreach/kot_astro.jpg)
+
+PS: Typographie conforme à la norme [NBN Z01-002](https://www.ex-abrupto.be/quelle-norme-typographique-suivre/)
+

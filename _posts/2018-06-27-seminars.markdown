@@ -1,0 +1,49 @@
+---
+layout: post
+title: Two cosmology seminars in a row!
+category: News
+date: 2018-06-27 13:00:00 +0100
+---
+
+This Wednesday, we have not one but two cosmology seminars in a row!
+We have the pleasure to receive **Mateo Martinelli** and **Alkistis Pourtsidou**.
+
+---
+
+At 13:00, Mateo Martinelli (Leiden U., Euclid), will be talking about
+
+
+### Future constraints on parametrized modified gravity: the impact of	non linear scales and of theoretical priors
+
+
+*In this talk I will present forecasted constraints on
+Modified Gravity using Galaxy Clustering and Weak Lensing
+measurements. I will explore different possible phenomenological
+parametrizations for Modified Gravity models, encoding the effects of
+these modifications in two generic functions (η and μ) of time and
+space which affect the Poisson equation and the so-called
+gravitational slip. I will focus on forecasts for future surveys and I
+will highlight the constraining power gained when including non linear
+scales in the analysis using phenomenological prescription for the
+modelling of these scales in the Modified Gravity framework.  I will
+then discuss how it is possible to connect phenomenological
+parameterizations to viable theories of modified gravity, imposing
+theoretical conditions on the reconstructed functions.*
+
+---
+
+After a coffee break, at 14:30, Alkistis Pourtsidou (Queen Mary U.,
+SKA, Euclid) will talk about
+
+### Cosmology with neutral hydrogen (HI) intensity mapping
+
+*I will introduce the innovative technique of HI intensity
+mapping, which allows for precise cosmological measurements in the
+radio wavelength. After talking about the current status of intensity
+mapping measurements, I will focus on forthcoming surveys using
+instruments like MeerKAT/SKA and CHIME to probe dark energy as well as
+galaxy evolution. I will also present synergies between optical galaxy
+and radio intensity mapping surveys in order to probe dark energy and
+gravity, mitigate systematic effects, calibrate photometric redshifts,
+and measure primordial non-gaussianity.*
+

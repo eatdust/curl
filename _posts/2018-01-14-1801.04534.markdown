@@ -1,0 +1,35 @@
+---
+layout: post
+title:  Observational bounds on extended theories of gravity from energy conditions
+category: News
+date: 2018-01-14 11:23:13 +0000
+---
+
+In our public preprint {% cite penna-lima:2018mxk %} we discuss how we
+can use the energy conditions to constrain a wide range of Extended
+Theories of Gravity (ETG).
+
+We know observationally that at least at the local tests (e.g., solar
+system scale), general relativity describes extraordinarily well the
+gravitation dynamics, moreover at these scales all energy conditions
+are fulfilled. Thus, it is reasonable to impose the energy conditions
+to the energy momentum tensor that describes the ordinary matter
+components. From this assumption we derive a new condition on this
+class of ETGs. Armed with this new condition we can impose different bounds on the
+ETG effective energy density, pressure and equation of state using
+observational data. For example, with a further assumption that the
+effective energy density of the ETG is strictly positive we get the
+following bounds in the figure below:
+
+![ETGbounds]({{site.baseurl}}/assets/images/1801.04534/wbd_eft_zoom.png)
+
+This figure shows the upper and lower bounds on $$w^\mathrm{ETG}$$,
+the ETG's effective equation of state. The four panels show how these
+bounds depend on the value of the ETG's energy density. We expect
+future observations (Supernovae Ia, Baryon Oscillations, cosmic
+chronometers, etc) will be able to pinpoint which characteristics a
+viable ETG must have.
+
+
+
+

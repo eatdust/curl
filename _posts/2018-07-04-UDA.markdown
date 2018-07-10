@@ -1,0 +1,19 @@
+---
+layout: post
+title:  An invitation to grand-parents and their grand-children to discover together the secrets of our Universe
+category: Outreach
+date: 2018-06-04 14:00:00 +0100
+---
+
+The 4th of July, Sébastien will be presenting two outreach activities
+dedicated to children and their grand-parents, organized by the
+*Université des Aînés* of UCLouvain.
+
+[**L’Univers selon les petits: Alice et le Big-Bang (6-10
+ans)**](http://www.universitedesaines.be/fiche-formation.php?categorie=435)
+
+[**L’Univers selon les grands: les plus belles images de l’Univers
+(+10
+ans)**](http://www.universitedesaines.be/fiche-formation.php?categorie=444)
+
+![smile]({{site.baseurl}}/assets/images/outreach/smile.jpg)

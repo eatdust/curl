@@ -1,0 +1,90 @@
+---
+layout: page
+title: Members
+sidebar_link: true
+sidebar_priority: 10
+---
+
+
+{% assign sorted_members = site.members | sort:'from' | reverse %}
+
+<h2 class="members-type"> Current </h2>
+
+<div class="members-list">
+
+  {% for item in sorted_members %}
+
+  {% if item.to == null %}
+  
+  <li>
+    <h2><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
+    {{ item.description }}
+    {% if item.funding != null %}
+    <p>
+      Funding: {{ item.funding }}
+    </p>
+    {% endif %}
+  </li>
+
+  {% endif %}
+
+  {% endfor %}
+
+</div>
+
+<h2 class="members-type"> Former </h2>
+
+<div class="members-list">
+  {% for item in sorted_members %}
+
+  {% unless item.to == null or item.description == 'Master student' %}
+  
+  <li>
+    <h2><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
+    <p>
+    {{ item.description }}
+    {% if item.from != null %}
+       from {{ item.from | date:'%B %Y' }} to {{ item.to | date:'%B %Y'}}
+    {% endif %}
+    {% if item.funding != null %}
+    <br> Funding: {{ item.funding }}
+    {% endif %}
+    </p>
+    <p class="message">
+    {% if item.position != null %}
+       {{ item.position }}
+    {% endif %}
+    </p>
+    
+  </li>
+
+  {% endunless %}
+
+  {% endfor %}
+
+</div>
+
+<h2 class="members-type"> Former Students </h2>
+
+<div class="members-list">
+  {% for item in sorted_members %}
+
+  {% if item.to != null and item.description == 'Master student' %}
+  
+  <li>
+    <h2> {{ item.title }} </h2>
+    <p>
+    {{ item.description }}
+    {% if item.from != null %}
+       from {{ item.from | date:'%B %Y' }} to {{ item.to | date:'%B %Y' }}
+    {% endif %}
+    </p>
+    
+  </li>
+
+  {% endif %}
+
+  {% endfor %}
+
+</div>
+

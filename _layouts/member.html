@@ -1,0 +1,120 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="member-title">{{ page.title }} </h1>
+</header>
+
+{% for item in site.members %}
+  {% if item.title == page.title %}
+    {% assign member = item %}
+  {% endif %}
+{% endfor %}
+
+
+<div class="content">
+
+{% unless member.image == null %}
+{% if member.orientation == 'landscape' %}
+<div class="members-landscape">
+  <img src={{ site.baseurl }}{{ member.image }} </img>
+</div>
+{% else %}
+<div class="members-portrait">
+  <img src={{ site.baseurl }}{{ member.image }} </img>
+</div>
+{% endif %}
+{% endunless %}
+
+<h3> Contact details </h3>
+
+{% if member.to == null %}
+
+<div class="members-info">
+  <table>
+    {% unless member.email == null %}
+    <tr>
+      <th> Email: </th>
+      <td> {{ member.email }} </td>
+    </tr>
+    {% endunless %}
+    {% unless member.phone == null %}
+    <tr>
+      <th> Phone: </th>
+      <td> {{ member.phone }} </td>
+    </tr>
+    {% endunless %}
+    {% unless member.office == null %}
+    <tr>
+      <th> Office: </th>
+      <td> {{ member.office}} </td>
+    </tr>
+    {% endunless %}
+    {% unless member.homepage == null %}
+    <tr>
+      <th> Homepage: </th>
+      <td> <a href="{{ member.homepage }}">{{ member.homepage }}</a>  </td>
+    </tr>
+    {% endunless %}
+  </table>
+</div>
+{% else %}
+<div class="members-info">
+  <table>
+    {% unless member.email == null %}
+    <tr>
+      <th> Email: </th>
+      <td> {{ member.email }} </td>
+    </tr>
+    {% endunless %}
+    {% unless member.homepage == null %}
+    <tr>
+      <th> Homepage: </th>
+      <td> <a href="{{ member.homepage }}">{{ member.homepage }}</a>  </td>
+    </tr>
+    {% endunless %}
+    {% unless member.position == null %}
+    <tr>
+      <th> Current position: </th>
+      <td> {{ member.position }} </td>
+    </tr>
+    {% endunless %}
+  </table>
+</div>
+{% endif %}
+
+<hr>
+{{ content }}
+<hr>
+
+{% unless member.bibname == null %}
+{% assign nfields = member.bibname | split: ' ' | size %}
+<h3> Publications @ <a href="{{ member.bibname | prepend:
+			     'http://inspirehep.net/search?p=FIND+A+'
+			     }}">Inspire</a>
+  @ <a href="{{ member.bibname | prepend:
+	     'http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch='}}">ADS</a>
+{% if nfields <= 1 %}
+  @ <a href="{{ member.bibname | prepend:
+			     'https://arxiv.org/find/all/1/all:+' |
+			     append: '/0/1/0/all/0/1'}}">arXiv</a>
+{% else %}
+  @ <a href="{{ member.bibname | prepend:
+			     'https://arxiv.org/find/all/1/all:+AND+' |
+			     append: '/0/1/0/all/0/1'}}">arXiv</a>
+{% endif %}
+</h3>
+
+<hr>
+{% endunless %}
+
+
+{% unless member.bibfile == null %}
+<h3> Publications @ CURL </h3>
+
+{% bibliography --file {{ member.bibfile }} %}
+
+{% endunless %}
+
+</div>

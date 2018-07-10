@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Einstein Telescope meeting"
+date: 2018-01-29 9:00:00 +0100
+category: News
+comments: False
+---
+
+The University of Liège is hosting the 9th COSPA meeting on {{
+'2018-01-31' | date: "%-d %B %Y" }}, which will be focused on the
+[**Einstein Telescope**](http://www.et-gw.eu/).
+
+Program available on their
+[website](https://events.uliege.be/telescope-einstein/).

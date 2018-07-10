@@ -1,0 +1,16 @@
+<form action="https://duckduckgo.com" class="search-form">
+  <div class="search-row">
+    <input id="search-bar" type="search" name="q" />
+
+    {% comment %}
+      Hacky strip of protocol to the sitesearch value we pass to the
+      search engine
+    {% endcomment %}
+    {% assign url = site.url | replace_first: 'https://', '' %}
+    {% assign url = url | replace_first: 'http://', '' %}
+    {% assign url = url | replace_first: 'spdy://', '' %}
+    {% assign url = url | replace_first: '//', '' %}
+    <input type="hidden" name="sites" value="{{ url }}{{ site.baseurl }}"/>
+    <input type="submit" value="Search"/>
+  </div>
+</form>

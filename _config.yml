@@ -1,0 +1,78 @@
+title:            CURL
+longtitle:        Cosmology, Universe and Relativity at Louvain
+tagline:          Research Group
+
+
+description:      'Research Group'
+url:              https://curl.group
+
+# the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+
+#required only for github.io/curl, but should be removed with dns
+#redirection
+#baseurl: '/curl'
+
+author:
+  name:           'Chris Ringeval'
+  url:            https://ringeval.info
+
+
+collections:
+  members:
+    output: true
+
+
+    
+pagination:
+  enabled: true
+  per_page: 5
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+  
+  
+scholar:
+  use_raw_bibtex_entry: true
+  source: /assets/bibliography
+  style: /assets/bibliography/journal-of-cosmology-and-astroparticle-physics.csl
+  group_by: year
+  group_order: descending
+
+  
+  bibliography_template: biblio
+  bibliography_list_tag:
+
+
+
+  
+# Custom vars
+sidebar_home_link:  true
+
+
+markdown:         kramdown
+highlighter:      rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-scholar
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+

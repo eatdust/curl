@@ -1,0 +1,26 @@
+---
+layout: post
+title:  Optical Follow-up of Planck Cluster Candidates with Small Instruments
+category: News
+date: 2018-01-01 09:42:07 +0100
+---
+
+We have recently made public a preprint {% cite boucher:2018xvk %}
+about a very specialized work in which we have tested the feasibility
+to use small telescopes to make optical follow-up of Planck cluster
+candidates detected by the
+[**Sunyaev-Zel'dovich**](https://en.wikipedia.org/wiki/Sunyaev%E2%80%93Zel%27dovich_effect)
+effect.
+
+![zphot]({{site.baseurl}}/assets/images/1810.04124/zphot_3arcmin.png)
+
+The above picture shows the redshift distribution obtained over a
+hundred objects, most probably galaxies, detected within $$3'$$ from
+the center of an unconfirmed Planck's SZ candidate.
+
+In summary, with a 0.6 meter telescope, photometric redshift
+measurements are possible in a redshift range of $$z_{\mathrm{phot}}
+\simeq 0.1$$ up to $$z_{\mathrm{phot}} \gtrsim 0.6$$. This opens-up
+the possiblity for amateur astronomers to collectively contribute to
+SZ candidate validation with basic observables such as
+$$z_\mathrm{phot}$$ and galaxy counts.

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Article in the astronomy magazine "Astrosurf"
+category: Outreach
+date: 2018-06-01 12:00:00 +0100
+---
+
+Following our exploration of using small non-professional telescopes
+for optical follow-up of Planck cluster candidates, see Ref. {% cite
+boucher:2018xvk %} and [this post]({{site.baseurl}}{% post_url
+2018-01-01-1801.04124 %}), we have published an article entitled
+"Mesure du redshift d'amas de galaxies" in the French astronomy
+magazine [**Astrosurf**](http://www.astrosurf.com/).
+
+![astrosurf]({{site.baseurl}}/assets/images/outreach/ASM92_Sommaire_1200.png)

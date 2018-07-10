@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="publication">
+
+  {{reference}}
+
+  <table>
+  {% if entry.eprint %}
+  <tr>
+    <th>Abstract:</th>
+    <td> <a href="{{ entry.eprint | prepend: 'https://arxiv.org/abs/' }}">
+	{{ entry.archiveprefix }}:{{ entry.eprint }} </a> </td>
+  </tr>
+
+  {% endif %}
+  {% if entry.doi %}
+  <tr>
+    <th>Journal:</th>
+    <td> <a href="{{ entry.doi | prepend: 'http://doi.org/' }}">
+	{{ entry.doi }} </a> </td>
+  </tr>
+  {% endif %}
+  </table>
+
+  <br>
+  
+</div>
+

@@ -1,0 +1,30 @@
+---
+layout: post
+title: 'Matière noire: la piste des trous noirs'
+category: Outreach
+date: 2018-01-31 14:00:00 +0100
+---
+
+Together with a collaborator from UAM-IFT (Madrid), Juan
+Garcia-Bellido, we have recently published an article in the French
+science outreach magazine *Pour la Science*, entitled *Matière noire:
+la piste des trous noirs*.  This article is available
+[**here**](https://www.pourlascience.fr/sd/cosmologie/matiere-noire-la-piste-des-trous-noirs-10075.php).
+For the original English version, published in the *Scientific
+American*, see
+[**here**](https://www.scientificamerican.com/article/is-dark-matter-made-of-black-holes/).
+
+![zphot]({{site.baseurl}}/assets/images/outreach/PBH.jpg)
+
+In this article, {% cite garcia-bellido:2017nmv %}  we review and explain the recent observations
+pointing towards the possilbe existence of massive primordial black
+holes, born less than one milli-second after the Big-Bang.  Such
+primordial black holes could explain the origin of the Dark Matter in
+the Universe and provide the seeds of the super-massive black holes at
+the center of galaxies.  Finding a firm observational evidence for
+even a single primordial black hole would revolutionize our
+understanding of the early Universe, and might help to resolve
+long-standing problems of cosmology and astrophysics.
+
+
+

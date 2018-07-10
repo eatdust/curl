@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Printemps des Sciences
+category: Outreach
+date: 2018-03-25 14:00:00 +0100
+---
+
+From March 19th to 25th, Sébastien took part to the [**Printemps des
+Sciences**](https://uclouvain.be/fr/decouvrir/scinfuse/printemps-des-sciences.html)
+event, an entire week dedicated to science outreach for children and
+youths in Belgium.  Two activities were proposed.
+
+In *Alice et le Big-Bang*, about two hundreds children from 6 to 10
+discovered the secrets of cells, atoms, stars, galaxies and the
+Universe, back to the Big-Bang.  This activity obtained the best mark
+in the evaluations provided by accompagnying teachers.
+
+The second activity took the form of a public lecture dedicated to
+secondary school students, on Black Holes, the Big-Bang and the
+Universe.
+
+
+![pds]({{site.baseurl}}/assets/images/outreach/PDS.png)
+
+![alice]({{site.baseurl}}/assets/images/outreach/Alice_BB.jpg)
+
+
+
+
+
+

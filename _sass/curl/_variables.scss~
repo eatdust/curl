@@ -1,0 +1,78 @@
+$gray-1: #f9f9f9 !default;
+$gray-2: #e5e5e5 !default;
+$gray-3: #ccc !default;
+$gray-4: #767676 !default;
+$gray-5: #515151 !default;
+$gray-6: #313131 !default;
+
+$red: #ac4142 !default;
+$orange: #d28445 !default;
+$yellow: #f4bf75 !default;
+$green: #90a959 !default;
+$cyan: #75b5aa !default;
+$blue: #268bd2 !default;
+$darkblue: #00008B !default;
+$mediumblue: #0000cd !default;
+$brown: #8f5536 !default;
+
+$root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
+$root-font-size: 1.1rem !default;
+$root-line-height: 1.5 !default;
+
+$body-color: $gray-5 !default;
+$body-muted: $gray-4 !default;
+$body-bg: #fff !default;
+$link-color: $blue !default;
+$heading-color: $gray-6 !default;
+
+$border-color: black !default;
+$border-width: 3px !default;
+$border-radius: 300px !default;
+$border-corner: 30px !default;
+$padding-v: 1em !default;
+$padding-h: 1.5em !default;
+$heading-spacing: 0.5rem !default;
+$section-spacing: 2rem !default;
+$sidebar-width: 16rem !default;
+$sidebar-padding: 1rem !default;
+$pager-spacing: 0.5rem !default;
+
+$margin-top: 8vh !default;
+$maximum-height: 92vh !default;
+$margin-bottom: 4vh !default;
+$maximum-width: 58rem !default;
+
+$large-breakpoint: 60rem !default;
+$large-font-size: 1.2rem !default;
+$huge-font-size: 3.75rem !default;
+$small-title-size: $large-font-size !default;
+$large-title-size: 3.25rem !default;
+$huge-title-size: 3.75rem !default;
+
+$box-shadow-size: 4px !default;
+$box-shadow-opacity: 0.16 !default;
+$default-box-shadow: $box-shadow-size
+                     $box-shadow-size
+                     $box-shadow-size
+                     rgba(0, 0, 0, $box-shadow-opacity);
+
+$diapositive-shadow: 0 4px 8px rgba(0,0,0,2), 0 6px 20px 0 rgba(0,0,0,0.19);
+$diapositive-size: 0.25*$maximum-width !default;
+$film-long-size: 0.72*$diapositive-size !default;
+$film-short-size: 0.48*$diapositive-size !default;
+$film-big-gap: 0.5*($diapositive-size - $film-short-size) !default;
+$film-small-gap: 0.5*($diapositive-size - $film-long-size) !default;
+$film-padding-landscape: $film-big-gap $film-small-gap $film-big-gap
+				       $film-small-gap !default;
+$film-padding-portrait: $film-small-gap $film-big-gap $film-small-gap
+					$film-big-gap !default;
+
+$code-font-family: Menlo, Monaco, "Courier New", monospace !default;
+$code-color: #bf616a !default;
+
+//theming
+$sidebar-bg-color: black !default;
+$sidebar-totor-color: rgb(255,180,0) !default;
+$sidebar-totob-color: rgb(0,221,255) !default;
+$sidebar-sticky: true !default;
+$layout-reverse: false !default;
