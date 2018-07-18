@@ -2,12 +2,13 @@
 layout: post
 title:  The 2018 Planck results are public!
 category: News
-date: 2018-07-18 08:00:00 +0100
+date: 2018-07-17 08:00:00 +0100
 ---
 
-The final 2018 release of the Planck satellite measurements have been
-published today on the ESA website and the arXiv. They currently provide the
-strongest constraints on the Big-Bang model, and much more!
+Celebrating the anniversary of George Lemaître, the final 2018 release
+of the Planck satellite measurements have been published today on the
+ESA website and the arXiv. They currently provide the strongest
+constraints on the Big-Bang model, and much more!
 
 All papers are there: [**Planck 2018 results**](https://www.cosmos.esa.int/web/planck/publications#Planck2018)
 
