@@ -1,18 +1,14 @@
 ---
 layout: post
-title:  The 2018 Planck results are public!
-category: News
-date: 2018-07-17 08:00:00 +0100
+title:  Interview for ScienceToday
+category: Outreach
+date: 2018-09-05 08:00:00 +0100
 ---
 
-Celebrating the anniversary of George Lemaître, the final 2018 release
-of the Planck satellite measurements have been published today on the
-ESA website and the arXiv. They currently provide the strongest
-constraints on the Big-Bang model, and much more!
+The publication of the Planck 2018 results is featured in the
+ScienceToday UCL website.
 
-All papers are there: [**Planck 2018 results**](https://www.cosmos.esa.int/web/planck/publications#Planck2018)
 
-The first paper on the [**legacy of
-Planck**](https://arxiv.org/abs/1807.06205) provides a nice overview
-of what Planck has been achieving since its launch in 2009!
+[**L'héritage de Planck**](https://uclouvain.be/fr/sciencetoday/actualites/l-heritage-de-planck.html)
+
 

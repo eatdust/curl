@@ -1,0 +1,63 @@
+---
+layout: post
+title:  Belgian Gravitational Waves meeting
+category: News
+date: 2018-09-12 14:00:00 +0100
+---
+
+On Thursday 25th, we have the pleasure to host the Belgian
+Gravitational Waves meeting. It starts at **2pm**, seminar **room
+E349**. Our guest speakers are **Stefan Antusch** and **Giulia
+Cusin**.
+
+[**GW meetings**](https://fys.kuleuven.be/gwc/activities-folder/GWseminars)
+
+---
+
+At 14:00, Stefan Antusch (Basel U.), will be talking about
+
+
+### Oscillons and gravitational waves from preheating after inflation
+
+
+*We discuss the preheating phase after inflation in particle physics
+motivated models of the early universe. We show that the non-linear
+dynamics after hilltop-type inflation models, where inflation can be
+linked to a particle physics phase transition, can lead to the
+formation of oscillons, comparatively long-lived and strong local
+fluctuations of the inflaton field. Similar types of scalar field
+potentials also appear in the KKLT scenario in string phenomenology,
+and oscillons can form for the modulus field. We argue that when the
+oscillons are asymmetric for a sufficiently long period, they can
+generate a peak in the otherwise rather broad gravitational wave
+spectrum produced during the earlier phases of preheating.*
+
+---
+
+After a coffee break, at 15:30, Giulia Cusin (Oxford U.) will talk about
+
+### Astrophysical background of gravitational waves: from cosmology to a new era of precision astrophysics
+
+
+*The astrophysical background of gravitational waves (AGWB) is made up
+by the incoherent superposition of gravitational wave signals emitted
+by a large number of resolved and unresolved astrophysical sources
+from the onset of stellar activity until today, and that we collect at
+our detectors. I present a theoretical framework to fully characterize
+the AGWB in terms of energy density anisotropies and polarization and
+I show the first numerical predictions for the angular power spectra
+of anisotropies in different frequency bands and for
+cross-correlations with electromagnetic observables such as weak
+leaning and galaxy number counts. l then illustrate and discuss the
+astrophysical implications of this study.  By properly modelling the
+properties of the AGWB, it will be possible to extract for the first
+time precise data on galactic and stellar physics and on astrophysical
+processes of GW emission. In the same way as the discovery and study
+of the cosmic microwave background has represented a turning point for
+cosmology, the study of the AGWB will represent a true revolution for
+astrophysics eventually leading to a new era of precision
+astrophysics.*
+
+
+
+
