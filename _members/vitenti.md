@@ -4,7 +4,7 @@ title:  Sandro Vitenti
 description: Post-doctoral Research Associate
 funding: BELSPO
 from: 2017, April 01
-to:
+to: 2018, October 12
 office: E354
 phone: +32 10 47 3155
 email: sandro.vitenti@uclouvain.be

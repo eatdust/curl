@@ -1,0 +1,117 @@
+---
+layout: post
+title:  Georges Lemaître Chair 2018
+category: News
+date: 2018-11-06 08:00:00 +0100
+---
+
+The "Chaire Georges Lemaître 2018" is taking place at
+[**IRMP**](https://uclouvain.be/en/research-institutes/irmp) the week
+of the 26th of November. **Prof. Roberto Trotta** will be giving a
+serie of lectures from Monday to Friday on "Astrostatistics in
+Action".
+
+![glchair]({{site.baseurl}}/assets/images/glchair/gl2018.png)
+
+---
+
+The program consists in an Inaugural Lecture followed by a reception
+([**Registration here**](https://agenda.irmp.ucl.ac.be/event/3164/)),
+Monday at 16:15, CYCL01.
+
+### If You Don't need (Astro)Statistics, You Have Done the Wrong Experiment 
+
+*At the beginning of last century, the physicist and Nobel Prize
+Winner Ernest Rutherford reportedly believed that "If your experiment
+needs statistics, you ought to have done a better experiment". If he
+were alive today, he probably would not recognize the way cosmology
+(the study of the Universe on its largest scale) has developed:
+essentially all of the exciting discoveries in the last two decades
+have relied on sophisticated statistical analyses of very large and
+complex datasets. Today, advanced astrostatistical methods belong to
+the toolbox of almost every cosmologist.  In this talk I will give an
+overview of how cosmologists have established a "cosmological
+concordance model" that explains extraordinarily well very accurate
+observations ranging from the relic radiation from the Big Bang to the
+distribution of galaxies in the sky in the modern Universe. The
+emerging picture of a cosmos remains puzzling: 95% of the Universe is
+constituted of unknown components, dark matter and dark energy. Our
+understanding of the Universe is -- already today -- limited by our
+statistical and computational methods. I will discuss how
+astrostatistics will meet the challenges posed by upcoming extremely
+large data sets and thereby be instrumental in answering some of the
+most fundamental questions about the physical reality of the cosmos.*
+
+---
+
+The 2 hours lectures start on Tuesday 10:00 am, room E-349, till
+Friday. If you intend to follow one, or more, lectures, you **MUST**
+register below.
+
+[**REGISTRATION**](https://agenda.irmp.ucl.ac.be/event/3165/)
+
+
+
+### Lecture 1: How to Learn from Experience: Principle of Bayesian Inference
+
+*The problem of inference from noisy and/or partial data is ubiquitous
+in science. It is particularly acute in observational disciplines,
+like astrophysics and cosmology, where we don't have the luxury of
+being able to control our experiments.  I will introduce the
+fundamental principles of Bayesian inference as a complete theory for
+how to learn from experience, and contrast this approach with the more
+traditional frequentist view of probability. I will also discuss
+practical Bayesian methods and technology to determine posterior
+distributions, including Markov Chain Monte Carlo and related sampling
+schemes.*
+
+
+### Lecture 2: Shaving Theories with Occam's Razor: Bayesian Model Comparison
+
+*Many of the questions in astroparticle physics, cosmology and
+particle physics aim at establishing which theoretical model is the
+best explanation for the available data.  Classically, theories can
+only be falsified by ruling them out (the Popperian view). I will
+demonstrate how the Bayesian model comparison approach is more
+general, enabling physicists to correctly reward models that make
+precise predictions that are then verified by experiment or
+observation. I will contrast this with the hypothesis testing
+paradigm, and discuss consequences for our understanding of what a
+"significant result" means. I will illustrate analytical and numerical
+methods for the implementation of Bayesian model comparison with
+examples from cosmology and particle physics.*
+
+
+### Lecture 3: Bayesian Hierarchical Models and Applications to Supernova Type Ia Cosmology
+
+*Thanks to large and accurate measurements obtained in the last 2 decades, and to
+sophisticated statistical analyses, cosmologists have established a "cosmological
+concordance model" that reproduces well observations ranging from the relic radiation
+from the Big Bang to the distribution of galaxies in the sky in the modern Universe. I will
+review the observational and theoretical underpinnings of this so-called "Lambda-CDM"
+concordance model of cosmology, which strongly points to the existence of both dark
+matter and dark energy.
+I will then focus on recent advances in supernova type Ia cosmology. Supernovae type Ia are
+a type of stellar explosion that can be used as standard candles to measure extragalactic
+distances, and have been instrumental in determining the accelerated expansion of the
+Universe -- a smoking gun observation for the existence of dark energy. I will present recent
+results and a novel, powerful (Bayesian) statistical framework for interpreting the data,
+including cosmological parameter inference, selection effects and classification in the
+absence of spectroscopic data. I will discuss upcoming challenges for the field as the
+quantity and quality of upcoming data sets increases.*
+
+### Lecture 4: Applications of Astrostatistics to Dark Matter Phenomenology and Beyond the Standard Model Theories
+
+*The study of dark matter phenomenology and of underlying theoretical
+models has advanced dramatically in recent years thanks to the
+development of "global fits" ­ an approach to combine all available
+data in a statistically convergent fit of Beyond the Standard Model
+theoretical parameters. This approach now includes sophisticated
+methods to simultaneously use direct detection, indirect detection and
+collider data to constrain the parameter space for dark matter, and
+map this onto the underlying theory parameters, e.g.  in
+Supersymmetry.  I will describe the "global fits" approach and its
+ability to deliver quantitative inference both from a Bayesian and a
+frequentist (profile likelihood) point of view. I will review current
+results in the field and associated challenges.*
+
