@@ -1,0 +1,41 @@
+---
+layout: post
+title:  IRMP colloquium on crowd-sourcing optical follow-up searches
+category: News
+date: 2018-11-14 08:00:00 +0100
+---
+
+Some echos from Ref. {% cite boucher:2018xvk %} and [this
+post]({{site.baseurl}}{% post_url 2018-01-01-1801.04124 %}). Thursday,
+2pm, room CYCL 01, C. Ringeval gives a talk for the [**IRMP
+colloquium**](https://agenda.irmp.ucl.ac.be/event/3162/).
+
+---
+
+### Crowd-sourcing galaxy clusters confirmation with non-professional telescopes
+
+*The new all sky and multi-wavelength astrophysical and cosmological
+ surveys are, and will be, providing an unprecedented amount of
+ information on a plethora of cosmic objects. Many of them are
+ foregrounds for the original science goals and cannot received the
+ same attention as the mission main objectives. Within the Planck
+ satellite maps of our universe, a space telescope dedicated to the
+ observation of the Cosmic Microwave Background, a few thousand of so
+ far undetected galaxy clusters are letting very peculiar imprints
+ through the so-called Sunyaev Zel'dovich effect. These cluster
+ candidates have never been observed with optical telescopes and
+ confirmation of their true nature requires a significant amount of
+ professional telescope time.  In this talk, I will present a
+ proof-of-concept of crowd-sourcing galaxy clusters optical
+ confirmation with amateur astronomers. Using a non-professional
+ telescope of 62cm provided by the Astroqueyras association in
+ Saint-Véran (France), we have been able to confirm one of the Planck
+ cluster candidate and to extract various of its properties, such as
+ distance, redshift and mass. Although the exposure time required to
+ image one cluster candidate is an order of magnitude larger than with
+ a professional telescope, there are orders of magnitude more amateur
+ astronomers than professionals thereby rendering the concept useful
+ to many other surveys. They are the South Pole Telescope, the Atacama
+ Cosmology Telescope, future X-ray spatial missions such as eRosita,
+ and all of the searches for gravitational wave optical counterparts.*
+
