@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2018-11-06T16:17:39+01:00</updated><id>https://curl.group/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Georges Lemaître Chair 2018</title><link href="https://curl.group/news/2018/11/06/GLChair.html" rel="alternate" type="text/html" title="Georges Lemaître Chair 2018" /><published>2018-11-06T08:00:00+01:00</published><updated>2018-11-06T08:00:00+01:00</updated><id>https://curl.group/news/2018/11/06/GLChair</id><content type="html" xml:base="https://curl.group/news/2018/11/06/GLChair.html">&lt;p&gt;The “Chaire Georges Lemaître 2018” is taking place at
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2018-11-14T18:01:44+01:00</updated><id>https://curl.group/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">IRMP colloquium on crowd-sourcing optical follow-up searches</title><link href="https://curl.group/news/2018/11/14/IRMP.html" rel="alternate" type="text/html" title="IRMP colloquium on crowd-sourcing optical follow-up searches" /><published>2018-11-14T08:00:00+01:00</published><updated>2018-11-14T08:00:00+01:00</updated><id>https://curl.group/news/2018/11/14/IRMP</id><content type="html" xml:base="https://curl.group/news/2018/11/14/IRMP.html">&lt;p&gt;Some echos from Ref. &lt;a href=&quot;#boucher:2018xvk&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2018/01/01/1801.04124.html&quot;&gt;this
+post&lt;/a&gt;. Thursday,
+2pm, room CYCL 01, C. Ringeval gives a talk for the &lt;a href=&quot;https://agenda.irmp.ucl.ac.be/event/3162/&quot;&gt;&lt;strong&gt;IRMP
+colloquium&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;crowd-sourcing-galaxy-clusters-confirmation-with-non-professional-telescopes&quot;&gt;Crowd-sourcing galaxy clusters confirmation with non-professional telescopes&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;The new all sky and multi-wavelength astrophysical and cosmological
+ surveys are, and will be, providing an unprecedented amount of
+ information on a plethora of cosmic objects. Many of them are
+ foregrounds for the original science goals and cannot received the
+ same attention as the mission main objectives. Within the Planck
+ satellite maps of our universe, a space telescope dedicated to the
+ observation of the Cosmic Microwave Background, a few thousand of so
+ far undetected galaxy clusters are letting very peculiar imprints
+ through the so-called Sunyaev Zel’dovich effect. These cluster
+ candidates have never been observed with optical telescopes and
+ confirmation of their true nature requires a significant amount of
+ professional telescope time.  In this talk, I will present a
+ proof-of-concept of crowd-sourcing galaxy clusters optical
+ confirmation with amateur astronomers. Using a non-professional
+ telescope of 62cm provided by the Astroqueyras association in
+ Saint-Véran (France), we have been able to confirm one of the Planck
+ cluster candidate and to extract various of its properties, such as
+ distance, redshift and mass. Although the exposure time required to
+ image one cluster candidate is an order of magnitude larger than with
+ a professional telescope, there are orders of magnitude more amateur
+ astronomers than professionals thereby rendering the concept useful
+ to many other surveys. They are the South Pole Telescope, the Atacama
+ Cosmology Telescope, future X-ray spatial missions such as eRosita,
+ and all of the searches for gravitational wave optical counterparts.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Some echos from Ref. [1] and this post. Thursday, 2pm, room CYCL 01, C. Ringeval gives a talk for the IRMP colloquium.</summary></entry><entry><title type="html">Georges Lemaître Chair 2018</title><link href="https://curl.group/news/2018/11/06/GLChair.html" rel="alternate" type="text/html" title="Georges Lemaître Chair 2018" /><published>2018-11-06T08:00:00+01:00</published><updated>2018-11-06T08:00:00+01:00</updated><id>https://curl.group/news/2018/11/06/GLChair</id><content type="html" xml:base="https://curl.group/news/2018/11/06/GLChair.html">&lt;p&gt;The “Chaire Georges Lemaître 2018” is taking place at
 &lt;a href=&quot;https://uclouvain.be/en/research-institutes/irmp&quot;&gt;&lt;strong&gt;IRMP&lt;/strong&gt;&lt;/a&gt; the week
 of the 26th of November. &lt;strong&gt;Prof. Roberto Trotta&lt;/strong&gt; will be giving a
 serie of lectures from Monday to Friday on “Astrostatistics in
@@ -225,9 +257,4 @@ ans)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 (+10
 ans)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/smile.jpg&quot; alt=&quot;smile&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">The 4th of July, Sébastien will be presenting two outreach activities dedicated to children and their grand-parents, organized by the Université des Aînés of UCLouvain.</summary></entry><entry><title type="html">Article in the astronomy magazine “Astrosurf”</title><link href="https://curl.group/outreach/2018/06/01/ASM92.html" rel="alternate" type="text/html" title="Article in the astronomy magazine &quot;Astrosurf&quot;" /><published>2018-06-01T13:00:00+02:00</published><updated>2018-06-01T13:00:00+02:00</updated><id>https://curl.group/outreach/2018/06/01/ASM92</id><content type="html" xml:base="https://curl.group/outreach/2018/06/01/ASM92.html">&lt;p&gt;Following our exploration of using small non-professional telescopes
-for optical follow-up of Planck cluster candidates, see Ref. &lt;a href=&quot;#boucher:2018xvk&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2018/01/01/1801.04124.html&quot;&gt;this post&lt;/a&gt;, we have published an article entitled
-“Mesure du redshift d’amas de galaxies” in the French astronomy
-magazine &lt;a href=&quot;http://www.astrosurf.com/&quot;&gt;&lt;strong&gt;Astrosurf&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/ASM92_Sommaire_1200.png&quot; alt=&quot;astrosurf&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">Following our exploration of using small non-professional telescopes for optical follow-up of Planck cluster candidates, see Ref. [1] and this post, we have published an article entitled “Mesure du redshift d’amas de galaxies” in the French astronomy magazine Astrosurf.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/smile.jpg&quot; alt=&quot;smile&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">The 4th of July, Sébastien will be presenting two outreach activities dedicated to children and their grand-parents, organized by the Université des Aînés of UCLouvain.</summary></entry></feed>
