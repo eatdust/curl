@@ -1,0 +1,44 @@
+---
+layout: post
+title:  Post-doctoral opening in Cosmology
+category: Jobs
+date: 2018-12-19 08:00:00 +0100
+---
+
+We are happy to announce the opening of a **post-doctoral position** in
+Cosmology at CURL (Cosmology, Universe and Relativity at Louvain),
+Louvain University (Belgium), starting fall 2019.
+
+Applicants interested in early universe models, cosmic defects,
+primordial black holes, cosmic inflation, as well as data analysis for
+the future observational missions (CMB, GW, galaxy surveys, 21cm,
+Euclid, LISA...) are encouraged to apply. Please notice that
+applicants should have obtained their PhD no longer than 5 years
+before the starting date of the fellowship, plus one year of allowance
+for parenthood.
+
+Appointment is available for up to three years, depending on results
+and performance, and is supported by the Belgian National Fund for
+Scientific Research (FNRS).
+
+A summary of our current interests can be consulted on the CURL
+website: [**curl.group**](https://curl.group)
+
+---
+
+Letters of application (including a curriculum vitae, a list of
+publications, a brief statement of research interests) and at least
+two recommendation letters from senior scientists should be sent by
+the 15th of February 2019 to **christophe.ringeval@uclouvain.be** with
+the subject containing the wordings **[JOB19]**.
+
+Postal mail applications can be addressed to:
+
+```
+Cosmology, Universe and Relativity at Louvain
+Institute of Mathematics and Physics
+Louvain University
+2, Chemin du Cyclotron
+1348 Louvain-la-Neuve
+Belgium
+```
