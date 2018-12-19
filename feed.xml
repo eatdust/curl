@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2018-11-14T18:01:44+01:00</updated><id>https://curl.group/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">IRMP colloquium on crowd-sourcing optical follow-up searches</title><link href="https://curl.group/news/2018/11/14/IRMP.html" rel="alternate" type="text/html" title="IRMP colloquium on crowd-sourcing optical follow-up searches" /><published>2018-11-14T08:00:00+01:00</published><updated>2018-11-14T08:00:00+01:00</updated><id>https://curl.group/news/2018/11/14/IRMP</id><content type="html" xml:base="https://curl.group/news/2018/11/14/IRMP.html">&lt;p&gt;Some echos from Ref. &lt;a href=&quot;#boucher:2018xvk&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2018/01/01/1801.04124.html&quot;&gt;this
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2018-12-19T15:45:21+01:00</updated><id>https://curl.group/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Post-doctoral opening in Cosmology</title><link href="https://curl.group/jobs/2018/12/19/PDR.html" rel="alternate" type="text/html" title="Post-doctoral opening in Cosmology" /><published>2018-12-19T08:00:00+01:00</published><updated>2018-12-19T08:00:00+01:00</updated><id>https://curl.group/jobs/2018/12/19/PDR</id><content type="html" xml:base="https://curl.group/jobs/2018/12/19/PDR.html">&lt;p&gt;We are happy to announce the opening of a &lt;strong&gt;post-doctoral position&lt;/strong&gt; in
+Cosmology at CURL (Cosmology, Universe and Relativity at Louvain),
+Louvain University (Belgium), starting fall 2019.&lt;/p&gt;
+
+&lt;p&gt;Applicants interested in early universe models, cosmic defects,
+primordial black holes, cosmic inflation, as well as data analysis for
+the future observational missions (CMB, GW, galaxy surveys, 21cm,
+Euclid, LISA…) are encouraged to apply. Please notice that
+applicants should have obtained their PhD no longer than 5 years
+before the starting date of the fellowship, plus one year of allowance
+for parenthood.&lt;/p&gt;
+
+&lt;p&gt;Appointment is available for up to three years, depending on results
+and performance, and is supported by the Belgian National Fund for
+Scientific Research (FNRS).&lt;/p&gt;
+
+&lt;p&gt;A summary of our current interests can be consulted on the CURL
+website: &lt;a href=&quot;https://curl.group&quot;&gt;&lt;strong&gt;curl.group&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Letters of application (including a curriculum vitae, a list of
+publications, a brief statement of research interests) and at least
+two recommendation letters from senior scientists should be sent by
+the 15th of February 2019 to &lt;strong&gt;christophe.ringeval@uclouvain.be&lt;/strong&gt; with
+the subject containing the wordings &lt;strong&gt;[JOB19]&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Postal mail applications can be addressed to:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Cosmology, Universe and Relativity at Louvain
+Institute of Mathematics and Physics
+Louvain University
+2, Chemin du Cyclotron
+1348 Louvain-la-Neuve
+Belgium
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a post-doctoral position in Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2019.</summary></entry><entry><title type="html">IRMP colloquium on crowd-sourcing optical follow-up searches</title><link href="https://curl.group/news/2018/11/14/IRMP.html" rel="alternate" type="text/html" title="IRMP colloquium on crowd-sourcing optical follow-up searches" /><published>2018-11-14T08:00:00+01:00</published><updated>2018-11-14T08:00:00+01:00</updated><id>https://curl.group/news/2018/11/14/IRMP</id><content type="html" xml:base="https://curl.group/news/2018/11/14/IRMP.html">&lt;p&gt;Some echos from Ref. &lt;a href=&quot;#boucher:2018xvk&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2018/01/01/1801.04124.html&quot;&gt;this
 post&lt;/a&gt;. Thursday,
 2pm, room CYCL 01, C. Ringeval gives a talk for the &lt;a href=&quot;https://agenda.irmp.ucl.ac.be/event/3162/&quot;&gt;&lt;strong&gt;IRMP
 colloquium&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -246,15 +281,4 @@ instruments like MeerKAT/SKA and CHIME to probe dark energy as well as
 galaxy evolution. I will also present synergies between optical galaxy
 and radio intensity mapping surveys in order to probe dark energy and
 gravity, mitigate systematic effects, calibrate photometric redshifts,
-and measure primordial non-gaussianity.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">This Wednesday, we have not one but two cosmology seminars in a row! We have the pleasure to receive Mateo Martinelli and Alkistis Pourtsidou.</summary></entry><entry><title type="html">An invitation to grand-parents and their grand-children to discover together the secrets of our Universe</title><link href="https://curl.group/outreach/2018/06/04/UDA.html" rel="alternate" type="text/html" title="An invitation to grand-parents and their grand-children to discover together the secrets of our Universe" /><published>2018-06-04T15:00:00+02:00</published><updated>2018-06-04T15:00:00+02:00</updated><id>https://curl.group/outreach/2018/06/04/UDA</id><content type="html" xml:base="https://curl.group/outreach/2018/06/04/UDA.html">&lt;p&gt;The 4th of July, Sébastien will be presenting two outreach activities
-dedicated to children and their grand-parents, organized by the
-&lt;em&gt;Université des Aînés&lt;/em&gt; of UCLouvain.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.universitedesaines.be/fiche-formation.php?categorie=435&quot;&gt;&lt;strong&gt;L’Univers selon les petits: Alice et le Big-Bang (6-10
-ans)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.universitedesaines.be/fiche-formation.php?categorie=444&quot;&gt;&lt;strong&gt;L’Univers selon les grands: les plus belles images de l’Univers
-(+10
-ans)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/smile.jpg&quot; alt=&quot;smile&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">The 4th of July, Sébastien will be presenting two outreach activities dedicated to children and their grand-parents, organized by the Université des Aînés of UCLouvain.</summary></entry></feed>
+and measure primordial non-gaussianity.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">This Wednesday, we have not one but two cosmology seminars in a row! We have the pleasure to receive Mateo Martinelli and Alkistis Pourtsidou.</summary></entry></feed>
