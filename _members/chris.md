@@ -12,7 +12,7 @@ homepage: http://ringeval.info
 image: /assets/images/people/montblanc.png
 orientation: portrait
 bibfile: ringeval
-bibname: ringeval
+bibname: "ringeval, christophe"
 ---
 
 My research interests range from the understanding of the early

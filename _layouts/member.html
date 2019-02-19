@@ -94,16 +94,10 @@ layout: default
 			     'http://inspirehep.net/search?p=FIND+A+'
 			     }}">Inspire</a>
   @ <a href="{{ member.bibname | prepend:
-	     'http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch='}}">ADS</a>
-{% if nfields <= 1 %}
+	     'https://ui.adsabs.harvard.edu/#search/q='}}">ADS</a>
   @ <a href="{{ member.bibname | prepend:
-			     'https://arxiv.org/find/all/1/all:+' |
-			     append: '/0/1/0/all/0/1'}}">arXiv</a>
-{% else %}
-  @ <a href="{{ member.bibname | prepend:
-			     'https://arxiv.org/find/all/1/all:+AND+' |
-			     append: '/0/1/0/all/0/1'}}">arXiv</a>
-{% endif %}
+			     'https://arxiv.org/search/?query=' |
+			     append: '&searchtype=all&abstracts=show'}}">arXiv</a>
 </h3>
 
 <hr>

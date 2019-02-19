@@ -12,7 +12,7 @@ homepage:
 image: /assets/images/people/fidler.png
 orientation: portrait
 bibfile: cfidler
-bibname: fidler
+bibname: "fidler, christian"
 position: 'Post-doctoral researcher at Aachen University (Germany)'
 ---
 
