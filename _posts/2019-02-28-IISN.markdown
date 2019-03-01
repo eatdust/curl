@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Post-doctoral openings in Gravitational Waves
+category: Jobs
+date: 2019-02-28 08:00:00 +0100
+---
+
+We are happy to announce the opening of a few **post-doctoral
+positions** in Gravitational Waves research at the [**Institute of
+Mathematics and
+Physics**](https://uclouvain.be/en/research-institutes/irmp). The
+positions are shared with our [**CP3**](https://cp3.irmp.ucl.ac.be/)
+colleagues and the
+[**STAR**](https://www.star.uliege.be/cms/c_3300779/en/star-portail)
+institute. We search for candidates over a wide range of expertises,
+from VIRGO related hardware design to GW data analysis for
+Cosmology. Don't hesitate to apply, the number of openings is not
+rigidly fixed yet.
+
+All infos on the [**Inspire
+Job**](https://inspirehep.net/record/1716842) post.
+
+---
+
+Mind the close deadline: the 30th of March 2019.
+
+
