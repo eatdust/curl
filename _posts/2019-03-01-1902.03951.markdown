@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Inflation after Planck: Judgment Day'
+category: News
+date: 2019-03-01 09:42:07 +0100
+---
+
+The final release of the Planck data 2018, see [this
+post]({{site.baseurl}}{% post_url 2018-07-18-Planck2018 %}), invited
+us to finalize a long project in which we discuss the *actual* status of
+[**Cosmic Inflation**](https://en.wikipedia.org/wiki/Inflation_(cosmology)) with
+respect to what we have learned about the early universe.
+
+In a quite long preprint {% cite chowdhury:2019otk %}, we are trying to
+exhaustively address all the criticisms raised against the inflationary
+paradigm and confront them to what the Planck data told
+us. The conclusion is short and summarized in the abstract:
+
+>Although we find that important questions still remain open, we
+>conclude that the inflationary paradigm is not in trouble but, on the
+>contrary, has rather been strengthened by the Planck data.
+
+
+You're skeptic? Read the paper...
+
