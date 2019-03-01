@@ -7,7 +7,7 @@ from: 2008, October 01
 to: 2010, March 31
 office:
 phone:
-email: suyama@resceu.s.u-tokyo.ac.jp
+email: suyama@phys.titech.ac.jp
 homepage: http://www.th.phys.titech.ac.jp/cosmo/
 image: /assets/images/people/suyama.jpg
 orientation: portrait
