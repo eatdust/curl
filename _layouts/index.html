@@ -24,7 +24,7 @@ pagination:
   <article class="post-body">
     <h3 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
+        {{ post.title | markdownify }}
       </a>
     </h3>
 

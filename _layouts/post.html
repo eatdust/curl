@@ -4,7 +4,7 @@ layout: default
 
 <header>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css">
-  <h1 class="post-title">{{ page.title }}</h1>  
+  <h1 class="post-title">{{ page.title | markdownify }}</h1>  
 </header>
 <div class="content">
   {% include post-meta.html post=page %}

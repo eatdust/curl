@@ -9,12 +9,12 @@ layout: page
 <ul class="posts-list">
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
-    <li>
-      <h3>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
-        </a>
+  <li>    
+    <h3>
+	<a href="{{ site.baseurl }}{{ post.url }}"> <small> {{
+	post.date | date_to_string }} </small> {{ post.title |
+	markdownify }}
+	</a>
       </h3>
     </li>
   {% endfor %}
