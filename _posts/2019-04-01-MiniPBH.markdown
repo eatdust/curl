@@ -1,0 +1,97 @@
+---
+layout: post
+title:  Informal meeting on Primordial Black Holes
+category: News
+date: 2019-04-01 08:00:00 +0100
+---
+
+We hold an informal meeting, organized one day before the Solvay
+Workshop on ["The dark side of Black
+Holes"](http://www.solvayinstitutes.be/event/workshop/dark_2019/dark_2019.html)
+in Brussels (but not officially related to it), with a few experts on
+PBH to discuss recent developments in the field. This takes place
+Tuesday 2nd of April, seminar room E349 from 10 am.
+
+Registration [here](https://agenda.irmp.ucl.ac.be/event/3341/).
+
+---
+
+The program starts at 10:00 with Ilia Musco (ICC U. Barcelona)
+
+### Threshold and abundance of primordial black holes: dependence on the profile of the cosmological perturbations
+
+*Primordial black holes can form in the early Universe from the
+ collapse of cosmological perturbations after the cosmological horizon
+ crossing. They are possible candidates for the dark matter as well as
+ for the seeds of supermassive black holes observed today in the
+ centre of galaxies. In calculations of spherically symmetric
+ collapse, using a large curvature perturbation in the super horizon
+ regime, the initial conditions are specified using the gradient
+ expansion approximation in the long wave length limit. The non linear
+ evolution is then simulated using a Lagrangian relativistic
+ hydrodynamical code. If the perturbation is larger than a threshold
+ depending on the equation of state and on the specific shape of the
+ perturbation, a black hole is formed. In this talk I will discuss the
+ dependence of PBH formation from the initial shape of the curvature
+ profile showing the relation between the threshold amplitude and the
+ steepness of the perturbation which is linked to the amplitude of the
+ pressure gradients that are developing during the collapse. I will
+ show how to derive the initial curvature profile form the shape of
+ the inflationary power spectrum, which affects also the abundance of
+ PBHs. Depending on the model, a proper calculation, using the shape
+ of the power spectrum, shows that the abundance of PBHs is
+ significantly increased by several order of magnitudes compared to
+ previous estimations.*
+
+---
+
+At 10:50, Teruaki Suyama (TiTech, Tokyo) will speak about
+
+### Hidden universality in the merger rate distribution in the primordial black hole scenario
+
+*It has been proposed that primordial black holes (PBHs) form binaries
+ in the radiation dominated era. Once formed, some fraction of them
+ may merge within the age of the Universe by gravitational radiation
+ reaction. We investigate the merger rate of the PBH binaries when the
+ PBH mass function is not monochromatic, which is a generalization of
+ the previous studies where the PBHs are assumed to have the same
+ mass. After deriving a formula for the merger time probability
+ distribution in the PBH mass plane, we evaluate it under two
+ different approximations. We identify a quantity constructed from the
+ mass-distribution of the merger rate density whose value is close to
+ unity for all binary masses independently of the PBH mass
+ function. This result suggests that the measurement of this quantity
+ is useful for testing the PBH scenario.*
+
+---
+
+After lunch, we will have Florian Kuhnel (Oscar Klein Centre,
+Stockholm U.) with
+
+### Primordial Black Holes - Formation, Constraints, Uncertainties
+
+*Primordial black holes are black holes that may have formed in the
+ early Universe. Their masses potentially span a range from as low as
+ the Planck mass up to many orders of magnitude above the solar
+ mass. This, in particular, includes black holes of the order of 10
+ solar masses, like those recently discovered by LIGO. These may be of
+ primordial origin. In order to quantitatively asses this and related
+ scenarios, a profound understanding of the holes' formation mechanism
+ necessary. After a general introduction on primordial black holes, I
+ will discuss the most consequential aspects of their formation, and
+ elaborate on the observable imprints these may leave. I will give an
+ overview about recent abundance limits, discuss the uncertainty of
+ these constraints.*
+
+---
+
+And finally, Michael Hawkins (Edimburg O.) will close the day talking about
+
+### The signature of primordial black holes in galaxy dark matter haloes
+
+*There are several well-known gravitationally lensed quasar systems
+ where the quasar images appear to lie well clear of the stars in the
+ lensing galaxy. I shall show that in some such cases the stellar
+ population cannot account for the observed microlensing. In these
+ cases the most plausible bodies responsible for thr lensing are
+ primordial black holes.*
