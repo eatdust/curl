@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-03-13T10:57:50+01:00</updated><id>https://curl.group/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Inflation after Planck: Judgment Day</title><link href="https://curl.group/news/2019/03/01/1902.03951.html" rel="alternate" type="text/html" title="Inflation after Planck: Judgment Day" /><published>2019-03-01T09:42:07+01:00</published><updated>2019-03-01T09:42:07+01:00</updated><id>https://curl.group/news/2019/03/01/1902.03951</id><content type="html" xml:base="https://curl.group/news/2019/03/01/1902.03951.html">&lt;p&gt;The final release of the Planck data 2018, see &lt;a href=&quot;/news/2018/07/17/Planck2018.html&quot;&gt;this
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-04-01T18:09:01+02:00</updated><id>https://curl.group/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Informal meeting on Primordial Black Holes</title><link href="https://curl.group/news/2019/04/01/MiniPBH.html" rel="alternate" type="text/html" title="Informal meeting on Primordial Black Holes" /><published>2019-04-01T09:00:00+02:00</published><updated>2019-04-01T09:00:00+02:00</updated><id>https://curl.group/news/2019/04/01/MiniPBH</id><content type="html" xml:base="https://curl.group/news/2019/04/01/MiniPBH.html">&lt;p&gt;We hold an informal meeting, organized one day before the Solvay
+Workshop on &lt;a href=&quot;http://www.solvayinstitutes.be/event/workshop/dark_2019/dark_2019.html&quot;&gt;“The dark side of Black
+Holes”&lt;/a&gt;
+in Brussels (but not officially related to it), with a few experts on
+PBH to discuss recent developments in the field. This takes place
+Tuesday 2nd of April, seminar room E349 from 10 am.&lt;/p&gt;
+
+&lt;p&gt;Registration &lt;a href=&quot;https://agenda.irmp.ucl.ac.be/event/3341/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The program starts at 10:00 with Ilia Musco (ICC U. Barcelona)&lt;/p&gt;
+
+&lt;h3 id=&quot;threshold-and-abundance-of-primordial-black-holes-dependence-on-the-profile-of-the-cosmological-perturbations&quot;&gt;Threshold and abundance of primordial black holes: dependence on the profile of the cosmological perturbations&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Primordial black holes can form in the early Universe from the
+ collapse of cosmological perturbations after the cosmological horizon
+ crossing. They are possible candidates for the dark matter as well as
+ for the seeds of supermassive black holes observed today in the
+ centre of galaxies. In calculations of spherically symmetric
+ collapse, using a large curvature perturbation in the super horizon
+ regime, the initial conditions are specified using the gradient
+ expansion approximation in the long wave length limit. The non linear
+ evolution is then simulated using a Lagrangian relativistic
+ hydrodynamical code. If the perturbation is larger than a threshold
+ depending on the equation of state and on the specific shape of the
+ perturbation, a black hole is formed. In this talk I will discuss the
+ dependence of PBH formation from the initial shape of the curvature
+ profile showing the relation between the threshold amplitude and the
+ steepness of the perturbation which is linked to the amplitude of the
+ pressure gradients that are developing during the collapse. I will
+ show how to derive the initial curvature profile form the shape of
+ the inflationary power spectrum, which affects also the abundance of
+ PBHs. Depending on the model, a proper calculation, using the shape
+ of the power spectrum, shows that the abundance of PBHs is
+ significantly increased by several order of magnitudes compared to
+ previous estimations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 10:50, Teruaki Suyama (TiTech, Tokyo) will speak about&lt;/p&gt;
+
+&lt;h3 id=&quot;hidden-universality-in-the-merger-rate-distribution-in-the-primordial-black-hole-scenario&quot;&gt;Hidden universality in the merger rate distribution in the primordial black hole scenario&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;It has been proposed that primordial black holes (PBHs) form binaries
+ in the radiation dominated era. Once formed, some fraction of them
+ may merge within the age of the Universe by gravitational radiation
+ reaction. We investigate the merger rate of the PBH binaries when the
+ PBH mass function is not monochromatic, which is a generalization of
+ the previous studies where the PBHs are assumed to have the same
+ mass. After deriving a formula for the merger time probability
+ distribution in the PBH mass plane, we evaluate it under two
+ different approximations. We identify a quantity constructed from the
+ mass-distribution of the merger rate density whose value is close to
+ unity for all binary masses independently of the PBH mass
+ function. This result suggests that the measurement of this quantity
+ is useful for testing the PBH scenario.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;After lunch, we will have Florian Kuhnel (Oscar Klein Centre,
+Stockholm U.) with&lt;/p&gt;
+
+&lt;h3 id=&quot;primordial-black-holes---formation-constraints-uncertainties&quot;&gt;Primordial Black Holes - Formation, Constraints, Uncertainties&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Primordial black holes are black holes that may have formed in the
+ early Universe. Their masses potentially span a range from as low as
+ the Planck mass up to many orders of magnitude above the solar
+ mass. This, in particular, includes black holes of the order of 10
+ solar masses, like those recently discovered by LIGO. These may be of
+ primordial origin. In order to quantitatively asses this and related
+ scenarios, a profound understanding of the holes’ formation mechanism
+ necessary. After a general introduction on primordial black holes, I
+ will discuss the most consequential aspects of their formation, and
+ elaborate on the observable imprints these may leave. I will give an
+ overview about recent abundance limits, discuss the uncertainty of
+ these constraints.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;And finally, Michael Hawkins (Edimburg O.) will close the day talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;the-signature-of-primordial-black-holes-in-galaxy-dark-matter-haloes&quot;&gt;The signature of primordial black holes in galaxy dark matter haloes&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;There are several well-known gravitationally lensed quasar systems
+ where the quasar images appear to lie well clear of the stars in the
+ lensing galaxy. I shall show that in some such cases the stellar
+ population cannot account for the observed microlensing. In these
+ cases the most plausible bodies responsible for thr lensing are
+ primordial black holes.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We hold an informal meeting, organized one day before the Solvay Workshop on “The dark side of Black Holes” in Brussels (but not officially related to it), with a few experts on PBH to discuss recent developments in the field. This takes place Tuesday 2nd of April, seminar room E349 from 10 am.</summary></entry><entry><title type="html">Inflation after Planck: Judgment Day</title><link href="https://curl.group/news/2019/03/01/1902.03951.html" rel="alternate" type="text/html" title="Inflation after Planck: Judgment Day" /><published>2019-03-01T09:42:07+01:00</published><updated>2019-03-01T09:42:07+01:00</updated><id>https://curl.group/news/2019/03/01/1902.03951</id><content type="html" xml:base="https://curl.group/news/2019/03/01/1902.03951.html">&lt;p&gt;The final release of the Planck data 2018, see &lt;a href=&quot;/news/2018/07/17/Planck2018.html&quot;&gt;this
 post&lt;/a&gt;, invited
 us to finalize a long project in which we discuss the &lt;em&gt;actual&lt;/em&gt; status of
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Inflation_(cosmology)&quot;&gt;&lt;strong&gt;Cosmic Inflation&lt;/strong&gt;&lt;/a&gt; with
@@ -233,52 +322,4 @@ information there:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://caapc.be/calendrier%202011.html&quot;&gt;&lt;strong&gt;CAAPS&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/cosmologie_Charleroi.jpg&quot; alt=&quot;CAAPC_first_slide&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">For the equinox, S. Clesse gives a public lecture on The Big-Bang model for the Cercle des Astronomes Amateurs de Charleroi. More information there:</summary></entry><entry><title type="html">Belgian Gravitational Waves meeting</title><link href="https://curl.group/news/2018/09/12/BGW.html" rel="alternate" type="text/html" title="Belgian Gravitational Waves meeting" /><published>2018-09-12T15:00:00+02:00</published><updated>2018-09-12T15:00:00+02:00</updated><id>https://curl.group/news/2018/09/12/BGW</id><content type="html" xml:base="https://curl.group/news/2018/09/12/BGW.html">&lt;p&gt;On Thursday 25th, we have the pleasure to host the Belgian
-Gravitational Waves meeting. It starts at &lt;strong&gt;2pm&lt;/strong&gt;, seminar &lt;strong&gt;room
-E349&lt;/strong&gt;. Our guest speakers are &lt;strong&gt;Stefan Antusch&lt;/strong&gt; and &lt;strong&gt;Giulia
-Cusin&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://fys.kuleuven.be/gwc/activities-folder/GWseminars&quot;&gt;&lt;strong&gt;GW meetings&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;At 14:00, Stefan Antusch (Basel U.), will be talking about&lt;/p&gt;
-
-&lt;h3 id=&quot;oscillons-and-gravitational-waves-from-preheating-after-inflation&quot;&gt;Oscillons and gravitational waves from preheating after inflation&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;We discuss the preheating phase after inflation in particle physics
-motivated models of the early universe. We show that the non-linear
-dynamics after hilltop-type inflation models, where inflation can be
-linked to a particle physics phase transition, can lead to the
-formation of oscillons, comparatively long-lived and strong local
-fluctuations of the inflaton field. Similar types of scalar field
-potentials also appear in the KKLT scenario in string phenomenology,
-and oscillons can form for the modulus field. We argue that when the
-oscillons are asymmetric for a sufficiently long period, they can
-generate a peak in the otherwise rather broad gravitational wave
-spectrum produced during the earlier phases of preheating.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;After a coffee break, at 15:30, Giulia Cusin (Oxford U.) will talk about&lt;/p&gt;
-
-&lt;h3 id=&quot;astrophysical-background-of-gravitational-waves-from-cosmology-to-a-new-era-of-precision-astrophysics&quot;&gt;Astrophysical background of gravitational waves: from cosmology to a new era of precision astrophysics&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;The astrophysical background of gravitational waves (AGWB) is made up
-by the incoherent superposition of gravitational wave signals emitted
-by a large number of resolved and unresolved astrophysical sources
-from the onset of stellar activity until today, and that we collect at
-our detectors. I present a theoretical framework to fully characterize
-the AGWB in terms of energy density anisotropies and polarization and
-I show the first numerical predictions for the angular power spectra
-of anisotropies in different frequency bands and for
-cross-correlations with electromagnetic observables such as weak
-leaning and galaxy number counts. l then illustrate and discuss the
-astrophysical implications of this study.  By properly modelling the
-properties of the AGWB, it will be possible to extract for the first
-time precise data on galactic and stellar physics and on astrophysical
-processes of GW emission. In the same way as the discovery and study
-of the cosmic microwave background has represented a turning point for
-cosmology, the study of the AGWB will represent a true revolution for
-astrophysics eventually leading to a new era of precision
-astrophysics.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">On Thursday 25th, we have the pleasure to host the Belgian Gravitational Waves meeting. It starts at 2pm, seminar room E349. Our guest speakers are Stefan Antusch and Giulia Cusin.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/cosmologie_Charleroi.jpg&quot; alt=&quot;CAAPC_first_slide&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">For the equinox, S. Clesse gives a public lecture on The Big-Bang model for the Cercle des Astronomes Amateurs de Charleroi. More information there:</summary></entry></feed>
