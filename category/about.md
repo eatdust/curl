@@ -37,7 +37,7 @@ CURL has been forked from the <a
 href="http://cp3.irmp.ucl.ac.be"><strong>Center of Cosmology, Particle
 Physics and Phenomenology (CP3)</strong></a> in 2018 and we are the
 core of what was the <a
-href="http://cp3.irmp.ucl.ac.be/Research/Cosmology"><strong>Cosmology
+href="https://uclouvain.be/en/research-institutes/irmp/cp3/cosmology-and-general-relativity.html"><strong>Cosmology
 Group</strong></a> at CP3. This has been triggered by various reasons.
 First, a change in policy in the Belgian funding agencies giving
 financial priority to subject-oriented research topics. The great
