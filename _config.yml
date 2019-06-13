@@ -40,8 +40,10 @@ scholar:
   use_raw_bibtex_entry: true
   source: /assets/bibliography
   style: /assets/bibliography/journal-of-cosmology-and-astroparticle-physics.csl
-  group_by: year
-  group_order: descending
+
+# moved to pages
+#  group_by: year
+#  group_order: descending
 
   
   bibliography_template: biblio
@@ -62,7 +64,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-scholar
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

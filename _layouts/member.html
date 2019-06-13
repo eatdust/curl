@@ -107,7 +107,7 @@ layout: default
 {% unless member.bibfile == null %}
 <h3> Publications @ CURL </h3>
 
-{% bibliography --file {{ member.bibfile }} %}
+{% bibliography --group_by year --group_order descending --file {{ member.bibfile }} %}
 
 {% endunless %}
 
