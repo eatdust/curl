@@ -8,7 +8,7 @@ to:
 office: E352
 phone: +32 10 47 2075
 email: christophe.ringeval@uclouvain.be
-homepage: https://ringeval.info
+homepage: http://ringeval.info
 image: /assets/images/people/montblanc.png
 orientation: portrait
 bibfile: ringeval
