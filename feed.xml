@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-04-09T15:04:14+02:00</updated><id>https://curl.group/</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The shape of cosmic string loop production functions</title><link href="https://curl.group/news/2019/04/07/1903.06685.html" rel="alternate" type="text/html" title="The shape of cosmic string loop production functions" /><published>2019-04-07T15:00:00+02:00</published><updated>2019-04-07T15:00:00+02:00</updated><id>https://curl.group/news/2019/04/07/1903.06685</id><content type="html" xml:base="https://curl.group/news/2019/04/07/1903.06685.html">&lt;p&gt;We have recently made public a rather technical paper in which we
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-06-20T13:25:34+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The shape of cosmic string loop production functions</title><link href="https://curl.group/news/2019/04/07/1903.06685.html" rel="alternate" type="text/html" title="The shape of cosmic string loop production functions" /><published>2019-04-07T15:00:00+02:00</published><updated>2019-04-07T15:00:00+02:00</updated><id>https://curl.group/news/2019/04/07/1903.06685</id><content type="html" xml:base="https://curl.group/news/2019/04/07/1903.06685.html">&lt;p&gt;We have recently made public a rather technical paper in which we
 explicitly and unambiguously calculate the cosmic string loop number
 density distribution in our universe coming from various motivated
 loop production functions. Such a density distribution crucially
@@ -8,7 +8,7 @@ smooking gun for their potential discovery.&lt;/p&gt;
 &lt;p&gt;Together with &lt;a href=&quot;https://www.apc.univ-paris7.fr/APC_CS/fr/auclair-pierre&quot;&gt;&lt;strong&gt;Pierre Auclair&lt;/strong&gt;&lt;/a&gt;,
 &lt;a href=&quot;https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/sakellariadou&quot;&gt;&lt;strong&gt;Mairi Sakellariadou&lt;/strong&gt;&lt;/a&gt;
 and &lt;a href=&quot;http://www.apc.univ-paris7.fr/APC_CS/fr/users/steer&quot;&gt;&lt;strong&gt;Danièle Steer&lt;/strong&gt;&lt;/a&gt;, we have
-carefuly explored in Ref.&lt;a href=&quot;#auclair:2019zoz&quot;&gt;[1]&lt;/a&gt; the consequences of
+carefuly explored in Ref.&lt;a class=&quot;citation&quot; href=&quot;#auclair:2019zoz&quot;&gt;[1]&lt;/a&gt; the consequences of
 changing the slope of the Polchinski-Rocha loop production function to the actual
 observable cosmic string loop distribution. This is the parameter
 &lt;script type=&quot;math/tex&quot;&gt;\chi&lt;/script&gt; in the next plot:&lt;/p&gt;
@@ -18,7 +18,7 @@ observable cosmic string loop distribution. This is the parameter
 &lt;p&gt;For the cases we have referred to as “sub-critical”, &lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
 \chi &lt; (3 \nu -
 1)/2 %]]&gt;&lt;/script&gt;, corresponding to steep slopes in the previous figure, we
-recover the results of Ref. &lt;a href=&quot;#lorenz:2010sm&quot;&gt;[2]&lt;/a&gt;. The parameter
+recover the results of Ref. &lt;a class=&quot;citation&quot; href=&quot;#lorenz:2010sm&quot;&gt;[2]&lt;/a&gt;. The parameter
 &lt;script type=&quot;math/tex&quot;&gt;\nu&lt;/script&gt; encodes the growing rate of the scale factor &lt;script type=&quot;math/tex&quot;&gt;a(t)&lt;/script&gt;, namely,
 we assume &lt;script type=&quot;math/tex&quot;&gt;a(t) \propto t^\nu&lt;/script&gt;.&lt;/p&gt;
 
@@ -52,7 +52,7 @@ constant energy scale &lt;script type=&quot;math/tex&quot;&gt;\rho_{\Lambda}^{1/
 Suyama&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.th.phys.titech.ac.jp/cosmo/&quot;&gt;&lt;strong&gt;Masahide
 Yamaguchi&lt;/strong&gt;&lt;/a&gt; from
 &lt;a href=&quot;http://www.th.phys.titech.ac.jp&quot;&gt;&lt;strong&gt;TiTech&lt;/strong&gt;&lt;/a&gt; (Tokyo), we explore in
-Ref.&lt;a href=&quot;#ringeval:2019bob&quot;&gt;[1]&lt;/a&gt; the possibility that both have been
+Ref.&lt;a class=&quot;citation&quot; href=&quot;#ringeval:2019bob&quot;&gt;[1]&lt;/a&gt; the possibility that both have been
 dynamically generated from a new and unique ultra light scalar field
 that would have experienced super-Hubble quantum fluctuations during
 primordial inflation.&lt;/p&gt;
@@ -154,7 +154,7 @@ us to finalize a long project in which we discuss the &lt;em&gt;actual&lt;/em&gt
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Inflation_(cosmology)&quot;&gt;&lt;strong&gt;Cosmic Inflation&lt;/strong&gt;&lt;/a&gt; with
 respect to what we have learned about the early universe.&lt;/p&gt;
 
-&lt;p&gt;In a quite long preprint &lt;a href=&quot;#chowdhury:2019otk&quot;&gt;[1]&lt;/a&gt;, we are trying to
+&lt;p&gt;In a quite long preprint &lt;a class=&quot;citation&quot; href=&quot;#chowdhury:2019otk&quot;&gt;[1]&lt;/a&gt;, we are trying to
 exhaustively address all the criticisms raised against the inflationary
 paradigm and confront them to what the Planck data told
 us. The conclusion is short and summarized in the abstract:&lt;/p&gt;
@@ -165,7 +165,7 @@ conclude that the inflationary paradigm is not in trouble but, on the
 contrary, has rather been strengthened by the Planck data.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;You’re skeptic? Read the paper…&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The final release of the Planck data 2018, see this post, invited us to finalize a long project in which we discuss the actual status of Cosmic Inflation with respect to what we have learned about the early universe.</summary></entry><entry><title type="html">Post-doctoral openings in Gravitational Waves</title><link href="https://curl.group/jobs/2019/02/28/IISN.html" rel="alternate" type="text/html" title="Post-doctoral openings in Gravitational Waves" /><published>2019-02-28T08:00:00+01:00</published><updated>2019-02-28T08:00:00+01:00</updated><id>https://curl.group/jobs/2019/02/28/IISN</id><content type="html" xml:base="https://curl.group/jobs/2019/02/28/IISN.html">&lt;p&gt;We are happy to announce the opening of a few &lt;strong&gt;post-doctoral
+&lt;p&gt;You’re skeptic? Read the paper…&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The final release of the Planck data 2018, see this post, invited us to finalize a long project in which we discuss the actual status of Cosmic Inflation with respect to what we have learned about the early universe.</summary></entry><entry><title type="html">~~Post-doctoral openings in Gravitational Waves~~</title><link href="https://curl.group/jobs/2019/02/28/IISN.html" rel="alternate" type="text/html" title="~~Post-doctoral openings in Gravitational Waves~~" /><published>2019-02-28T08:00:00+01:00</published><updated>2019-02-28T08:00:00+01:00</updated><id>https://curl.group/jobs/2019/02/28/IISN</id><content type="html" xml:base="https://curl.group/jobs/2019/02/28/IISN.html">&lt;p&gt;We are happy to announce the opening of a few &lt;strong&gt;post-doctoral
 positions&lt;/strong&gt; in Gravitational Waves research at the &lt;a href=&quot;https://uclouvain.be/en/research-institutes/irmp&quot;&gt;&lt;strong&gt;Institute of
 Mathematics and
 Physics&lt;/strong&gt;&lt;/a&gt;. The
@@ -189,7 +189,7 @@ on primordial black holes.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/7hints/BH_LMC.png&quot; alt=&quot;pbh&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;More details can be found in the scientific paper Ref. &lt;a href=&quot;#clesse:2017bsw&quot;&gt;[1]&lt;/a&gt;.  The photo is a simulated view of a black hole in
+&lt;p&gt;More details can be found in the scientific paper Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2017bsw&quot;&gt;[1]&lt;/a&gt;.  The photo is a simulated view of a black hole in
 front of the Large Magellanic Cloud&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
@@ -233,7 +233,7 @@ Louvain University
 2, Chemin du Cyclotron
 1348 Louvain-la-Neuve
 Belgium
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a post-doctoral position in Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2019.</summary></entry><entry><title type="html">IRMP colloquium on crowd-sourcing optical follow-up searches</title><link href="https://curl.group/news/2018/11/14/IRMP.html" rel="alternate" type="text/html" title="IRMP colloquium on crowd-sourcing optical follow-up searches" /><published>2018-11-14T08:00:00+01:00</published><updated>2018-11-14T08:00:00+01:00</updated><id>https://curl.group/news/2018/11/14/IRMP</id><content type="html" xml:base="https://curl.group/news/2018/11/14/IRMP.html">&lt;p&gt;Some echos from Ref. &lt;a href=&quot;#boucher:2018xvk&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2018/01/01/1801.04124.html&quot;&gt;this
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a post-doctoral position in Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2019.</summary></entry><entry><title type="html">IRMP colloquium on crowd-sourcing optical follow-up searches</title><link href="https://curl.group/news/2018/11/14/IRMP.html" rel="alternate" type="text/html" title="IRMP colloquium on crowd-sourcing optical follow-up searches" /><published>2018-11-14T08:00:00+01:00</published><updated>2018-11-14T08:00:00+01:00</updated><id>https://curl.group/news/2018/11/14/IRMP</id><content type="html" xml:base="https://curl.group/news/2018/11/14/IRMP.html">&lt;p&gt;Some echos from Ref. &lt;a class=&quot;citation&quot; href=&quot;#boucher:2018xvk&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2018/01/01/1801.04124.html&quot;&gt;this
 post&lt;/a&gt;. Thursday,
 2pm, room CYCL 01, C. Ringeval gives a talk for the &lt;a href=&quot;https://agenda.irmp.ucl.ac.be/event/3162/&quot;&gt;&lt;strong&gt;IRMP
 colloquium&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
