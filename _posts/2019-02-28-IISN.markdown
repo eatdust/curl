@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Post-doctoral openings in Gravitational Waves
+title:  ~~Post-doctoral openings in Gravitational Waves~~
 category: Jobs
 date: 2019-02-28 08:00:00 +0100
 ---
