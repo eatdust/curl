@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Cosmic Conundra explained by Primordial Black Holes?
+category: News
+date: 2019-07-01 09:42:07 +0100
+---
+
+The known thermal history of the Universe is expected to shape the
+mass function of primordial black
+holes. [**Sébastien**](/members/clesse.html), [**Bernard
+Carr**](https://en.wikipedia.org/wiki/Bernard_Carr), [**Juan
+García-Bellido**](https://uam.academia.edu/JuanGarciaBellido) and
+[**Florian Kühnel**](https://www.su.se/profiles/fflor-1.191847) shed a
+new light on a series of unexplained cosmic conundra in Ref.{% cite
+carr:2019kxo %}.
+
+![fPBH](/assets/images/1906.08217/fPBH.png)
+
+This figure shows some expected mass fraction distributions of
+primordial black holes as dark matter and the limits imposed by
+various astrophysical probes.
+

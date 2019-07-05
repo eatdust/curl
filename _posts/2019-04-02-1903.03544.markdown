@@ -14,8 +14,7 @@ $$M_\mathrm{Pl} \simeq 10^{18}\,\mathrm{GeV}$$ and the cosmological
 constant energy scale $$\rho_{\Lambda}^{1/4} \simeq 10^{-3}\,
 \mathrm{eV}$$ differ by many orders of magnitude.
 
-Together with [**Teruaki
-Suyama**](https://curl.group/members/suyama.html) and [**Masahide
+Together with [**Teruaki Suyama**](/members/suyama.html) and [**Masahide
 Yamaguchi**](http://www.th.phys.titech.ac.jp/cosmo/) from
 [**TiTech**](http://www.th.phys.titech.ac.jp) (Tokyo), we explore in
 Ref.{% cite ringeval:2019bob %} the possibility that both have been

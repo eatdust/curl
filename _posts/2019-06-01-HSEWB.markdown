@@ -1,0 +1,37 @@
+---
+layout: post
+title: Are we born near a black hole?
+category: News
+date: 2019-06-01 09:42:07 +0100
+---
+
+Primordial black holes could not only explain the dark matter, but
+also the origin of the ordinary matter in the
+Universe. [**Sébastien**](/members/clesse.html), [**Bernard
+Carr**](https://en.wikipedia.org/wiki/Bernard_Carr) and [**Juan
+García-Bellido**](https://uam.academia.edu/JuanGarciaBellido) propose
+a new baryogenesis scenario in Refs.{% cite garcia-bellido:2019vlf %}
+and {% cite carr:2019hud %}.
+
+When density fluctuations collapse gravitationally in the early
+Universe to form primordial black holes, all the conditions are met to
+produce the observed baryon asymmetry around the collapsing
+regions. Moreover, this scenario naturally explains why the Dark
+Matter and Baryons have similar densities. No parameter tuning is
+required if these density fluctuations are due to the stochastic
+quantum fluctuations of a light spectator field during inflation.
+
+
+![baryo](/assets/images/1904.11482/sketche.png)
+
+The above figure is a qualitative representation of the three steps
+in our scenario:
+
+* (A) Gravitational collapse to a PBH of the curvature fluctuation at
+horizon re-entry.
+
+* (B) Sphaleron transition in hot spot around the PBH, producing
+baryons locally through electroweak baryogenesis.
+
+* (C) Propagation of baryons to rest of Universe through jets,
+  resulting in the observed Baryon Asymmetry of the Universe.
