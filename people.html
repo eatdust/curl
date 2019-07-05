@@ -14,7 +14,7 @@ sidebar_priority: 10
 
   {% for item in sorted_members %}
 
-  {% if item.to == null %}
+  {% if item.to == null and item.description != 'Master student' %}
   
   <li>
     <h2><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
@@ -31,6 +31,42 @@ sidebar_priority: 10
   {% endfor %}
 
 </div>
+
+
+{% assign activeStudents = 0 %}
+{% for item in sorted_members  %}
+{% if item.to == null and item.description == 'Master student' %}
+{% assign activeStudents = activeStudents | plus: 1 %}
+{% endif %}
+{% endfor %}
+
+{% if activeStudents != 0 %}
+
+<h2 class="members-type"> Students </h2>
+
+<div class="members-list">
+
+  {% for item in sorted_members %}
+
+  {% if item.to == null and item.description == 'Master student' %}
+  
+  <li>
+    <h2><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
+    {{ item.description }}
+    {% if item.funding != null %}
+    <p>
+      Funding: {{ item.funding }}
+    </p>
+    {% endif %}
+  </li>
+
+  {% endif %}
+
+  {% endfor %}
+
+</div>
+
+{% endif %}
 
 <h2 class="members-type"> Former </h2>
 
@@ -77,6 +113,9 @@ sidebar_priority: 10
     {{ item.description }}
     {% if item.from != null %}
        from {{ item.from | date:'%B %Y' }} to {{ item.to | date:'%B %Y' }}
+    {% endif %}
+    {% if item.funding != null %}
+    <br> Funding: {{ item.funding }}
     {% endif %}
     </p>
     
