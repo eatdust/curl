@@ -1,0 +1,53 @@
+---
+layout: post
+title:  Post-doctoral opening in Gravitational Wave Cosmology
+category: Jobs
+date: 2019-10-09 08:00:00 +0100
+---
+
+We are happy to announce the opening of a **post-doctoral position**
+in Gravitational Wave Cosmology at CURL (Cosmology, Universe and
+Relativity at Louvain), Louvain University (Belgium), starting fall
+2020.
+
+Applicants with expertises in gravitational wave signatures of early
+universe physics, stochastic gravitational wave background, cosmic
+defects, primordial black holes, cosmic inflation, as well as data
+analysis for current and future gravitational wave interferometers,
+such as LIGO/Virgo and LISA, are particularly encouraged to apply.
+
+Appointment is available for two years, and could possibly be extended
+to 3 years depending on mutual satisfaction and available funding.
+
+The position is supported by a joint ARC research program in gravitational
+wave physics between the [CP3 center](https://cp3.phys.ucl.ac.be) and
+the [CURL group](https://curl.irmp.ucl.ac.be) at UCLouvain and the [STAR
+institute](https://www.star.uliege.be) at Université de
+Liège. Computing resources and support for travelling are excellent.
+
+---
+
+Letters of application (including a curriculum vitae, a list of
+publications, a brief statement of research interests) and at least
+two recommendation letters from senior scientists should be submitted
+on-line, by the 15th of January 2020, at:
+
+[**https://cp3.irmp.ucl.ac.be/jobs/59**](https://cp3.irmp.ucl.ac.be/jobs/59)
+
+For more information, please contact:
+```
+christophe.ringeval@uclouvain.be
+Cosmology, Universe and Relativity at Louvain
+Institute of Mathematics and Physics
+Louvain University
+2, Chemin du Cyclotron
+1348 Louvain-la-Neuve
+Belgium
+```
+
+A summary of our current interests can be consulted on the CURL
+website: [**curl.group**](https://curl.group)
+
+---
+
+

@@ -4,7 +4,7 @@ title: Niels Beuseling
 description: Master student
 funding: UCL
 from: 2019, January 01
-to:
+to: 2019, September 01
 position:
 ---
 
