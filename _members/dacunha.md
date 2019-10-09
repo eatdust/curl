@@ -1,6 +1,6 @@
 ---
 layout: member
-title: 'Disrael Camargo Neves da Cuhna'
+title: 'Disrael Camargo Neves da Cunha'
 description: Post-doctoral Research Associate
 funding: FNRS
 from: 2019, October 01
@@ -8,9 +8,9 @@ to:
 office: E353
 phone: +32 10 47 3344
 email: disrael.dacuhna@uclouvain.be
-image: /assets/images/people/dacuhna.png
+image: /assets/images/people/dacunha.png
 orientation: portrait
-bibfile: dacuhna
+bibfile: dacunha
 bibname: 'da Cunha, Disrael'
 ---
 
