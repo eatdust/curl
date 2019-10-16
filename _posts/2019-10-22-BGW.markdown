@@ -1,0 +1,66 @@
+---
+layout: post
+title:  Belgian Gravitational Waves meeting
+category: News
+date: 2019-10-16 14:00:00 +0100
+---
+
+On **Thursday 22th**, we have the pleasure to host the Belgian
+Gravitational Waves meeting. It starts at **2pm**, seminar **room
+E349**. Our guest speaker is **Chris Belczynski** and our local
+speaker is **Sébastien Clesse**.
+
+[**GW meetings**](https://fys.kuleuven.be/gwc/activities-folder/GWseminars)
+
+---
+
+At 14:00, Chris Belczynski (Copernicus Center, Warsaw, Poland), will be talking about
+
+
+### Gravitational-wave Astrophysics: LIGO/Virgo BH-BH/BH-NS/NS-NS mergers
+
+*I will discuss the astrophysical importance of the recent LIGO/Virgo
+direct detections of gravitational-waves. Despite the fact that massive
+BH-BH dominance in gravitational-wave signal was predicted prior the
+detections, it is not at all clear which one of the several formation
+scenarios produces these massive mergers. This inhibits astrophysical
+information inference from LIGO/Virgo observations, as conclusions are
+different within each formation scenario. There is quite an opposite
+problem with the first detection of NS-NS merger in an old elliptical
+host galaxy, as none of the formation channels can easily recover
+rather high NS-NS merger rate estimated by LIGO/Virgo. The recent
+detection of BH-NS merger seems to indicate the existence of compact
+objects in the first mass gap.
+Additionally, all of the ten O1/O2 LIGO/Virgo BH-BH merger detections
+have low values for their effective spins. I will demonstrate how this
+can be naturally explained within framework of classical binary evolution
+scenario of the formation of BH-BH mergers. It appears that magnetic
+fields (Tayler-Spruit dynamo) play an important role in efficient
+transport of angular momentum and spin-down of massive stars that produce
+low-spinning black holes.*
+
+---
+
+After a coffee break, at 15:30, Sébastien Clesse (CURL, UCLouvain)
+will talk about
+
+### Primordial black hole predictions for black hole merger detections in LIGO/Virgo
+
+*Primordial Black Hole (PBH) can explain the rates and relatively low
+effective spins of Black Hole (BH) mergers seen by LIGO/Virgo, if they
+constitute a fraction, or even the totality of Dark Matter.  If BH
+merger progenitors have a primordial origin, their mass suggests a
+wide mass distribution, possibly extending down to the sub-solar
+region, with a peak between 0.5 and 3 solar mass, due to an
+unavoidable boost of PBH formation at the time of QCD transition.  The
+latest bounds on the merging rate of sub-solar BH already constrain,
+but do not rule out, this possibility.  The O3 run will be decisive to
+distinguish between astrophysical and primordial origins, by probing
+sub-solar mergers, mergers in the BH mass gap, with low mass ratios,
+and black holes above 60 solar masses.*
+
+
+
+
+
+

@@ -8,12 +8,18 @@ to:
 office: E354
 phone: +32 10 47 3155
 email: sebastien.clesse@uclouvain.be
+homepage: https://sebclesse.wixsite.com/clesse
 image: /assets/images/people/clesse.png
 orientation: portrait
 bibfile: clesse
 bibname: clesse
 ---
 
-I'm interested by Cosmic Inflation, Primordial Black Holes as Dark
-Matter, Modified Gravity, cosmological constraints with future
-experiments (Euclid, SKA, CORE,...).
+My fields of interest include cosmic inflation (hybrid models,
+forecasts for future CMB missions), primordial black holes (formation,
+gravitational-waves, dark matter, astrophysical and cosmological
+signatures), Bayesian methods in cosmology (development of MontePython
+likelihoods for Euclid, SKA, COrE), modified gravity (signatures in
+large-scale structures, 21cm signal, solar system and laboratory
+experiments).  I am involved in several international experiments,
+such as Euclid, the SKA, LISA and LIGO/Virgo.
