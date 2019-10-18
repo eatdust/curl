@@ -11,7 +11,7 @@ email: sandrine.schlogel@unamur.be
 homepage:
 image: /assets/images/people/schlogel.png
 orientation: portrait
-bibfile: schlogel.bib
+bibfile: schlogel
 bibname: schlogel
 position:
 ---

@@ -37,10 +37,10 @@ pagination:
   
   
 scholar:
-  use_raw_bibtex_entry: true
+#  use_raw_bibtex_entry: true
   source: /assets/bibliography
   style: /assets/bibliography/journal-of-cosmology-and-astroparticle-physics.csl
-
+  
 # moved to pages
 #  group_by: year
 #  group_order: descending

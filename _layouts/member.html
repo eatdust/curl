@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-  <h1 class="member-title">{{ page.title }} </h1>
+  <h1 class="member-title">{{ page.title }}</h1>
 </header>
 
 {% for item in site.members %}
@@ -107,7 +107,7 @@ layout: default
 {% unless member.bibfile == null %}
 <h3> Publications @ CURL </h3>
 
-{% bibliography --group_by year --group_order descending --file {{ member.bibfile }} %}
+{% bibliography --file {{ member.bibfile }} --group_by year --group_order descending %}
 
 {% endunless %}
 

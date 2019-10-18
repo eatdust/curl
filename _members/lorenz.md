@@ -11,7 +11,7 @@ email: larissa.lorenz@web.de
 homepage:
 image: /assets/images/people/lorenz.png
 orientation: portrait
-bibfile: lorenz.bib
+bibfile: lorenz
 bibname: larissa lorenz
 position: 'Project Manager R&D at First Sensor'
 ---

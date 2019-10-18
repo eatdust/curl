@@ -11,7 +11,7 @@ email: vittoria.demozzi@gmail.com
 homepage:
 image: /assets/images/people/demozzi.png
 orientation: portrait
-bibfile: vdemozzi.bib
+bibfile: vdemozzi
 bibname: demozzi
 position: 'Patent Attorneys office Hoffmann-EitlePatent, Munich (Germany)'
 ---

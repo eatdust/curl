@@ -6,7 +6,7 @@ date: 2018-11-14 08:00:00 +0100
 ---
 
 Some echos from Ref. {% cite boucher:2018xvk %} and [this
-post]({{site.baseurl}}{% post_url 2018-01-01-1801.04124 %}). Thursday,
+post]({% post_url 2018-01-01-1801.04124 %}). Thursday,
 2pm, room CYCL 01, C. Ringeval gives a talk for the [**IRMP
 colloquium**](https://agenda.irmp.ucl.ac.be/event/3162/).
 

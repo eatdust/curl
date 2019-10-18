@@ -11,7 +11,7 @@ email: marc.lilley@gmail.com
 homepage:
 image: /assets/images/people/lilley.png
 orientation: portrait
-bibfile: mlilley.bib
+bibfile: mlilley
 bibname: marc lilley
 position: 'Post-doctoral researcher at APC, Paris (France)'
 ---

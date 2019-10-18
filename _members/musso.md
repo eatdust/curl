@@ -11,7 +11,7 @@ email: mmusso@sas.upenn.edu
 homepage:
 image: /assets/images/people/marcello.png
 orientation: portrait
-bibfile: mmusso.bib
+bibfile: mmusso
 bibname: marcello musso
 position: 'Senior Lecturer at ICTP-EAIFR, Kigali (Rwanda)'
 ---
