@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-10-16T17:39:32+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Belgian Gravitational Waves meeting</title><link href="https://curl.group/news/2019/10/16/BGW.html" rel="alternate" type="text/html" title="Belgian Gravitational Waves meeting" /><published>2019-10-16T15:00:00+02:00</published><updated>2019-10-16T15:00:00+02:00</updated><id>https://curl.group/news/2019/10/16/BGW</id><content type="html" xml:base="https://curl.group/news/2019/10/16/BGW.html">&lt;p&gt;On &lt;strong&gt;Thursday 22th&lt;/strong&gt;, we have the pleasure to host the Belgian
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-10-21T11:51:19+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Belgian Gravitational Waves meeting</title><link href="https://curl.group/news/2019/10/16/BGW.html" rel="alternate" type="text/html" title="Belgian Gravitational Waves meeting" /><published>2019-10-16T15:00:00+02:00</published><updated>2019-10-16T15:00:00+02:00</updated><id>https://curl.group/news/2019/10/16/BGW</id><content type="html" xml:base="https://curl.group/news/2019/10/16/BGW.html">&lt;p&gt;On &lt;strong&gt;Thursday 22th&lt;/strong&gt;, we have the pleasure to host the Belgian
 Gravitational Waves meeting. It starts at &lt;strong&gt;2pm&lt;/strong&gt;, seminar &lt;strong&gt;room
 E349&lt;/strong&gt;. Our guest speaker is &lt;strong&gt;Chris Belczynski&lt;/strong&gt; and our local
 speaker is &lt;strong&gt;Sébastien Clesse&lt;/strong&gt;.&lt;/p&gt;
@@ -38,18 +38,22 @@ will talk about&lt;/p&gt;
 
 &lt;h3 id=&quot;primordial-black-hole-predictions-for-black-hole-merger-detections-in-ligovirgo&quot;&gt;Primordial black hole predictions for black hole merger detections in LIGO/Virgo&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;Primordial Black Hole (PBH) can explain the rates and relatively low
-effective spins of Black Hole (BH) mergers seen by LIGO/Virgo, if they
-constitute a fraction, or even the totality of Dark Matter.  If BH
-merger progenitors have a primordial origin, their mass suggests a
-wide mass distribution, possibly extending down to the sub-solar
-region, with a peak between 0.5 and 3 solar mass, due to an
-unavoidable boost of PBH formation at the time of QCD transition.  The
-latest bounds on the merging rate of sub-solar BH already constrain,
-but do not rule out, this possibility.  The O3 run will be decisive to
-distinguish between astrophysical and primordial origins, by probing
-sub-solar mergers, mergers in the BH mass gap, with low mass ratios,
-and black holes above 60 solar masses.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">On Thursday 22th, we have the pleasure to host the Belgian Gravitational Waves meeting. It starts at 2pm, seminar room E349. Our guest speaker is Chris Belczynski and our local speaker is Sébastien Clesse.</summary></entry><entry><title type="html">Post-doctoral opening in Gravitational Wave Cosmology</title><link href="https://curl.group/jobs/2019/10/09/ARC.html" rel="alternate" type="text/html" title="Post-doctoral opening in Gravitational Wave Cosmology" /><published>2019-10-09T09:00:00+02:00</published><updated>2019-10-09T09:00:00+02:00</updated><id>https://curl.group/jobs/2019/10/09/ARC</id><content type="html" xml:base="https://curl.group/jobs/2019/10/09/ARC.html">&lt;p&gt;We are happy to announce the opening of a &lt;strong&gt;post-doctoral position&lt;/strong&gt;
+&lt;p&gt;&lt;em&gt;Soon after the first gravitational-wave detection, it has been
+suggested that the black hole merger progenitors might have a
+primordial origin, and eventually explain all or part of the Dark
+Matter in the Universe.  Due to the known thermal history of the
+Universe, the primordial black hole (PBH) mass function have specific
+features that will be probed by the third observing run of LIGO/Virgo.
+The predictions for the mass distribution of black hole merger
+progenitors and their spins are distinguishable from the ones of
+stellar evolution scenarios, and the upcoming detections will be
+decisive to confirm or rule out the scenario.  In addition to explain
+mergers around 30 solar masses, PBH predict a second peak around 2
+solar mass, due to the boost of PBH formation at the QCD transition,
+and some mergers above 60 solar masses, in the mass gap, with low mass
+ratios, and involving one sub-solar black hole.  These features are
+universal, whatever is the underlying PBH formation scenario and their
+abundance.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">On Thursday 22th, we have the pleasure to host the Belgian Gravitational Waves meeting. It starts at 2pm, seminar room E349. Our guest speaker is Chris Belczynski and our local speaker is Sébastien Clesse.</summary></entry><entry><title type="html">Post-doctoral opening in Gravitational Wave Cosmology</title><link href="https://curl.group/jobs/2019/10/09/ARC.html" rel="alternate" type="text/html" title="Post-doctoral opening in Gravitational Wave Cosmology" /><published>2019-10-09T09:00:00+02:00</published><updated>2019-10-09T09:00:00+02:00</updated><id>https://curl.group/jobs/2019/10/09/ARC</id><content type="html" xml:base="https://curl.group/jobs/2019/10/09/ARC.html">&lt;p&gt;We are happy to announce the opening of a &lt;strong&gt;post-doctoral position&lt;/strong&gt;
 in Gravitational Wave Cosmology at CURL (Cosmology, Universe and
 Relativity at Louvain), Louvain University (Belgium), starting fall
 2020.&lt;/p&gt;
