@@ -1,0 +1,53 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2019-11-07 08:00:00 +0100
+---
+
+Our next cosmology seminar takes place on **Friday 15th** of November,
+seminar **room E349** at **2pm**. The speaker is **Jibril Ben Achour**
+from the Yukawa Institute (Kyoto, Japan).
+
+---
+
+At 14:00, room E349, Jibril Ben Achour (Yukawa Institute, Kyoto), will be talking about
+
+
+### FLRW cosmology as a conformally invariant field theory in 1D
+
+
+*Over the last decades, conformal field theory (CFT) technics have
+played an important role in black hole physics, due to the discovery
+of unexpected conformal symmetries in the near horizon of black
+hole. Using these technics, crucial features of black hole physics,
+among which their spectroscopy, quasi-normal modes, as well as their
+state counting have been reproduced using CFT technics.  So far, the
+possible existence of similar hidden conformal symmetry in
+cosmological spacetimes have been much less investigated.  In this
+talk, I will show that the simplest cosmological model, consisting in
+the homogeneous and isotropic Einstein-Scalar system, enjoys a
+surprising hidden conformal symmetry. I will present in detail this
+new structure, the associated Noether's charge as well as the CVH
+algebra which encodes this conformal symmetry at the hamiltonian
+level.  Then, I will explain how this cosmological system can be
+mapped to the well known conformal mechanics developed by de Alfaro,
+Fubini and Furlan, and which provides the simplest example of a
+classically conformal field theory in 1d. This conformal structure
+extends beyond this simple homogeneous and isotropic setting. I will
+briefly discuss the inclusion of a cosmological constant,
+anisotropies, self-interacting potential for the scalar field, as well
+as work in progress on the fully inhomogeneous Einstein-Scalar system.
+Finally, I will discuss the consequences of this new conformal
+structure at the quantum level. A major outcome is the possibility to
+apply the conformal bootstrap program to quantize the theory. Just as
+quantum conformal mechanics, I will show that despite the lack of a
+conformally invariant group state, it is possible to find an operator
+which reproduces the standard form of the CFT two points function in
+quantum cosmology. I will discuss the cosmological interpretation of
+this operator and the vacuum state which are used to construct this
+correlator.  In the end, this provides a first step to bootstrap
+quantum cosmology using this new conformal symmetry.*
+
+Based on: [arXiv:1909.13390](https://arxiv.org/abs/1909.13390)
+
