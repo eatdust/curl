@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-11-05T18:16:01+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Belgian Gravitational Waves meeting</title><link href="https://curl.group/news/2019/10/16/BGW.html" rel="alternate" type="text/html" title="Belgian Gravitational Waves meeting" /><published>2019-10-16T15:00:00+02:00</published><updated>2019-10-16T15:00:00+02:00</updated><id>https://curl.group/news/2019/10/16/BGW</id><content type="html" xml:base="https://curl.group/news/2019/10/16/BGW.html">&lt;p&gt;On &lt;strong&gt;Thursday 22th&lt;/strong&gt;, we have the pleasure to host the Belgian
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-11-07T11:50:43+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2019/11/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2019-11-07T08:00:00+01:00</published><updated>2019-11-07T08:00:00+01:00</updated><id>https://curl.group/news/2019/11/07/seminar</id><content type="html" xml:base="https://curl.group/news/2019/11/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 15th&lt;/strong&gt; of November,
+seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Jibril Ben Achour&lt;/strong&gt;
+from the Yukawa Institute (Kyoto, Japan).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 14:00, room E349, Jibril Ben Achour (Yukawa Institute, Kyoto), will be talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;flrw-cosmology-as-a-conformally-invariant-field-theory-in-1d&quot;&gt;FLRW cosmology as a conformally invariant field theory in 1D&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Over the last decades, conformal field theory (CFT) technics have
+played an important role in black hole physics, due to the discovery
+of unexpected conformal symmetries in the near horizon of black
+hole. Using these technics, crucial features of black hole physics,
+among which their spectroscopy, quasi-normal modes, as well as their
+state counting have been reproduced using CFT technics.  So far, the
+possible existence of similar hidden conformal symmetry in
+cosmological spacetimes have been much less investigated.  In this
+talk, I will show that the simplest cosmological model, consisting in
+the homogeneous and isotropic Einstein-Scalar system, enjoys a
+surprising hidden conformal symmetry. I will present in detail this
+new structure, the associated Noether’s charge as well as the CVH
+algebra which encodes this conformal symmetry at the hamiltonian
+level.  Then, I will explain how this cosmological system can be
+mapped to the well known conformal mechanics developed by de Alfaro,
+Fubini and Furlan, and which provides the simplest example of a
+classically conformal field theory in 1d. This conformal structure
+extends beyond this simple homogeneous and isotropic setting. I will
+briefly discuss the inclusion of a cosmological constant,
+anisotropies, self-interacting potential for the scalar field, as well
+as work in progress on the fully inhomogeneous Einstein-Scalar system.
+Finally, I will discuss the consequences of this new conformal
+structure at the quantum level. A major outcome is the possibility to
+apply the conformal bootstrap program to quantize the theory. Just as
+quantum conformal mechanics, I will show that despite the lack of a
+conformally invariant group state, it is possible to find an operator
+which reproduces the standard form of the CFT two points function in
+quantum cosmology. I will discuss the cosmological interpretation of
+this operator and the vacuum state which are used to construct this
+correlator.  In the end, this provides a first step to bootstrap
+quantum cosmology using this new conformal symmetry.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Based on: &lt;a href=&quot;https://arxiv.org/abs/1909.13390&quot;&gt;arXiv:1909.13390&lt;/a&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 15th of November, seminar room E349 at 2pm. The speaker is Jibril Ben Achour from the Yukawa Institute (Kyoto, Japan).</summary></entry><entry><title type="html">Belgian Gravitational Waves meeting</title><link href="https://curl.group/news/2019/10/16/BGW.html" rel="alternate" type="text/html" title="Belgian Gravitational Waves meeting" /><published>2019-10-16T15:00:00+02:00</published><updated>2019-10-16T15:00:00+02:00</updated><id>https://curl.group/news/2019/10/16/BGW</id><content type="html" xml:base="https://curl.group/news/2019/10/16/BGW.html">&lt;p&gt;On &lt;strong&gt;Thursday 22th&lt;/strong&gt;, we have the pleasure to host the Belgian
 Gravitational Waves meeting. It starts at &lt;strong&gt;2pm&lt;/strong&gt;, seminar &lt;strong&gt;room
 E349&lt;/strong&gt;. Our guest speaker is &lt;strong&gt;Chris Belczynski&lt;/strong&gt; and our local
 speaker is &lt;strong&gt;Sébastien Clesse&lt;/strong&gt;.&lt;/p&gt;
@@ -324,20 +366,4 @@ Job&lt;/strong&gt;&lt;/a&gt; post.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Mind the close deadline: the 30th of March 2019.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a few post-doctoral positions in Gravitational Waves research at the Institute of Mathematics and Physics. The positions are shared with our CP3 colleagues and the STAR institute. We search for candidates over a wide range of expertises, from VIRGO related hardware design to GW data analysis for Cosmology. Don’t hesitate to apply, the number of openings is not rigidly fixed yet.</summary></entry><entry><title type="html">Interview for ScienceToday</title><link href="https://curl.group/outreach/2019/01/31/ScienceToday.html" rel="alternate" type="text/html" title="Interview for ScienceToday" /><published>2019-01-31T08:00:00+01:00</published><updated>2019-01-31T08:00:00+01:00</updated><id>https://curl.group/outreach/2019/01/31/ScienceToday</id><content type="html" xml:base="https://curl.group/outreach/2019/01/31/ScienceToday.html">&lt;p&gt;The ScienceToday UCL website features the researches of Sébastien Clesse
-on primordial black holes.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://uclouvain.be/en/sciencetoday/news/seven-hints-point-to-primordial-black-holes.html&quot;&gt;&lt;strong&gt;Seven Hints point for Primordial Black Holes&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/7hints/BH_LMC.png&quot; alt=&quot;pbh&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;More details can be found in the scientific paper Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2017bsw&quot;&gt;[1]&lt;/a&gt;.  The photo is a simulated view of a black hole in
-front of the Large Magellanic Cloud&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Credit: A. Riazuelo &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">The ScienceToday UCL website features the researches of Sébastien Clesse on primordial black holes.</summary></entry></feed>
+&lt;p&gt;Mind the close deadline: the 30th of March 2019.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a few post-doctoral positions in Gravitational Waves research at the Institute of Mathematics and Physics. The positions are shared with our CP3 colleagues and the STAR institute. We search for candidates over a wide range of expertises, from VIRGO related hardware design to GW data analysis for Cosmology. Don’t hesitate to apply, the number of openings is not rigidly fixed yet.</summary></entry></feed>
