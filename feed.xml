@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-11-20T15:52:32+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Interview for France Culture</title><link href="https://curl.group/outreach/2019/11/18/FranceCulture.html" rel="alternate" type="text/html" title="Interview for France Culture" /><published>2019-11-18T08:00:00+01:00</published><updated>2019-11-18T08:00:00+01:00</updated><id>https://curl.group/outreach/2019/11/18/FranceCulture</id><content type="html" xml:base="https://curl.group/outreach/2019/11/18/FranceCulture.html">&lt;p&gt;&lt;strong&gt;Sébastien Clesse&lt;/strong&gt; is giving an interview for the radio
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-11-22T14:23:52+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2019/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2019-11-22T08:00:00+01:00</published><updated>2019-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2019/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2019/11/22/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 29th&lt;/strong&gt; of November,
+seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Atsuhisa Ota&lt;/strong&gt;
+from the DAMPT (Cambridge, U.K.).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 14:00, room E349, Atsuhisa Ota (DAMPT, Cambridge), will be talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;induced-superhorizon-tensor-perturbations-from-anisotropic-non-gaussianity&quot;&gt;Induced superhorizon tensor perturbations from anisotropic non-Gaussianity&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;While we have not detected large scale tensor perturbations, they are
+essential for cosmology because we consider their origin is
+microscopic quantum fluctuations during inflation. However, we should
+note that the classical secondary effects of scalar perturbations also
+source them after inflation. We usually consider that these secondary
+effects are not significant on the CMB anisotropy scale, but we will
+revisit this issue with non-Gaussian initial conditions for the scalar
+perturbations. In this talk, we will show that induced tensor modes
+can be generated on superhorizon scales through the intrinsic
+long-short mode coupling due to the non-Gaussianity. The induced
+tensor power spectrum has similar scale dependence with the primordial
+contribution. Hence we can discuss the detectability by the CMB
+anisotropy measurements. Interestingly, the induced tensor
+perturbations can be significantly enhanced, depending on the
+reheating scenario. Also, we will present the observational
+consequences of various non-Gaussian initial conditions based on the
+present framework.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 29th of November, seminar room E349 at 2pm. The speaker is Atsuhisa Ota from the DAMPT (Cambridge, U.K.).</summary></entry><entry><title type="html">Interview for France Culture</title><link href="https://curl.group/outreach/2019/11/18/FranceCulture.html" rel="alternate" type="text/html" title="Interview for France Culture" /><published>2019-11-18T08:00:00+01:00</published><updated>2019-11-18T08:00:00+01:00</updated><id>https://curl.group/outreach/2019/11/18/FranceCulture</id><content type="html" xml:base="https://curl.group/outreach/2019/11/18/FranceCulture.html">&lt;p&gt;&lt;strong&gt;Sébastien Clesse&lt;/strong&gt; is giving an interview for the radio
 channel &lt;strong&gt;France Culture&lt;/strong&gt; on &lt;strong&gt;Tuesday 19th&lt;/strong&gt; of November, from &lt;strong&gt;4pm&lt;/strong&gt; to &lt;strong&gt;5pm&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Stay tuned to the broadcast &lt;a href=&quot;https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mardi-19-novembre-2019&quot;&gt;&lt;strong&gt;La Méthode Scientifique&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">Sébastien Clesse is giving an interview for the radio channel France Culture on Tuesday 19th of November, from 4pm to 5pm.</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2019/11/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2019-11-07T08:00:00+01:00</published><updated>2019-11-07T08:00:00+01:00</updated><id>https://curl.group/news/2019/11/07/seminar</id><content type="html" xml:base="https://curl.group/news/2019/11/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 15th&lt;/strong&gt; of November,
@@ -335,21 +361,4 @@ Stockholm U.) with&lt;/p&gt;
  lensing galaxy. I shall show that in some such cases the stellar
  population cannot account for the observed microlensing. In these
  cases the most plausible bodies responsible for thr lensing are
- primordial black holes.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We hold an informal meeting, organized one day before the Solvay Workshop on “The dark side of Black Holes” in Brussels (but not officially related to it), with a few experts on PBH to discuss recent developments in the field. This takes place Tuesday 2nd of April, seminar room E349 from 10 am.</summary></entry><entry><title type="html">Inflation after Planck: Judgment Day</title><link href="https://curl.group/news/2019/03/01/1902.03951.html" rel="alternate" type="text/html" title="Inflation after Planck: Judgment Day" /><published>2019-03-01T09:42:07+01:00</published><updated>2019-03-01T09:42:07+01:00</updated><id>https://curl.group/news/2019/03/01/1902.03951</id><content type="html" xml:base="https://curl.group/news/2019/03/01/1902.03951.html">&lt;p&gt;The final release of the Planck data 2018, see &lt;a href=&quot;/news/2018/07/17/Planck2018.html&quot;&gt;this
-post&lt;/a&gt;, invited
-us to finalize a long project in which we discuss the &lt;em&gt;actual&lt;/em&gt; status of
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Inflation_(cosmology)&quot;&gt;&lt;strong&gt;Cosmic Inflation&lt;/strong&gt;&lt;/a&gt; with
-respect to what we have learned about the early universe.&lt;/p&gt;
-
-&lt;p&gt;In a quite long preprint &lt;a class=&quot;citation&quot; href=&quot;#chowdhury:2019otk&quot;&gt;[1]&lt;/a&gt;, we are trying to
-exhaustively address all the criticisms raised against the inflationary
-paradigm and confront them to what the Planck data told
-us. The conclusion is short and summarized in the abstract:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Although we find that important questions still remain open, we
-conclude that the inflationary paradigm is not in trouble but, on the
-contrary, has rather been strengthened by the Planck data.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You’re skeptic? Read the paper…&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The final release of the Planck data 2018, see this post, invited us to finalize a long project in which we discuss the actual status of Cosmic Inflation with respect to what we have learned about the early universe.</summary></entry></feed>
+ primordial black holes.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We hold an informal meeting, organized one day before the Solvay Workshop on “The dark side of Black Holes” in Brussels (but not officially related to it), with a few experts on PBH to discuss recent developments in the field. This takes place Tuesday 2nd of April, seminar room E349 from 10 am.</summary></entry></feed>
