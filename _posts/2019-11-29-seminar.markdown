@@ -1,0 +1,39 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2019-11-22 08:00:00 +0100
+---
+
+Our next cosmology seminar takes place on **Friday 29th** of November,
+seminar **room E349** at **2pm**. The speaker is **Atsuhisa Ota**
+from the DAMPT (Cambridge, U.K.).
+
+---
+
+At 14:00, room E349, Atsuhisa Ota (DAMPT, Cambridge), will be talking about
+
+
+### Induced superhorizon tensor perturbations from anisotropic non-Gaussianity
+
+
+*While we have not detected large scale tensor perturbations, they are
+essential for cosmology because we consider their origin is
+microscopic quantum fluctuations during inflation. However, we should
+note that the classical secondary effects of scalar perturbations also
+source them after inflation. We usually consider that these secondary
+effects are not significant on the CMB anisotropy scale, but we will
+revisit this issue with non-Gaussian initial conditions for the scalar
+perturbations. In this talk, we will show that induced tensor modes
+can be generated on superhorizon scales through the intrinsic
+long-short mode coupling due to the non-Gaussianity. The induced
+tensor power spectrum has similar scale dependence with the primordial
+contribution. Hence we can discuss the detectability by the CMB
+anisotropy measurements. Interestingly, the induced tensor
+perturbations can be significantly enhanced, depending on the
+reheating scenario. Also, we will present the observational
+consequences of various non-Gaussian initial conditions based on the
+present framework.*
+
+
+
