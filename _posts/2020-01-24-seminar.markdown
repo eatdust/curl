@@ -1,0 +1,34 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2020-01-13 08:00:00 +0100
+---
+
+Our next cosmology seminar takes place on **Friday 24th** of January,
+seminar **room E349** at **2pm**. The speaker is **Disrael Camargo Neves da Cunha** who have recently joined us at CURL.
+
+---
+
+At 14:00, room E349, Disrael Camargo Neves da Cunha (CURL, Louvain U.), will be talking about
+
+
+### Signatures of Cosmic Strings on the Dark Matter Distribution
+
+
+*In the first part of the talk, I will present a brief review of
+cosmic strings and some of its observational consequences. One of the
+observable object produced by a cosmic string is the wake, which is a
+high-density sheet-like structure in the matter distribution. The
+second part will be a description of the work
+[**arXiv:1508.02317**](https://arxiv.org/abs/1508.02317) in which the
+stability of the wake is analyzed. The principal conclusion is that
+this object could be globally undisrupted until today. Finally, I will
+mention the consequences of this work for wake presence and possible
+detection in the large scale structures, using the results from N-body
+simulation of dark matter distribution with a wake:
+[**arXiv:1804.00083**](https://arxiv.org/abs/1804.00083),
+[**arXiv:1810.07737**](https://arxiv.org/abs/1810.07737)*
+
+
+
