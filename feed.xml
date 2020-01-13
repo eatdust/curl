@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2019-11-22T14:23:52+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2019/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2019-11-22T08:00:00+01:00</published><updated>2019-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2019/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2019/11/22/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 29th&lt;/strong&gt; of November,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-01-13T15:50:21+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/01/13/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-01-13T08:00:00+01:00</published><updated>2020-01-13T08:00:00+01:00</updated><id>https://curl.group/news/2020/01/13/seminar</id><content type="html" xml:base="https://curl.group/news/2020/01/13/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 24th&lt;/strong&gt; of January,
+seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Disrael Camargo Neves da Cunha&lt;/strong&gt; who have recently joined us at CURL.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 14:00, room E349, Disrael Camargo Neves da Cunha (CURL, Louvain U.), will be talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;signatures-of-cosmic-strings-on-the-dark-matter-distribution&quot;&gt;Signatures of Cosmic Strings on the Dark Matter Distribution&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;In the first part of the talk, I will present a brief review of
+cosmic strings and some of its observational consequences. One of the
+observable object produced by a cosmic string is the wake, which is a
+high-density sheet-like structure in the matter distribution. The
+second part will be a description of the work
+&lt;a href=&quot;https://arxiv.org/abs/1508.02317&quot;&gt;&lt;strong&gt;arXiv:1508.02317&lt;/strong&gt;&lt;/a&gt; in which the
+stability of the wake is analyzed. The principal conclusion is that
+this object could be globally undisrupted until today. Finally, I will
+mention the consequences of this work for wake presence and possible
+detection in the large scale structures, using the results from N-body
+simulation of dark matter distribution with a wake:
+&lt;a href=&quot;https://arxiv.org/abs/1804.00083&quot;&gt;&lt;strong&gt;arXiv:1804.00083&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href=&quot;https://arxiv.org/abs/1810.07737&quot;&gt;&lt;strong&gt;arXiv:1810.07737&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 24th of January, seminar room E349 at 2pm. The speaker is Disrael Camargo Neves da Cunha who have recently joined us at CURL.</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2019/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2019-11-22T08:00:00+01:00</published><updated>2019-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2019/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2019/11/22/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 29th&lt;/strong&gt; of November,
 seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Atsuhisa Ota&lt;/strong&gt;
 from the DAMPT (Cambridge, U.K.).&lt;/p&gt;
 
@@ -272,93 +293,4 @@ primordial inflation.&lt;/p&gt;
 
 &lt;p&gt;The scenario is currently passing all cosmological and astrophysical
 constraints, and could be proven at work with future gravitational
-wave measurements of the non-minimal coupling.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">In a recent preprint, we discuss the possibility that both the Planck mass and the dark energy scale are dynamically generated by stochastic effects during inflation.</summary></entry><entry><title type="html">Informal meeting on Primordial Black Holes</title><link href="https://curl.group/news/2019/04/01/MiniPBH.html" rel="alternate" type="text/html" title="Informal meeting on Primordial Black Holes" /><published>2019-04-01T09:00:00+02:00</published><updated>2019-04-01T09:00:00+02:00</updated><id>https://curl.group/news/2019/04/01/MiniPBH</id><content type="html" xml:base="https://curl.group/news/2019/04/01/MiniPBH.html">&lt;p&gt;We hold an informal meeting, organized one day before the Solvay
-Workshop on &lt;a href=&quot;http://www.solvayinstitutes.be/event/workshop/dark_2019/dark_2019.html&quot;&gt;“The dark side of Black
-Holes”&lt;/a&gt;
-in Brussels (but not officially related to it), with a few experts on
-PBH to discuss recent developments in the field. This takes place
-Tuesday 2nd of April, seminar room E349 from 10 am.&lt;/p&gt;
-
-&lt;p&gt;Registration &lt;a href=&quot;https://agenda.irmp.ucl.ac.be/event/3341/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The program starts at 10:00 with Ilia Musco (ICC U. Barcelona)&lt;/p&gt;
-
-&lt;h3 id=&quot;threshold-and-abundance-of-primordial-black-holes-dependence-on-the-profile-of-the-cosmological-perturbations&quot;&gt;Threshold and abundance of primordial black holes: dependence on the profile of the cosmological perturbations&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Primordial black holes can form in the early Universe from the
- collapse of cosmological perturbations after the cosmological horizon
- crossing. They are possible candidates for the dark matter as well as
- for the seeds of supermassive black holes observed today in the
- centre of galaxies. In calculations of spherically symmetric
- collapse, using a large curvature perturbation in the super horizon
- regime, the initial conditions are specified using the gradient
- expansion approximation in the long wave length limit. The non linear
- evolution is then simulated using a Lagrangian relativistic
- hydrodynamical code. If the perturbation is larger than a threshold
- depending on the equation of state and on the specific shape of the
- perturbation, a black hole is formed. In this talk I will discuss the
- dependence of PBH formation from the initial shape of the curvature
- profile showing the relation between the threshold amplitude and the
- steepness of the perturbation which is linked to the amplitude of the
- pressure gradients that are developing during the collapse. I will
- show how to derive the initial curvature profile form the shape of
- the inflationary power spectrum, which affects also the abundance of
- PBHs. Depending on the model, a proper calculation, using the shape
- of the power spectrum, shows that the abundance of PBHs is
- significantly increased by several order of magnitudes compared to
- previous estimations.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;At 10:50, Teruaki Suyama (TiTech, Tokyo) will speak about&lt;/p&gt;
-
-&lt;h3 id=&quot;hidden-universality-in-the-merger-rate-distribution-in-the-primordial-black-hole-scenario&quot;&gt;Hidden universality in the merger rate distribution in the primordial black hole scenario&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;It has been proposed that primordial black holes (PBHs) form binaries
- in the radiation dominated era. Once formed, some fraction of them
- may merge within the age of the Universe by gravitational radiation
- reaction. We investigate the merger rate of the PBH binaries when the
- PBH mass function is not monochromatic, which is a generalization of
- the previous studies where the PBHs are assumed to have the same
- mass. After deriving a formula for the merger time probability
- distribution in the PBH mass plane, we evaluate it under two
- different approximations. We identify a quantity constructed from the
- mass-distribution of the merger rate density whose value is close to
- unity for all binary masses independently of the PBH mass
- function. This result suggests that the measurement of this quantity
- is useful for testing the PBH scenario.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;After lunch, we will have Florian Kuhnel (Oscar Klein Centre,
-Stockholm U.) with&lt;/p&gt;
-
-&lt;h3 id=&quot;primordial-black-holes---formation-constraints-uncertainties&quot;&gt;Primordial Black Holes - Formation, Constraints, Uncertainties&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Primordial black holes are black holes that may have formed in the
- early Universe. Their masses potentially span a range from as low as
- the Planck mass up to many orders of magnitude above the solar
- mass. This, in particular, includes black holes of the order of 10
- solar masses, like those recently discovered by LIGO. These may be of
- primordial origin. In order to quantitatively asses this and related
- scenarios, a profound understanding of the holes’ formation mechanism
- necessary. After a general introduction on primordial black holes, I
- will discuss the most consequential aspects of their formation, and
- elaborate on the observable imprints these may leave. I will give an
- overview about recent abundance limits, discuss the uncertainty of
- these constraints.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;And finally, Michael Hawkins (Edimburg O.) will close the day talking about&lt;/p&gt;
-
-&lt;h3 id=&quot;the-signature-of-primordial-black-holes-in-galaxy-dark-matter-haloes&quot;&gt;The signature of primordial black holes in galaxy dark matter haloes&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;There are several well-known gravitationally lensed quasar systems
- where the quasar images appear to lie well clear of the stars in the
- lensing galaxy. I shall show that in some such cases the stellar
- population cannot account for the observed microlensing. In these
- cases the most plausible bodies responsible for thr lensing are
- primordial black holes.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We hold an informal meeting, organized one day before the Solvay Workshop on “The dark side of Black Holes” in Brussels (but not officially related to it), with a few experts on PBH to discuss recent developments in the field. This takes place Tuesday 2nd of April, seminar room E349 from 10 am.</summary></entry></feed>
+wave measurements of the non-minimal coupling.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">In a recent preprint, we discuss the possibility that both the Planck mass and the dark energy scale are dynamically generated by stochastic effects during inflation.</summary></entry></feed>
