@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-01-13T15:50:21+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/01/13/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-01-13T08:00:00+01:00</published><updated>2020-01-13T08:00:00+01:00</updated><id>https://curl.group/news/2020/01/13/seminar</id><content type="html" xml:base="https://curl.group/news/2020/01/13/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 24th&lt;/strong&gt; of January,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-02-07T15:41:14+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/02/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-02-07T08:00:00+01:00</published><updated>2020-02-07T08:00:00+01:00</updated><id>https://curl.group/news/2020/02/07/seminar</id><content type="html" xml:base="https://curl.group/news/2020/02/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Thursday 13th&lt;/strong&gt; of
+February, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;4pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Dida
+Markovic&lt;/strong&gt; from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena
+U.S.).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 16:00, room E349, Dida Markovic (JPL, NASA), will be talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;cosmology-from-the-anisotropic-power-spectrum-with-euclid&quot;&gt;Cosmology from the anisotropic power spectrum with Euclid&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Euclid will be the first experiment to observe redshift space
+distortions from space. This way it will be able to survey the sky,
+not limited by distortions in the Earth’s atmosphere. The design of
+the survey and the instrument will enable us to reach 1% precision in
+the power spectrum. This will give us the power to conduct
+unprecedented tests of Einstein’s gravity and the expansion history of
+the universe. However this will also mean that we must reach an
+unprecedented understanding of our systematic effects, whether coming
+from our instrument or the foreground sky. It will also mean we will
+need to ensure our theories are adequate to be tested against such
+precise data. In this talk I will describe Euclid - our instrument,
+our survey, and our science. I will describe the challenges in
+understanding it’s systematics and I will present some results from my
+resent work on testing two competing models for non-linear large scale
+structure.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Thursday 13th of February, seminar room E349 at 4pm. The speaker is Dida Markovic from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena U.S.).</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/01/13/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-01-13T08:00:00+01:00</published><updated>2020-01-13T08:00:00+01:00</updated><id>https://curl.group/news/2020/01/13/seminar</id><content type="html" xml:base="https://curl.group/news/2020/01/13/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 24th&lt;/strong&gt; of January,
 seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Disrael Camargo Neves da Cunha&lt;/strong&gt; who have recently joined us at CURL.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -274,23 +299,4 @@ scale, &lt;script type=&quot;math/tex&quot;&gt;\gamma_\mathrm{c}&lt;/script&gt;,
 cut &lt;strong&gt;always matters&lt;/strong&gt; and is responsible for the plateau on the
 purple curve at small &lt;script type=&quot;math/tex&quot;&gt;\gamma&lt;/script&gt; values. The existence of a second
 plateau around &lt;script type=&quot;math/tex&quot;&gt;\gamma \simeq 10^{-6}&lt;/script&gt; comes from the Infra-Red
-sensitivity of all super-critical loop production functions.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We have recently made public a rather technical paper in which we explicitly and unambiguously calculate the cosmic string loop number density distribution in our universe coming from various motivated loop production functions. Such a density distribution crucially determines the spectrum of their emitted gravitational waves, a smooking gun for their potential discovery.</summary></entry><entry><title type="html">A large mass hierarchy from a small non-minimal coupling</title><link href="https://curl.group/news/2019/04/02/1903.03544.html" rel="alternate" type="text/html" title="A large mass hierarchy from a small non-minimal coupling" /><published>2019-04-02T15:00:00+02:00</published><updated>2019-04-02T15:00:00+02:00</updated><id>https://curl.group/news/2019/04/02/1903.03544</id><content type="html" xml:base="https://curl.group/news/2019/04/02/1903.03544.html">&lt;p&gt;In a recent preprint, we discuss the possibility that both the Planck
-mass and the dark energy scale are dynamically generated by stochastic
-effects during inflation.&lt;/p&gt;
-
-&lt;p&gt;Two of the energy scales involved in gravitation, the Planck mass
-&lt;script type=&quot;math/tex&quot;&gt;M_\mathrm{Pl} \simeq 10^{18}\,\mathrm{GeV}&lt;/script&gt; and the cosmological
-constant energy scale &lt;script type=&quot;math/tex&quot;&gt;\rho_{\Lambda}^{1/4} \simeq 10^{-3}\,
-\mathrm{eV}&lt;/script&gt; differ by many orders of magnitude.&lt;/p&gt;
-
-&lt;p&gt;Together with &lt;a href=&quot;/members/suyama.html&quot;&gt;&lt;strong&gt;Teruaki Suyama&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.th.phys.titech.ac.jp/cosmo/&quot;&gt;&lt;strong&gt;Masahide
-Yamaguchi&lt;/strong&gt;&lt;/a&gt; from
-&lt;a href=&quot;http://www.th.phys.titech.ac.jp&quot;&gt;&lt;strong&gt;TiTech&lt;/strong&gt;&lt;/a&gt; (Tokyo), we explore in
-Ref.&lt;a class=&quot;citation&quot; href=&quot;#ringeval:2019bob&quot;&gt;[1]&lt;/a&gt; the possibility that both have been
-dynamically generated from a new and unique ultra light scalar field
-that would have experienced super-Hubble quantum fluctuations during
-primordial inflation.&lt;/p&gt;
-
-&lt;p&gt;The scenario is currently passing all cosmological and astrophysical
-constraints, and could be proven at work with future gravitational
-wave measurements of the non-minimal coupling.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">In a recent preprint, we discuss the possibility that both the Planck mass and the dark energy scale are dynamically generated by stochastic effects during inflation.</summary></entry></feed>
+sensitivity of all super-critical loop production functions.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We have recently made public a rather technical paper in which we explicitly and unambiguously calculate the cosmic string loop number density distribution in our universe coming from various motivated loop production functions. Such a density distribution crucially determines the spectrum of their emitted gravitational waves, a smooking gun for their potential discovery.</summary></entry></feed>
