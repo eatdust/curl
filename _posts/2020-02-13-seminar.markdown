@@ -1,0 +1,38 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2020-02-07 08:00:00 +0100
+---
+
+Our next cosmology seminar takes place on **Thursday 13th** of
+February, seminar **room E349** at **4pm**. The speaker is **Dida
+Markovic** from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena
+U.S.).
+
+---
+
+At 16:00, room E349, Dida Markovic (JPL, NASA), will be talking about
+
+
+### Cosmology from the anisotropic power spectrum with Euclid
+
+
+*Euclid will be the first experiment to observe redshift space
+distortions from space. This way it will be able to survey the sky,
+not limited by distortions in the Earth’s atmosphere. The design of
+the survey and the instrument will enable us to reach 1% precision in
+the power spectrum. This will give us the power to conduct
+unprecedented tests of Einstein’s gravity and the expansion history of
+the universe. However this will also mean that we must reach an
+unprecedented understanding of our systematic effects, whether coming
+from our instrument or the foreground sky. It will also mean we will
+need to ensure our theories are adequate to be tested against such
+precise data. In this talk I will describe Euclid - our instrument,
+our survey, and our science. I will describe the challenges in
+understanding it’s systematics and I will present some results from my
+resent work on testing two competing models for non-linear large scale
+structure.*
+
+
+
