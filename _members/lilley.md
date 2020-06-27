@@ -6,14 +6,14 @@ funding: FSR
 from: 2010, March 01
 to: 2010, September 30
 office:
-phone:
-email: marc.lilley@gmail.com
+phone: +33 1 40 51 23 24 
+email: marc.lilley@obspm.fr
 homepage:
 image: /assets/images/people/lilley.png
 orientation: portrait
 bibfile: mlilley
 bibname: marc lilley
-position: 'Post-doctoral researcher at APC, Paris (France)'
+position: 'Research engineer at SYRTE, Paris-Meudon Observatory (France)'
 ---
 
 My research topics are current-carrying cosmic strings and
