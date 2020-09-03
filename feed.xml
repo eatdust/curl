@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-06-27T12:25:46+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/02/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-02-07T08:00:00+01:00</published><updated>2020-02-07T08:00:00+01:00</updated><id>https://curl.group/news/2020/02/07/seminar</id><content type="html" xml:base="https://curl.group/news/2020/02/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Thursday 13th&lt;/strong&gt; of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-09-03T18:04:13+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Detection of a very very massive black holes merger</title><link href="https://curl.group/news/2020/09/03/GW190521.html" rel="alternate" type="text/html" title="Detection of a very very massive black holes merger" /><published>2020-09-03T09:00:00+02:00</published><updated>2020-09-03T09:00:00+02:00</updated><id>https://curl.group/news/2020/09/03/GW190521</id><content type="html" xml:base="https://curl.group/news/2020/09/03/GW190521.html">&lt;p&gt;The gravitational waves emitted during the merging of two black holes
+of 85 and 66 times the sun mass have been detected on May 25, 2019 by
+the LIGO detectors in the United States and the Virgo detector in
+Italy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/ligovirgo_merger.jpg&quot; alt=&quot;GW190521&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The existence of so massive black holes is quite unexpected because
+theoretical models disfavour the formation of black holes between
+65 &lt;script type=&quot;math/tex&quot;&gt;M_{\odot}&lt;/script&gt; and 120 &lt;script type=&quot;math/tex&quot;&gt;M_{\odot}&lt;/script&gt; when the most massive stars explode in
+supernovae. They may come from previous mergers, but, then, they should
+live in a dense black hole environment, like a black hole or star
+cluster, in order to have a chance to form a binary.  An exotic
+alternative: these black holes could be primordial and have formed
+less than a milli-second after the Big-Bang, from pre-existing
+inhomogeneities in the primeval plasma.  This scenario could explain
+some intriguing properties of black hole mergers detected so far.  An
+idea proposed by Stephen Hawking in 1971 that comes back at the
+forefront of hot topics in Science.&lt;/p&gt;
+
+&lt;p&gt;CURL members Christophe Ringeval and Sebastien Clesse are members of
+the Virgo collaboration, working on the gravitational waves from
+cosmic strings, and from primordial black holes. Upcoming LIGO/Virgo
+observations will help to distinguish the different models of black
+hole formation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;The official announcement: &lt;a href=&quot;https://www.ligo.org/detections/GW190521/files/pr-english.pdf&quot;&gt;&lt;strong&gt;Press Release&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Artist illustration: Ingrid Bourgault &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The gravitational waves emitted during the merging of two black holes of 85 and 66 times the sun mass have been detected on May 25, 2019 by the LIGO detectors in the United States and the Virgo detector in Italy.</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/02/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-02-07T08:00:00+01:00</published><updated>2020-02-07T08:00:00+01:00</updated><id>https://curl.group/news/2020/02/07/seminar</id><content type="html" xml:base="https://curl.group/news/2020/02/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Thursday 13th&lt;/strong&gt; of
 February, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;4pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Dida
 Markovic&lt;/strong&gt; from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena
 U.S.).&lt;/p&gt;
@@ -170,7 +204,7 @@ solar mass, due to the boost of PBH formation at the QCD transition,
 and some mergers above 60 solar masses, in the mass gap, with low mass
 ratios, and involving one sub-solar black hole.  These features are
 universal, whatever is the underlying PBH formation scenario and their
-abundance.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">On Thursday 22th, we have the pleasure to host the Belgian Gravitational Waves meeting. It starts at 2pm, seminar room E349. Our guest speaker is Chris Belczynski and our local speaker is Sébastien Clesse.</summary></entry><entry><title type="html">Post-doctoral opening in Gravitational Wave Cosmology</title><link href="https://curl.group/jobs/2019/10/09/ARC.html" rel="alternate" type="text/html" title="Post-doctoral opening in Gravitational Wave Cosmology" /><published>2019-10-09T09:00:00+02:00</published><updated>2019-10-09T09:00:00+02:00</updated><id>https://curl.group/jobs/2019/10/09/ARC</id><content type="html" xml:base="https://curl.group/jobs/2019/10/09/ARC.html">&lt;p&gt;We are happy to announce the opening of a &lt;strong&gt;post-doctoral position&lt;/strong&gt;
+abundance.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">On Thursday 22th, we have the pleasure to host the Belgian Gravitational Waves meeting. It starts at 2pm, seminar room E349. Our guest speaker is Chris Belczynski and our local speaker is Sébastien Clesse.</summary></entry><entry><title type="html">~~Post-doctoral opening in Gravitational Wave Cosmology~~</title><link href="https://curl.group/jobs/2019/10/09/ARC.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Gravitational Wave Cosmology~~" /><published>2019-10-09T09:00:00+02:00</published><updated>2019-10-09T09:00:00+02:00</updated><id>https://curl.group/jobs/2019/10/09/ARC</id><content type="html" xml:base="https://curl.group/jobs/2019/10/09/ARC.html">&lt;p&gt;We are happy to announce the opening of a &lt;strong&gt;post-doctoral position&lt;/strong&gt;
 in Gravitational Wave Cosmology at CURL (Cosmology, Universe and
 Relativity at Louvain), Louvain University (Belgium), starting fall
 2020.&lt;/p&gt;
@@ -258,45 +292,4 @@ baryons locally through electroweak baryogenesis.&lt;/p&gt;
     &lt;p&gt;(C) Propagation of baryons to rest of Universe through jets,
 resulting in the observed Baryon Asymmetry of the Universe.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Primordial black holes could not only explain the dark matter, but also the origin of the ordinary matter in the Universe. Sébastien, Bernard Carr and Juan García-Bellido propose a new baryogenesis scenario in Refs.[2] and [2].</summary></entry><entry><title type="html">The shape of cosmic string loop production functions</title><link href="https://curl.group/news/2019/04/07/1903.06685.html" rel="alternate" type="text/html" title="The shape of cosmic string loop production functions" /><published>2019-04-07T15:00:00+02:00</published><updated>2019-04-07T15:00:00+02:00</updated><id>https://curl.group/news/2019/04/07/1903.06685</id><content type="html" xml:base="https://curl.group/news/2019/04/07/1903.06685.html">&lt;p&gt;We have recently made public a rather technical paper in which we
-explicitly and unambiguously calculate the cosmic string loop number
-density distribution in our universe coming from various motivated
-loop production functions. Such a density distribution crucially
-determines the spectrum of their emitted gravitational waves, a
-smooking gun for their potential discovery.&lt;/p&gt;
-
-&lt;p&gt;Together with &lt;a href=&quot;https://www.apc.univ-paris7.fr/APC_CS/fr/auclair-pierre&quot;&gt;&lt;strong&gt;Pierre Auclair&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href=&quot;https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/sakellariadou&quot;&gt;&lt;strong&gt;Mairi Sakellariadou&lt;/strong&gt;&lt;/a&gt;
-and &lt;a href=&quot;http://www.apc.univ-paris7.fr/APC_CS/fr/users/steer&quot;&gt;&lt;strong&gt;Danièle Steer&lt;/strong&gt;&lt;/a&gt;, we have
-carefuly explored in Ref.&lt;a class=&quot;citation&quot; href=&quot;#auclair:2019zoz&quot;&gt;[1]&lt;/a&gt; the consequences of
-changing the slope of the Polchinski-Rocha loop production function to the actual
-observable cosmic string loop distribution. This is the parameter
-&lt;script type=&quot;math/tex&quot;&gt;\chi&lt;/script&gt; in the next plot:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/1903.06685/loopprod.png&quot; alt=&quot;lpf&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For the cases we have referred to as “sub-critical”, &lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
-\chi &lt; (3 \nu -
-1)/2 %]]&gt;&lt;/script&gt;, corresponding to steep slopes in the previous figure, we
-recover the results of Ref. &lt;a class=&quot;citation&quot; href=&quot;#lorenz:2010sm&quot;&gt;[2]&lt;/a&gt;. The parameter
-&lt;script type=&quot;math/tex&quot;&gt;\nu&lt;/script&gt; encodes the growing rate of the scale factor &lt;script type=&quot;math/tex&quot;&gt;a(t)&lt;/script&gt;, namely,
-we assume &lt;script type=&quot;math/tex&quot;&gt;a(t) \propto t^\nu&lt;/script&gt;.&lt;/p&gt;
-
-&lt;p&gt;For shallower slopes, the so-called “critical” and “super-critical”
-cases, &lt;script type=&quot;math/tex&quot;&gt;\chi \ge (3\nu-1)/2&lt;/script&gt;, we find that either the loop
-distribution incessantly grows, or, with some regularisation, reaches a
-stationnary distribution whose shape depends on what happens on the
-larger length scales. This is best illustrated by the following plot:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/1903.06685/diraccomp.png&quot; alt=&quot;diraccomp&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It compares the loop number density produced by assuming an infinitely
-sharp loop production function peaked at &lt;script type=&quot;math/tex&quot;&gt;\gamma = 0.1&lt;/script&gt; (green
-curve) with a (regularised) super-critical Polchinski-Rocha
-distribution having &lt;script type=&quot;math/tex&quot;&gt;\chi &gt; 0.25&lt;/script&gt; (purple curve), in the radiation
-era (&lt;script type=&quot;math/tex&quot;&gt;\nu=1/2&lt;/script&gt;). As this plot shows, the gravitational backreaction
-scale, &lt;script type=&quot;math/tex&quot;&gt;\gamma_\mathrm{c}&lt;/script&gt;, at which the loop production function is
-cut &lt;strong&gt;always matters&lt;/strong&gt; and is responsible for the plateau on the
-purple curve at small &lt;script type=&quot;math/tex&quot;&gt;\gamma&lt;/script&gt; values. The existence of a second
-plateau around &lt;script type=&quot;math/tex&quot;&gt;\gamma \simeq 10^{-6}&lt;/script&gt; comes from the Infra-Red
-sensitivity of all super-critical loop production functions.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We have recently made public a rather technical paper in which we explicitly and unambiguously calculate the cosmic string loop number density distribution in our universe coming from various motivated loop production functions. Such a density distribution crucially determines the spectrum of their emitted gravitational waves, a smooking gun for their potential discovery.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Primordial black holes could not only explain the dark matter, but also the origin of the ordinary matter in the Universe. Sébastien, Bernard Carr and Juan García-Bellido propose a new baryogenesis scenario in Refs.[2] and [2].</summary></entry></feed>
