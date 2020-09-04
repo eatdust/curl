@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-09-03T18:04:13+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Detection of a very very massive black holes merger</title><link href="https://curl.group/news/2020/09/03/GW190521.html" rel="alternate" type="text/html" title="Detection of a very very massive black holes merger" /><published>2020-09-03T09:00:00+02:00</published><updated>2020-09-03T09:00:00+02:00</updated><id>https://curl.group/news/2020/09/03/GW190521</id><content type="html" xml:base="https://curl.group/news/2020/09/03/GW190521.html">&lt;p&gt;The gravitational waves emitted during the merging of two black holes
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-09-04T19:16:00+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Detection of a very very massive black holes merger</title><link href="https://curl.group/news/2020/09/03/GW190521.html" rel="alternate" type="text/html" title="Detection of a very very massive black holes merger" /><published>2020-09-03T09:00:00+02:00</published><updated>2020-09-03T09:00:00+02:00</updated><id>https://curl.group/news/2020/09/03/GW190521</id><content type="html" xml:base="https://curl.group/news/2020/09/03/GW190521.html">&lt;p&gt;The gravitational waves emitted during the merging of two black holes
 of 85 and 66 times the sun mass have been detected on May 25, 2019 by
 the LIGO detectors in the United States and the Virgo detector in
 Italy.&lt;/p&gt;
@@ -22,17 +22,44 @@ forefront of hot topics in Science.&lt;/p&gt;
 the Virgo collaboration, working on the gravitational waves from
 cosmic strings, and from primordial black holes. Upcoming LIGO/Virgo
 observations will help to distinguish the different models of black
-hole formation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+hole formation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. See Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2020ghq&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2020/07/13/2007.06481.html&quot;&gt;this
+post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The official announcement: &lt;a href=&quot;https://www.ligo.org/detections/GW190521/files/pr-english.pdf&quot;&gt;&lt;strong&gt;Press Release&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Artist illustration: Ingrid Bourgault &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Artist illustration: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Illu_LIGO-Virgo_20200902_2.jpg&quot;&gt;Ingrid Bourgault&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The gravitational waves emitted during the merging of two black holes of 85 and 66 times the sun mass have been detected on May 25, 2019 by the LIGO detectors in the United States and the Virgo detector in Italy.</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/02/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-02-07T08:00:00+01:00</published><updated>2020-02-07T08:00:00+01:00</updated><id>https://curl.group/news/2020/02/07/seminar</id><content type="html" xml:base="https://curl.group/news/2020/02/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Thursday 13th&lt;/strong&gt; of
+&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The gravitational waves emitted during the merging of two black holes of 85 and 66 times the sun mass have been detected on May 25, 2019 by the LIGO detectors in the United States and the Virgo detector in Italy.</summary></entry><entry><title type="html">Two candidate mergers of primordial black holes from the QCD epoch</title><link href="https://curl.group/news/2020/07/13/2007.06481.html" rel="alternate" type="text/html" title="Two candidate mergers of primordial black holes from the QCD epoch" /><published>2020-07-13T10:42:07+02:00</published><updated>2020-07-13T10:42:07+02:00</updated><id>https://curl.group/news/2020/07/13/2007.06481</id><content type="html" xml:base="https://curl.group/news/2020/07/13/2007.06481.html">&lt;p&gt;The two recent gravitational-wave events GW190425 and GW190814 from
+the third observing run of LIGO/Virgo have both a companion which is
+unexpected if originated from a neutron star or a stellar black
+hole. &lt;a href=&quot;/members/clesse.html&quot;&gt;&lt;strong&gt;Sébastien&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://uam.academia.edu/JuanGarciaBellido&quot;&gt;&lt;strong&gt;Juan
+García-Bellido&lt;/strong&gt;&lt;/a&gt;
+investigate the possibility that these objects are Primordial Black
+Holes (PBHs) in Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2020ghq&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The known thermal history of the Universe predicts that the PBH
+formation is boosted at the time of the QCD transition, inducing a
+peak in their distribution at this particular mass scale, and a bump
+around 30−50 &lt;script type=&quot;math/tex&quot;&gt;M_\odot&lt;/script&gt;. We find that the merging rates inferred from GW190425
+and GW190814 are consistent with PBH binaries formed by capture in
+dense halos. At the same time, the rate of black hole mergers around
+30 &lt;script type=&quot;math/tex&quot;&gt;M_\odot&lt;/script&gt; and of sub-solar PBH mergers do not exceed the LIGO/Virgo
+limits. Such PBHs could explain a significant fraction, or even the
+totality of the Dark Matter, but they must be sufficiently strongly
+clustered in order to be consistent with current astrophysical limits.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2007.06481/rates.png&quot; alt=&quot;frates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This figure shows the expected merging rate distribution for
+primordial black holes, as a function of the two component masses and
+for tidal capture in dense haloes.  The green and orange lines
+indicate the rates inferred from the GW190425 and GW190814 events
+(dashed: best fit, solid: &lt;script type=&quot;math/tex&quot;&gt;90\%&lt;/script&gt; confidence limits), in agreement with
+the primordial black hole predictions.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The two recent gravitational-wave events GW190425 and GW190814 from the third observing run of LIGO/Virgo have both a companion which is unexpected if originated from a neutron star or a stellar black hole. Sébastien and Juan García-Bellido investigate the possibility that these objects are Primordial Black Holes (PBHs) in Ref. [1].</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/02/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-02-07T08:00:00+01:00</published><updated>2020-02-07T08:00:00+01:00</updated><id>https://curl.group/news/2020/02/07/seminar</id><content type="html" xml:base="https://curl.group/news/2020/02/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Thursday 13th&lt;/strong&gt; of
 February, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;4pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Dida
 Markovic&lt;/strong&gt; from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena
 U.S.).&lt;/p&gt;
@@ -258,38 +285,4 @@ new light on a series of unexplained cosmic conundra in Ref.&lt;a class=&quot;ci
 
 &lt;p&gt;This figure shows some expected mass fraction distributions of
 primordial black holes as dark matter and the limits imposed by
-various astrophysical probes.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The known thermal history of the Universe is expected to shape the mass function of primordial black holes. Sébastien, Bernard Carr, Juan García-Bellido and Florian Kühnel shed a new light on a series of unexplained cosmic conundra in Ref.[1].</summary></entry><entry><title type="html">Are we born near a black hole?</title><link href="https://curl.group/news/2019/06/01/HSEWB.html" rel="alternate" type="text/html" title="Are we born near a black hole?" /><published>2019-06-01T10:42:07+02:00</published><updated>2019-06-01T10:42:07+02:00</updated><id>https://curl.group/news/2019/06/01/HSEWB</id><content type="html" xml:base="https://curl.group/news/2019/06/01/HSEWB.html">&lt;p&gt;Primordial black holes could not only explain the dark matter, but
-also the origin of the ordinary matter in the
-Universe. &lt;a href=&quot;/members/clesse.html&quot;&gt;&lt;strong&gt;Sébastien&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Bernard_Carr&quot;&gt;&lt;strong&gt;Bernard
-Carr&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://uam.academia.edu/JuanGarciaBellido&quot;&gt;&lt;strong&gt;Juan
-García-Bellido&lt;/strong&gt;&lt;/a&gt; propose
-a new baryogenesis scenario in Refs.&lt;a class=&quot;citation&quot; href=&quot;#garcia-bellido:2019vlf&quot;&gt;[1]&lt;/a&gt;
-and &lt;a class=&quot;citation&quot; href=&quot;#carr:2019hud&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;When density fluctuations collapse gravitationally in the early
-Universe to form primordial black holes, all the conditions are met to
-produce the observed baryon asymmetry around the collapsing
-regions. Moreover, this scenario naturally explains why the Dark
-Matter and Baryons have similar densities. No parameter tuning is
-required if these density fluctuations are due to the stochastic
-quantum fluctuations of a light spectator field during inflation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/1904.11482/sketche.png&quot; alt=&quot;baryo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The above figure is a qualitative representation of the three steps
-in our scenario:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;(A) Gravitational collapse to a PBH of the curvature fluctuation at
-horizon re-entry.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;(B) Sphaleron transition in hot spot around the PBH, producing
-baryons locally through electroweak baryogenesis.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;(C) Propagation of baryons to rest of Universe through jets,
-resulting in the observed Baryon Asymmetry of the Universe.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Primordial black holes could not only explain the dark matter, but also the origin of the ordinary matter in the Universe. Sébastien, Bernard Carr and Juan García-Bellido propose a new baryogenesis scenario in Refs.[2] and [2].</summary></entry></feed>
+various astrophysical probes.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The known thermal history of the Universe is expected to shape the mass function of primordial black holes. Sébastien, Bernard Carr, Juan García-Bellido and Florian Kühnel shed a new light on a series of unexplained cosmic conundra in Ref.[1].</summary></entry></feed>
