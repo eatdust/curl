@@ -1,0 +1,34 @@
+---
+layout: post
+title: Two candidate mergers of primordial black holes from the QCD epoch
+category: News
+date: 2020-07-13 09:42:07 +0100
+---
+
+The two recent gravitational-wave events GW190425 and GW190814 from
+the third observing run of LIGO/Virgo have both a companion which is
+unexpected if originated from a neutron star or a stellar black
+hole. [**Sébastien**](/members/clesse.html) and [**Juan
+García-Bellido**](https://uam.academia.edu/JuanGarciaBellido)
+investigate the possibility that these objects are Primordial Black
+Holes (PBHs) in Ref. {% cite clesse:2020ghq %}.
+
+The known thermal history of the Universe predicts that the PBH
+formation is boosted at the time of the QCD transition, inducing a
+peak in their distribution at this particular mass scale, and a bump
+around 30−50 $$M_\odot$$. We find that the merging rates inferred from GW190425
+and GW190814 are consistent with PBH binaries formed by capture in
+dense halos. At the same time, the rate of black hole mergers around
+30 $$M_\odot$$ and of sub-solar PBH mergers do not exceed the LIGO/Virgo
+limits. Such PBHs could explain a significant fraction, or even the
+totality of the Dark Matter, but they must be sufficiently strongly
+clustered in order to be consistent with current astrophysical limits.
+
+![frates]({{site.baseurl}}/assets/images/2007.06481/rates.png)
+
+This figure shows the expected merging rate distribution for
+primordial black holes, as a function of the two component masses and
+for tidal capture in dense haloes.  The green and orange lines
+indicate the rates inferred from the GW190425 and GW190814 events
+(dashed: best fit, solid: $$90\%$$ confidence limits), in agreement with
+the primordial black hole predictions.
