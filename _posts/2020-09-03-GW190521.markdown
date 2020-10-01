@@ -25,7 +25,7 @@ some intriguing properties of black hole mergers detected so far.  An
 idea proposed by Stephen Hawking in 1971 that comes back at the
 forefront of hot topics in Science.
 
-CURL members Christophe Ringeval and Sebastien Clesse are members of
+CURL members Sébastien Clesse and Christophe Ringeval are members of
 the Virgo collaboration, working on the gravitational waves from
 cosmic strings, and from primordial black holes. Upcoming LIGO/Virgo
 observations will help to distinguish the different models of black
