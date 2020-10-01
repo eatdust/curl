@@ -13,7 +13,9 @@ image: /assets/images/people/beltran.png
 orientation: portrait
 bibfile: beltran
 bibname: beltran jimenez
-position: 'Tenure-track at the University of Salamanca (Spain)'
+position: 'Tenure-track'
+location:  'University of Salamanca (Spain)'
+visiting: 
 ---
 
 Cosmology, dark energy, modified gravity.

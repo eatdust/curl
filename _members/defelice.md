@@ -13,6 +13,8 @@ image: /assets/images/people/defelice.png
 orientation: portrait
 bibfile: defelice
 bibname: de felice
-position: 'Associate Professor at Yukawa Institute for Theoretical Physics, Kyoto (Japan)'
+position: 'Associate Professor'
+location: 'Yukawa Institute for Theoretical Physics, Kyoto (Japan)'
+visiting:
 ---
 

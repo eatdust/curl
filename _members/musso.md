@@ -13,6 +13,8 @@ image: /assets/images/people/marcello.png
 orientation: portrait
 bibfile: mmusso
 bibname: marcello musso
-position: 'Senior Lecturer at ICTP-EAIFR, Kigali (Rwanda)'
+position: 'Senior Lecturer'
+location: 'ICTP-EAIFR, Kigali (Rwanda)'
+visiting:
 ---
 

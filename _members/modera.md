@@ -1,10 +1,10 @@
 ---
 layout: member
-title: Loïc Sablon
+title: Charles Modera
 description: Master student
 funding: UCL
-from: 2019, October 01
-to: 2020, June 31
+from: 2020, October 01
+to: 
 position:
 ---
 

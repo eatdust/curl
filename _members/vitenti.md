@@ -13,6 +13,8 @@ image: /assets/images/people/vitenti.jpg
 orientation: portrait
 bibfile: vitenti
 bibname: vitenti
-position: 'Professor at the State University of Londrina, Londrina (Brasil)'
+position: 'Faculty'
+location: 'State University of Londrina, Londrina (Brasil)'
+visiting:
 ---
 

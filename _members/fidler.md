@@ -13,7 +13,9 @@ image: /assets/images/people/fidler.png
 orientation: portrait
 bibfile: cfidler
 bibname: "fidler, christian"
-position: 'Post-doctoral researcher at Aachen University (Germany)'
+position: 'Post-doctoral researcher'
+location: 'Aachen University (Germany)'
+visiting:
 ---
 
 I am interested in the dynamics of the Universe, both at early times

@@ -14,15 +14,21 @@ sidebar_priority: 10
 
   {% for item in sorted_members %}
 
-  {% if item.to == null and item.description != 'Master student' %}
+  {% if item.visiting != null or item.to == null and item.description != 'Master student' %}
   
   <li>
     <h2><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
+    {% if item.visiting != null %}
+    <p>
+      Visiting {{ item.position }}
+    <p>
+    {% else %}
     {{ item.description }}
     {% if item.funding != null %}
     <p>
       Funding: {{ item.funding }}
     </p>
+    {% endif %}
     {% endif %}
   </li>
 
@@ -89,6 +95,10 @@ sidebar_priority: 10
     <p class="message">
     {% if item.position != null %}
        {{ item.position }}
+    {% endif %}
+    {% if item.location != null %}
+    <br>
+    {{ item.location }}
     {% endif %}
     </p>
     

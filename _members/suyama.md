@@ -13,6 +13,7 @@ image: /assets/images/people/suyama.jpg
 orientation: portrait
 bibfile: suyama
 bibname: teruaki suyama
-position: 'Associate Professor at the Tokyo Institute of Technology, Tokyo (Japan)'
-orientation: portrait
+position: 'Associate Professor'
+location: 'Tokyo Institute of Technology, Tokyo (Japan)'
+visiting:
 ---

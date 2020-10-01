@@ -80,6 +80,12 @@ layout: default
       <td> {{ member.position }} </td>
     </tr>
     {% endunless %}
+    {% unless member.location == null %}
+    <tr>
+      <th> Place: </th>
+      <td> {{ member.location }} </td>
+    </tr>
+    {% endunless %}
   </table>
 </div>
 {% endif %}

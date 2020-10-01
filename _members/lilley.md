@@ -13,7 +13,9 @@ image: /assets/images/people/lilley.png
 orientation: portrait
 bibfile: mlilley
 bibname: marc lilley
-position: 'Research engineer at SYRTE, Paris-Meudon Observatory (France)'
+position: 'Research engineer'
+location: 'SYRTE, Paris-Meudon Observatory (France)'
+visiting:
 ---
 
 My research topics are current-carrying cosmic strings and
