@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-09-04T19:16:00+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Detection of a very very massive black holes merger</title><link href="https://curl.group/news/2020/09/03/GW190521.html" rel="alternate" type="text/html" title="Detection of a very very massive black holes merger" /><published>2020-09-03T09:00:00+02:00</published><updated>2020-09-03T09:00:00+02:00</updated><id>https://curl.group/news/2020/09/03/GW190521</id><content type="html" xml:base="https://curl.group/news/2020/09/03/GW190521.html">&lt;p&gt;The gravitational waves emitted during the merging of two black holes
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-10-01T16:51:08+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Post-doctoral opening in Gravitational Wave Cosmology</title><link href="https://curl.group/jobs/2020/10/01/ARC.html" rel="alternate" type="text/html" title="Post-doctoral opening in Gravitational Wave Cosmology" /><published>2020-10-01T09:00:00+02:00</published><updated>2020-10-01T09:00:00+02:00</updated><id>https://curl.group/jobs/2020/10/01/ARC</id><content type="html" xml:base="https://curl.group/jobs/2020/10/01/ARC.html">&lt;p&gt;We are pleased to open a  &lt;strong&gt;post-doctoral position&lt;/strong&gt; in Gravitational
+Wave Cosmology at CURL (Cosmology, Universe and Relativity at
+Louvain), Louvain University (Belgium), starting fall 2021.&lt;/p&gt;
+
+&lt;p&gt;Applicants interested in stochastic gravitational wave background,
+gravitational wave signatures of early universe physics, such as
+cosmic strings, primordial black holes, cosmic inflation, as well as
+data analysis for current and future gravitational wave
+interferometers, such as Pulsar Timing Arrays, LIGO/Virgo and LISA,
+are particularly encouraged to apply.&lt;/p&gt;
+
+&lt;p&gt;Appointment is available for two years.&lt;/p&gt;
+
+&lt;p&gt;The position is supported by a joint ARC research program in gravitational
+wave physics between the &lt;a href=&quot;https://cp3.phys.ucl.ac.be&quot;&gt;CP3 center&lt;/a&gt; and
+the &lt;a href=&quot;https://curl.irmp.ucl.ac.be&quot;&gt;CURL group&lt;/a&gt; at UCLouvain and the &lt;a href=&quot;https://www.star.uliege.be&quot;&gt;STAR
+institute&lt;/a&gt; at Université de
+Liège. Computing resources and support for travelling are excellent.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Letters of application (including a curriculum vitae, a list of
+publications, a brief statement of research interests) and at least
+two recommendation letters from senior scientists should be submitted
+on-line, by the 10th of January 2021, at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cp3.irmp.ucl.ac.be/jobs/63&quot;&gt;&lt;strong&gt;https://cp3.irmp.ucl.ac.be/jobs/63&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For more information, please contact:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;christophe.ringeval@uclouvain.be
+Cosmology, Universe and Relativity at Louvain
+Institute of Mathematics and Physics
+Louvain University
+2, Chemin du Cyclotron
+1348 Louvain-la-Neuve
+Belgium
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;A summary of our current interests can be consulted on the CURL
+website: &lt;a href=&quot;https://curl.group&quot;&gt;&lt;strong&gt;curl.group&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are pleased to open a post-doctoral position in Gravitational Wave Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2021.</summary></entry><entry><title type="html">Detection of a very very massive black holes merger</title><link href="https://curl.group/news/2020/09/03/GW190521.html" rel="alternate" type="text/html" title="Detection of a very very massive black holes merger" /><published>2020-09-03T09:00:00+02:00</published><updated>2020-09-03T09:00:00+02:00</updated><id>https://curl.group/news/2020/09/03/GW190521</id><content type="html" xml:base="https://curl.group/news/2020/09/03/GW190521.html">&lt;p&gt;The gravitational waves emitted during the merging of two black holes
 of 85 and 66 times the sun mass have been detected on May 25, 2019 by
 the LIGO detectors in the United States and the Virgo detector in
 Italy.&lt;/p&gt;
@@ -273,16 +314,4 @@ Belgium
 &lt;p&gt;A summary of our current interests can be consulted on the CURL
 website: &lt;a href=&quot;https://curl.group&quot;&gt;&lt;strong&gt;curl.group&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a post-doctoral position in Gravitational Wave Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2020.</summary></entry><entry><title type="html">Cosmic Conundra explained by Primordial Black Holes?</title><link href="https://curl.group/news/2019/07/01/1906.08217.html" rel="alternate" type="text/html" title="Cosmic Conundra explained by Primordial Black Holes?" /><published>2019-07-01T10:42:07+02:00</published><updated>2019-07-01T10:42:07+02:00</updated><id>https://curl.group/news/2019/07/01/1906.08217</id><content type="html" xml:base="https://curl.group/news/2019/07/01/1906.08217.html">&lt;p&gt;The known thermal history of the Universe is expected to shape the
-mass function of primordial black
-holes. &lt;a href=&quot;/members/clesse.html&quot;&gt;&lt;strong&gt;Sébastien&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Bernard_Carr&quot;&gt;&lt;strong&gt;Bernard
-Carr&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;https://uam.academia.edu/JuanGarciaBellido&quot;&gt;&lt;strong&gt;Juan
-García-Bellido&lt;/strong&gt;&lt;/a&gt; and
-&lt;a href=&quot;https://www.su.se/profiles/fflor-1.191847&quot;&gt;&lt;strong&gt;Florian Kühnel&lt;/strong&gt;&lt;/a&gt; shed a
-new light on a series of unexplained cosmic conundra in Ref.&lt;a class=&quot;citation&quot; href=&quot;#carr:2019kxo&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/1906.08217/fPBH.png&quot; alt=&quot;fPBH&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This figure shows some expected mass fraction distributions of
-primordial black holes as dark matter and the limits imposed by
-various astrophysical probes.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The known thermal history of the Universe is expected to shape the mass function of primordial black holes. Sébastien, Bernard Carr, Juan García-Bellido and Florian Kühnel shed a new light on a series of unexplained cosmic conundra in Ref.[1].</summary></entry></feed>
+&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a post-doctoral position in Gravitational Wave Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2020.</summary></entry></feed>
