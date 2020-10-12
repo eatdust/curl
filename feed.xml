@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-10-01T17:14:20+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Post-doctoral opening in Gravitational Wave Cosmology</title><link href="https://curl.group/jobs/2020/10/01/ARC.html" rel="alternate" type="text/html" title="Post-doctoral opening in Gravitational Wave Cosmology" /><published>2020-10-01T09:00:00+02:00</published><updated>2020-10-01T09:00:00+02:00</updated><id>https://curl.group/jobs/2020/10/01/ARC</id><content type="html" xml:base="https://curl.group/jobs/2020/10/01/ARC.html">&lt;p&gt;We are pleased to open a  &lt;strong&gt;post-doctoral position&lt;/strong&gt; in Gravitational
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2020-10-12T18:34:07+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Irreducible relic abundance of vortons</title><link href="https://curl.group/news/2020/10/12/2010.04620.html" rel="alternate" type="text/html" title="Irreducible relic abundance of vortons" /><published>2020-10-12T09:00:00+02:00</published><updated>2020-10-12T09:00:00+02:00</updated><id>https://curl.group/news/2020/10/12/2010.04620</id><content type="html" xml:base="https://curl.group/news/2020/10/12/2010.04620.html">&lt;p&gt;Vortons are centrifugally supported cosmic string loops that can be
+continuously created at all times during the cosmological
+expansion. Could they be all of the dark matter?&lt;/p&gt;
+
+&lt;p&gt;Together with &lt;a href=&quot;https://www.apc.univ-paris7.fr/APC_CS/fr/auclair-pierre&quot;&gt;&lt;strong&gt;Pierre
+Auclair&lt;/strong&gt;&lt;/a&gt;,
+&lt;a href=&quot;http://www2.iap.fr/users/peter/&quot;&gt;&lt;strong&gt;Patrick Peter&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.apc.univ-paris7.fr/APC_CS/fr/users/steer&quot;&gt;&lt;strong&gt;Danièle
+Steer&lt;/strong&gt;&lt;/a&gt;, we have
+calculated in Ref.&lt;a class=&quot;citation&quot; href=&quot;#auclair:2020wse&quot;&gt;[1]&lt;/a&gt; their inclusive
+cosmological distribution, taking into account the incessant
+production of vortons from a scaling string network all along the
+history of the Universe. They are a viable dark matter candidate!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2010.04620/dmkvortons_vv_tot.png&quot; alt=&quot;omegatot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This figure shows the density parameter of vortons today as a function
+of the two fundamental parameters of the theory. They are the string
+energy per unit length, \(G \mu\), and the ratio of this energy scale
+to the one at which a current condenses on the strings, \(\mathcal{R}\). The green line represents values of the relic density
+\(\Omega_\mathrm{tot} \in [0.2,0.4]\), around the current abundance of
+dark matter. For all possible values of \(G \mu\), one can find a
+current-carrier energy scale allowing for vortons to be all of the
+dark matter.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Vortons are centrifugally supported cosmic string loops that can be continuously created at all times during the cosmological expansion. Could they be all of the dark matter?</summary></entry><entry><title type="html">Post-doctoral opening in Gravitational Wave Cosmology</title><link href="https://curl.group/jobs/2020/10/01/ARC.html" rel="alternate" type="text/html" title="Post-doctoral opening in Gravitational Wave Cosmology" /><published>2020-10-01T09:00:00+02:00</published><updated>2020-10-01T09:00:00+02:00</updated><id>https://curl.group/jobs/2020/10/01/ARC</id><content type="html" xml:base="https://curl.group/jobs/2020/10/01/ARC.html">&lt;p&gt;We are pleased to open a  &lt;strong&gt;post-doctoral position&lt;/strong&gt; in Gravitational
 Wave Cosmology at CURL (Cosmology, Universe and Relativity at
 Louvain), Louvain University (Belgium), starting fall 2021.&lt;/p&gt;
 
@@ -27,7 +49,7 @@ on-line, by the 10th of January 2021, at:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://cp3.irmp.ucl.ac.be/jobs/63&quot;&gt;&lt;strong&gt;https://cp3.irmp.ucl.ac.be/jobs/63&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;For more information, please contact:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;christophe.ringeval@uclouvain.be
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;christophe.ringeval@uclouvain.be
 Cosmology, Universe and Relativity at Louvain
 Institute of Mathematics and Physics
 Louvain University
@@ -48,7 +70,7 @@ Italy.&lt;/p&gt;
 
 &lt;p&gt;The existence of so massive black holes is quite unexpected because
 theoretical models disfavour the formation of black holes between
-65 &lt;script type=&quot;math/tex&quot;&gt;M_{\odot}&lt;/script&gt; and 120 &lt;script type=&quot;math/tex&quot;&gt;M_{\odot}&lt;/script&gt; when the most massive stars explode in
+65 \(M_{\odot}\) and 120 \(M_{\odot}\) when the most massive stars explode in
 supernovae. They may come from previous mergers, but, then, they should
 live in a dense black hole environment, like a black hole or star
 cluster, in order to have a chance to form a binary.  An exotic
@@ -63,15 +85,15 @@ forefront of hot topics in Science.&lt;/p&gt;
 the Virgo collaboration, working on the gravitational waves from
 cosmic strings, and from primordial black holes. Upcoming LIGO/Virgo
 observations will help to distinguish the different models of black
-hole formation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. See Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2020ghq&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2020/07/13/2007.06481.html&quot;&gt;this
+hole formation&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. See Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2020ghq&quot;&gt;[1]&lt;/a&gt; and &lt;a href=&quot;/news/2020/07/13/2007.06481.html&quot;&gt;this
 post&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The official announcement: &lt;a href=&quot;https://www.ligo.org/detections/GW190521/files/pr-english.pdf&quot;&gt;&lt;strong&gt;Press Release&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Artist illustration: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Illu_LIGO-Virgo_20200902_2.jpg&quot;&gt;Ingrid Bourgault&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Artist illustration: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Illu_LIGO-Virgo_20200902_2.jpg&quot;&gt;Ingrid Bourgault&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The gravitational waves emitted during the merging of two black holes of 85 and 66 times the sun mass have been detected on May 25, 2019 by the LIGO detectors in the United States and the Virgo detector in Italy.</summary></entry><entry><title type="html">Two candidate mergers of primordial black holes from the QCD epoch</title><link href="https://curl.group/news/2020/07/13/2007.06481.html" rel="alternate" type="text/html" title="Two candidate mergers of primordial black holes from the QCD epoch" /><published>2020-07-13T10:42:07+02:00</published><updated>2020-07-13T10:42:07+02:00</updated><id>https://curl.group/news/2020/07/13/2007.06481</id><content type="html" xml:base="https://curl.group/news/2020/07/13/2007.06481.html">&lt;p&gt;The two recent gravitational-wave events GW190425 and GW190814 from
@@ -85,10 +107,10 @@ Holes (PBHs) in Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2020ghq
 &lt;p&gt;The known thermal history of the Universe predicts that the PBH
 formation is boosted at the time of the QCD transition, inducing a
 peak in their distribution at this particular mass scale, and a bump
-around 30−50 &lt;script type=&quot;math/tex&quot;&gt;M_\odot&lt;/script&gt;. We find that the merging rates inferred from GW190425
+around 30−50 \(M_\odot\). We find that the merging rates inferred from GW190425
 and GW190814 are consistent with PBH binaries formed by capture in
 dense halos. At the same time, the rate of black hole mergers around
-30 &lt;script type=&quot;math/tex&quot;&gt;M_\odot&lt;/script&gt; and of sub-solar PBH mergers do not exceed the LIGO/Virgo
+30 \(M_\odot\) and of sub-solar PBH mergers do not exceed the LIGO/Virgo
 limits. Such PBHs could explain a significant fraction, or even the
 totality of the Dark Matter, but they must be sufficiently strongly
 clustered in order to be consistent with current astrophysical limits.&lt;/p&gt;
@@ -99,7 +121,7 @@ clustered in order to be consistent with current astrophysical limits.&lt;/p&gt;
 primordial black holes, as a function of the two component masses and
 for tidal capture in dense haloes.  The green and orange lines
 indicate the rates inferred from the GW190425 and GW190814 events
-(dashed: best fit, solid: &lt;script type=&quot;math/tex&quot;&gt;90\%&lt;/script&gt; confidence limits), in agreement with
+(dashed: best fit, solid: \(90\%\) confidence limits), in agreement with
 the primordial black hole predictions.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The two recent gravitational-wave events GW190425 and GW190814 from the third observing run of LIGO/Virgo have both a companion which is unexpected if originated from a neutron star or a stellar black hole. Sébastien and Juan García-Bellido investigate the possibility that these objects are Primordial Black Holes (PBHs) in Ref. [1].</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/02/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-02-07T08:00:00+01:00</published><updated>2020-02-07T08:00:00+01:00</updated><id>https://curl.group/news/2020/02/07/seminar</id><content type="html" xml:base="https://curl.group/news/2020/02/07/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Thursday 13th&lt;/strong&gt; of
 February, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;4pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Dida
 Markovic&lt;/strong&gt; from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena
@@ -272,46 +294,4 @@ solar mass, due to the boost of PBH formation at the QCD transition,
 and some mergers above 60 solar masses, in the mass gap, with low mass
 ratios, and involving one sub-solar black hole.  These features are
 universal, whatever is the underlying PBH formation scenario and their
-abundance.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">On Thursday 22th, we have the pleasure to host the Belgian Gravitational Waves meeting. It starts at 2pm, seminar room E349. Our guest speaker is Chris Belczynski and our local speaker is Sébastien Clesse.</summary></entry><entry><title type="html">~~Post-doctoral opening in Gravitational Wave Cosmology~~</title><link href="https://curl.group/jobs/2019/10/09/ARC.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Gravitational Wave Cosmology~~" /><published>2019-10-09T09:00:00+02:00</published><updated>2019-10-09T09:00:00+02:00</updated><id>https://curl.group/jobs/2019/10/09/ARC</id><content type="html" xml:base="https://curl.group/jobs/2019/10/09/ARC.html">&lt;p&gt;We are happy to announce the opening of a &lt;strong&gt;post-doctoral position&lt;/strong&gt;
-in Gravitational Wave Cosmology at CURL (Cosmology, Universe and
-Relativity at Louvain), Louvain University (Belgium), starting fall
-2020.&lt;/p&gt;
-
-&lt;p&gt;Applicants with expertises in gravitational wave signatures of early
-universe physics, stochastic gravitational wave background, cosmic
-defects, primordial black holes, cosmic inflation, as well as data
-analysis for current and future gravitational wave interferometers,
-such as LIGO/Virgo and LISA, are particularly encouraged to apply.&lt;/p&gt;
-
-&lt;p&gt;Appointment is available for two years, and could possibly be extended
-to 3 years depending on mutual satisfaction and available funding.&lt;/p&gt;
-
-&lt;p&gt;The position is supported by a joint ARC research program in gravitational
-wave physics between the &lt;a href=&quot;https://cp3.phys.ucl.ac.be&quot;&gt;CP3 center&lt;/a&gt; and
-the &lt;a href=&quot;https://curl.irmp.ucl.ac.be&quot;&gt;CURL group&lt;/a&gt; at UCLouvain and the &lt;a href=&quot;https://www.star.uliege.be&quot;&gt;STAR
-institute&lt;/a&gt; at Université de
-Liège. Computing resources and support for travelling are excellent.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Letters of application (including a curriculum vitae, a list of
-publications, a brief statement of research interests) and at least
-two recommendation letters from senior scientists should be submitted
-on-line, by the 15th of January 2020, at:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://cp3.irmp.ucl.ac.be/jobs/59&quot;&gt;&lt;strong&gt;https://cp3.irmp.ucl.ac.be/jobs/59&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For more information, please contact:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;christophe.ringeval@uclouvain.be
-Cosmology, Universe and Relativity at Louvain
-Institute of Mathematics and Physics
-Louvain University
-2, Chemin du Cyclotron
-1348 Louvain-la-Neuve
-Belgium
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;A summary of our current interests can be consulted on the CURL
-website: &lt;a href=&quot;https://curl.group&quot;&gt;&lt;strong&gt;curl.group&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are happy to announce the opening of a post-doctoral position in Gravitational Wave Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2020.</summary></entry></feed>
+abundance.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">On Thursday 22th, we have the pleasure to host the Belgian Gravitational Waves meeting. It starts at 2pm, seminar room E349. Our guest speaker is Chris Belczynski and our local speaker is Sébastien Clesse.</summary></entry></feed>
