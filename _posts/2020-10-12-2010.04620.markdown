@@ -1,0 +1,31 @@
+---
+layout: post
+title: Irreducible relic abundance of vortons
+category: News
+date: 2020-10-12 08:00:00 +0100
+---
+
+Vortons are centrifugally supported cosmic string loops that can be
+continuously created at all times during the cosmological
+expansion. Could they be all of the dark matter?
+
+Together with [**Pierre
+Auclair**](https://www.apc.univ-paris7.fr/APC_CS/fr/auclair-pierre),
+[**Patrick Peter**](http://www2.iap.fr/users/peter/) and [**Danièle
+Steer**](http://www.apc.univ-paris7.fr/APC_CS/fr/users/steer), we have
+calculated in Ref.{% cite auclair:2020wse %} their inclusive
+cosmological distribution, taking into account the incessant
+production of vortons from a scaling string network all along the
+history of the Universe. They are a viable dark matter candidate!
+
+![omegatot](/assets/images/2010.04620/dmkvortons_vv_tot.png)
+
+This figure shows the density parameter of vortons today as a function
+of the two fundamental parameters of the theory. They are the string
+energy per unit length, $$G \mu$$, and the ratio of this energy scale
+to the one at which a current condenses on the strings, $$ \mathcal{R}
+$$. The green line represents values of the relic density
+$$\Omega_\mathrm{tot} \in [0.2,0.4]$$, around the current abundance of
+dark matter. For all possible values of $$G \mu$$, one can find a
+current-carrier energy scale allowing for vortons to be all of the
+dark matter.
