@@ -8,6 +8,7 @@ to:
 office: E353
 phone: +32 10 47 3344
 email: disrael.camargo@uclouvain.be
+homepage: https://curl.irmp.ucl.ac.be/~neves/index.html
 image: /assets/images/people/dacunha.png
 orientation: portrait
 bibfile: dacunha
