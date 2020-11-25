@@ -7,7 +7,7 @@ from: 2017, October 01
 to: 2020, September 30
 office: E354
 phone: +32 10 47 3155 
-email: sebastien.clesse@uclouvain.be
+email: sebastien.clesse@ulb.ac.be
 homepage: https://sebclesse.wixsite.com/clesse
 image: /assets/images/people/clesse.png
 orientation: portrait
