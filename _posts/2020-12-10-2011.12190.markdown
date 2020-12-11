@@ -6,33 +6,32 @@ date: 2020-12-10 09:42:07 +0100
 ---
 
 In a recent preprint, [**Cristian**](/members/joana.html) and
-[**Sébastien**](/members/clesse.html) showed the robustness of
+[**Sébastien**](/members/clesse.html) show the robustness of
 Starobinsky and Higgs inflation to inhomogeneous initial conditions of
 all sizes. They have performed full numerical relativity simulations
-having strong inhomogeneous initial field and velocities. After
+with strong inhomogeneous initial field and velocities. After
 some "wibbly-wobbly timey-wimey" evolution, the system relaxes
 towards... **Cosmic Inflation**.
 
 
 Their results are presented in Ref. {% cite joana:1832667
-%}. Simulations show that Sub-Hubble and Hubble-sized fluctuations
+%}. Simulations show that sub-Hubble, as well as Hubble-sized, fluctuations
 generically lead to inflation after an oscillatory phase between
 gradient and kinetic energies. The following figure shows the
-evolution of the equation of state for super-Hubble (top), and
+evolution of the equation of state for sub-Hubble (top), and
 super-Hubble (bottom) inhomogeneous initial conditions.
 
 ![eos]({{site.baseurl}}/assets/images/2011.12190/EoS.png)
 
 Whilst Hubble-sized fluctuations are able to form large
-pre-inflationary black holes, their horizons are always sub-Hubble
-allowing inflation to take place in the neightbouring black hole
-region. These results could even suggest that the formation of large
-pre-inflationary black holes can indeed
+pre-inflationary black holes, their horizons end up being always
+sub-Hubble and this allows for inflation to take place in the
+neighbourhood of the black hole horizon. These results could even
+suggest that the formation of large pre-inflationary black holes can
 [**catalize**](https://en.wikipedia.org/wiki/Catalysis) the onset of
-inflation by trapping gradient energies and therefore smoothing the
-field in the outside regions. An equatorial slice of a black hole
-forming due to super-Hubble modes at Hubble crossing is represented
-below.
+inflation. They trap gradient energies and therefore smooth the field
+and metric in the surrounding regions. An equatorial slice of a black
+hole forming is represented below.
 
 ![bh]({{site.baseurl}}/assets/images/2011.12190/BH_slc.png)
 
@@ -43,9 +42,9 @@ non-linear dynamics of the deeply inhomogeneous scalar field sources
 metric backreactions in the form of shear and tensor modes. These
 modes are found to decay slower than the energy density of the field
 and can potentially dominate the energy content of the Universe for a
-while. However, when this occurs, the beginning of inflation is
-simplfy delayed but not prevented. The next figure shows the
-gravitational modes produced in sub-Hubble dynamics.
+while. However, when this occurs, the beginning of inflation is simply
+delayed but never prevented. The next figure represents a snapshot of
+the gravitational modes "energy" produced in the sub-Hubble dynamics.
 
 ![preinf]({{site.baseurl}}/assets/images/2011.12190/ECM_slc.png)
 
