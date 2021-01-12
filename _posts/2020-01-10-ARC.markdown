@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Post-doctoral opening in Gravitational Wave Cosmology
+title:  ~~Post-doctoral opening in Gravitational Wave Cosmology~~
 category: Jobs
 date: 2020-10-01 08:00:00 +0100
 ---
