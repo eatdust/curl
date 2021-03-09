@@ -19,7 +19,7 @@ data analysis for the <a
 href="http://pla.esac.esa.int/pla/#home"><strong>PLANCK
 satellite</strong></a> and are now turning to the next generation of
 CMB polarization experiments, such as the <a
-href="http://www.core-mission.org"><strong>CORE
+href="http://litebird.jp/eng/"><strong>LiteBIRD
 mission</strong></a>. We are also part of the <a
 href="http://www.euclid-ec.org/"><strong>EUCLID mission</strong></a>
 which is a space telescope dedicated to the observation of the large
