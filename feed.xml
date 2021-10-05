@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-09-10T14:37:44+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Interferences in the Stochastic Gravitational Wave Background</title><link href="https://curl.group/news/2021/05/06/2104.14231.html" rel="alternate" type="text/html" title="Interferences in the Stochastic Gravitational Wave Background" /><published>2021-05-06T09:00:00+02:00</published><updated>2021-05-06T09:00:00+02:00</updated><id>https://curl.group/news/2021/05/06/2104.14231</id><content type="html" xml:base="https://curl.group/news/2021/05/06/2104.14231.html">&lt;p&gt;Some cosmological sources of gravitational waves, such as cosmic
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-10-05T11:09:16+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Belgian Cosmo Meeting</title><link href="https://curl.group/news/2021/10/05/BCosmo.html" rel="alternate" type="text/html" title="Belgian Cosmo Meeting" /><published>2021-10-05T09:00:00+02:00</published><updated>2021-10-05T09:00:00+02:00</updated><id>https://curl.group/news/2021/10/05/BCosmo</id><content type="html" xml:base="https://curl.group/news/2021/10/05/BCosmo.html">&lt;p&gt;We hold an informal meeting during which new comers working in
+Cosmology will present their work and research topics. This takes
+place Wednesday 6th of October, seminar room E349 from 2pm to 6pm.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The program starts at 14:00 with Albert Escrivà (ULB, Phys. Th.)&lt;/p&gt;
+
+&lt;h3 id=&quot;formation-of-primordial-black-holes&quot;&gt;Formation of Primordial Black Holes&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Primordial Black Holes (PBHs) could have been formed in the very
+ early universe due to the collapse of large curvature fluctuations
+ after inflation. PBHs are nowadays one of the most attractive and
+ fascinating research areas in cosmology for their possible
+ theoretical and observational implications. In this talk, I will
+ review the physical process of PBH formation, and the numerical
+ tools used to simulate them.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 14:45, Pierre Auclair (UCLouvain, CURL) will talk about&lt;/p&gt;
+
+&lt;h3 id=&quot;population-of-cosmic-strings-and-gravitational-waves&quot;&gt;Population of cosmic strings and gravitational waves&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Cosmic strings are one-dimensional topological defects that could be
+ formed during phase transitions in the primordial Universe. If
+ formed, these relics would be markers of the upheavals of our early
+ universe. During this talk, we will discuss about the evolution of
+ the cosmic string network, in particular the density of loops and
+ their gravitational wave emission. We will then make the connection
+ with the future space-based LISA mission, and the results from
+ LIGO/Virgo/KAGRA. If time permits, we will also show that the
+ presence of cosmic strings may also affect other types of
+ observables, such as the dark matter content of the Universe and the
+ diffuse gamma-ray background.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;After a break, at 16:00, Isabel Oldengott (UCLouvain, CP3) will be
+talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;local-relic-neutrino-density-with-kinetic-field-theory&quot;&gt;Local relic neutrino density with kinetic field theory&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Kinetic field theory (KFT) is a statistical field theory for an
+ ensemble of classical particles. It has quite recently been applied
+ to large scale structure formation, showing a remarkable agreement to
+ the results from N-body simulations. I am currently working on its
+ application on the computation of the local relic neutrino density
+ and will give a short review on the current status of the project.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We hold an informal meeting during which new comers working in Cosmology will present their work and research topics. This takes place Wednesday 6th of October, seminar room E349 from 2pm to 6pm.</summary></entry><entry><title type="html">Interferences in the Stochastic Gravitational Wave Background</title><link href="https://curl.group/news/2021/05/06/2104.14231.html" rel="alternate" type="text/html" title="Interferences in the Stochastic Gravitational Wave Background" /><published>2021-05-06T09:00:00+02:00</published><updated>2021-05-06T09:00:00+02:00</updated><id>https://curl.group/news/2021/05/06/2104.14231</id><content type="html" xml:base="https://curl.group/news/2021/05/06/2104.14231.html">&lt;p&gt;Some cosmological sources of gravitational waves, such as cosmic
 strings, are everywhere present and incessantly emitting. Their past
 and present contribution can mix together to create some fine structure in
 the stochastic gravitational wave background today.&lt;/p&gt;
@@ -253,30 +303,4 @@ mention the consequences of this work for wake presence and possible
 detection in the large scale structures, using the results from N-body
 simulation of dark matter distribution with a wake:
 &lt;a href=&quot;https://arxiv.org/abs/1804.00083&quot;&gt;&lt;strong&gt;arXiv:1804.00083&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href=&quot;https://arxiv.org/abs/1810.07737&quot;&gt;&lt;strong&gt;arXiv:1810.07737&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 24th of January, seminar room E349 at 2pm. The speaker is Disrael Camargo Neves da Cunha who have recently joined us at CURL.</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2019/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2019-11-22T08:00:00+01:00</published><updated>2019-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2019/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2019/11/22/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 29th&lt;/strong&gt; of November,
-seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Atsuhisa Ota&lt;/strong&gt;
-from the DAMPT (Cambridge, U.K.).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;At 14:00, room E349, Atsuhisa Ota (DAMPT, Cambridge), will be talking about&lt;/p&gt;
-
-&lt;h3 id=&quot;induced-superhorizon-tensor-perturbations-from-anisotropic-non-gaussianity&quot;&gt;Induced superhorizon tensor perturbations from anisotropic non-Gaussianity&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;While we have not detected large scale tensor perturbations, they are
-essential for cosmology because we consider their origin is
-microscopic quantum fluctuations during inflation. However, we should
-note that the classical secondary effects of scalar perturbations also
-source them after inflation. We usually consider that these secondary
-effects are not significant on the CMB anisotropy scale, but we will
-revisit this issue with non-Gaussian initial conditions for the scalar
-perturbations. In this talk, we will show that induced tensor modes
-can be generated on superhorizon scales through the intrinsic
-long-short mode coupling due to the non-Gaussianity. The induced
-tensor power spectrum has similar scale dependence with the primordial
-contribution. Hence we can discuss the detectability by the CMB
-anisotropy measurements. Interestingly, the induced tensor
-perturbations can be significantly enhanced, depending on the
-reheating scenario. Also, we will present the observational
-consequences of various non-Gaussian initial conditions based on the
-present framework.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 29th of November, seminar room E349 at 2pm. The speaker is Atsuhisa Ota from the DAMPT (Cambridge, U.K.).</summary></entry></feed>
+&lt;a href=&quot;https://arxiv.org/abs/1810.07737&quot;&gt;&lt;strong&gt;arXiv:1810.07737&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 24th of January, seminar room E349 at 2pm. The speaker is Disrael Camargo Neves da Cunha who have recently joined us at CURL.</summary></entry></feed>
