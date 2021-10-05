@@ -1,0 +1,59 @@
+---
+layout: post
+title:  Belgian Cosmo Meeting
+category: News
+date: 2021-10-05 08:00:00 +0100
+---
+
+We hold an informal meeting during which new comers working in
+Cosmology will present their work and research topics. This takes
+place Wednesday 6th of October, seminar room E349 from 2pm to 6pm.
+
+---
+
+The program starts at 14:00 with Albert Escrivà (ULB, Phys. Th.)
+
+### Formation of Primordial Black Holes
+
+*Primordial Black Holes (PBHs) could have been formed in the very
+ early universe due to the collapse of large curvature fluctuations
+ after inflation. PBHs are nowadays one of the most attractive and
+ fascinating research areas in cosmology for their possible
+ theoretical and observational implications. In this talk, I will
+ review the physical process of PBH formation, and the numerical
+ tools used to simulate them.*
+
+---
+
+At 14:45, Pierre Auclair (UCLouvain, CURL) will talk about
+
+### Population of cosmic strings and gravitational waves
+
+*Cosmic strings are one-dimensional topological defects that could be
+ formed during phase transitions in the primordial Universe. If
+ formed, these relics would be markers of the upheavals of our early
+ universe. During this talk, we will discuss about the evolution of
+ the cosmic string network, in particular the density of loops and
+ their gravitational wave emission. We will then make the connection
+ with the future space-based LISA mission, and the results from
+ LIGO/Virgo/KAGRA. If time permits, we will also show that the
+ presence of cosmic strings may also affect other types of
+ observables, such as the dark matter content of the Universe and the
+ diffuse gamma-ray background.*
+
+---
+
+After a break, at 16:00, Isabel Oldengott (UCLouvain, CP3) will be
+talking about
+
+### Local relic neutrino density with kinetic field theory
+
+*Kinetic field theory (KFT) is a statistical field theory for an
+ ensemble of classical particles. It has quite recently been applied
+ to large scale structure formation, showing a remarkable agreement to
+ the results from N-body simulations. I am currently working on its
+ application on the computation of the local relic neutrino density
+ and will give a short review on the current status of the project.*
+
+---
+
