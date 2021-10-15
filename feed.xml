@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-10-05T11:09:16+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Belgian Cosmo Meeting</title><link href="https://curl.group/news/2021/10/05/BCosmo.html" rel="alternate" type="text/html" title="Belgian Cosmo Meeting" /><published>2021-10-05T09:00:00+02:00</published><updated>2021-10-05T09:00:00+02:00</updated><id>https://curl.group/news/2021/10/05/BCosmo</id><content type="html" xml:base="https://curl.group/news/2021/10/05/BCosmo.html">&lt;p&gt;We hold an informal meeting during which new comers working in
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-10-15T11:04:13+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">From quantum fluctuations to galaxies</title><link href="https://curl.group/outreach/2021/10/15/CAAPC.html" rel="alternate" type="text/html" title="From quantum fluctuations to galaxies" /><published>2021-10-15T09:00:00+02:00</published><updated>2021-10-15T09:00:00+02:00</updated><id>https://curl.group/outreach/2021/10/15/CAAPC</id><content type="html" xml:base="https://curl.group/outreach/2021/10/15/CAAPC.html">&lt;p&gt;C. Ringeval gives a public lecture on Cosmic Inflation for the Cercle
+des Astronomes Amateurs de Charleroi (starts at 7:45pm). More information at
+&lt;a href=&quot;https://caapc.be/&quot;&gt;&lt;strong&gt;CAAPC&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;linflation-cosmique-du-vide-quantique-aux-galaxies&quot;&gt;L’Inflation Cosmique: du vide quantique aux galaxies&lt;/h3&gt;
+
+&lt;p&gt;Les mesures astronomiques et cosmologiques de ce début de siècle ont
+permis de déterminer avec une précision redoutable la nature et les
+abondances de toutes les formes d’énergie présentes dans l’Univers.
+Elles ont, une fois de plus, donné raison au modèle du Big-Bang de
+George Lemaître. Celui-ci décrit donc, avec précision, notre Univers
+sur des distances allant jusqu’à la dizaine de gigaparsecs et nous
+permet de comprendre son histoire dès la seconde après la singularité
+initiale.  Cependant, nous verrons comment ces mesures posent aussi
+des questions surprenantes sur l’évolution de l’Univers dans son
+premier milliardième de seconde d’existence. Nous expliquerons
+pourquoi la plus plausible des réponses est l’Inflation
+Cosmique. Celle-ci nous dit que l’Univers eut été en accélération
+quasi-exponentielle, dénué de toute de matière et lumière, gorgé de
+fluctuations quantiques et d’ondes gravitationnelles : les embryons
+des galaxies d’aujourd’hui.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/inflation_Charleroi.jpg&quot; alt=&quot;CAAPC_first_slide&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">C. Ringeval gives a public lecture on Cosmic Inflation for the Cercle des Astronomes Amateurs de Charleroi (starts at 7:45pm). More information at CAAPC.</summary></entry><entry><title type="html">Belgian Cosmo Meeting</title><link href="https://curl.group/news/2021/10/05/BCosmo.html" rel="alternate" type="text/html" title="Belgian Cosmo Meeting" /><published>2021-10-05T09:00:00+02:00</published><updated>2021-10-05T09:00:00+02:00</updated><id>https://curl.group/news/2021/10/05/BCosmo</id><content type="html" xml:base="https://curl.group/news/2021/10/05/BCosmo.html">&lt;p&gt;We hold an informal meeting during which new comers working in
 Cosmology will present their work and research topics. This takes
 place Wednesday 6th of October, seminar room E349 from 2pm to 6pm.&lt;/p&gt;
 
@@ -282,25 +304,4 @@ precise data. In this talk I will describe Euclid - our instrument,
 our survey, and our science. I will describe the challenges in
 understanding it’s systematics and I will present some results from my
 resent work on testing two competing models for non-linear large scale
-structure.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Thursday 13th of February, seminar room E349 at 4pm. The speaker is Dida Markovic from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena U.S.).</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2020/01/13/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2020-01-13T08:00:00+01:00</published><updated>2020-01-13T08:00:00+01:00</updated><id>https://curl.group/news/2020/01/13/seminar</id><content type="html" xml:base="https://curl.group/news/2020/01/13/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 24th&lt;/strong&gt; of January,
-seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Disrael Camargo Neves da Cunha&lt;/strong&gt; who have recently joined us at CURL.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;At 14:00, room E349, Disrael Camargo Neves da Cunha (CURL, Louvain U.), will be talking about&lt;/p&gt;
-
-&lt;h3 id=&quot;signatures-of-cosmic-strings-on-the-dark-matter-distribution&quot;&gt;Signatures of Cosmic Strings on the Dark Matter Distribution&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;In the first part of the talk, I will present a brief review of
-cosmic strings and some of its observational consequences. One of the
-observable object produced by a cosmic string is the wake, which is a
-high-density sheet-like structure in the matter distribution. The
-second part will be a description of the work
-&lt;a href=&quot;https://arxiv.org/abs/1508.02317&quot;&gt;&lt;strong&gt;arXiv:1508.02317&lt;/strong&gt;&lt;/a&gt; in which the
-stability of the wake is analyzed. The principal conclusion is that
-this object could be globally undisrupted until today. Finally, I will
-mention the consequences of this work for wake presence and possible
-detection in the large scale structures, using the results from N-body
-simulation of dark matter distribution with a wake:
-&lt;a href=&quot;https://arxiv.org/abs/1804.00083&quot;&gt;&lt;strong&gt;arXiv:1804.00083&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href=&quot;https://arxiv.org/abs/1810.07737&quot;&gt;&lt;strong&gt;arXiv:1810.07737&lt;/strong&gt;&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 24th of January, seminar room E349 at 2pm. The speaker is Disrael Camargo Neves da Cunha who have recently joined us at CURL.</summary></entry></feed>
+structure.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Thursday 13th of February, seminar room E349 at 4pm. The speaker is Dida Markovic from the Jet Propulsion Laboratory, NASA (Caltech, Pasadena U.S.).</summary></entry></feed>
