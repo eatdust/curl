@@ -1,0 +1,30 @@
+---
+layout: post
+title: From quantum fluctuations to galaxies
+category: Outreach
+date: 2021-10-15 08:00:00 +0100
+---
+
+C. Ringeval gives a public lecture on Cosmic Inflation for the Cercle
+des Astronomes Amateurs de Charleroi (starts at 7:45pm). More information at
+[**CAAPC**](https://caapc.be/).
+
+### L'Inflation Cosmique: du vide quantique aux galaxies
+
+Les mesures astronomiques et cosmologiques de ce début de siècle ont
+permis de déterminer avec une précision redoutable la nature et les
+abondances de toutes les formes d'énergie présentes dans l'Univers.
+Elles ont, une fois de plus, donné raison au modèle du Big-Bang de
+George Lemaître. Celui-ci décrit donc, avec précision, notre Univers
+sur des distances allant jusqu'à la dizaine de gigaparsecs et nous
+permet de comprendre son histoire dès la seconde après la singularité
+initiale.  Cependant, nous verrons comment ces mesures posent aussi
+des questions surprenantes sur l'évolution de l'Univers dans son
+premier milliardième de seconde d'existence. Nous expliquerons
+pourquoi la plus plausible des réponses est l'Inflation
+Cosmique. Celle-ci nous dit que l'Univers eut été en accélération
+quasi-exponentielle, dénué de toute de matière et lumière, gorgé de
+fluctuations quantiques et d'ondes gravitationnelles : les embryons
+des galaxies d'aujourd'hui.
+
+![CAAPC_first_slide](/assets/images/outreach/inflation_Charleroi.jpg)
