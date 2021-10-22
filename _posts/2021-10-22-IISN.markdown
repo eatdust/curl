@@ -6,7 +6,7 @@ date: 2021-10-22 08:00:00 +0100
 ---
 
 The [**Institute of Mathematics and
-Physics**](https://uclouvain.be/en/research-institutes/irmp), is
+Physics**](https://uclouvain.be/en/research-institutes/irmp) is
 openening a post-doctoral research position in the field of Cosmology
 starting fall 2022 to work in collaboration with Prof. M. Drewes
 ([CP3](https://cp3.phys.ucl.ac.be)) and Prof. Ch. Ringeval
@@ -27,7 +27,7 @@ publications, a brief statement of research interests) and at least
 two recommendation letters from senior scientists should be submitted
 on-line, by the 15th of December 2021, at:
 
-[**https://cp3.irmp.ucl.ac.be/jobs/65**](https://cp3.irmp.ucl.ac.be/jobs/74)
+[**https://cp3.irmp.ucl.ac.be/jobs/74**](https://cp3.irmp.ucl.ac.be/jobs/74)
 
 For more information, or postal applications, please contact:
 ```
