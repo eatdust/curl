@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-11-04T13:57:25+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Post-doctoral opening in Cosmology</title><link href="https://curl.group/jobs/2021/10/22/IISN.html" rel="alternate" type="text/html" title="Post-doctoral opening in Cosmology" /><published>2021-10-22T09:00:00+02:00</published><updated>2021-10-22T09:00:00+02:00</updated><id>https://curl.group/jobs/2021/10/22/IISN</id><content type="html" xml:base="https://curl.group/jobs/2021/10/22/IISN.html">&lt;p&gt;The &lt;a href=&quot;https://uclouvain.be/en/research-institutes/irmp&quot;&gt;&lt;strong&gt;Institute of Mathematics and
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-11-15T18:40:07+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/15/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-15T08:00:00+01:00</published><updated>2021-11-15T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/15/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/15/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 19th&lt;/strong&gt; of November,
+seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Danilo Artigas&lt;/strong&gt;
+from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum
+Cosmos Lab (Cracow, Poland).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 14:00, room E349, Danilo Artigas (IAS), will be talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;hamiltonian-formalism-for-cosmological-perturbations-the-separate-universe-approach&quot;&gt;Hamiltonian formalism for cosmological perturbations: the separate-universe approach&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;In order to describe inhomogeneities and anisotropies in the Universe,
+one generally considers a Friedmann-Lemaître-Robertson-Walker
+background and introduces perturbations on top of it. Such a method is
+commonly used in Lagrangian formalism and is fundamental for example
+in order to describe the formation of large-scale structures. On the
+other hand, the so-called “separate-universe” approach aims to provide
+an effective description of cosmological perturbations at large
+scales. In this talk, we will formulate the perturbation theory and
+the separate universe approach in the Hamiltonian language. We will
+then compare both frameworks to determine the domain of validity of
+the separate universe. As expected, both match at large scales since
+anisotropic degrees of freedom decouple from homogeneous ones. We’ll
+finish discussing the gauge matching between both approaches and the
+construction of their gauge-invariant quantities.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 19th of November, seminar room E349 at 2pm. The speaker is Danilo Artigas from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum Cosmos Lab (Cracow, Poland).</summary></entry><entry><title type="html">Post-doctoral opening in Cosmology</title><link href="https://curl.group/jobs/2021/10/22/IISN.html" rel="alternate" type="text/html" title="Post-doctoral opening in Cosmology" /><published>2021-10-22T09:00:00+02:00</published><updated>2021-10-22T09:00:00+02:00</updated><id>https://curl.group/jobs/2021/10/22/IISN</id><content type="html" xml:base="https://curl.group/jobs/2021/10/22/IISN.html">&lt;p&gt;The &lt;a href=&quot;https://uclouvain.be/en/research-institutes/irmp&quot;&gt;&lt;strong&gt;Institute of Mathematics and
 Physics&lt;/strong&gt;&lt;/a&gt; is
 openening a post-doctoral research position in the field of Cosmology
 starting fall 2022 to work in collaboration with Prof. M. Drewes
@@ -290,30 +314,4 @@ post&lt;/a&gt;.&lt;/p&gt;
       &lt;p&gt;Artist illustration: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Illu_LIGO-Virgo_20200902_2.jpg&quot;&gt;Ingrid Bourgault&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The gravitational waves emitted during the merging of two black holes of 85 and 66 times the sun mass have been detected on May 25, 2019 by the LIGO detectors in the United States and the Virgo detector in Italy.</summary></entry><entry><title type="html">Two candidate mergers of primordial black holes from the QCD epoch</title><link href="https://curl.group/news/2020/07/13/2007.06481.html" rel="alternate" type="text/html" title="Two candidate mergers of primordial black holes from the QCD epoch" /><published>2020-07-13T10:42:07+02:00</published><updated>2020-07-13T10:42:07+02:00</updated><id>https://curl.group/news/2020/07/13/2007.06481</id><content type="html" xml:base="https://curl.group/news/2020/07/13/2007.06481.html">&lt;p&gt;The two recent gravitational-wave events GW190425 and GW190814 from
-the third observing run of LIGO/Virgo have both a companion which is
-unexpected if originated from a neutron star or a stellar black
-hole. &lt;a href=&quot;/members/clesse.html&quot;&gt;&lt;strong&gt;Sébastien&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;https://uam.academia.edu/JuanGarciaBellido&quot;&gt;&lt;strong&gt;Juan
-García-Bellido&lt;/strong&gt;&lt;/a&gt;
-investigate the possibility that these objects are Primordial Black
-Holes (PBHs) in Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2020ghq&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The known thermal history of the Universe predicts that the PBH
-formation is boosted at the time of the QCD transition, inducing a
-peak in their distribution at this particular mass scale, and a bump
-around 30−50 \(M_\odot\). We find that the merging rates inferred from GW190425
-and GW190814 are consistent with PBH binaries formed by capture in
-dense halos. At the same time, the rate of black hole mergers around
-30 \(M_\odot\) and of sub-solar PBH mergers do not exceed the LIGO/Virgo
-limits. Such PBHs could explain a significant fraction, or even the
-totality of the Dark Matter, but they must be sufficiently strongly
-clustered in order to be consistent with current astrophysical limits.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/2007.06481/rates.png&quot; alt=&quot;frates&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This figure shows the expected merging rate distribution for
-primordial black holes, as a function of the two component masses and
-for tidal capture in dense haloes.  The green and orange lines
-indicate the rates inferred from the GW190425 and GW190814 events
-(dashed: best fit, solid: \(90\%\) confidence limits), in agreement with
-the primordial black hole predictions.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The two recent gravitational-wave events GW190425 and GW190814 from the third observing run of LIGO/Virgo have both a companion which is unexpected if originated from a neutron star or a stellar black hole. Sébastien and Juan García-Bellido investigate the possibility that these objects are Primordial Black Holes (PBHs) in Ref. [1].</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The gravitational waves emitted during the merging of two black holes of 85 and 66 times the sun mass have been detected on May 25, 2019 by the LIGO detectors in the United States and the Virgo detector in Italy.</summary></entry></feed>
