@@ -1,0 +1,36 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2021-11-22 08:00:00 +0100
+---
+
+Our next cosmology seminar takes place on **Wednesday 1st** of December,
+seminar **room E349** at **2pm**. The speaker is **Maxence Corman**
+from the Perimeter Institude (Waterloo, Canada).
+
+---
+
+At 14:00, room E349, Maxence Corman (PI), will be talking about
+
+
+### Evolving black holes in a nonsingular bouncing universe
+
+
+*One of the main unanswered questions of theoretical cosmology is
+whether the universe emerged from a big bang followed by a period of
+inflation or whether it had no beginning at all and bounced from a
+period of slow contraction to the current expanding phase.  It has
+been shown recently that it is possible for the universe to undergo a
+nonsingular bounce at energies well below the Planck scale such that
+the entire evolution can be treated classically. It is however still
+unclear how to treat the passage of any pre-existing black holes
+through the bounce to the expanding phase.  In this talk, we use
+numerical techniques to consider the classical evolution of a black
+hole in a non-singular universe driven by a ``ghost'' scalar field. We
+find that at least for small enough black holes, the black hole passes
+through the bounce freely, albeit losing energy in the process.
+Pushing this further, we also show that if the Hubble patch during
+contraction shrinks to a size comparable or smaller than the radius of
+the black hole this gives rise to interesting dynamics such as
+disappearing and re-emerging horizons.*
