@@ -5,19 +5,33 @@ category: News
 date: 2021-11-29 08:00:00 +0100
 ---
 
-Our next cosmology seminar takes place on **Friday 3rd** of December,
-seminar **room E349** at **2pm**. Our guest speaker is **Fabien Lacasa**
-from the Institut d'Astrophysique Spatiale (Paris, France).
+Next week, yet another cosmology seminar takes place on **Friday 3rd** of December,
+seminar **room E349** at **2pm**. Our guest speaker will be **Fabien Lacasa**
+from the Institut d'Astrophysique Spatiale (Orsay, France).
 
 ---
 
 At 14:00, room E349, Fabien Lacasa (IAS), will be talking about
 
 
-### Super-sample effects on galaxy surveys
+### Cosmology with the cosmic web: the high resolution promise
 
+*The large scale structure of the Universe, the cosmic web, is a key
+probe for late-time cosmology, and is indeed targeted by several of
+the major observational efforts in the coming decades. However, its
+analysis is hampered by the complex non-linear dynamics it undergoes
+as structure grow. A lot of efforts has focused on the impact of
+non-linearity on the observables, in particular the power
+spectrum. However, the non-linearity also affects error bars, and thus
+the information content, by generating non-Gaussian tails that induce
+new covariance term. After sufficient introduction, I will present a
+first exhaustive derivation of the covariance of the galaxy angular
+power spectrum. The impact will then be presented for a baseline
+cosmological analysis up to mildly non-linear scale, showing
+decreasing returns. By contrast, I will finally show that there is a
+large motivation to jump more boldly and push into the strongly
+non-linear regime at high resolution.*
 
-*TBA.*
 
 
 
