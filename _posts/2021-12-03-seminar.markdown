@@ -2,12 +2,13 @@
 layout: post
 title: Cosmology Seminar
 category: News
-date: 2021-11-29 08:00:00 +0100
+date: 2021-11-26 08:00:00 +0100
 ---
 
-Next week, yet another cosmology seminar takes place on **Friday 3rd** of December,
-seminar **room E349** at **2pm**. Our guest speaker will be **Fabien Lacasa**
-from the Institut d'Astrophysique Spatiale (Orsay, France).
+And yet another cosmology seminar takes place on **Friday 3rd** of
+December, seminar **room E349** at **2pm**. Our guest speaker will be
+**Fabien Lacasa** from the Institut d'Astrophysique Spatiale (Orsay,
+France).
 
 ---
 
