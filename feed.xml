@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-11-22T10:24:14+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-22T08:00:00+01:00</published><updated>2021-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/22/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Wednesday 1st&lt;/strong&gt; of December,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2021-11-29T18:30:12+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/26/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-26T08:00:00+01:00</published><updated>2021-11-26T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/26/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/26/seminar.html">&lt;p&gt;And yet another cosmology seminar takes place on &lt;strong&gt;Friday 3rd&lt;/strong&gt; of
+December, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. Our guest speaker will be
+&lt;strong&gt;Fabien Lacasa&lt;/strong&gt; from the Institut d’Astrophysique Spatiale (Orsay,
+France).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 14:00, room E349, Fabien Lacasa (IAS), will be talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;cosmology-with-the-cosmic-web-the-high-resolution-promise&quot;&gt;Cosmology with the cosmic web: the high resolution promise&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;The large scale structure of the Universe, the cosmic web, is a key
+probe for late-time cosmology, and is indeed targeted by several of
+the major observational efforts in the coming decades. However, its
+analysis is hampered by the complex non-linear dynamics it undergoes
+as structure grow. A lot of efforts has focused on the impact of
+non-linearity on the observables, in particular the power
+spectrum. However, the non-linearity also affects error bars, and thus
+the information content, by generating non-Gaussian tails that induce
+new covariance term. After sufficient introduction, I will present a
+first exhaustive derivation of the covariance of the galaxy angular
+power spectrum. The impact will then be presented for a baseline
+cosmological analysis up to mildly non-linear scale, showing
+decreasing returns. By contrast, I will finally show that there is a
+large motivation to jump more boldly and push into the strongly
+non-linear regime at high resolution.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">And yet another cosmology seminar takes place on Friday 3rd of December, seminar room E349 at 2pm. Our guest speaker will be Fabien Lacasa from the Institut d’Astrophysique Spatiale (Orsay, France).</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-22T08:00:00+01:00</published><updated>2021-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/22/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Wednesday 1st&lt;/strong&gt; of December,
 seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Maxence Corman&lt;/strong&gt;
 from the Perimeter Institute (Waterloo, Canada).&lt;/p&gt;
 
@@ -264,45 +289,4 @@ to the one at which a current condenses on the strings, \(\mathcal{R}\). The gre
 \(\Omega_\mathrm{tot} \in [0.2,0.4]\), around the current abundance of
 dark matter. For all possible values of \(G \mu\), one can find a
 current-carrier energy scale allowing for vortons to be all of the
-dark matter.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Vortons are centrifugally supported cosmic string loops that can be continuously created at all times during the cosmological expansion. Could they be all of the dark matter?</summary></entry><entry><title type="html">~~Post-doctoral opening in Gravitational Wave Cosmology~~</title><link href="https://curl.group/jobs/2020/10/01/ARC.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Gravitational Wave Cosmology~~" /><published>2020-10-01T09:00:00+02:00</published><updated>2020-10-01T09:00:00+02:00</updated><id>https://curl.group/jobs/2020/10/01/ARC</id><content type="html" xml:base="https://curl.group/jobs/2020/10/01/ARC.html">&lt;p&gt;We are pleased to open a  &lt;strong&gt;post-doctoral position&lt;/strong&gt; in Gravitational
-Wave Cosmology at CURL (Cosmology, Universe and Relativity at
-Louvain), Louvain University (Belgium), starting fall 2021.&lt;/p&gt;
-
-&lt;p&gt;Applicants interested in stochastic gravitational wave background,
-gravitational wave signatures of early universe physics, such as
-cosmic strings, primordial black holes, cosmic inflation, as well as
-data analysis for current and future gravitational wave
-interferometers, such as Pulsar Timing Arrays, LIGO/Virgo and LISA,
-are particularly encouraged to apply.&lt;/p&gt;
-
-&lt;p&gt;Appointment is available for two years.&lt;/p&gt;
-
-&lt;p&gt;The position is supported by a joint ARC research program in gravitational
-wave physics between the &lt;a href=&quot;https://cp3.phys.ucl.ac.be&quot;&gt;CP3 center&lt;/a&gt; and
-the &lt;a href=&quot;https://curl.irmp.ucl.ac.be&quot;&gt;CURL group&lt;/a&gt; at UCLouvain and the &lt;a href=&quot;https://www.star.uliege.be&quot;&gt;STAR
-institute&lt;/a&gt; at Université de
-Liège. Computing resources and support for travelling are excellent.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Letters of application (including a curriculum vitae, a list of
-publications, a brief statement of research interests) and at least
-two recommendation letters from senior scientists should be submitted
-on-line, by the 10th of January 2021, at:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://cp3.irmp.ucl.ac.be/jobs/63&quot;&gt;&lt;strong&gt;https://cp3.irmp.ucl.ac.be/jobs/63&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For more information, please contact:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;christophe.ringeval@uclouvain.be
-Cosmology, Universe and Relativity at Louvain
-Institute of Mathematics and Physics
-Louvain University
-2, Chemin du Cyclotron
-1348 Louvain-la-Neuve
-Belgium
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;A summary of our current interests can be consulted on the CURL
-website: &lt;a href=&quot;https://curl.group&quot;&gt;&lt;strong&gt;curl.group&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">We are pleased to open a post-doctoral position in Gravitational Wave Cosmology at CURL (Cosmology, Universe and Relativity at Louvain), Louvain University (Belgium), starting fall 2021.</summary></entry></feed>
+dark matter.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Vortons are centrifugally supported cosmic string loops that can be continuously created at all times during the cosmological expansion. Could they be all of the dark matter?</summary></entry></feed>
