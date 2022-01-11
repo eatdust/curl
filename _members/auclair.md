@@ -11,7 +11,7 @@ email: pierre.auclair@uclouvain.be
 homepage: https://www.pierreauclair.org
 image: /assets/images/people/auclair.png
 orientation: portrait
-bibfile:
+bibfile: auclair
 bibname: 'Auclair, Pierre'
 ---
 
