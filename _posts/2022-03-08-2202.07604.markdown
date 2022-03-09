@@ -1,0 +1,92 @@
+---
+layout: post
+title: Gravitational multifield dynamics on Higgs pre-inflation and preheating
+category: News
+date: 2022-03-08 09:42:07 +0100
+---
+
+Traditionally the problem of initial conditions for inflation has been
+treated separately from studies of reheating. To allow for a
+parametric-type reheating, the inflaton must be allowed to interact
+with (or decay to) other fields, and, these interactions should be
+present also during inhomogeneous preinflation. Could they prevent
+cosmic inflation to start in the first place?  In a single-author
+publication [**Cristian**](/members/joana.html) answers this question
+for Higgs Inflation: once more, inflation always starts and passes the
+challenge!
+
+
+The inflationary paradigm postulates an early phase of accelerated
+expansion of the Universe. Such a period provides an explanation for
+the observed large-scale homogeneity and flatness in the cosmos.
+After the end of inflation, the universe would have gone through a
+phase where the energy of the inflaton is transferred to Standard
+Model particles, heating up the universe and leading to a bath of
+ultra-relativistic particles behaving like radiation.  This phase is
+known as reheating.
+
+Traditionally the problem of initial condition for inflation, i.e.,
+knowing if inflation can start from highly inhomogeneous initial
+conditions, has been treated separately from studies of
+reheating. However, they are connected. To allow for the so-called
+parametric-type reheating, through resonances occurring while the
+system is oscillating at the bottom of the potential, the inflaton
+must be microscopically coupled to other fields. So, again, one could
+raise the question: shouldn't these interactions be present also
+during inhomogeneous preinflation? Do they prevent cosmic inflation
+to start?
+
+In a previous paper, see Ref. {% cite joana:2020rxm %}, we have
+studied the robustness of *single-field* Higgs Inflation to
+inhomogeneous initial conditions of all sizes. We have paid attention
+to include the gravitational dynamics of the system, showing the possible
+formation of pre-inflationary black holes, as well as the generation
+of shear/tensor modes in the metric. In short, we have showed that
+these gravitational dynamics can only delay the beginning of inflation, but
+never prevent it.
+
+In Ref. {% cite joana:2022uwc %}, [**Cristian**](/members/joana.html)
+expands the previous settings by adding an extra field into the Higgs
+Inflation model. This field is coupled such that it allows for a
+reheating of the Universe. Reheating is actually successful for a
+range of the field-field interaction strength, which is numerically
+explored in full General Relativity simulations. Then the same model
+is confronted to various preinflationary inhomogeneous settings and the
+full gravitational and scalar-field dynamics are investigated.
+
+The figure below shows the preheating resonances for the auxiliary
+field (left panel). Structure formation occurs $$2$$-$$3$$ e-folds
+after the end of inflation (right panel).
+
+![reh]({{site.baseurl}}/assets/images/2202.07604/Reh_01.png)
+
+
+Looking at the exact same model during the inhomogeneous multi-field
+preinflationary epochs, we confirm that the Higgs non-minimal coupling
+to gravity acts as a stabilizer as it *washes out* the energy
+contribution of the other minimally coupled matter/scalar-field
+sectors. In Ref {% cite joana:2022uwc %}, it is shown that this occurs
+naturally when one canonically normalizes the fields in the Einstein
+frame. This effect generalizes the dynamics of inhomogeneous
+extra-matter components, making them sub-dominant in comparison to the
+inflaton.
+
+![preinf]({{site.baseurl}}/assets/images/2202.07604/mf_preinf.png)
+
+The above figure illustrates the gravitational and scalar-field
+dynamics during pre-inflation. Two simulations are shown, one with
+super-Hubble initial conditions (left) and another with sub-Hubble
+size inhomogeneities (right).
+
+All in all, these investigations further confirm the robustness of
+Higgs Inflation to multi-field inhomogeneous initial conditions, while
+putting in evidence the formation of complex structures during the
+reheating. The possible production of compact objects during the
+reheating, such as primordial black holes, will be investigated in
+future works.
+
+
+
+
+
+
