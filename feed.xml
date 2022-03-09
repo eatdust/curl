@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-01-11T10:11:36+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">~~Cosmology Seminar~~</title><link href="https://curl.group/news/2021/11/26/seminar.html" rel="alternate" type="text/html" title="~~Cosmology Seminar~~" /><published>2021-11-26T08:00:00+01:00</published><updated>2021-11-26T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/26/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/26/seminar.html">&lt;p&gt;And yet another cosmology seminar takes place on &lt;strong&gt;Friday 3rd&lt;/strong&gt; of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-03-09T13:42:32+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Gravitational multifield dynamics on Higgs pre-inflation and preheating</title><link href="https://curl.group/news/2022/03/08/2202.07604.html" rel="alternate" type="text/html" title="Gravitational multifield dynamics on Higgs pre-inflation and preheating" /><published>2022-03-08T09:42:07+01:00</published><updated>2022-03-08T09:42:07+01:00</updated><id>https://curl.group/news/2022/03/08/2202.07604</id><content type="html" xml:base="https://curl.group/news/2022/03/08/2202.07604.html">&lt;p&gt;Traditionally the problem of initial conditions for inflation has been
+treated separately from studies of reheating. To allow for a
+parametric-type reheating, the inflaton must be allowed to interact
+with (or decay to) other fields, and, these interactions should be
+present also during inhomogeneous preinflation. Could they prevent
+cosmic inflation to start in the first place?  In a single-author
+publication &lt;a href=&quot;/members/joana.html&quot;&gt;&lt;strong&gt;Cristian&lt;/strong&gt;&lt;/a&gt; answers this question
+for Higgs Inflation: once more, inflation always starts and passes the
+challenge!&lt;/p&gt;
+
+&lt;p&gt;The inflationary paradigm postulates an early phase of accelerated
+expansion of the Universe. Such a period provides an explanation for
+the observed large-scale homogeneity and flatness in the cosmos.
+After the end of inflation, the universe would have gone through a
+phase where the energy of the inflaton is transferred to Standard
+Model particles, heating up the universe and leading to a bath of
+ultra-relativistic particles behaving like radiation.  This phase is
+known as reheating.&lt;/p&gt;
+
+&lt;p&gt;Traditionally the problem of initial condition for inflation, i.e.,
+knowing if inflation can start from highly inhomogeneous initial
+conditions, has been treated separately from studies of
+reheating. However, they are connected. To allow for the so-called
+parametric-type reheating, through resonances occurring while the
+system is oscillating at the bottom of the potential, the inflaton
+must be microscopically coupled to other fields. So, again, one could
+raise the question: shouldn’t these interactions be present also
+during inhomogeneous preinflation? Do they prevent cosmic inflation
+to start?&lt;/p&gt;
+
+&lt;p&gt;In a previous paper, see Ref. &lt;a class=&quot;citation&quot; href=&quot;#joana:2020rxm&quot;&gt;[1]&lt;/a&gt;, we have
+studied the robustness of &lt;em&gt;single-field&lt;/em&gt; Higgs Inflation to
+inhomogeneous initial conditions of all sizes. We have paid attention
+to include the gravitational dynamics of the system, showing the possible
+formation of pre-inflationary black holes, as well as the generation
+of shear/tensor modes in the metric. In short, we have showed that
+these gravitational dynamics can only delay the beginning of inflation, but
+never prevent it.&lt;/p&gt;
+
+&lt;p&gt;In Ref. &lt;a class=&quot;citation&quot; href=&quot;#joana:2022uwc&quot;&gt;[2]&lt;/a&gt;, &lt;a href=&quot;/members/joana.html&quot;&gt;&lt;strong&gt;Cristian&lt;/strong&gt;&lt;/a&gt;
+expands the previous settings by adding an extra field into the Higgs
+Inflation model. This field is coupled such that it allows for a
+reheating of the Universe. Reheating is actually successful for a
+range of the field-field interaction strength, which is numerically
+explored in full General Relativity simulations. Then the same model
+is confronted to various preinflationary inhomogeneous settings and the
+full gravitational and scalar-field dynamics are investigated.&lt;/p&gt;
+
+&lt;p&gt;The figure below shows the preheating resonances for the auxiliary
+field (left panel). Structure formation occurs \(2\)-\(3\) e-folds
+after the end of inflation (right panel).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2202.07604/Reh_01.png&quot; alt=&quot;reh&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking at the exact same model during the inhomogeneous multi-field
+preinflationary epochs, we confirm that the Higgs non-minimal coupling
+to gravity acts as a stabilizer as it &lt;em&gt;washes out&lt;/em&gt; the energy
+contribution of the other minimally coupled matter/scalar-field
+sectors. In Ref &lt;a class=&quot;citation&quot; href=&quot;#joana:2022uwc&quot;&gt;[2]&lt;/a&gt;, it is shown that this occurs
+naturally when one canonically normalizes the fields in the Einstein
+frame. This effect generalizes the dynamics of inhomogeneous
+extra-matter components, making them sub-dominant in comparison to the
+inflaton.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/2202.07604/mf_preinf.png&quot; alt=&quot;preinf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above figure illustrates the gravitational and scalar-field
+dynamics during pre-inflation. Two simulations are shown, one with
+super-Hubble initial conditions (left) and another with sub-Hubble
+size inhomogeneities (right).&lt;/p&gt;
+
+&lt;p&gt;All in all, these investigations further confirm the robustness of
+Higgs Inflation to multi-field inhomogeneous initial conditions, while
+putting in evidence the formation of complex structures during the
+reheating. The possible production of compact objects during the
+reheating, such as primordial black holes, will be investigated in
+future works.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Traditionally the problem of initial conditions for inflation has been treated separately from studies of reheating. To allow for a parametric-type reheating, the inflaton must be allowed to interact with (or decay to) other fields, and, these interactions should be present also during inhomogeneous preinflation. Could they prevent cosmic inflation to start in the first place? In a single-author publication Cristian answers this question for Higgs Inflation: once more, inflation always starts and passes the challenge!</summary></entry><entry><title type="html">~~Cosmology Seminar~~</title><link href="https://curl.group/news/2021/11/26/seminar.html" rel="alternate" type="text/html" title="~~Cosmology Seminar~~" /><published>2021-11-26T08:00:00+01:00</published><updated>2021-11-26T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/26/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/26/seminar.html">&lt;p&gt;And yet another cosmology seminar takes place on &lt;strong&gt;Friday 3rd&lt;/strong&gt; of
 December, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. Our guest speaker will be
 &lt;strong&gt;Fabien Lacasa&lt;/strong&gt; from the Institut d’Astrophysique Spatiale (Orsay,
 France).&lt;/p&gt;
@@ -267,26 +343,4 @@ applications here:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://cp3.irmp.ucl.ac.be/jobs/65&quot;&gt;&lt;strong&gt;https://cp3.irmp.ucl.ac.be/jobs/65&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">The Virgo gravitational wave group at the Institute of Mathematics and Physics, is searching for an senior post-doctoral researcher to take a leading role in the data analysis carried out within the LIGO and Virgo searches for a Stochastic Gravitational Wave Background.</summary></entry><entry><title type="html">Irreducible relic abundance of vortons</title><link href="https://curl.group/news/2020/10/12/2010.04620.html" rel="alternate" type="text/html" title="Irreducible relic abundance of vortons" /><published>2020-10-12T09:00:00+02:00</published><updated>2020-10-12T09:00:00+02:00</updated><id>https://curl.group/news/2020/10/12/2010.04620</id><content type="html" xml:base="https://curl.group/news/2020/10/12/2010.04620.html">&lt;p&gt;Vortons are centrifugally supported cosmic string loops that can be
-continuously created at all times during the cosmological
-expansion. Could they be all of the dark matter?&lt;/p&gt;
-
-&lt;p&gt;Together with &lt;a href=&quot;https://www.apc.univ-paris7.fr/APC_CS/fr/auclair-pierre&quot;&gt;&lt;strong&gt;Pierre
-Auclair&lt;/strong&gt;&lt;/a&gt;,
-&lt;a href=&quot;http://www2.iap.fr/users/peter/&quot;&gt;&lt;strong&gt;Patrick Peter&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.apc.univ-paris7.fr/APC_CS/fr/users/steer&quot;&gt;&lt;strong&gt;Danièle
-Steer&lt;/strong&gt;&lt;/a&gt;, we have
-calculated in Ref.&lt;a class=&quot;citation&quot; href=&quot;#auclair:2020wse&quot;&gt;[1]&lt;/a&gt; their inclusive
-cosmological distribution, taking into account the incessant
-production of vortons from a scaling string network all along the
-history of the Universe. They are a viable dark matter candidate!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/2010.04620/dmkvortons_vv_tot.png&quot; alt=&quot;omegatot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This figure shows the density parameter of vortons today as a function
-of the two fundamental parameters of the theory. They are the string
-energy per unit length, \(G \mu\), and the ratio of this energy scale
-to the one at which a current condenses on the strings, \(\mathcal{R}\). The green line represents values of the relic density
-\(\Omega_\mathrm{tot} \in [0.2,0.4]\), around the current abundance of
-dark matter. For all possible values of \(G \mu\), one can find a
-current-carrier energy scale allowing for vortons to be all of the
-dark matter.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Vortons are centrifugally supported cosmic string loops that can be continuously created at all times during the cosmological expansion. Could they be all of the dark matter?</summary></entry></feed>
+&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">The Virgo gravitational wave group at the Institute of Mathematics and Physics, is searching for an senior post-doctoral researcher to take a leading role in the data analysis carried out within the LIGO and Virgo searches for a Stochastic Gravitational Wave Background.</summary></entry></feed>
