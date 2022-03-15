@@ -8,6 +8,7 @@ to:
 office: E354
 phone: +32 10 47 3155
 email: c.joana@uclouvain.be
+homepage: https://cjoana.github.io
 image: /assets/images/people/joana.png
 orientation: portrait
 bibfile: joana
