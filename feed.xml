@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-05-06T11:13:27+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/04/04/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-04-04T09:00:00+02:00</published><updated>2022-04-04T09:00:00+02:00</updated><id>https://curl.group/news/2022/04/04/seminar</id><content type="html" xml:base="https://curl.group/news/2022/04/04/seminar.html">&lt;p&gt;The next cosmology seminar takes place on &lt;strong&gt;Thursday 7th&lt;/strong&gt; of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-05-10T11:02:21+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/05/10/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-05-10T09:00:00+02:00</published><updated>2022-05-10T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/10/seminar</id><content type="html" xml:base="https://curl.group/news/2022/05/10/seminar.html">&lt;p&gt;The next cosmology seminar takes place on &lt;strong&gt;Thursday 19th&lt;/strong&gt; of
+May, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;11am&lt;/strong&gt;. Our guest speaker will be
+&lt;strong&gt;Hugo Roussille&lt;/strong&gt; from APC (Paris, France).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At 11:00, room E349, Hugo Rousille (APC), will be talking about&lt;/p&gt;
+
+&lt;h3 id=&quot;linear-perturbations-of-black-holes-in-dhost-gravity&quot;&gt;Linear perturbations of black holes in DHOST gravity&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;General relativity can be tested at many scales using various
+ physical systems. A particularly interesting probe is the study of
+ the ringdown phase of a binary black hole merger, during which the
+ gravitational waves emitted by the newly-formed black hole are well
+ described by perturbation theory over a single black hole
+ background. The features of these waves depend heavily on the theory
+ of gravity underlying the solution and the solution
+ itself. Therefore, they can be used both to test GR and rule out some
+ black hole solutions. We focus in this talk on the study of new
+ behaviours for these waves in scalar-tensor theories in the
+ Degenerate Higher-Order Scalar-Tensor (DHOST) class. In such
+ theories, the usual dichotomy between axial (odd parity) and polar
+ (even parity) perturbations no longer enables one to decouple all
+ degrees of freedom since the even parity sector contains one
+ additional scalar degree of freedom. Axial perturbations can still be
+ completely decoupled: we show that they propagate in an effective
+ metric that differs from the background metric, and is not always a
+ black hole metric. In the case of polar perturbations, we present a
+ systematic approach that extracts the asymptotic behaviour of
+ perturbations at spatial infinity and near the horizon directly from
+ the perturbed Einstein’s equations. This asymptotic behavior gives
+ physical insight about the modes, such as their direction and speed
+ of propagation, and allows us to rule out some solutions that
+ explicit bad behavior. Furthermore, we can use the obtained
+ asymptotic behavior to numerically solve the propagation equations
+ and compute quasinormal modes in systems where this was not possible
+ before.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The next cosmology seminar takes place on Thursday 19th of May, seminar room E349 at 11am. Our guest speaker will be Hugo Roussille from APC (Paris, France).</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/04/04/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-04-04T09:00:00+02:00</published><updated>2022-04-04T09:00:00+02:00</updated><id>https://curl.group/news/2022/04/04/seminar</id><content type="html" xml:base="https://curl.group/news/2022/04/04/seminar.html">&lt;p&gt;The next cosmology seminar takes place on &lt;strong&gt;Thursday 7th&lt;/strong&gt; of
 April, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;11am&lt;/strong&gt;. Our guest speaker will be
 &lt;strong&gt;Fabien Lacasa&lt;/strong&gt; from the Institut d’Astrophysique Spatiale (Orsay,
 France).&lt;/p&gt;
@@ -332,15 +368,4 @@ large scalar field values, the pre-inflation dynamics only marginally
 depends on the field potential and it is expected that such behaviour
 is universal and it applies to any inflation potential of
 plateau-type, as the ones favoured by the CMB observations after
-Planck.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">In a recent preprint, Cristian and Sébastien show the robustness of Starobinsky and Higgs inflation to inhomogeneous initial conditions of all sizes. They have performed full numerical relativity simulations with strong inhomogeneous initial field and velocities. After some “wibbly-wobbly timey-wimey” evolution, the system relaxes towards… Cosmic Inflation.</summary></entry><entry><title type="html">~~Post-doctoral opening in Virgo/LIGO data analysis for the SGWB~~</title><link href="https://curl.group/jobs/2020/11/25/ARC.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Virgo/LIGO data analysis for the SGWB~~" /><published>2020-11-25T08:00:00+01:00</published><updated>2020-11-25T08:00:00+01:00</updated><id>https://curl.group/jobs/2020/11/25/ARC</id><content type="html" xml:base="https://curl.group/jobs/2020/11/25/ARC.html">&lt;p&gt;The Virgo gravitational wave group at the &lt;a href=&quot;https://uclouvain.be/en/research-institutes/irmp&quot;&gt;&lt;strong&gt;Institute of Mathematics
-and Physics&lt;/strong&gt;&lt;/a&gt;, is
-searching for an senior post-doctoral researcher to take a leading
-role in the data analysis carried out within the LIGO and Virgo
-searches for a Stochastic Gravitational Wave Background.&lt;/p&gt;
-
-&lt;p&gt;Deadline is the 10th of January 2021, more information and online
-applications here:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://cp3.irmp.ucl.ac.be/jobs/65&quot;&gt;&lt;strong&gt;https://cp3.irmp.ucl.ac.be/jobs/65&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">The Virgo gravitational wave group at the Institute of Mathematics and Physics, is searching for an senior post-doctoral researcher to take a leading role in the data analysis carried out within the LIGO and Virgo searches for a Stochastic Gravitational Wave Background.</summary></entry></feed>
+Planck.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">In a recent preprint, Cristian and Sébastien show the robustness of Starobinsky and Higgs inflation to inhomogeneous initial conditions of all sizes. They have performed full numerical relativity simulations with strong inhomogeneous initial field and velocities. After some “wibbly-wobbly timey-wimey” evolution, the system relaxes towards… Cosmic Inflation.</summary></entry></feed>
