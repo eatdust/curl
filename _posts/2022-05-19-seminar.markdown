@@ -1,0 +1,49 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2022-05-12 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Thursday 19th** of
+May, seminar **room E349** at **11am**. Our guest speaker will be
+**Hugo Roussille** from APC (Paris, France).
+
+---
+
+At 11:00, room E349, Hugo Rousille (APC), will be talking about
+
+
+### Linear perturbations of black holes in DHOST gravity
+
+*General relativity can be tested at many scales using various
+ physical systems. A particularly interesting probe is the study of
+ the ringdown phase of a binary black hole merger, during which the
+ gravitational waves emitted by the newly-formed black hole are well
+ described by perturbation theory over a single black hole
+ background. The features of these waves depend heavily on the theory
+ of gravity underlying the solution and the solution
+ itself. Therefore, they can be used both to test GR and rule out some
+ black hole solutions. We focus in this talk on the study of new
+ behaviours for these waves in scalar-tensor theories in the
+ Degenerate Higher-Order Scalar-Tensor (DHOST) class. In such
+ theories, the usual dichotomy between axial (odd parity) and polar
+ (even parity) perturbations no longer enables one to decouple all
+ degrees of freedom since the even parity sector contains one
+ additional scalar degree of freedom. Axial perturbations can still be
+ completely decoupled: we show that they propagate in an effective
+ metric that differs from the background metric, and is not always a
+ black hole metric. In the case of polar perturbations, we present a
+ systematic approach that extracts the asymptotic behaviour of
+ perturbations at spatial infinity and near the horizon directly from
+ the perturbed Einstein’s equations. This asymptotic behavior gives
+ physical insight about the modes, such as their direction and speed
+ of propagation, and allows us to rule out some solutions that
+ explicit bad behavior. Furthermore, we can use the obtained
+ asymptotic behavior to numerically solve the propagation equations
+ and compute quasinormal modes in systems where this was not possible
+ before.*
+
+
+
+
