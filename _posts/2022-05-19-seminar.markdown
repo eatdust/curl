@@ -2,7 +2,7 @@
 layout: post
 title: Cosmology Seminar
 category: News
-date: 2022-05-12 08:00:00 +0100
+date: 2022-05-10 08:00:00 +0100
 ---
 
 The next cosmology seminar takes place on **Thursday 19th** of
