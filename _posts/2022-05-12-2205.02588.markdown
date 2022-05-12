@@ -33,10 +33,15 @@ model, we have carried out a campaign of massively parallel direct
 numerical simulations of decaying turbulence. The figure below shows
 a slice across one of these simulations.
 
-On the left, the velocity initial conditions in real
-space.  On the right, the same slice during the simulation.
-
+The following figure shows the initial conditions for the velocity
+field in real space
 ![V0]({{site.baseurl}}/assets/images/2205.02588/V_0000.png)
+
+After some evolution, the velocity field decays and small scale
+structures develop. The next figure shows the velocity field
+after $$20$$
+[**eddy**](https://en.wikipedia.org/wiki/Eddy_(fluid_dynamics))
+turnover times
 ![V1]({{site.baseurl}}/assets/images/2205.02588/V_0001.png)
 
 Based on this modelling, we provide an approximate analytical form for
