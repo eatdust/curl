@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-05-30T15:15:10+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Stochastic gravitational waves from long cosmic strings</title><link href="https://curl.group/news/2022/05/30/2205.04349.html" rel="alternate" type="text/html" title="Stochastic gravitational waves from long cosmic strings" /><published>2022-05-30T09:00:00+02:00</published><updated>2022-05-30T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/30/2205.04349</id><content type="html" xml:base="https://curl.group/news/2022/05/30/2205.04349.html">&lt;p&gt;A cosmic strings network present in our Universe should be incessantly
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-06-22T20:26:01+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">BEL Center exhibition</title><link href="https://curl.group/outreach/2022/06/22/BEL.html" rel="alternate" type="text/html" title="BEL Center exhibition" /><published>2022-06-22T09:00:00+02:00</published><updated>2022-06-22T09:00:00+02:00</updated><id>https://curl.group/outreach/2022/06/22/BEL</id><content type="html" xml:base="https://curl.group/outreach/2022/06/22/BEL.html">&lt;p&gt;Anticipating the opening of the Brout-Englert-Lemaître Center, a few
+aesthetic pictures associated with our researches will be on display
+during the “Walk in the Park” event, on Saturday the 25th at the
+Tournay Solvay Park (11am).&lt;/p&gt;
+
+&lt;h3 id=&quot;anamorphosis-from-the-big-bang&quot;&gt;Anamorphosis from the Big-Bang&lt;/h3&gt;
+
+&lt;p&gt;On display, you’ll find a black and white fractal image, extracted
+from Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2009ur&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/anamorphosis.png&quot; alt=&quot;ichybrid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cosmic inflation is an hypothetic phase of accelerated expansion of
+the Universe, a tiny fraction of second after the Big-Bang, induced by
+the existence of a scalar field in the early Universe and suspected to
+be at the origin of the present structures of the Universe. During
+inflation, in about \(10^{-35}\) second, the distance between any two
+points in the Universe separated by one meter becomes larger than the
+distance to the farthest galaxies. This makes inflation one of the
+most fascinating phenomena in Science.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This picture shows the results of more than 4 millions numerical
+simulations of inflation in a model with two scalar fields, called
+hybrid inflation, for which inflation stops due a broken symmetry,
+similar to the Brout-Englert-Higgs mechanism. The \(x\) and \(y\) axis
+represent the initial value of each scalar field, a white dot indicate
+that the simulation led to enough expansion for being compatible with
+our Universe, whereas for black dots, there is no, or not enough,
+inflation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Before these results were obtained in Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2009ur&quot;&gt;[1]&lt;/a&gt;,
+at ULB and UCLouvain, it was thought that only the thin vertical white
+band could lead to inflation, suggesting a fine-tuning problem. This
+picture shows that, on the contrary, a large number of initial
+conditions are satisfactory and form a complex fractal structure. In
+analogy with anamorphosis, a phenomena consisting in the distortion of
+an image through an optical instrument, one can see this fractal
+structure as the image of the thin vertical band seen through the
+potential associated with the scalar fields, playing the role of the
+optical instrument.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;the-night-sky-by-gaia&quot;&gt;The night sky by GAIA&lt;/h3&gt;
+
+&lt;p&gt;Using the recently released public domain data DR3 from the GAIA satellite
+(ESA), we have reconstructed a view of our night sky, as you would see
+it with very sensitive eyes, eyes that would allow you to actually see
+daylight colors but in the dark.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/gaialaxy.png&quot; alt=&quot;gaialaxy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This image represents the integrated light flux coming from all faint
+sources of light, of magnitude greater than \(10\), in human-visible
+colors (sRGB). These sources are mostly stars from our own Galaxy and
+have been measured by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Gaia_(spacecraft)&quot;&gt;&lt;strong&gt;Gaia
+satellite&lt;/strong&gt;&lt;/a&gt;
+(ESA/Gaia/DPAC). There are more than 1.5 billion of stars accounted
+for in this image. The image making code is available here:
+&lt;a href=&quot;https://github.com/eatdust/gaialaxy&quot;&gt;&lt;strong&gt;gaialaxy&lt;/strong&gt;&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;the-cosmic-strings-microwave-sky&quot;&gt;The Cosmic Strings Microwave Sky&lt;/h3&gt;
+
+&lt;p&gt;Extracted from Ref. &lt;a class=&quot;citation&quot; href=&quot;#ringeval:2012tk&quot;&gt;[2]&lt;/a&gt;, a small piece of a
+computer generated all sky map of the Cosmic Microwave Background
+generated by Cosmic Strings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/gradmap.png&quot; alt=&quot;gradmag&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;These objects are line-like defects in the fabric of space-time and
+could have been formed in the earliest times of the Universe history.
+This picture is a small part of a full sky image computed using
+\(12000\) processors of one of the largest world computer at that
+time: the Cray XE6
+&lt;a href=&quot;https://www.nersc.gov/about/nersc-history/history-of-systems/&quot;&gt;&lt;strong&gt;Hopper&lt;/strong&gt;&lt;/a&gt;
+at the &lt;a href=&quot;https://www.nersc.gov/&quot;&gt;&lt;strong&gt;NERSC&lt;/strong&gt;&lt;/a&gt;. This image has been used
+to search for Cosmic Strings in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Planck_(spacecraft)&quot;&gt;&lt;strong&gt;Planck
+satellite&lt;/strong&gt;&lt;/a&gt; data
+(ESA).&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">Anticipating the opening of the Brout-Englert-Lemaître Center, a few aesthetic pictures associated with our researches will be on display during the “Walk in the Park” event, on Saturday the 25th at the Tournay Solvay Park (11am).</summary></entry><entry><title type="html">Stochastic gravitational waves from long cosmic strings</title><link href="https://curl.group/news/2022/05/30/2205.04349.html" rel="alternate" type="text/html" title="Stochastic gravitational waves from long cosmic strings" /><published>2022-05-30T09:00:00+02:00</published><updated>2022-05-30T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/30/2205.04349</id><content type="html" xml:base="https://curl.group/news/2022/05/30/2205.04349.html">&lt;p&gt;A cosmic strings network present in our Universe should be incessantly
 emitting gravitational waves. An absolute lower limit of the expected
 signal can be found by determining the gravitational waves created
 by the back bones of the network: the long cosmic
@@ -342,54 +422,4 @@ quasi-exponentielle, dénué de toute de matière et lumière, gorgé de
 fluctuations quantiques et d’ondes gravitationnelles : les embryons
 des galaxies d’aujourd’hui.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/inflation_Charleroi.jpg&quot; alt=&quot;CAAPC_first_slide&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">C. Ringeval gives a public lecture on Cosmic Inflation for the Cercle des Astronomes Amateurs de Charleroi (starts at 7:45pm). More information at CAAPC.</summary></entry><entry><title type="html">Belgian Cosmo Meeting</title><link href="https://curl.group/news/2021/10/05/BCosmo.html" rel="alternate" type="text/html" title="Belgian Cosmo Meeting" /><published>2021-10-05T09:00:00+02:00</published><updated>2021-10-05T09:00:00+02:00</updated><id>https://curl.group/news/2021/10/05/BCosmo</id><content type="html" xml:base="https://curl.group/news/2021/10/05/BCosmo.html">&lt;p&gt;We hold an informal meeting during which new comers working in
-Cosmology will present their work and research topics. This takes
-place Wednesday 6th of October, seminar room E349 from 2pm to 6pm.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The program starts at 14:00 with Albert Escrivà (ULB, Phys. Th.)&lt;/p&gt;
-
-&lt;h3 id=&quot;formation-of-primordial-black-holes&quot;&gt;Formation of Primordial Black Holes&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Primordial Black Holes (PBHs) could have been formed in the very
- early universe due to the collapse of large curvature fluctuations
- after inflation. PBHs are nowadays one of the most attractive and
- fascinating research areas in cosmology for their possible
- theoretical and observational implications. In this talk, I will
- review the physical process of PBH formation, and the numerical
- tools used to simulate them.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;At 14:45, Pierre Auclair (UCLouvain, CURL) will talk about&lt;/p&gt;
-
-&lt;h3 id=&quot;population-of-cosmic-strings-and-gravitational-waves&quot;&gt;Population of cosmic strings and gravitational waves&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Cosmic strings are one-dimensional topological defects that could be
- formed during phase transitions in the primordial Universe. If
- formed, these relics would be markers of the upheavals of our early
- universe. During this talk, we will discuss about the evolution of
- the cosmic string network, in particular the density of loops and
- their gravitational wave emission. We will then make the connection
- with the future space-based LISA mission, and the results from
- LIGO/Virgo/KAGRA. If time permits, we will also show that the
- presence of cosmic strings may also affect other types of
- observables, such as the dark matter content of the Universe and the
- diffuse gamma-ray background.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;After a break, at 16:00, Isabel Oldengott (UCLouvain, CP3) will be
-talking about&lt;/p&gt;
-
-&lt;h3 id=&quot;local-relic-neutrino-density-with-kinetic-field-theory&quot;&gt;Local relic neutrino density with kinetic field theory&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Kinetic field theory (KFT) is a statistical field theory for an
- ensemble of classical particles. It has quite recently been applied
- to large scale structure formation, showing a remarkable agreement to
- the results from N-body simulations. I am currently working on its
- application on the computation of the local relic neutrino density
- and will give a short review on the current status of the project.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">We hold an informal meeting during which new comers working in Cosmology will present their work and research topics. This takes place Wednesday 6th of October, seminar room E349 from 2pm to 6pm.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/inflation_Charleroi.jpg&quot; alt=&quot;CAAPC_first_slide&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">C. Ringeval gives a public lecture on Cosmic Inflation for the Cercle des Astronomes Amateurs de Charleroi (starts at 7:45pm). More information at CAAPC.</summary></entry></feed>
