@@ -1,34 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-06-22T20:26:01+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">BEL Center exhibition</title><link href="https://curl.group/outreach/2022/06/22/BEL.html" rel="alternate" type="text/html" title="BEL Center exhibition" /><published>2022-06-22T09:00:00+02:00</published><updated>2022-06-22T09:00:00+02:00</updated><id>https://curl.group/outreach/2022/06/22/BEL</id><content type="html" xml:base="https://curl.group/outreach/2022/06/22/BEL.html">&lt;p&gt;Anticipating the opening of the Brout-Englert-Lemaître Center, a few
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-09-16T11:57:32+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Slow-roll Inflation at N3LO</title><link href="https://curl.group/news/2022/09/15/2205.12608.html" rel="alternate" type="text/html" title="Slow-roll Inflation at N3LO" /><published>2022-09-15T09:00:00+02:00</published><updated>2022-09-15T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/15/2205.12608</id><content type="html" xml:base="https://curl.group/news/2022/09/15/2205.12608.html"><![CDATA[<p>Cosmic Inflation, the most favoured scenario of the early Universe,
+implies that all forms of matter and radiation observed today are the
+outcome of quantum fluctuations occurring around the event horizon of a
+exponentially fast accelerating space-time. Cleaning the ground for
+the incoming spatial and ground based cosmological observations,
+<a href="/members/auclair.html"><strong>Pierre</strong></a> and
+<a href="/members/chris.html"><strong>Christophe</strong></a> have derived, at an
+unprecedented level of precision, the shape of the expected power
+spectra of both the quantum-generated gravitational waves and
+curvature perturbations.</p>
+
+<p>Cosmic Inflation is an hypothetical early phase of accelerated
+expansion that has occurred before the first billionth of a second of
+existence of our Universe. It provides a natural mechanism to explain
+the observed flatness of our Universe today and naturally solves the
+so-called horizon problems of the Big-Bang model.</p>
+
+<p>In a spectacular way, the quantum fluctuations that are inherently
+sourced during the inflationary era are exactly what is needed to
+explain the origin of the cosmological perturbations: the <strong>seeds of the
+galaxies</strong> of today.</p>
+
+<p><img src="/assets/images/2205.12608/ngc83.jpg" alt="ngc83" /></p>
+
+<p>These quantum fluctuations are deeply rooted in gravity and appear as
+both primordial gravitational waves \(h_{ij}\) and curvature
+perturbations \(\zeta\), with very peculiar correlation functions. In
+Ref. <a class="citation" href="#auclair:2022yxs">[1]</a>, we have pushed to third order the
+calculation of these correlation functions. They are completely
+determined by the Hubble parameter during inflation \(H(N)\) and its
+logarithmic derivatives, \(\epsilon_i(N) \equiv \mathrm{d}\ln H /
+\mathrm{d} \ln N\) (the so-called Hubble flow functions). Here \(N=\ln a\)
+is the logarithm of the scale factor \(a\).</p>
+
+<p>Slow-roll inflation <strong>predicts</strong> the correlation functions to be
+given by these spectra:</p>
+
+<p><img src="/assets/images/2205.12608/pzeta.png" alt="pzeta" /></p>
+
+<p><img src="/assets/images/2205.12608/ph.png" alt="ph" /></p>
+
+<p>They are expanded around an observable wavenumber
+\(k_*=0.05\,\mathrm{Mpc}^{-1}\) and readily testable with the
+incoming cosmological observations from the
+<a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a> and
+<a href="https://en.wikipedia.org/wiki/LiteBIRD"><strong>LiteBird</strong></a> space
+telescopes, but also from the ground based
+<a href="https://cmb-s4.org/"><strong>CMB-S4</strong></a> telescopes and <a href="https://en.wikipedia.org/wiki/Simons_Observatory"><strong>Simons
+Observatory</strong></a>. Are
+we going to detect a non-vanishing \(\epsilon_{3*}\)?</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Cosmic Inflation, the most favoured scenario of the early Universe, implies that all forms of matter and radiation observed today are the outcome of quantum fluctuations occurring around the event horizon of a exponentially fast accelerating space-time. Cleaning the ground for the incoming spatial and ground based cosmological observations, Pierre and Christophe have derived, at an unprecedented level of precision, the shape of the expected power spectra of both the quantum-generated gravitational waves and curvature perturbations.]]></summary></entry><entry><title type="html">BEL Center exhibition</title><link href="https://curl.group/outreach/2022/06/22/BEL.html" rel="alternate" type="text/html" title="BEL Center exhibition" /><published>2022-06-22T09:00:00+02:00</published><updated>2022-06-22T09:00:00+02:00</updated><id>https://curl.group/outreach/2022/06/22/BEL</id><content type="html" xml:base="https://curl.group/outreach/2022/06/22/BEL.html"><![CDATA[<p>Anticipating the opening of the Brout-Englert-Lemaître Center, a few
 aesthetic pictures associated with our researches will be on display
 during the “Walk in the Park” event, on Saturday the 25th at the
-Tournay Solvay Park (11am).&lt;/p&gt;
+Tournay Solvay Park (11am).</p>
 
-&lt;h3 id=&quot;anamorphosis-from-the-big-bang&quot;&gt;Anamorphosis from the Big-Bang&lt;/h3&gt;
+<h3 id="anamorphosis-from-the-big-bang">Anamorphosis from the Big-Bang</h3>
 
-&lt;p&gt;On display, you’ll find a black and white fractal image, extracted
-from Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2009ur&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+<p>On display, you’ll find a black and white fractal image, extracted
+from Ref. <a class="citation" href="#clesse:2009ur">[1]</a>.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/anamorphosis.png&quot; alt=&quot;ichybrid&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/outreach/anamorphosis.png" alt="ichybrid" /></p>
 
-&lt;p&gt;&lt;em&gt;Cosmic inflation is an hypothetic phase of accelerated expansion of
+<p><em>Cosmic inflation is an hypothetic phase of accelerated expansion of
 the Universe, a tiny fraction of second after the Big-Bang, induced by
 the existence of a scalar field in the early Universe and suspected to
 be at the origin of the present structures of the Universe. During
 inflation, in about \(10^{-35}\) second, the distance between any two
 points in the Universe separated by one meter becomes larger than the
 distance to the farthest galaxies. This makes inflation one of the
-most fascinating phenomena in Science.&lt;/em&gt;&lt;/p&gt;
+most fascinating phenomena in Science.</em></p>
 
-&lt;p&gt;&lt;em&gt;This picture shows the results of more than 4 millions numerical
+<p><em>This picture shows the results of more than 4 millions numerical
 simulations of inflation in a model with two scalar fields, called
 hybrid inflation, for which inflation stops due a broken symmetry,
 similar to the Brout-Englert-Higgs mechanism. The \(x\) and \(y\) axis
 represent the initial value of each scalar field, a white dot indicate
 that the simulation led to enough expansion for being compatible with
 our Universe, whereas for black dots, there is no, or not enough,
-inflation.&lt;/em&gt;&lt;/p&gt;
+inflation.</em></p>
 
-&lt;p&gt;&lt;em&gt;Before these results were obtained in Ref. &lt;a class=&quot;citation&quot; href=&quot;#clesse:2009ur&quot;&gt;[1]&lt;/a&gt;,
+<p><em>Before these results were obtained in Ref. <a class="citation" href="#clesse:2009ur">[1]</a>,
 at ULB and UCLouvain, it was thought that only the thin vertical white
 band could lead to inflation, suggesting a fine-tuning problem. This
 picture shows that, on the contrary, a large number of initial
@@ -37,156 +86,156 @@ analogy with anamorphosis, a phenomena consisting in the distortion of
 an image through an optical instrument, one can see this fractal
 structure as the image of the thin vertical band seen through the
 potential associated with the scalar fields, playing the role of the
-optical instrument.&lt;/em&gt;&lt;/p&gt;
+optical instrument.</em></p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h3 id=&quot;the-night-sky-by-gaia&quot;&gt;The night sky by GAIA&lt;/h3&gt;
+<h3 id="the-night-sky-by-gaia">The night sky by GAIA</h3>
 
-&lt;p&gt;Using the recently released public domain data DR3 from the GAIA satellite
+<p>Using the recently released public domain data DR3 from the GAIA satellite
 (ESA), we have reconstructed a view of our night sky, as you would see
 it with very sensitive eyes, eyes that would allow you to actually see
-daylight colors but in the dark.&lt;/p&gt;
+daylight colors but in the dark.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/gaialaxy.png&quot; alt=&quot;gaialaxy&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/outreach/gaialaxy.png" alt="gaialaxy" /></p>
 
-&lt;p&gt;&lt;em&gt;This image represents the integrated light flux coming from all faint
+<p><em>This image represents the integrated light flux coming from all faint
 sources of light, of magnitude greater than \(10\), in human-visible
 colors (sRGB). These sources are mostly stars from our own Galaxy and
-have been measured by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Gaia_(spacecraft)&quot;&gt;&lt;strong&gt;Gaia
-satellite&lt;/strong&gt;&lt;/a&gt;
+have been measured by the <a href="https://en.wikipedia.org/wiki/Gaia_(spacecraft)"><strong>Gaia
+satellite</strong></a>
 (ESA/Gaia/DPAC). There are more than 1.5 billion of stars accounted
 for in this image. The image making code is available here:
-&lt;a href=&quot;https://github.com/eatdust/gaialaxy&quot;&gt;&lt;strong&gt;gaialaxy&lt;/strong&gt;&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+<a href="https://github.com/eatdust/gaialaxy"><strong>gaialaxy</strong></a>.</em></p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;h3 id=&quot;the-cosmic-strings-microwave-sky&quot;&gt;The Cosmic Strings Microwave Sky&lt;/h3&gt;
+<h3 id="the-cosmic-strings-microwave-sky">The Cosmic Strings Microwave Sky</h3>
 
-&lt;p&gt;Extracted from Ref. &lt;a class=&quot;citation&quot; href=&quot;#ringeval:2012tk&quot;&gt;[2]&lt;/a&gt;, a small piece of a
+<p>Extracted from Ref. <a class="citation" href="#ringeval:2012tk">[2]</a>, a small piece of a
 computer generated all sky map of the Cosmic Microwave Background
-generated by Cosmic Strings.&lt;/p&gt;
+generated by Cosmic Strings.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/gradmap.png&quot; alt=&quot;gradmag&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/outreach/gradmap.png" alt="gradmag" /></p>
 
-&lt;p&gt;&lt;em&gt;These objects are line-like defects in the fabric of space-time and
+<p><em>These objects are line-like defects in the fabric of space-time and
 could have been formed in the earliest times of the Universe history.
 This picture is a small part of a full sky image computed using
 \(12000\) processors of one of the largest world computer at that
 time: the Cray XE6
-&lt;a href=&quot;https://www.nersc.gov/about/nersc-history/history-of-systems/&quot;&gt;&lt;strong&gt;Hopper&lt;/strong&gt;&lt;/a&gt;
-at the &lt;a href=&quot;https://www.nersc.gov/&quot;&gt;&lt;strong&gt;NERSC&lt;/strong&gt;&lt;/a&gt;. This image has been used
-to search for Cosmic Strings in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Planck_(spacecraft)&quot;&gt;&lt;strong&gt;Planck
-satellite&lt;/strong&gt;&lt;/a&gt; data
-(ESA).&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">Anticipating the opening of the Brout-Englert-Lemaître Center, a few aesthetic pictures associated with our researches will be on display during the “Walk in the Park” event, on Saturday the 25th at the Tournay Solvay Park (11am).</summary></entry><entry><title type="html">Stochastic gravitational waves from long cosmic strings</title><link href="https://curl.group/news/2022/05/30/2205.04349.html" rel="alternate" type="text/html" title="Stochastic gravitational waves from long cosmic strings" /><published>2022-05-30T09:00:00+02:00</published><updated>2022-05-30T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/30/2205.04349</id><content type="html" xml:base="https://curl.group/news/2022/05/30/2205.04349.html">&lt;p&gt;A cosmic strings network present in our Universe should be incessantly
+<a href="https://www.nersc.gov/about/nersc-history/history-of-systems/"><strong>Hopper</strong></a>
+at the <a href="https://www.nersc.gov/"><strong>NERSC</strong></a>. This image has been used
+to search for Cosmic Strings in the <a href="https://en.wikipedia.org/wiki/Planck_(spacecraft)"><strong>Planck
+satellite</strong></a> data
+(ESA).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Anticipating the opening of the Brout-Englert-Lemaître Center, a few aesthetic pictures associated with our researches will be on display during the “Walk in the Park” event, on Saturday the 25th at the Tournay Solvay Park (11am).]]></summary></entry><entry><title type="html">Stochastic gravitational waves from long cosmic strings</title><link href="https://curl.group/news/2022/05/30/2205.04349.html" rel="alternate" type="text/html" title="Stochastic gravitational waves from long cosmic strings" /><published>2022-05-30T09:00:00+02:00</published><updated>2022-05-30T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/30/2205.04349</id><content type="html" xml:base="https://curl.group/news/2022/05/30/2205.04349.html"><![CDATA[<p>A cosmic strings network present in our Universe should be incessantly
 emitting gravitational waves. An absolute lower limit of the expected
 signal can be found by determining the gravitational waves created
 by the back bones of the network: the long cosmic
-strings. &lt;a href=&quot;/members/dacunha.html&quot;&gt;&lt;strong&gt;Disrael&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&quot;/members/chris.html&quot;&gt;&lt;strong&gt;Christophe&lt;/strong&gt;&lt;/a&gt;, in collaboration with
-&lt;a href=&quot;http://www2.iap.fr/users/bouchet/bouchet.html&quot;&gt;&lt;strong&gt;François R. Bouchet&lt;/strong&gt;&lt;/a&gt;, have
+strings. <a href="/members/dacunha.html"><strong>Disrael</strong></a> and <a href="/members/chris.html"><strong>Christophe</strong></a>, in collaboration with
+<a href="http://www2.iap.fr/users/bouchet/bouchet.html"><strong>François R. Bouchet</strong></a>, have
 computed this irreducible contribution using new numerical
-simulations of Nambu-Goto cosmic strings.&lt;/p&gt;
+simulations of Nambu-Goto cosmic strings.</p>
 
-&lt;p&gt;In Ref. &lt;a class=&quot;citation&quot; href=&quot;#dacunha:2022chf&quot;&gt;[1]&lt;/a&gt;, we have run new simulations of
+<p>In Ref. <a class="citation" href="#dacunha:2022chf">[1]</a>, we have run new simulations of
 Nambu-Goto cosmic strings evolving during the radiation, the
 transition, and the matter eras to compute the unequal time
 correlators of the anisotropic stress tensor associated with the long
 strings. The following figure shows a snapshot of one of these
 simulation, the long strings have been represented in white whereas
-all the other objects are loops, see Ref. &lt;a class=&quot;citation&quot; href=&quot;#ringeval:2017eww&quot;&gt;[2]&lt;/a&gt;
-and &lt;a href=&quot;/news/2019/04/07/1903.06685.html&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+all the other objects are loops, see Ref. <a class="citation" href="#ringeval:2017eww">[2]</a>
+and <a href="/news/2019/04/07/1903.06685.html">this post</a>.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2205.04349/snapshot_h063.png&quot; alt=&quot;nbsimu&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/2205.04349/snapshot_h063.png" alt="nbsimu" /></p>
 
-&lt;p&gt;This correlator sources the gravitational waves and it allows us to
+<p>This correlator sources the gravitational waves and it allows us to
 solve for their creation, and propagation, all along the Universe
 history. By using the Green’s function method we can then predict the
 strain, \(k^2 \mathcal{P}_h\), and the energy density parameter
 \(\Omega_{\mathrm{GW}}^{\mathrm{mat}}\) of the gravitational waves
 that can be measured today. Their power spectra are represented below
-as a function of the wavenumber \(k\).&lt;/p&gt;
+as a function of the wavenumber \(k\).</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2205.04349/k2calPh.png&quot; alt=&quot;k2calPh&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/2205.04349/k2calPh.png" alt="k2calPh" /></p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2205.04349/OmegaGW.png&quot; alt=&quot;OmegaGW&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/2205.04349/OmegaGW.png" alt="OmegaGW" /></p>
 
-&lt;p&gt;In these figures, the exact numerical result is represented in black
+<p>In these figures, the exact numerical result is represented in black
 while the blue and red curves show some semi-analytical approximations
 that we had proposed in a previous paper, calibrated using the
-amplitude found with the simulations, see Ref. &lt;a class=&quot;citation&quot; href=&quot;#dacunha:2021wyy&quot;&gt;[3]&lt;/a&gt;. The only significant deviations show up around \(k/\mathcal{H}_0
+amplitude found with the simulations, see Ref. <a class="citation" href="#dacunha:2021wyy">[3]</a>. The only significant deviations show up around \(k/\mathcal{H}_0
 \simeq 100\), which corresponds to the transition between the
 radiation and matter era. An interesting point to notice is that most
 of strain signal is actually generated by the long cosmic strings in
-the matter era, i.e., close to us.&lt;/p&gt;
+the matter era, i.e., close to us.</p>
 
-&lt;p&gt;As we discuss in Ref. &lt;a class=&quot;citation&quot; href=&quot;#dacunha:2022chf&quot;&gt;[1]&lt;/a&gt;, this signal is quite
+<p>As we discuss in Ref. <a class="citation" href="#dacunha:2022chf">[1]</a>, this signal is quite
 small, but reachable by the
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna&quot;&gt;&lt;strong&gt;LISA&lt;/strong&gt;&lt;/a&gt;
+<a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a>
 satellites. These ones will be sensitive to long strings that are
-undetectable today in the Cosmic Microwave Background.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">A cosmic strings network present in our Universe should be incessantly emitting gravitational waves. An absolute lower limit of the expected signal can be found by determining the gravitational waves created by the back bones of the network: the long cosmic strings. Disrael and Christophe, in collaboration with François R. Bouchet, have computed this irreducible contribution using new numerical simulations of Nambu-Goto cosmic strings.</summary></entry><entry><title type="html">Gravitational waves from freely decaying turbulence</title><link href="https://curl.group/news/2022/05/12/2205.02588.html" rel="alternate" type="text/html" title="Gravitational waves from freely decaying turbulence" /><published>2022-05-12T09:00:00+02:00</published><updated>2022-05-12T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/12/2205.02588</id><content type="html" xml:base="https://curl.group/news/2022/05/12/2205.02588.html">&lt;p&gt;As our Universe has expanded and cooled, it is suspected that it has
+undetectable today in the Cosmic Microwave Background.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[A cosmic strings network present in our Universe should be incessantly emitting gravitational waves. An absolute lower limit of the expected signal can be found by determining the gravitational waves created by the back bones of the network: the long cosmic strings. Disrael and Christophe, in collaboration with François R. Bouchet, have computed this irreducible contribution using new numerical simulations of Nambu-Goto cosmic strings.]]></summary></entry><entry><title type="html">Gravitational waves from freely decaying turbulence</title><link href="https://curl.group/news/2022/05/12/2205.02588.html" rel="alternate" type="text/html" title="Gravitational waves from freely decaying turbulence" /><published>2022-05-12T09:00:00+02:00</published><updated>2022-05-12T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/12/2205.02588</id><content type="html" xml:base="https://curl.group/news/2022/05/12/2205.02588.html"><![CDATA[<p>As our Universe has expanded and cooled, it is suspected that it has
 undergone different phase transitions. In particular, first order
 cosmological phase transitions provide a compelling source of
 Gravitational Waves (GWs) and this is particularly interesting in the
 context of the Laser Interferometer Space Antenna
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna&quot;&gt;&lt;strong&gt;LISA&lt;/strong&gt;&lt;/a&gt;. In
-a recent publication, &lt;a href=&quot;/members/auclair.html&quot;&gt;&lt;strong&gt;Pierre&lt;/strong&gt;&lt;/a&gt; and his
+<a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a>. In
+a recent publication, <a href="/members/auclair.html"><strong>Pierre</strong></a> and his
 collaborators proposed a new accurate semi-analytical model for
 predicting the GW signal generated by a turbulent phase in the
-aftermath of a first order phase transition.&lt;/p&gt;
+aftermath of a first order phase transition.</p>
 
-&lt;p&gt;LISA can potentially detect GW signals from first order phase transitions occurring
+<p>LISA can potentially detect GW signals from first order phase transitions occurring
 in the energy range \(100\,\mathrm{GeV}\) – \(1 \,
 \mathrm{TeV}\). There are several processes possibly leading to
-sizeable emission of GWs:&lt;/p&gt;
+sizeable emission of GWs:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Bubble percolation, with the consequent breaking of spherical symmetry, is the most direct one&lt;/li&gt;
-  &lt;li&gt;Bubble collision&lt;/li&gt;
-  &lt;li&gt;Sound waves produced in the fluid by expanding bubbles&lt;/li&gt;
-  &lt;li&gt;Decaying turbulence in the fluid&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Bubble percolation, with the consequent breaking of spherical symmetry, is the most direct one</li>
+  <li>Bubble collision</li>
+  <li>Sound waves produced in the fluid by expanding bubbles</li>
+  <li>Decaying turbulence in the fluid</li>
+</ul>
 
-&lt;p&gt;In Ref. &lt;a class=&quot;citation&quot; href=&quot;#auclair:2022jod&quot;&gt;[1]&lt;/a&gt;, we propose a new model to the decay and
+<p>In Ref. <a class="citation" href="#auclair:2022jod">[1]</a>, we propose a new model to the decay and
 decorrelation of a purely vortical velocity field and calculate the
 subsequent GW signal. To confirm the accuracy and relevance of the
 model, we have carried out a campaign of massively parallel direct
 numerical simulations of decaying turbulence. The figure below shows
-a slice across one of these simulations.&lt;/p&gt;
+a slice across one of these simulations.</p>
 
-&lt;p&gt;The following figure shows the initial conditions for the velocity
+<p>The following figure shows the initial conditions for the velocity
 field in real space
-&lt;img src=&quot;/assets/images/2205.02588/V_0000.png&quot; alt=&quot;V0&quot; /&gt;&lt;/p&gt;
+<img src="/assets/images/2205.02588/V_0000.png" alt="V0" /></p>
 
-&lt;p&gt;After some evolution, the velocity field decays and small scale
+<p>After some evolution, the velocity field decays and small scale
 structures develop. The next figure shows the velocity field
 after \(20\)
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Eddy_(fluid_dynamics)&quot;&gt;&lt;strong&gt;eddy&lt;/strong&gt;&lt;/a&gt;
+<a href="https://en.wikipedia.org/wiki/Eddy_(fluid_dynamics)"><strong>eddy</strong></a>
 turnover times
-&lt;img src=&quot;/assets/images/2205.02588/V_0001.png&quot; alt=&quot;V1&quot; /&gt;&lt;/p&gt;
+<img src="/assets/images/2205.02588/V_0001.png" alt="V1" /></p>
 
-&lt;p&gt;Based on this modelling, we provide an approximate analytical form for
+<p>Based on this modelling, we provide an approximate analytical form for
 the GW signal which could be readily used within the LISA
 collaboration to search for it. In the figure below, coloured lines
 show the results of the simulations, the black line the
 semi-analytical model and the grey line the analytical form usable for
-LISA.&lt;/p&gt;
+LISA.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2205.02588/money_plot.png&quot; alt=&quot;money&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/2205.02588/money_plot.png" alt="money" /></p>
 
-&lt;p&gt;Other new findings are presented in Ref. &lt;a class=&quot;citation&quot; href=&quot;#auclair:2022jod&quot;&gt;[1]&lt;/a&gt;. For instance, including an initial growth phase for the turbulent
+<p>Other new findings are presented in Ref. <a class="citation" href="#auclair:2022jod">[1]</a>. For instance, including an initial growth phase for the turbulent
 flow is shown to heavily influences the spectral shape of the
 SGWB. This highlights the importance of a complete understanding of
-the turbulence generation mechanism.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">As our Universe has expanded and cooled, it is suspected that it has undergone different phase transitions. In particular, first order cosmological phase transitions provide a compelling source of Gravitational Waves (GWs) and this is particularly interesting in the context of the Laser Interferometer Space Antenna LISA. In a recent publication, Pierre and his collaborators proposed a new accurate semi-analytical model for predicting the GW signal generated by a turbulent phase in the aftermath of a first order phase transition.</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/05/10/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-05-10T09:00:00+02:00</published><updated>2022-05-10T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/10/seminar</id><content type="html" xml:base="https://curl.group/news/2022/05/10/seminar.html">&lt;p&gt;The next cosmology seminar takes place on &lt;strong&gt;Thursday 19th&lt;/strong&gt; of
-May, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;11am&lt;/strong&gt;. Our guest speaker will be
-&lt;strong&gt;Hugo Roussille&lt;/strong&gt; from APC (Paris, France).&lt;/p&gt;
+the turbulence generation mechanism.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[As our Universe has expanded and cooled, it is suspected that it has undergone different phase transitions. In particular, first order cosmological phase transitions provide a compelling source of Gravitational Waves (GWs) and this is particularly interesting in the context of the Laser Interferometer Space Antenna LISA. In a recent publication, Pierre and his collaborators proposed a new accurate semi-analytical model for predicting the GW signal generated by a turbulent phase in the aftermath of a first order phase transition.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/05/10/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-05-10T09:00:00+02:00</published><updated>2022-05-10T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/10/seminar</id><content type="html" xml:base="https://curl.group/news/2022/05/10/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 19th</strong> of
+May, seminar <strong>room E349</strong> at <strong>11am</strong>. Our guest speaker will be
+<strong>Hugo Roussille</strong> from APC (Paris, France).</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;At 11:00, room E349, Hugo Rousille (APC), will be talking about&lt;/p&gt;
+<p>At 11:00, room E349, Hugo Rousille (APC), will be talking about</p>
 
-&lt;h3 id=&quot;linear-perturbations-of-black-holes-in-dhost-gravity&quot;&gt;Linear perturbations of black holes in DHOST gravity&lt;/h3&gt;
+<h3 id="linear-perturbations-of-black-holes-in-dhost-gravity">Linear perturbations of black holes in DHOST gravity</h3>
 
-&lt;p&gt;&lt;em&gt;General relativity can be tested at many scales using various
+<p><em>General relativity can be tested at many scales using various
  physical systems. A particularly interesting probe is the study of
  the ringdown phase of a binary black hole merger, during which the
  gravitational waves emitted by the newly-formed black hole are well
@@ -212,18 +261,18 @@ May, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;11am&lt;/st
  explicit bad behavior. Furthermore, we can use the obtained
  asymptotic behavior to numerically solve the propagation equations
  and compute quasinormal modes in systems where this was not possible
- before.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The next cosmology seminar takes place on Thursday 19th of May, seminar room E349 at 11am. Our guest speaker will be Hugo Roussille from APC (Paris, France).</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/04/04/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-04-04T09:00:00+02:00</published><updated>2022-04-04T09:00:00+02:00</updated><id>https://curl.group/news/2022/04/04/seminar</id><content type="html" xml:base="https://curl.group/news/2022/04/04/seminar.html">&lt;p&gt;The next cosmology seminar takes place on &lt;strong&gt;Thursday 7th&lt;/strong&gt; of
-April, seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;11am&lt;/strong&gt;. Our guest speaker will be
-&lt;strong&gt;Fabien Lacasa&lt;/strong&gt; from the Institut d’Astrophysique Spatiale (Orsay,
-France).&lt;/p&gt;
+ before.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 19th of May, seminar room E349 at 11am. Our guest speaker will be Hugo Roussille from APC (Paris, France).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/04/04/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-04-04T09:00:00+02:00</published><updated>2022-04-04T09:00:00+02:00</updated><id>https://curl.group/news/2022/04/04/seminar</id><content type="html" xml:base="https://curl.group/news/2022/04/04/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 7th</strong> of
+April, seminar <strong>room E349</strong> at <strong>11am</strong>. Our guest speaker will be
+<strong>Fabien Lacasa</strong> from the Institut d’Astrophysique Spatiale (Orsay,
+France).</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;At 11:00, room E349, Fabien Lacasa (IAS), will be talking about&lt;/p&gt;
+<p>At 11:00, room E349, Fabien Lacasa (IAS), will be talking about</p>
 
-&lt;h3 id=&quot;cosmology-with-the-cosmic-web-the-high-resolution-promise&quot;&gt;Cosmology with the cosmic web: the high resolution promise&lt;/h3&gt;
+<h3 id="cosmology-with-the-cosmic-web-the-high-resolution-promise">Cosmology with the cosmic web: the high resolution promise</h3>
 
-&lt;p&gt;&lt;em&gt;The large scale structure of the Universe, the cosmic web, is a key
+<p><em>The large scale structure of the Universe, the cosmic web, is a key
 probe for late-time cosmology, and is indeed targeted by several of
 the major observational efforts in the coming decades. However, its
 analysis is hampered by the complex non-linear dynamics it undergoes
@@ -237,26 +286,26 @@ power spectrum. The impact will then be presented for a baseline
 cosmological analysis up to mildly non-linear scale, showing
 decreasing returns. By contrast, I will finally show that there is a
 large motivation to jump more boldly and push into the strongly
-non-linear regime at high resolution.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">The next cosmology seminar takes place on Thursday 7th of April, seminar room E349 at 11am. Our guest speaker will be Fabien Lacasa from the Institut d’Astrophysique Spatiale (Orsay, France).</summary></entry><entry><title type="html">Gravitational multifield dynamics on Higgs pre-inflation and preheating</title><link href="https://curl.group/news/2022/03/08/2202.07604.html" rel="alternate" type="text/html" title="Gravitational multifield dynamics on Higgs pre-inflation and preheating" /><published>2022-03-08T09:42:07+01:00</published><updated>2022-03-08T09:42:07+01:00</updated><id>https://curl.group/news/2022/03/08/2202.07604</id><content type="html" xml:base="https://curl.group/news/2022/03/08/2202.07604.html">&lt;p&gt;Traditionally the problem of initial conditions for inflation has been
+non-linear regime at high resolution.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 7th of April, seminar room E349 at 11am. Our guest speaker will be Fabien Lacasa from the Institut d’Astrophysique Spatiale (Orsay, France).]]></summary></entry><entry><title type="html">Gravitational multifield dynamics on Higgs pre-inflation and preheating</title><link href="https://curl.group/news/2022/03/08/2202.07604.html" rel="alternate" type="text/html" title="Gravitational multifield dynamics on Higgs pre-inflation and preheating" /><published>2022-03-08T09:42:07+01:00</published><updated>2022-03-08T09:42:07+01:00</updated><id>https://curl.group/news/2022/03/08/2202.07604</id><content type="html" xml:base="https://curl.group/news/2022/03/08/2202.07604.html"><![CDATA[<p>Traditionally the problem of initial conditions for inflation has been
 treated separately from studies of reheating. To allow for a
 parametric-type reheating, the inflaton must be allowed to interact
 with (or decay to) other fields, and, these interactions should be
 present also during inhomogeneous preinflation. Could they prevent
 cosmic inflation to start in the first place?  In a single-author
-publication &lt;a href=&quot;/members/joana.html&quot;&gt;&lt;strong&gt;Cristian&lt;/strong&gt;&lt;/a&gt; answers this question
+publication <a href="/members/joana.html"><strong>Cristian</strong></a> answers this question
 for Higgs Inflation: once more, inflation always starts and passes the
-challenge!&lt;/p&gt;
+challenge!</p>
 
-&lt;p&gt;The inflationary paradigm postulates an early phase of accelerated
+<p>The inflationary paradigm postulates an early phase of accelerated
 expansion of the Universe. Such a period provides an explanation for
 the observed large-scale homogeneity and flatness in the cosmos.
 After the end of inflation, the universe would have gone through a
 phase where the energy of the inflaton is transferred to Standard
 Model particles, heating up the universe and leading to a bath of
 ultra-relativistic particles behaving like radiation.  This phase is
-known as reheating.&lt;/p&gt;
+known as reheating.</p>
 
-&lt;p&gt;Traditionally the problem of initial condition for inflation, i.e.,
+<p>Traditionally the problem of initial condition for inflation, i.e.,
 knowing if inflation can start from highly inhomogeneous initial
 conditions, has been treated separately from studies of
 reheating. However, they are connected. To allow for the so-called
@@ -265,65 +314,65 @@ system is oscillating at the bottom of the potential, the inflaton
 must be microscopically coupled to other fields. So, again, one could
 raise the question: shouldn’t these interactions be present also
 during inhomogeneous preinflation? Do they prevent cosmic inflation
-to start?&lt;/p&gt;
+to start?</p>
 
-&lt;p&gt;In a previous paper, see Ref. &lt;a class=&quot;citation&quot; href=&quot;#joana:2020rxm&quot;&gt;[1]&lt;/a&gt;, we have
-studied the robustness of &lt;em&gt;single-field&lt;/em&gt; Higgs Inflation to
+<p>In a previous paper, see Ref. <a class="citation" href="#joana:2020rxm">[1]</a>, we have
+studied the robustness of <em>single-field</em> Higgs Inflation to
 inhomogeneous initial conditions of all sizes. We have paid attention
 to include the gravitational dynamics of the system, showing the possible
 formation of pre-inflationary black holes, as well as the generation
 of shear/tensor modes in the metric. In short, we have showed that
 these gravitational dynamics can only delay the beginning of inflation, but
-never prevent it.&lt;/p&gt;
+never prevent it.</p>
 
-&lt;p&gt;In Ref. &lt;a class=&quot;citation&quot; href=&quot;#joana:2022uwc&quot;&gt;[2]&lt;/a&gt;, &lt;a href=&quot;/members/joana.html&quot;&gt;&lt;strong&gt;Cristian&lt;/strong&gt;&lt;/a&gt;
+<p>In Ref. <a class="citation" href="#joana:2022uwc">[2]</a>, <a href="/members/joana.html"><strong>Cristian</strong></a>
 expands the previous settings by adding an extra field into the Higgs
 Inflation model. This field is coupled such that it allows for a
 reheating of the Universe. Reheating is actually successful for a
 range of the field-field interaction strength, which is numerically
 explored in full General Relativity simulations. Then the same model
 is confronted to various preinflationary inhomogeneous settings and the
-full gravitational and scalar-field dynamics are investigated.&lt;/p&gt;
+full gravitational and scalar-field dynamics are investigated.</p>
 
-&lt;p&gt;The figure below shows the preheating resonances for the auxiliary
+<p>The figure below shows the preheating resonances for the auxiliary
 field (left panel). Structure formation occurs \(2\)-\(3\) e-folds
-after the end of inflation (right panel).&lt;/p&gt;
+after the end of inflation (right panel).</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2202.07604/Reh_01.png&quot; alt=&quot;reh&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/2202.07604/Reh_01.png" alt="reh" /></p>
 
-&lt;p&gt;Looking at the exact same model during the inhomogeneous multi-field
+<p>Looking at the exact same model during the inhomogeneous multi-field
 preinflationary epochs, we confirm that the Higgs non-minimal coupling
-to gravity acts as a stabilizer as it &lt;em&gt;washes out&lt;/em&gt; the energy
+to gravity acts as a stabilizer as it <em>washes out</em> the energy
 contribution of the other minimally coupled matter/scalar-field
-sectors. In Ref &lt;a class=&quot;citation&quot; href=&quot;#joana:2022uwc&quot;&gt;[2]&lt;/a&gt;, it is shown that this occurs
+sectors. In Ref <a class="citation" href="#joana:2022uwc">[2]</a>, it is shown that this occurs
 naturally when one canonically normalizes the fields in the Einstein
 frame. This effect generalizes the dynamics of inhomogeneous
 extra-matter components, making them sub-dominant in comparison to the
-inflaton.&lt;/p&gt;
+inflaton.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/2202.07604/mf_preinf.png&quot; alt=&quot;preinf&quot; /&gt;&lt;/p&gt;
+<p><img src="/assets/images/2202.07604/mf_preinf.png" alt="preinf" /></p>
 
-&lt;p&gt;The above figure illustrates the gravitational and scalar-field
+<p>The above figure illustrates the gravitational and scalar-field
 dynamics during pre-inflation. Two simulations are shown, one with
 super-Hubble initial conditions (left) and another with sub-Hubble
-size inhomogeneities (right).&lt;/p&gt;
+size inhomogeneities (right).</p>
 
-&lt;p&gt;All in all, these investigations further confirm the robustness of
+<p>All in all, these investigations further confirm the robustness of
 Higgs Inflation to multi-field inhomogeneous initial conditions, while
 putting in evidence the formation of complex structures during the
 reheating. The possible production of compact objects during the
 reheating, such as primordial black holes, will be investigated in
-future works.&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Traditionally the problem of initial conditions for inflation has been treated separately from studies of reheating. To allow for a parametric-type reheating, the inflaton must be allowed to interact with (or decay to) other fields, and, these interactions should be present also during inhomogeneous preinflation. Could they prevent cosmic inflation to start in the first place? In a single-author publication Cristian answers this question for Higgs Inflation: once more, inflation always starts and passes the challenge!</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-22T08:00:00+01:00</published><updated>2021-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/22/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Wednesday 1st&lt;/strong&gt; of December,
-seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Maxence Corman&lt;/strong&gt;
-from the Perimeter Institute (Waterloo, Canada).&lt;/p&gt;
+future works.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Traditionally the problem of initial conditions for inflation has been treated separately from studies of reheating. To allow for a parametric-type reheating, the inflaton must be allowed to interact with (or decay to) other fields, and, these interactions should be present also during inhomogeneous preinflation. Could they prevent cosmic inflation to start in the first place? In a single-author publication Cristian answers this question for Higgs Inflation: once more, inflation always starts and passes the challenge!]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/22/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-22T08:00:00+01:00</published><updated>2021-11-22T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/22/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/22/seminar.html"><![CDATA[<p>Our next cosmology seminar takes place on <strong>Wednesday 1st</strong> of December,
+seminar <strong>room E349</strong> at <strong>2pm</strong>. The speaker is <strong>Maxence Corman</strong>
+from the Perimeter Institute (Waterloo, Canada).</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;At 14:00, room E349, Maxence Corman (PI), will be talking about&lt;/p&gt;
+<p>At 14:00, room E349, Maxence Corman (PI), will be talking about</p>
 
-&lt;h3 id=&quot;evolving-black-holes-in-a-nonsingular-bouncing-universe&quot;&gt;Evolving black holes in a nonsingular bouncing universe&lt;/h3&gt;
+<h3 id="evolving-black-holes-in-a-nonsingular-bouncing-universe">Evolving black holes in a nonsingular bouncing universe</h3>
 
-&lt;p&gt;&lt;em&gt;One of the main unanswered questions of theoretical cosmology is
+<p><em>One of the main unanswered questions of theoretical cosmology is
 whether the universe emerged from a big bang followed by a period of
 inflation or whether it had no beginning at all and bounced from a
 period of slow contraction to the current expanding phase.  It has
@@ -339,18 +388,18 @@ through the bounce freely, albeit losing energy in the process.
 Pushing this further, we also show that if the Hubble patch during
 contraction shrinks to a size comparable or smaller than the radius of
 the black hole this gives rise to interesting dynamics such as
-disappearing and re-emerging horizons.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Wednesday 1st of December, seminar room E349 at 2pm. The speaker is Maxence Corman from the Perimeter Institute (Waterloo, Canada).</summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/15/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-15T08:00:00+01:00</published><updated>2021-11-15T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/15/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/15/seminar.html">&lt;p&gt;Our next cosmology seminar takes place on &lt;strong&gt;Friday 19th&lt;/strong&gt; of November,
-seminar &lt;strong&gt;room E349&lt;/strong&gt; at &lt;strong&gt;2pm&lt;/strong&gt;. The speaker is &lt;strong&gt;Danilo Artigas&lt;/strong&gt;
+disappearing and re-emerging horizons.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Our next cosmology seminar takes place on Wednesday 1st of December, seminar room E349 at 2pm. The speaker is Maxence Corman from the Perimeter Institute (Waterloo, Canada).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/15/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-15T08:00:00+01:00</published><updated>2021-11-15T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/15/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/15/seminar.html"><![CDATA[<p>Our next cosmology seminar takes place on <strong>Friday 19th</strong> of November,
+seminar <strong>room E349</strong> at <strong>2pm</strong>. The speaker is <strong>Danilo Artigas</strong>
 from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum
-Cosmos Lab (Cracow, Poland).&lt;/p&gt;
+Cosmos Lab (Cracow, Poland).</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;At 14:00, room E349, Danilo Artigas (IAS), will be talking about&lt;/p&gt;
+<p>At 14:00, room E349, Danilo Artigas (IAS), will be talking about</p>
 
-&lt;h3 id=&quot;hamiltonian-formalism-for-cosmological-perturbations-the-separate-universe-approach&quot;&gt;Hamiltonian formalism for cosmological perturbations: the separate-universe approach&lt;/h3&gt;
+<h3 id="hamiltonian-formalism-for-cosmological-perturbations-the-separate-universe-approach">Hamiltonian formalism for cosmological perturbations: the separate-universe approach</h3>
 
-&lt;p&gt;&lt;em&gt;In order to describe inhomogeneities and anisotropies in the Universe,
+<p><em>In order to describe inhomogeneities and anisotropies in the Universe,
 one generally considers a Friedmann-Lemaître-Robertson-Walker
 background and introduces perturbations on top of it. Such a method is
 commonly used in Lagrangian formalism and is fundamental for example
@@ -363,63 +412,41 @@ then compare both frameworks to determine the domain of validity of
 the separate universe. As expected, both match at large scales since
 anisotropic degrees of freedom decouple from homogeneous ones. We’ll
 finish discussing the gauge matching between both approaches and the
-construction of their gauge-invariant quantities.&lt;/em&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html">Our next cosmology seminar takes place on Friday 19th of November, seminar room E349 at 2pm. The speaker is Danilo Artigas from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum Cosmos Lab (Cracow, Poland).</summary></entry><entry><title type="html">~~Post-doctoral opening in Cosmology~~</title><link href="https://curl.group/jobs/2021/10/22/IISN.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Cosmology~~" /><published>2021-10-22T09:00:00+02:00</published><updated>2021-10-22T09:00:00+02:00</updated><id>https://curl.group/jobs/2021/10/22/IISN</id><content type="html" xml:base="https://curl.group/jobs/2021/10/22/IISN.html">&lt;p&gt;The &lt;a href=&quot;https://uclouvain.be/en/research-institutes/irmp&quot;&gt;&lt;strong&gt;Institute of Mathematics and
-Physics&lt;/strong&gt;&lt;/a&gt; is
+construction of their gauge-invariant quantities.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Our next cosmology seminar takes place on Friday 19th of November, seminar room E349 at 2pm. The speaker is Danilo Artigas from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum Cosmos Lab (Cracow, Poland).]]></summary></entry><entry><title type="html">~~Post-doctoral opening in Cosmology~~</title><link href="https://curl.group/jobs/2021/10/22/IISN.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Cosmology~~" /><published>2021-10-22T09:00:00+02:00</published><updated>2021-10-22T09:00:00+02:00</updated><id>https://curl.group/jobs/2021/10/22/IISN</id><content type="html" xml:base="https://curl.group/jobs/2021/10/22/IISN.html"><![CDATA[<p>The <a href="https://uclouvain.be/en/research-institutes/irmp"><strong>Institute of Mathematics and
+Physics</strong></a> is
 openening a post-doctoral research position in the field of Cosmology
 starting fall 2022 to work in collaboration with Prof. M. Drewes
-(&lt;a href=&quot;https://cp3.phys.ucl.ac.be&quot;&gt;CP3&lt;/a&gt;) and Prof. Ch. Ringeval
-(&lt;a href=&quot;https://curl.irmp.ucl.ac.be&quot;&gt;CURL&lt;/a&gt;).&lt;/p&gt;
+(<a href="https://cp3.phys.ucl.ac.be">CP3</a>) and Prof. Ch. Ringeval
+(<a href="https://curl.irmp.ucl.ac.be">CURL</a>).</p>
 
-&lt;p&gt;Applicants interested in early universe cosmology, such as cosmic
+<p>Applicants interested in early universe cosmology, such as cosmic
 inflation, reheating, connection with particle physics as well as
 future cosmological observations (CMB-S4, Euclid, LiteBird, LISA…),
 are particularly encouraged to apply. Please notice that applicants
 should have obtained their PhD no longer than 5 years before the
 starting date of the fellowship, plus one year of allowance for
-parenthood.&lt;/p&gt;
+parenthood.</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;Letters of application (including a curriculum vitae, a list of
+<p>Letters of application (including a curriculum vitae, a list of
 publications, a brief statement of research interests) and at least
 two recommendation letters from senior scientists should be submitted
-on-line, by the 15th of December 2021, at:&lt;/p&gt;
+on-line, by the 15th of December 2021, at:</p>
 
-&lt;p&gt;&lt;a href=&quot;https://cp3.irmp.ucl.ac.be/jobs/74&quot;&gt;&lt;strong&gt;https://cp3.irmp.ucl.ac.be/jobs/74&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+<p><a href="https://cp3.irmp.ucl.ac.be/jobs/74"><strong>https://cp3.irmp.ucl.ac.be/jobs/74</strong></a></p>
 
-&lt;p&gt;For more information, or postal applications, please contact:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;christophe.ringeval@uclouvain.be
+<p>For more information, or postal applications, please contact:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>christophe.ringeval@uclouvain.be
 Cosmology, Universe and Relativity at Louvain
 Institute of Mathematics and Physics
 Louvain University
 2, Chemin du Cyclotron
 1348 Louvain-la-Neuve
 Belgium
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</code></pre></div></div>
 
-&lt;p&gt;A summary of our current interests can be consulted on the CURL
-website: &lt;a href=&quot;https://curl.group&quot;&gt;&lt;strong&gt;curl.group&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+<p>A summary of our current interests can be consulted on the CURL
+website: <a href="https://curl.group"><strong>curl.group</strong></a></p>
 
-&lt;hr /&gt;</content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html">The Institute of Mathematics and Physics is openening a post-doctoral research position in the field of Cosmology starting fall 2022 to work in collaboration with Prof. M. Drewes (CP3) and Prof. Ch. Ringeval (CURL).</summary></entry><entry><title type="html">From quantum fluctuations to galaxies</title><link href="https://curl.group/outreach/2021/10/15/CAAPC.html" rel="alternate" type="text/html" title="From quantum fluctuations to galaxies" /><published>2021-10-15T09:00:00+02:00</published><updated>2021-10-15T09:00:00+02:00</updated><id>https://curl.group/outreach/2021/10/15/CAAPC</id><content type="html" xml:base="https://curl.group/outreach/2021/10/15/CAAPC.html">&lt;p&gt;C. Ringeval gives a public lecture on Cosmic Inflation for the Cercle
-des Astronomes Amateurs de Charleroi (starts at 7:45pm). More information at
-&lt;a href=&quot;https://caapc.be/&quot;&gt;&lt;strong&gt;CAAPC&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;linflation-cosmique-du-vide-quantique-aux-galaxies&quot;&gt;L’Inflation Cosmique: du vide quantique aux galaxies&lt;/h3&gt;
-
-&lt;p&gt;Les mesures astronomiques et cosmologiques de ce début de siècle ont
-permis de déterminer avec une précision redoutable la nature et les
-abondances de toutes les formes d’énergie présentes dans l’Univers.
-Elles ont, une fois de plus, donné raison au modèle du Big-Bang de
-George Lemaître. Celui-ci décrit donc, avec précision, notre Univers
-sur des distances allant jusqu’à la dizaine de gigaparsecs et nous
-permet de comprendre son histoire dès la seconde après la singularité
-initiale.  Cependant, nous verrons comment ces mesures posent aussi
-des questions surprenantes sur l’évolution de l’Univers dans son
-premier milliardième de seconde d’existence. Nous expliquerons
-pourquoi la plus plausible des réponses est l’Inflation
-Cosmique. Celle-ci nous dit que l’Univers eut été en accélération
-quasi-exponentielle, dénué de toute de matière et lumière, gorgé de
-fluctuations quantiques et d’ondes gravitationnelles : les embryons
-des galaxies d’aujourd’hui.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/outreach/inflation_Charleroi.jpg&quot; alt=&quot;CAAPC_first_slide&quot; /&gt;&lt;/p&gt;</content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html">C. Ringeval gives a public lecture on Cosmic Inflation for the Cercle des Astronomes Amateurs de Charleroi (starts at 7:45pm). More information at CAAPC.</summary></entry></feed>
+<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[The Institute of Mathematics and Physics is openening a post-doctoral research position in the field of Cosmology starting fall 2022 to work in collaboration with Prof. M. Drewes (CP3) and Prof. Ch. Ringeval (CURL).]]></summary></entry></feed>
