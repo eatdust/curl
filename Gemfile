@@ -16,6 +16,7 @@ gem "json"
 gem "citeproc"
 gem "unicode"
 gem "racc"
+gem "webrick"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
