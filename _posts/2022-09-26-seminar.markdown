@@ -1,0 +1,41 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2022-09-26 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Friday 30th** of
+September, seminar **room E349** at **2pm**. Our guest speaker will be
+**Nilanjandev Bhaumik** from the Indian Institute of Science (Bangalore, India).
+
+---
+
+At 2pm, room E349, Nilanjan Bhaumik (IIS), will be talking about
+
+
+### Stochastic gravitational waves background to probe the reheating histories in the presence of primordial black holes
+
+*Primordial black hole (PBH) is one of the most promising cold dark
+ matter candidates in recent years. The signature of PBHs in the
+ stochastic gravitational-wave background (SGWB) is natural as PBH
+ formation requires a significant amplification in inflationary scalar
+ curvature perturbation, which sources the tensor perturbation in
+ second order and amplifies the SGWB. We explore this possibility to
+ probe different possible reheating histories. We find that any change
+ in reheating histories can shift the PBH mass range and the peak
+ frequency of SGWB. Still, only the matter-dominated reheating phase
+ can lead to an additional resonant amplification in SGWB at a very
+ high frequency.
+ Isocurvature perturbation from PBH distributions
+ contributes to the adiabatic perturbation. It also leads to
+ detectable amplification in the induced GW background and can
+ contribute to Baryogenesis for ultra-low mass PBHs, which can
+ dominate the universe for a small duration. Combining these two
+ effects can help us probe primordial black hole scenarios and details
+ of reheating histories, leaving diverse implications for cosmology
+ and particle physics.*
+
+
+
+
