@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-09-16T15:54:27+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Slow-roll Inflation at N3LO</title><link href="https://curl.group/news/2022/09/15/2205.12608.html" rel="alternate" type="text/html" title="Slow-roll Inflation at N3LO" /><published>2022-09-15T09:00:00+02:00</published><updated>2022-09-15T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/15/2205.12608</id><content type="html" xml:base="https://curl.group/news/2022/09/15/2205.12608.html"><![CDATA[<p>Cosmic Inflation, the most favoured scenario of the early Universe,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-09-26T11:57:22+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/09/26/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-09-26T09:00:00+02:00</published><updated>2022-09-26T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/26/seminar</id><content type="html" xml:base="https://curl.group/news/2022/09/26/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 30th</strong> of
+September, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
+<strong>Nilanjandev Bhaumik</strong> from the Indian Institute of Science (Bangalore, India).</p>
+
+<hr />
+
+<p>At 2pm, room E349, Nilanjan Bhaumik (IIS), will be talking about</p>
+
+<h3 id="stochastic-gravitational-waves-background-to-probe-the-reheating-histories-in-the-presence-of-primordial-black-holes">Stochastic gravitational waves background to probe the reheating histories in the presence of primordial black holes</h3>
+
+<p><em>Primordial black hole (PBH) is one of the most promising cold dark
+ matter candidates in recent years. The signature of PBHs in the
+ stochastic gravitational-wave background (SGWB) is natural as PBH
+ formation requires a significant amplification in inflationary scalar
+ curvature perturbation, which sources the tensor perturbation in
+ second order and amplifies the SGWB. We explore this possibility to
+ probe different possible reheating histories. We find that any change
+ in reheating histories can shift the PBH mass range and the peak
+ frequency of SGWB. Still, only the matter-dominated reheating phase
+ can lead to an additional resonant amplification in SGWB at a very
+ high frequency.
+ Isocurvature perturbation from PBH distributions
+ contributes to the adiabatic perturbation. It also leads to
+ detectable amplification in the induced GW background and can
+ contribute to Baryogenesis for ultra-low mass PBHs, which can
+ dominate the universe for a small duration. Combining these two
+ effects can help us probe primordial black hole scenarios and details
+ of reheating histories, leaving diverse implications for cosmology
+ and particle physics.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 30th of September, seminar room E349 at 2pm. Our guest speaker will be Nilanjandev Bhaumik from the Indian Institute of Science (Bangalore, India).]]></summary></entry><entry><title type="html">Slow-roll Inflation at N3LO</title><link href="https://curl.group/news/2022/09/15/2205.12608.html" rel="alternate" type="text/html" title="Slow-roll Inflation at N3LO" /><published>2022-09-15T09:00:00+02:00</published><updated>2022-09-15T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/15/2205.12608</id><content type="html" xml:base="https://curl.group/news/2022/09/15/2205.12608.html"><![CDATA[<p>Cosmic Inflation, the most favoured scenario of the early Universe,
 implies that all forms of matter and radiation observed today are the
 outcome of quantum fluctuations occurring around the event horizon of a
 exponentially fast accelerating space-time. Clearing the ground for
@@ -412,41 +440,4 @@ then compare both frameworks to determine the domain of validity of
 the separate universe. As expected, both match at large scales since
 anisotropic degrees of freedom decouple from homogeneous ones. We’ll
 finish discussing the gauge matching between both approaches and the
-construction of their gauge-invariant quantities.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Our next cosmology seminar takes place on Friday 19th of November, seminar room E349 at 2pm. The speaker is Danilo Artigas from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum Cosmos Lab (Cracow, Poland).]]></summary></entry><entry><title type="html">~~Post-doctoral opening in Cosmology~~</title><link href="https://curl.group/jobs/2021/10/22/IISN.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Cosmology~~" /><published>2021-10-22T09:00:00+02:00</published><updated>2021-10-22T09:00:00+02:00</updated><id>https://curl.group/jobs/2021/10/22/IISN</id><content type="html" xml:base="https://curl.group/jobs/2021/10/22/IISN.html"><![CDATA[<p>The <a href="https://uclouvain.be/en/research-institutes/irmp"><strong>Institute of Mathematics and
-Physics</strong></a> is
-openening a post-doctoral research position in the field of Cosmology
-starting fall 2022 to work in collaboration with Prof. M. Drewes
-(<a href="https://cp3.phys.ucl.ac.be">CP3</a>) and Prof. Ch. Ringeval
-(<a href="https://curl.irmp.ucl.ac.be">CURL</a>).</p>
-
-<p>Applicants interested in early universe cosmology, such as cosmic
-inflation, reheating, connection with particle physics as well as
-future cosmological observations (CMB-S4, Euclid, LiteBird, LISA…),
-are particularly encouraged to apply. Please notice that applicants
-should have obtained their PhD no longer than 5 years before the
-starting date of the fellowship, plus one year of allowance for
-parenthood.</p>
-
-<hr />
-
-<p>Letters of application (including a curriculum vitae, a list of
-publications, a brief statement of research interests) and at least
-two recommendation letters from senior scientists should be submitted
-on-line, by the 15th of December 2021, at:</p>
-
-<p><a href="https://cp3.irmp.ucl.ac.be/jobs/74"><strong>https://cp3.irmp.ucl.ac.be/jobs/74</strong></a></p>
-
-<p>For more information, or postal applications, please contact:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>christophe.ringeval@uclouvain.be
-Cosmology, Universe and Relativity at Louvain
-Institute of Mathematics and Physics
-Louvain University
-2, Chemin du Cyclotron
-1348 Louvain-la-Neuve
-Belgium
-</code></pre></div></div>
-
-<p>A summary of our current interests can be consulted on the CURL
-website: <a href="https://curl.group"><strong>curl.group</strong></a></p>
-
-<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[The Institute of Mathematics and Physics is openening a post-doctoral research position in the field of Cosmology starting fall 2022 to work in collaboration with Prof. M. Drewes (CP3) and Prof. Ch. Ringeval (CURL).]]></summary></entry></feed>
+construction of their gauge-invariant quantities.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Our next cosmology seminar takes place on Friday 19th of November, seminar room E349 at 2pm. The speaker is Danilo Artigas from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum Cosmos Lab (Cracow, Poland).]]></summary></entry></feed>
