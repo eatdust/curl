@@ -27,7 +27,8 @@ sourced during the inflationary era are exactly what is needed to
 explain the origin of the cosmological perturbations: the **seeds of the
 galaxies** of today.
 
-![ngc83](/assets/images/2205.12608/ngc83.jpg)
+![ngc83](/assets/images/2205.12608/ngc83.jpg "Galaxy Group NGC80")
+*The Galaxy group NGC80 and Arp65*
 
 These quantum fluctuations are deeply rooted in gravity and appear as
 both primordial gravitational waves $$h_{ij}$$ and curvature
@@ -42,9 +43,9 @@ is the logarithm of the scale factor $$a$$.
 Slow-roll inflation **predicts** the correlation functions to be
 given by these spectra:
 
-![pzeta](/assets/images/2205.12608/pzeta.png)
+![pzeta](/assets/images/2205.12608/pzeta.png "Scalar Power Spectrum")
 
-![ph](/assets/images/2205.12608/ph.png)
+![ph](/assets/images/2205.12608/ph.png "Tensor Power Spectrum")
 
 They are expanded around an observable wavenumber
 $$k_*=0.05\,\mathrm{Mpc}^{-1}$$ and readily testable with the

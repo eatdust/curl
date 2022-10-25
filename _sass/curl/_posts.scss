@@ -19,6 +19,11 @@ article + *, .post-body ~ section {
     width: 100%;
 }
 
+.post-body img + em{
+    @extend .polaroid;
+    width: 100%;
+}
+
 .post, .page {
   .content {
     li + li {

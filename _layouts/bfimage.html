@@ -1,0 +1,35 @@
+<html lang="en-us">
+  
+  <body class="bfimage">
+    
+    {% for item in site.vlimages %}
+    {% if item.title == page.title %}
+    {% assign pict = item %}
+    {% endif %}
+    {% endfor %}
+
+    {% if pict.engine == 'openseadragon' %}
+
+    <script src="{{ site.baseurl }}/assets/openseadragon/openseadragon.min.js">
+    </script>
+
+    <div id="{{ pict.title }}" class="openseadragon">
+      <script type="text/javascript">
+	OpenSeadragon({
+	    id:          "{{ pict.title }}",
+	    prefixUrl:   "{{ site.baseurl }}/assets/openseadragon/images/",
+	    tileSources: "{{ site.baseurl }}/assets/bfimages/{{ pict.dzi }}",
+	});
+      </script>
+    </div>
+
+    {% endif %}
+        
+
+  </body>
+  
+</html>
+
+
+
+

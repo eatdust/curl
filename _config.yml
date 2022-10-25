@@ -24,6 +24,8 @@ author:
 collections:
   members:
     output: true
+  vlimages:
+    output: true
 
 
     

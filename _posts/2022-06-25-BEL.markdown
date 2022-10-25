@@ -55,7 +55,7 @@ Using the recently released public domain data DR3 from the GAIA satellite
 it with very sensitive eyes, eyes that would allow you to actually see
 daylight colors but in the dark.
 
-![gaialaxy](/assets/images/outreach/gaialaxy.png)
+[![gaialaxy](/assets/images/outreach/gaialaxy.png)](/vlimages/gaialaxy)
 
 *This image represents the integrated light flux coming from all faint
 sources of light, of magnitude greater than $$10$$, in human-visible
