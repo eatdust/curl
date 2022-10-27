@@ -28,7 +28,6 @@ explain the origin of the cosmological perturbations: the **seeds of the
 galaxies** of today.
 
 ![ngc83](/assets/images/2205.12608/ngc83.jpg "Galaxy Group NGC80")
-*The Galaxy group NGC80 and Arp65*
 
 These quantum fluctuations are deeply rooted in gravity and appear as
 both primordial gravitational waves $$h_{ij}$$ and curvature
