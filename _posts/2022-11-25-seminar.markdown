@@ -1,0 +1,30 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2022-11-17 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Friday 2nd** of
+December, seminar **room E349** at **2pm**. Our guest speaker will be
+**Davide Dal Cin** from SISSA (Trieste, Italy).
+
+---
+
+At 2pm, room E349, Davide Dal Cin (SISSA), will be talking about
+
+### Planck-Scale Physics and the Peccei-Quinn inflation model
+
+*The radial direction of the Peccei-Quinn field can drive cosmic
+inflation, given a non-minimal coupling to gravity. This scenario has
+been considered to be capable of explaining inflation, the strong
+CP problem, and dark matter. We argue that Peccei-Quinn inflation
+is extremely sensitive to higher-dimensional operators. Further
+combining with the discussion on the axion quality required to solve
+the strong CP problem, we examine the validity of this scenario. We
+also show that a resonant amplification of the axion field is
+unavoidable after Peccei--Quinn inflation.*
+
+
+
+
