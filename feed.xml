@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-11-17T16:10:17+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/09/26/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-09-26T09:00:00+02:00</published><updated>2022-09-26T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/26/seminar</id><content type="html" xml:base="https://curl.group/news/2022/09/26/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 30th</strong> of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-11-25T14:04:20+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/11/25/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-11-25T08:00:00+01:00</published><updated>2022-11-25T08:00:00+01:00</updated><id>https://curl.group/news/2022/11/25/seminar</id><content type="html" xml:base="https://curl.group/news/2022/11/25/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 2nd</strong> of
+December, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
+<strong>Davide Dal Cin</strong> from SISSA (Trieste, Italy).</p>
+
+<hr />
+
+<p>At 2pm, room E349, Davide Dal Cin (SISSA), will be talking about</p>
+
+<h3 id="planck-scale-physics-and-the-peccei-quinn-inflation-model">Planck-Scale Physics and the Peccei-Quinn inflation model</h3>
+
+<p><em>The radial direction of the Peccei-Quinn field can drive cosmic
+inflation, given a non-minimal coupling to gravity. This scenario has
+been considered to be capable of explaining inflation, the strong
+CP problem, and dark matter. We argue that Peccei-Quinn inflation
+is extremely sensitive to higher-dimensional operators. Further
+combining with the discussion on the axion quality required to solve
+the strong CP problem, we examine the validity of this scenario. We
+also show that a resonant amplification of the axion field is
+unavoidable after Peccei–Quinn inflation.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 2nd of December, seminar room E349 at 2pm. Our guest speaker will be Davide Dal Cin from SISSA (Trieste, Italy).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/09/26/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-09-26T09:00:00+02:00</published><updated>2022-09-26T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/26/seminar</id><content type="html" xml:base="https://curl.group/news/2022/09/26/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 30th</strong> of
 September, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
 <strong>Nilanjandev Bhaumik</strong> from the Indian Institute of Science (Bangalore, India).</p>
 
@@ -416,28 +434,4 @@ through the bounce freely, albeit losing energy in the process.
 Pushing this further, we also show that if the Hubble patch during
 contraction shrinks to a size comparable or smaller than the radius of
 the black hole this gives rise to interesting dynamics such as
-disappearing and re-emerging horizons.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Our next cosmology seminar takes place on Wednesday 1st of December, seminar room E349 at 2pm. The speaker is Maxence Corman from the Perimeter Institute (Waterloo, Canada).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2021/11/15/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2021-11-15T08:00:00+01:00</published><updated>2021-11-15T08:00:00+01:00</updated><id>https://curl.group/news/2021/11/15/seminar</id><content type="html" xml:base="https://curl.group/news/2021/11/15/seminar.html"><![CDATA[<p>Our next cosmology seminar takes place on <strong>Friday 19th</strong> of November,
-seminar <strong>room E349</strong> at <strong>2pm</strong>. The speaker is <strong>Danilo Artigas</strong>
-from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum
-Cosmos Lab (Cracow, Poland).</p>
-
-<hr />
-
-<p>At 14:00, room E349, Danilo Artigas (IAS), will be talking about</p>
-
-<h3 id="hamiltonian-formalism-for-cosmological-perturbations-the-separate-universe-approach">Hamiltonian formalism for cosmological perturbations: the separate-universe approach</h3>
-
-<p><em>In order to describe inhomogeneities and anisotropies in the Universe,
-one generally considers a Friedmann-Lemaître-Robertson-Walker
-background and introduces perturbations on top of it. Such a method is
-commonly used in Lagrangian formalism and is fundamental for example
-in order to describe the formation of large-scale structures. On the
-other hand, the so-called “separate-universe” approach aims to provide
-an effective description of cosmological perturbations at large
-scales. In this talk, we will formulate the perturbation theory and
-the separate universe approach in the Hamiltonian language. We will
-then compare both frameworks to determine the domain of validity of
-the separate universe. As expected, both match at large scales since
-anisotropic degrees of freedom decouple from homogeneous ones. We’ll
-finish discussing the gauge matching between both approaches and the
-construction of their gauge-invariant quantities.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Our next cosmology seminar takes place on Friday 19th of November, seminar room E349 at 2pm. The speaker is Danilo Artigas from the Institut d’Astrophysique Spatiale (Paris, France) and Quantum Cosmos Lab (Cracow, Poland).]]></summary></entry></feed>
+disappearing and re-emerging horizons.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Our next cosmology seminar takes place on Wednesday 1st of December, seminar room E349 at 2pm. The speaker is Maxence Corman from the Perimeter Institute (Waterloo, Canada).]]></summary></entry></feed>
