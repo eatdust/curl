@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2022-11-25T18:34:07+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/11/25/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-11-25T08:00:00+01:00</published><updated>2022-11-25T08:00:00+01:00</updated><id>https://curl.group/news/2022/11/25/seminar</id><content type="html" xml:base="https://curl.group/news/2022/11/25/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 2nd</strong> of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-01-19T16:51:44+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The Big-Bang discussed by its inventor</title><link href="https://curl.group/outreach/2023/01/19/GL.html" rel="alternate" type="text/html" title="The Big-Bang discussed by its inventor" /><published>2023-01-19T08:00:00+01:00</published><updated>2023-01-19T08:00:00+01:00</updated><id>https://curl.group/outreach/2023/01/19/GL</id><content type="html" xml:base="https://curl.group/outreach/2023/01/19/GL.html"><![CDATA[<p>An genuine filmed interview of <strong>Georges Lemaître</strong> from 1964
+resurfaced. We can all listen to the inventor of the “Big-Bang”,
+talking about his own theory, in French.</p>
+
+<p>The live stream can be watched
+<a href="https://vrtnws.be/p.OvM55PlWN"><strong>there</strong></a> while a transcripted
+english translation has been published on the
+<a href="https://arxiv.org/abs/2301.07198"><strong>arXiv</strong></a>.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[An genuine filmed interview of Georges Lemaître from 1964 resurfaced. We can all listen to the inventor of the “Big-Bang”, talking about his own theory, in French.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/11/25/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-11-25T08:00:00+01:00</published><updated>2022-11-25T08:00:00+01:00</updated><id>https://curl.group/news/2022/11/25/seminar</id><content type="html" xml:base="https://curl.group/news/2022/11/25/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 2nd</strong> of
 December, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
 <strong>Davide Dal Cin</strong> from SISSA (Trieste, Italy).</p>
 
@@ -368,80 +375,4 @@ power spectrum. The impact will then be presented for a baseline
 cosmological analysis up to mildly non-linear scale, showing
 decreasing returns. By contrast, I will finally show that there is a
 large motivation to jump more boldly and push into the strongly
-non-linear regime at high resolution.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 7th of April, seminar room E349 at 11am. Our guest speaker will be Fabien Lacasa from the Institut d’Astrophysique Spatiale (Orsay, France).]]></summary></entry><entry><title type="html">Gravitational multifield dynamics on Higgs pre-inflation and preheating</title><link href="https://curl.group/news/2022/03/08/2202.07604.html" rel="alternate" type="text/html" title="Gravitational multifield dynamics on Higgs pre-inflation and preheating" /><published>2022-03-08T09:42:07+01:00</published><updated>2022-03-08T09:42:07+01:00</updated><id>https://curl.group/news/2022/03/08/2202.07604</id><content type="html" xml:base="https://curl.group/news/2022/03/08/2202.07604.html"><![CDATA[<p>Traditionally the problem of initial conditions for inflation has been
-treated separately from studies of reheating. To allow for a
-parametric-type reheating, the inflaton must be allowed to interact
-with (or decay to) other fields, and, these interactions should be
-present also during inhomogeneous preinflation. Could they prevent
-cosmic inflation to start in the first place?  In a single-author
-publication <a href="/members/joana.html"><strong>Cristian</strong></a> answers this question
-for Higgs Inflation: once more, inflation always starts and passes the
-challenge!</p>
-
-<p>The inflationary paradigm postulates an early phase of accelerated
-expansion of the Universe. Such a period provides an explanation for
-the observed large-scale homogeneity and flatness in the cosmos.
-After the end of inflation, the universe would have gone through a
-phase where the energy of the inflaton is transferred to Standard
-Model particles, heating up the universe and leading to a bath of
-ultra-relativistic particles behaving like radiation.  This phase is
-known as reheating.</p>
-
-<p>Traditionally the problem of initial condition for inflation, i.e.,
-knowing if inflation can start from highly inhomogeneous initial
-conditions, has been treated separately from studies of
-reheating. However, they are connected. To allow for the so-called
-parametric-type reheating, through resonances occurring while the
-system is oscillating at the bottom of the potential, the inflaton
-must be microscopically coupled to other fields. So, again, one could
-raise the question: shouldn’t these interactions be present also
-during inhomogeneous preinflation? Do they prevent cosmic inflation
-to start?</p>
-
-<p>In a previous paper, see Ref. <a class="citation" href="#joana:2020rxm">[1]</a>, we have
-studied the robustness of <em>single-field</em> Higgs Inflation to
-inhomogeneous initial conditions of all sizes. We have paid attention
-to include the gravitational dynamics of the system, showing the possible
-formation of pre-inflationary black holes, as well as the generation
-of shear/tensor modes in the metric. In short, we have showed that
-these gravitational dynamics can only delay the beginning of inflation, but
-never prevent it.</p>
-
-<p>In Ref. <a class="citation" href="#joana:2022uwc">[2]</a>, <a href="/members/joana.html"><strong>Cristian</strong></a>
-expands the previous settings by adding an extra field into the Higgs
-Inflation model. This field is coupled such that it allows for a
-reheating of the Universe. Reheating is actually successful for a
-range of the field-field interaction strength, which is numerically
-explored in full General Relativity simulations. Then the same model
-is confronted to various preinflationary inhomogeneous settings and the
-full gravitational and scalar-field dynamics are investigated.</p>
-
-<p>The figure below shows the preheating resonances for the auxiliary
-field (left panel). Structure formation occurs \(2\)-\(3\) e-folds
-after the end of inflation (right panel).</p>
-
-<p><img src="/assets/images/2202.07604/Reh_01.png" alt="reh" /></p>
-
-<p>Looking at the exact same model during the inhomogeneous multi-field
-preinflationary epochs, we confirm that the Higgs non-minimal coupling
-to gravity acts as a stabilizer as it <em>washes out</em> the energy
-contribution of the other minimally coupled matter/scalar-field
-sectors. In Ref <a class="citation" href="#joana:2022uwc">[2]</a>, it is shown that this occurs
-naturally when one canonically normalizes the fields in the Einstein
-frame. This effect generalizes the dynamics of inhomogeneous
-extra-matter components, making them sub-dominant in comparison to the
-inflaton.</p>
-
-<p><img src="/assets/images/2202.07604/mf_preinf.png" alt="preinf" /></p>
-
-<p>The above figure illustrates the gravitational and scalar-field
-dynamics during pre-inflation. Two simulations are shown, one with
-super-Hubble initial conditions (left) and another with sub-Hubble
-size inhomogeneities (right).</p>
-
-<p>All in all, these investigations further confirm the robustness of
-Higgs Inflation to multi-field inhomogeneous initial conditions, while
-putting in evidence the formation of complex structures during the
-reheating. The possible production of compact objects during the
-reheating, such as primordial black holes, will be investigated in
-future works.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Traditionally the problem of initial conditions for inflation has been treated separately from studies of reheating. To allow for a parametric-type reheating, the inflaton must be allowed to interact with (or decay to) other fields, and, these interactions should be present also during inhomogeneous preinflation. Could they prevent cosmic inflation to start in the first place? In a single-author publication Cristian answers this question for Higgs Inflation: once more, inflation always starts and passes the challenge!]]></summary></entry></feed>
+non-linear regime at high resolution.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 7th of April, seminar room E349 at 11am. Our guest speaker will be Fabien Lacasa from the Institut d’Astrophysique Spatiale (Orsay, France).]]></summary></entry></feed>
