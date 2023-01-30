@@ -4,7 +4,7 @@ title: 'Cristian Joana'
 description: PhD student
 funding: FRIA
 from: 2019, January 01
-to:
+to: 2023, January 31
 office: E354
 phone: +32 10 47 3155
 email: c.joana@uclouvain.be
