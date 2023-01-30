@@ -13,6 +13,8 @@ image: /assets/images/people/joana.png
 orientation: portrait
 bibfile: joana
 bibname: "Joana, Cristian"
+position: Post-doctoral researcher
+location: Institute of Theoretical Physics, Beijing (China)
 ---
 
 I am involved in the use and development of numerical relativity tools

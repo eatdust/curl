@@ -39,7 +39,7 @@ sidebar_priority: 10
 
   {% for item in sorted_members %}
 
-  {% if item.visiting != null and item.description != 'Master student' %}
+  {% unless item.visiting == null or item.description contains 'Master student' %}
   
   <li>
     <h2><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
@@ -57,7 +57,7 @@ sidebar_priority: 10
     {% endif %}
   </li>
 
-  {% endif %}
+  {% endunless %}
 
   {% endfor %}
 
@@ -67,7 +67,7 @@ sidebar_priority: 10
 
 {% assign activeStudents = 0 %}
 {% for item in sorted_members  %}
-{% if item.to == null and item.description == 'Master student' %}
+{% if item.to == null and item.description contains 'Master student' %}
 {% assign activeStudents = activeStudents | plus: 1 %}
 {% endif %}
 {% endfor %}
@@ -80,7 +80,7 @@ sidebar_priority: 10
 
   {% for item in sorted_members %}
 
-  {% if item.to == null and item.description == 'Master student' %}
+  {% if item.to == null and item.description contains 'Master student' %}
   
   <li>
     <h2> {{ item.title }} </h2>
@@ -105,7 +105,7 @@ sidebar_priority: 10
 <div class="members-list">
   {% for item in sorted_members %}
 
-  {% unless item.to == null or item.description == 'Master student' %}
+  {% unless item.to == null or item.description contains 'Master student' %}
   
   <li>
     <h2><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
@@ -141,7 +141,7 @@ sidebar_priority: 10
 <div class="members-list">
   {% for item in sorted_members %}
 
-  {% if item.to != null and item.description == 'Master student' %}
+  {% if item.to != null and item.description contains 'Master student' %}
   
   <li>
     <h2> {{ item.title }} </h2>
