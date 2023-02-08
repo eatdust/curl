@@ -7,7 +7,7 @@ from: 2019, January 01
 to: 2023, January 31
 office: E354
 phone: +32 10 47 3155
-email: c.joana@uclouvain.be
+email: cristian.joana@itp.ac.cn
 homepage: https://cjoana.github.io
 image: /assets/images/people/joana.png
 orientation: portrait
