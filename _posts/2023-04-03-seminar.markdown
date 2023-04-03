@@ -1,0 +1,31 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2023-04-03 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Wednesday 5nd** of
+April, seminar **room E349** at **2pm**. Our guest speaker will be
+**Daniele Steer** from APC (Paris, France).
+
+---
+
+At 2pm, room E349, Daniele Steer (APC), will be talking about
+
+### Cosmology and distance measurements with gravitational wave observations
+
+*In this talk I will outline the main different methods on the market
+ for measuring cosmological parameters (including modified gravity
+ parameters) with GWs, and the main sources of errors in these
+ measurements. Then I will highlight the current results on
+ cosmological parameters obtained with the O3 run of LIGO-Virgo, as
+ well as give predictions for future expectations. Finally I will go
+ into more technical details and explain an analytical approach to
+ estimate distance errors with GW observations (from any number of
+ ground based interferometers placed at different positions on
+ earth).*
+
+
+
+
