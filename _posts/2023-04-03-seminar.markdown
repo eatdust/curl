@@ -5,7 +5,7 @@ category: News
 date: 2023-04-03 08:00:00 +0100
 ---
 
-The next cosmology seminar takes place on **Wednesday 5nd** of
+The next cosmology seminar takes place on **Wednesday 5th** of
 April, seminar **room E349** at **2pm**. Our guest speaker will be
 **Danièle Steer** from APC (Paris, France).
 
