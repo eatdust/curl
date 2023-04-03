@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-03-24T16:02:11+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The Big-Bang discussed by its inventor</title><link href="https://curl.group/outreach/2023/01/19/GL.html" rel="alternate" type="text/html" title="The Big-Bang discussed by its inventor" /><published>2023-01-19T08:00:00+01:00</published><updated>2023-01-19T08:00:00+01:00</updated><id>https://curl.group/outreach/2023/01/19/GL</id><content type="html" xml:base="https://curl.group/outreach/2023/01/19/GL.html"><![CDATA[<p>A genuine filmed interview of <strong>Georges Lemaître</strong> from 1964
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-04-03T10:35:57+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/04/03/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-04-03T09:00:00+02:00</published><updated>2023-04-03T09:00:00+02:00</updated><id>https://curl.group/news/2023/04/03/seminar</id><content type="html" xml:base="https://curl.group/news/2023/04/03/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 5nd</strong> of
+April, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
+<strong>Danièle Steer</strong> from APC (Paris, France).</p>
+
+<hr />
+
+<p>At 2pm, room E349, Danièle Steer (APC), will be talking about</p>
+
+<h3 id="cosmology-and-distance-measurements-with-gravitational-wave-observations">Cosmology and distance measurements with gravitational wave observations</h3>
+
+<p><em>In this talk I will outline the main different methods on the market
+ for measuring cosmological parameters (including modified gravity
+ parameters) with GWs, and the main sources of errors in these
+ measurements. Then I will highlight the current results on
+ cosmological parameters obtained with the O3 run of LIGO-Virgo, as
+ well as give predictions for future expectations. Finally I will go
+ into more technical details and explain an analytical approach to
+ estimate distance errors with GW observations (from any number of
+ ground based interferometers placed at different positions on
+ earth).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Wednesday 5nd of April, seminar room E349 at 2pm. Our guest speaker will be Danièle Steer from APC (Paris, France).]]></summary></entry><entry><title type="html">The Big-Bang discussed by its inventor</title><link href="https://curl.group/outreach/2023/01/19/GL.html" rel="alternate" type="text/html" title="The Big-Bang discussed by its inventor" /><published>2023-01-19T08:00:00+01:00</published><updated>2023-01-19T08:00:00+01:00</updated><id>https://curl.group/outreach/2023/01/19/GL</id><content type="html" xml:base="https://curl.group/outreach/2023/01/19/GL.html"><![CDATA[<p>A genuine filmed interview of <strong>Georges Lemaître</strong> from 1964
 resurfaced. We can all listen to the inventor of the “Big-Bang”,
 talking about his own theory, in French.</p>
 
@@ -350,29 +369,4 @@ May, seminar <strong>room E349</strong> at <strong>11am</strong>. Our guest spea
  explicit bad behavior. Furthermore, we can use the obtained
  asymptotic behavior to numerically solve the propagation equations
  and compute quasinormal modes in systems where this was not possible
- before.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 19th of May, seminar room E349 at 11am. Our guest speaker will be Hugo Roussille from APC (Paris, France).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/04/04/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-04-04T09:00:00+02:00</published><updated>2022-04-04T09:00:00+02:00</updated><id>https://curl.group/news/2022/04/04/seminar</id><content type="html" xml:base="https://curl.group/news/2022/04/04/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 7th</strong> of
-April, seminar <strong>room E349</strong> at <strong>11am</strong>. Our guest speaker will be
-<strong>Fabien Lacasa</strong> from the Institut d’Astrophysique Spatiale (Orsay,
-France).</p>
-
-<hr />
-
-<p>At 11:00, room E349, Fabien Lacasa (IAS), will be talking about</p>
-
-<h3 id="cosmology-with-the-cosmic-web-the-high-resolution-promise">Cosmology with the cosmic web: the high resolution promise</h3>
-
-<p><em>The large scale structure of the Universe, the cosmic web, is a key
-probe for late-time cosmology, and is indeed targeted by several of
-the major observational efforts in the coming decades. However, its
-analysis is hampered by the complex non-linear dynamics it undergoes
-as structure grow. A lot of efforts has focused on the impact of
-non-linearity on the observables, in particular the power
-spectrum. However, the non-linearity also affects error bars, and thus
-the information content, by generating non-Gaussian tails that induce
-new covariance term. After sufficient introduction, I will present a
-first exhaustive derivation of the covariance of the galaxy angular
-power spectrum. The impact will then be presented for a baseline
-cosmological analysis up to mildly non-linear scale, showing
-decreasing returns. By contrast, I will finally show that there is a
-large motivation to jump more boldly and push into the strongly
-non-linear regime at high resolution.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 7th of April, seminar room E349 at 11am. Our guest speaker will be Fabien Lacasa from the Institut d’Astrophysique Spatiale (Orsay, France).]]></summary></entry></feed>
+ before.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 19th of May, seminar room E349 at 11am. Our guest speaker will be Hugo Roussille from APC (Paris, France).]]></summary></entry></feed>
