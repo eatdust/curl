@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-04-03T10:41:54+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/04/03/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-04-03T09:00:00+02:00</published><updated>2023-04-03T09:00:00+02:00</updated><id>https://curl.group/news/2023/04/03/seminar</id><content type="html" xml:base="https://curl.group/news/2023/04/03/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 5th</strong> of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-04-26T10:35:50+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/04/03/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-04-03T09:00:00+02:00</published><updated>2023-04-03T09:00:00+02:00</updated><id>https://curl.group/news/2023/04/03/seminar</id><content type="html" xml:base="https://curl.group/news/2023/04/03/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 5th</strong> of
 April, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
 <strong>Danièle Steer</strong> from APC (Paris, France).</p>
 
@@ -59,7 +59,7 @@ successively filling in more circles, each tangent to another three.</p>
 
 <p><img src="/assets/images/2211.07509/gasket.svg" alt="gasket" title="Apollonian Gasket started from three equidistant cercles" /></p>
 
-<p>In Ref. <a class="citation" href="#2022arxiv221107509a">[1]</a>, Pierre examines a
+<p>In Ref. (missing reference), Pierre examines a
 related mechanism in which \(d\)-dimensional spheres are randomly
 seeded in space, one at a time, within a finite-sized volume, and
 with the largest possible radius that avoids overlap.</p>
