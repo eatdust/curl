@@ -1,0 +1,18 @@
+---
+layout: post
+title: The opiparous edition of Encyclopædia Inflationaris
+category: News
+date: 2023-05-08 08:00:00 +0100
+---
+
+We have released a new version of [**Encyclopædia
+Inflationaris**](https://arxiv.org/abs/1303.3787) and its associated
+public code
+[**ASPIC**](https://github.com/cosmicinflation/aspic). This opiparous
+edition extends the original paper by 400 pages and features 46 new
+models of inflation that have been proposed in the last decade. Cosmic
+Inflation is now ready to tackle the next data challenges.
+
+
+
+
