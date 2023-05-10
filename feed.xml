@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-05-10T16:33:09+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The opiparous edition of Encyclopædia Inflationaris</title><link href="https://curl.group/news/2023/05/08/EI.html" rel="alternate" type="text/html" title="The opiparous edition of Encyclopædia Inflationaris" /><published>2023-05-08T09:00:00+02:00</published><updated>2023-05-08T09:00:00+02:00</updated><id>https://curl.group/news/2023/05/08/EI</id><content type="html" xml:base="https://curl.group/news/2023/05/08/EI.html"><![CDATA[<p>We have released a new version of <a href="https://arxiv.org/abs/1303.3787"><strong>Encyclopædia
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-05-10T16:45:11+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The opiparous edition of Encyclopædia Inflationaris</title><link href="https://curl.group/news/2023/05/08/EI.html" rel="alternate" type="text/html" title="The opiparous edition of Encyclopædia Inflationaris" /><published>2023-05-08T09:00:00+02:00</published><updated>2023-05-08T09:00:00+02:00</updated><id>https://curl.group/news/2023/05/08/EI</id><content type="html" xml:base="https://curl.group/news/2023/05/08/EI.html"><![CDATA[<p>We have released a new version of <a href="https://arxiv.org/abs/1303.3787"><strong>Encyclopædia
 Inflationaris</strong></a> and its associated
 public code
 <a href="https://github.com/cosmicinflation/aspic"><strong>ASPIC</strong></a>. This opiparous
@@ -7,7 +7,7 @@ models of inflation that have been proposed in the last decade. Cosmic
 Inflation is ready to tackle the data challenges of tomorrow.</p>
 
 <p>The first edition of <strong>Encyclopædia Inflationaris</strong> was published in
-Ref. <a class="citation" href="#martin:2014vha">[1]</a> and authored by <a href="https://inspirehep.net/q=a%20Jerome.Martin.1"><strong>Jérôme
+Ref. <a class="citation" href="#martin:2014vha">[1]</a> and authored by <a href="https://inspirehep.net/authors/998637"><strong>Jérôme
 Martin</strong></a>,
 <a href="/members/chris.html"><strong>Christophe</strong></a> and <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
 Vennin</strong></a>. It
