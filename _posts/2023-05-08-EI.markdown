@@ -15,7 +15,7 @@ Inflation is ready to tackle the data challenges of tomorrow.
 
 The first edition of **Encyclopædia Inflationaris** was published in
 Ref. {% cite martin:2014vha %} and authored by [**Jérôme
-Martin**](https://inspirehep.net/q=a%20Jerome.Martin.1),
+Martin**](https://inspirehep.net/authors/998637),
 [**Christophe**](/members/chris.html) and [**Vincent
 Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en). It
 was built upon the slow-roll models of inflation proposed prior to
