@@ -22,6 +22,14 @@ layout: default
 	{{ entry.doi }} </a> </td>
   </tr>
   {% endif %}
+
+  {% if entry.adsurl %}
+  <tr>
+    <th>Ads:</th>
+    <td> <a href="{{ entry.adsurl }}"> {{ entry.eid }} </a> </td>
+  </tr>
+  {% endif %}
+
   </table>
 
   <br>

@@ -11,8 +11,178 @@ public code
 [**ASPIC**](https://github.com/cosmicinflation/aspic). This opiparous
 edition extends the original paper by 400 pages and features 46 new
 models of inflation that have been proposed in the last decade. Cosmic
-Inflation is now ready to tackle the next data challenges.
+Inflation is ready to tackle the data challenges of tomorrow.
 
+The first edition of **Encyclopædia Inflationaris** was published in
+Ref. {% cite martin:2014vha %} and authored by [**Jérôme
+Martin**](https://inspirehep.net/q=a%20Jerome.Martin.1),
+[**Christophe**](/members/chris.html) and [**Vincent
+Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en). It
+was built upon the slow-roll models of inflation proposed prior to
+2013, the year of the first
+[**Planck**](https://en.wikipedia.org/wiki/Planck_(spacecraft)) data
+release. It contains accurate reheating-consistent slow-roll
+calculations of the background universe and of the expected scalar and
+tensor perturbations for all these models. Although it is now often
+seen as a review, it is a genuine paper as it goes beyond the mere
+gathering of known results. Indeed, a fair fraction of these models
+had been studied only under rough approximations, which were not
+matching the accuracy needed by the Cosmic Microwave Background (CMB)
+data. The ambition of the project was, and still is, to provide an
+(almost) exact treatment of single-field inflationary models using
+only the slow-roll approximation while incorporating the kinematic
+effects of reheating.
 
+All these results are also incorporated in a public runtime library,
+**ASPIC** {% cite aspic %}, which has been used in a number of
+subsequent works. For instance, Bayesian model comparison using the
+Planck CMB data has been presented in Refs. {% cite martin:2013nzq %}
+and {% cite martin:2014rqa %} while the constraints derived on the
+reheating epoch have been separately presented in Refs. {% cite
+martin:2014nya %} and {% cite martin:2016oyk %}.
 
+---
 
+Ten years later Cosmic Inflation remains the most favoured scenario
+of the early universe {% cite chowdhury:2019otk %} but several
+developments have called for the release of a new edition:
+
++ First, at the theoretical level, new models have been proposed. Some
+  of them boil down to one of the functional forms of the inflationary
+  potentials already encoded in ASPIC, in which case they have been
+  added in the relevant sections[^1]. Some other models give rise to
+  new inflationary potentials, and therefore constitute new sections
+  of Encyclopædia Inflationaris, as well as new entries in the ASPIC
+  library. There are 24 such new potential functions in the new
+  edition (here ordered alphabetically): **Axion Hilltop Inflation**
+  (AHI), **Cubicly Corrected Starobinsky Inflation** (CCSI),**Double
+  Exponential Inflation** (DEI), **Dual Inflation** (DI), **Fibre
+  Inflation** (FI), Generalized Double Well Inflation (GDWI),
+  Hyperbolic Inflation (HBI), **Hybrid Natural Inflation** (HNI),
+  **Non-Renormalizable Corrected Loop Inflation** (NCLI),
+  **N-Formalism Inflation** (NFI), **Non-Minimal Large Field
+  Inflation** (NMLFI), **Pure Arctan Inflation** (PAI), **Radiatively
+  Corrected Inflection Point Inflation** (RCIPI), **Radiatively
+  Corrected Large Field Inflation** (RCLFI), **String Axion Inflation
+  I** (SAII), **String Axion Inflation II (SAIII), Super-conformal
+  Alpha Attractor A Inflation** (SAAI), **T-Model Inflation** (TMI),
+  **Super-conformal Alpha Attractor B Inflation** (SABI),
+  **Super-conformal Alpha Attractor T Inflation** (SATI), **Symmetry
+  Breaking Kähler Inflation** (SBKI), **S-Dual Inflation** (SDI),
+  **Smeared Higgs Inflation** (SHI), **Mukhanov Inflation**
+  (VFMI). The inclusion of these models allows the new edition to
+  provide an up-to-date landscape of all single-field slow-roll
+  inflationary models, bringing the number of models included in the
+  **ASPIC** library to 118.
+
++ Second, at the observational level, the first edition compared the
+  predictions of single-field models with the early release of the
+  Planck 2013 data. Since then, additional data has been collected,
+  and the second edition features second-order slow-roll constraints
+  from the full [**Planck Legacy +
+  Bicep-Keck**](https://pla.esac.esa.int) data combination. The
+  Bayesian evidence of all models has also been re-computed with the
+  new data set, and the results will be presented in a separate
+  publication.
+
++ Third, as the accuracy of the recent data releases has kept
+  improving, several projects are on their way that should deliver
+  even more accurate cosmological data in the years to come. In
+  particular, let us mention ground-based experiments that are
+  currently operating such as [**BICEP3 & Keck
+  array**](http://bicepkeck.org/) and
+  [**SPT**](https://en.wikipedia.org/wiki/South_Pole_Telescope) in
+  Antarctica,
+  [**QUIJOTE**](https://research.iac.es/proyecto/quijote/pages/en/home.php)
+  in the Canary islands, and
+  [**CLASS**](https://en.wikipedia.org/wiki/Cosmology_Large_Angular_Scale_Surveyor),
+  [**ACT**](https://en.wikipedia.org/wiki/Atacama_Cosmology_Telescope)
+  and [**Polarbear**](https://en.wikipedia.org/wiki/POLARBEAR) in the
+  Atacama desert. They have been very recently joined by
+  [**QUBIC**](https://en.wikipedia.org/wiki/Qubic_experiment). In
+  space, the
+  [**Euclid**](https://en.wikipedia.org/wiki/Euclid_(spacecraft))
+  satellite is soon to be launched and will provide unprecedented
+  measurements on the matter power spectrum, down to very small
+  scales. The [**LiteBIRD**](https://en.wikipedia.org/wiki/LiteBIRD)
+  satellite is planned to be launched in 2028 and should allow us to
+  further constrain the $$B$$-mode signal in the polarisation of the
+  CMB. These prospects of ever increasing precision confirm the
+  relevance of the original Encyclopædia Inflationaris and ASPIC
+  projects, namely the need for accurate predictions on a
+  model-to-model basis. For this reason, we have continued to pay
+  special attention to solve the inflationary dynamics exactly,
+  without any other approximations than those contained in the
+  slow-roll framework. This one has indeed been shown to be
+  sufficiently accurate for the Planck CMB data {% cite
+  ringeval:2013lea %} and can be extended to arbitrary precision if
+  needed {% cite auclair:2022yxs %}. On the contrary, as discussed in
+  Ref. {% cite martin:2016iqo %} other commonly-employed
+  approximations are now too imprecise to allow for a fair comparison
+  with the data.
+
+---
+
+Some of the new models are compatible with the present data, as one
+could have expected, but this statement is **strongly** reheating
+dependent. This can be illustrated by the following figure. It shows
+their predictions, namely spectral index $$n_\mathrm{S}$$ and
+tensor-to-scalar ratio $$r$$ as a function of the reheating energy
+scale $$E_{\mathrm{reh}}$$ (assuming a matter-like reheating for
+illustration purposes). The contours are the $$68\%$$ and $$95\%$$
+confidence intervals associated with the successive Planck data
+releases since 2013.
+
+[![nslogr](/assets/images/opiparous/nslogr_plc3_bkppol.png "Spectral index and tensor-to-scalar ratio")](/assets/images/opiparous/nslogr_plc3_bkppol.png)
+
+As this figure shows, getting reheating-consistent predictions has
+never been so crucial. The reheating expansion history determines the
+part of the inflationary potential being probed by cosmological
+measurements, it can now substantially affect the preference shown by
+the data for a given model (in technical terms, the Bayesian
+evidence). This is one of the reasons why, in the opirarous edition,
+the **Starobinsky model** (SI) and **Higgs Inflation** (HI) are now
+treated as distinct models, since they come with different reheating
+histories. Moreover, even though they are often treated as sharing the
+same potential, this is only correct at leading order in an expansion
+with respect to the inverse of the non-minimal coupling of the
+field. Differences arise at next-to-leading order that we now account
+for in an exact manner.
+
+The previous figure certainly confirms the strategy adopted since the
+early days of Encyclopædia Inflationaris to derive
+reheating-consistent predictions. Ignoring it can indeed be
+catastrophic. As an example, here are the reheating-consistent
+predictions of one of the new model proposed *after* the Planck data
+release. Not including reheating effects would imply selecting random
+points in this mess...
+
+![saiii3p](/assets/images/opiparous/nsr_saiii3p_3.png)
+
+---
+
+Let us note that in its new edition, the format of the paper has been
+purposely kept similar to its original version. In particular, the
+introduction (section 2) has been essentially left untouched in order
+to keep track of our original motivations, and of the main
+considerations that were discussed in the field at that time. We have
+also not completed section 3 with a list of new analytical results
+derived in the 46 new potentials, given that we think it has already
+become clear that Encyclopædia Inflationaris is more than a review
+indeed. At the time of this post, the opiparous edition is made public
+only through [**arXiv:1303.3787v4**](https://arxiv.org/abs/1303.3787) with a full open access [**CC BY-NC-SA
+4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+---
+
+Finally, about the benefit of a second edition, let us quote [**Jean
+Le Rond
+d'Alembert**](https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert)
+(in a letter to
+[**Voltaire**](https://en.wikipedia.org/wiki/Voltaire), June 23,
+1766):
+>
+> Quant à l'ouvrage, il est maigre, mais il est aisé de lui donner de l'embonpoint dans une seconde édition.
+>
+
+[^1]: These models may nonetheless come with different values for the parameters describing the potential, i.e. different priors in the framework of a Bayesian analysis.
