@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-05-10T16:45:11+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The opiparous edition of Encyclopædia Inflationaris</title><link href="https://curl.group/news/2023/05/08/EI.html" rel="alternate" type="text/html" title="The opiparous edition of Encyclopædia Inflationaris" /><published>2023-05-08T09:00:00+02:00</published><updated>2023-05-08T09:00:00+02:00</updated><id>https://curl.group/news/2023/05/08/EI</id><content type="html" xml:base="https://curl.group/news/2023/05/08/EI.html"><![CDATA[<p>We have released a new version of <a href="https://arxiv.org/abs/1303.3787"><strong>Encyclopædia
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-05-16T17:38:49+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The opiparous edition of Encyclopædia Inflationaris</title><link href="https://curl.group/news/2023/05/08/EI.html" rel="alternate" type="text/html" title="The opiparous edition of Encyclopædia Inflationaris" /><published>2023-05-08T09:00:00+02:00</published><updated>2023-05-08T09:00:00+02:00</updated><id>https://curl.group/news/2023/05/08/EI</id><content type="html" xml:base="https://curl.group/news/2023/05/08/EI.html"><![CDATA[<p>We have released a new version of <a href="https://arxiv.org/abs/1303.3787"><strong>Encyclopædia
 Inflationaris</strong></a> and its associated
 public code
 <a href="https://github.com/cosmicinflation/aspic"><strong>ASPIC</strong></a>. This opiparous
@@ -51,8 +51,8 @@ library. There are 24 such new potential functions in the new
 edition (here ordered alphabetically): <strong>Axion Hilltop Inflation</strong>
 (AHI), <strong>Cubicly Corrected Starobinsky Inflation</strong> (CCSI),<strong>Double
 Exponential Inflation</strong> (DEI), <strong>Dual Inflation</strong> (DI), <strong>Fibre
-Inflation</strong> (FI), Generalized Double Well Inflation (GDWI),
-Hyperbolic Inflation (HBI), <strong>Hybrid Natural Inflation</strong> (HNI),
+Inflation</strong> (FI), <strong>Generalized Double Well Inflation</strong> (GDWI),
+<strong>Hyperbolic Inflation</strong> (HBI), <strong>Hybrid Natural Inflation</strong> (HNI),
 <strong>Non-Renormalizable Corrected Loop Inflation</strong> (NCLI),
 <strong>N-Formalism Inflation</strong> (NFI), <strong>Non-Minimal Large Field
 Inflation</strong> (NMLFI), <strong>Pure Arctan Inflation</strong> (PAI), <strong>Radiatively
