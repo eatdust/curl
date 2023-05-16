@@ -57,8 +57,8 @@ developments have called for the release of a new edition:
   edition (here ordered alphabetically): **Axion Hilltop Inflation**
   (AHI), **Cubicly Corrected Starobinsky Inflation** (CCSI),**Double
   Exponential Inflation** (DEI), **Dual Inflation** (DI), **Fibre
-  Inflation** (FI), Generalized Double Well Inflation (GDWI),
-  Hyperbolic Inflation (HBI), **Hybrid Natural Inflation** (HNI),
+  Inflation** (FI), **Generalized Double Well Inflation** (GDWI),
+  **Hyperbolic Inflation** (HBI), **Hybrid Natural Inflation** (HNI),
   **Non-Renormalizable Corrected Loop Inflation** (NCLI),
   **N-Formalism Inflation** (NFI), **Non-Minimal Large Field
   Inflation** (NMLFI), **Pure Arctan Inflation** (PAI), **Radiatively
