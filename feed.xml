@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-06-22T11:13:13+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">The opiparous edition of Encyclopædia Inflationaris</title><link href="https://curl.group/news/2023/05/08/EI.html" rel="alternate" type="text/html" title="The opiparous edition of Encyclopædia Inflationaris" /><published>2023-05-08T09:00:00+02:00</published><updated>2023-05-08T09:00:00+02:00</updated><id>https://curl.group/news/2023/05/08/EI</id><content type="html" xml:base="https://curl.group/news/2023/05/08/EI.html"><![CDATA[<p>We have released a new version of <a href="https://arxiv.org/abs/1303.3787"><strong>Encyclopædia
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-06-23T16:31:37+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Euclid sur les starting blocks</title><link href="https://curl.group/outreach/2023/06/23/EuclidBxe.html" rel="alternate" type="text/html" title="Euclid sur les starting blocks" /><published>2023-06-23T09:00:00+02:00</published><updated>2023-06-23T09:00:00+02:00</updated><id>https://curl.group/outreach/2023/06/23/EuclidBxe</id><content type="html" xml:base="https://curl.group/outreach/2023/06/23/EuclidBxe.html"><![CDATA[<p>Le télescope spatial
+<a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a> de
+l’Agence Spatiale Européenne est sur les starting blocks. Les
+scientifiques belges impliqués dans la mission donnent une conférence
+de presse au Planétarium de Bruxelles. Rendez-vous <strong>lundi 26 juin</strong> à
+<strong>10h</strong>.</p>
+
+<p>Le lancement du satellite Euclid (ESA) est prévu pour le 1er juillet
+2023 à 17h11 (CEST) depuis Cap Canaveral, à suivre en direct sur
+l’<a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV"><strong>ESA web
+TV</strong></a>. D’ici là, une
+conférence de presse est organisée au Planétarium de Bruxelles,
+<strong>lundi 26 juin</strong> à <strong>10h</strong>.</p>
+
+<p><a href="https://indico.cern.ch/event/1298261/"><strong>Inscriptions</strong></a> et <a href="https://owncloud.ulb.ac.be/index.php/s/SBnbtB5onJvaEFe"><strong>press release</strong></a></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Le télescope spatial Euclid de l’Agence Spatiale Européenne est sur les starting blocks. Les scientifiques belges impliqués dans la mission donnent une conférence de presse au Planétarium de Bruxelles. Rendez-vous lundi 26 juin à 10h.]]></summary></entry><entry><title type="html">The opiparous edition of Encyclopædia Inflationaris</title><link href="https://curl.group/news/2023/05/08/EI.html" rel="alternate" type="text/html" title="The opiparous edition of Encyclopædia Inflationaris" /><published>2023-05-08T09:00:00+02:00</published><updated>2023-05-08T09:00:00+02:00</updated><id>https://curl.group/news/2023/05/08/EI</id><content type="html" xml:base="https://curl.group/news/2023/05/08/EI.html"><![CDATA[<p>We have released a new version of <a href="https://arxiv.org/abs/1303.3787"><strong>Encyclopædia
 Inflationaris</strong></a> and its associated
 public code
 <a href="https://github.com/cosmicinflation/aspic"><strong>ASPIC</strong></a>. This opiparous
@@ -472,57 +486,4 @@ the matter era, i.e., close to us.</p>
 small, but reachable by the
 <a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a>
 satellites. These ones will be sensitive to long strings that are
-undetectable today in the Cosmic Microwave Background.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[A cosmic strings network present in our Universe should be incessantly emitting gravitational waves. An absolute lower limit of the expected signal can be found by determining the gravitational waves created by the back bones of the network: the long cosmic strings. Disrael and Christophe, in collaboration with François R. Bouchet, have computed this irreducible contribution using new numerical simulations of Nambu-Goto cosmic strings.]]></summary></entry><entry><title type="html">Gravitational waves from freely decaying turbulence</title><link href="https://curl.group/news/2022/05/12/2205.02588.html" rel="alternate" type="text/html" title="Gravitational waves from freely decaying turbulence" /><published>2022-05-12T09:00:00+02:00</published><updated>2022-05-12T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/12/2205.02588</id><content type="html" xml:base="https://curl.group/news/2022/05/12/2205.02588.html"><![CDATA[<p>As our Universe has expanded and cooled, it is suspected that it has
-undergone different phase transitions. In particular, first order
-cosmological phase transitions provide a compelling source of
-Gravitational Waves (GWs) and this is particularly interesting in the
-context of the Laser Interferometer Space Antenna
-<a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a>. In
-a recent publication, <a href="/members/auclair.html"><strong>Pierre</strong></a> and his
-collaborators proposed a new accurate semi-analytical model for
-predicting the GW signal generated by a turbulent phase in the
-aftermath of a first order phase transition.</p>
-
-<p>LISA can potentially detect GW signals from first order phase transitions occurring
-in the energy range \(100\,\mathrm{GeV}\) – \(1 \,
-\mathrm{TeV}\). There are several processes possibly leading to
-sizeable emission of GWs:</p>
-
-<ul>
-  <li>Bubble percolation, with the consequent breaking of spherical symmetry, is the most direct one</li>
-  <li>Bubble collision</li>
-  <li>Sound waves produced in the fluid by expanding bubbles</li>
-  <li>Decaying turbulence in the fluid</li>
-</ul>
-
-<p>In Ref. <a class="citation" href="#auclair:2022jod">[1]</a>, we propose a new model to the decay and
-decorrelation of a purely vortical velocity field and calculate the
-subsequent GW signal. To confirm the accuracy and relevance of the
-model, we have carried out a campaign of massively parallel direct
-numerical simulations of decaying turbulence. The figure below shows
-a slice across one of these simulations.</p>
-
-<p>The following figure shows the initial conditions for the velocity
-field in real space
-<img src="/assets/images/2205.02588/V_0000.png" alt="V0" /></p>
-
-<p>After some evolution, the velocity field decays and small scale
-structures develop. The next figure shows the velocity field
-after \(20\)
-<a href="https://en.wikipedia.org/wiki/Eddy_(fluid_dynamics)"><strong>eddy</strong></a>
-turnover times
-<img src="/assets/images/2205.02588/V_0001.png" alt="V1" /></p>
-
-<p>Based on this modelling, we provide an approximate analytical form for
-the GW signal which could be readily used within the LISA
-collaboration to search for it. In the figure below, coloured lines
-show the results of the simulations, the black line the
-semi-analytical model and the grey line the analytical form usable for
-LISA.</p>
-
-<p><img src="/assets/images/2205.02588/money_plot.png" alt="money" /></p>
-
-<p>Other new findings are presented in Ref. <a class="citation" href="#auclair:2022jod">[1]</a>. For instance, including an initial growth phase for the turbulent
-flow is shown to heavily influences the spectral shape of the
-SGWB. This highlights the importance of a complete understanding of
-the turbulence generation mechanism.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[As our Universe has expanded and cooled, it is suspected that it has undergone different phase transitions. In particular, first order cosmological phase transitions provide a compelling source of Gravitational Waves (GWs) and this is particularly interesting in the context of the Laser Interferometer Space Antenna LISA. In a recent publication, Pierre and his collaborators proposed a new accurate semi-analytical model for predicting the GW signal generated by a turbulent phase in the aftermath of a first order phase transition.]]></summary></entry></feed>
+undetectable today in the Cosmic Microwave Background.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[A cosmic strings network present in our Universe should be incessantly emitting gravitational waves. An absolute lower limit of the expected signal can be found by determining the gravitational waves created by the back bones of the network: the long cosmic strings. Disrael and Christophe, in collaboration with François R. Bouchet, have computed this irreducible contribution using new numerical simulations of Nambu-Goto cosmic strings.]]></summary></entry></feed>
