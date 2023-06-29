@@ -14,7 +14,7 @@ orientation: portrait
 bibfile: tashiro
 bibname: hiroyuki tashiro
 position: 'Associate Professor'
-location: 'Sojo University (Japan)
+location: 'Sojo University (Japan)'
 visiting:
 ---
 
