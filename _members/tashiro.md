@@ -13,8 +13,10 @@ image: /assets/images/people/tashiro.png
 orientation: portrait
 bibfile: tashiro
 bibname: hiroyuki tashiro
-position: 'Lecturer'
-location: 'Department of Physics and Astrophysics, Nagoya University (Japan)'
+#position: 'Lecturer'
+#location: 'Department of Physics and Astrophysics, Nagoya University (Japan)'
+position: 'Associate Professor'
+location: 'Sojo University (Japan)
 visiting:
 ---
 
