@@ -1,4 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-06-29T10:42:36+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Euclid sur les starting blocks</title><link href="https://curl.group/outreach/2023/06/23/EuclidBxe.html" rel="alternate" type="text/html" title="Euclid sur les starting blocks" /><published>2023-06-23T09:00:00+02:00</published><updated>2023-06-23T09:00:00+02:00</updated><id>https://curl.group/outreach/2023/06/23/EuclidBxe</id><content type="html" xml:base="https://curl.group/outreach/2023/06/23/EuclidBxe.html"><![CDATA[<p>Le télescope spatial
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-07-03T18:21:50+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Découverte du fond stochastique d’ondes gravitationnelles</title><link href="https://curl.group/outreach/2023/07/03/SGWB.html" rel="alternate" type="text/html" title="Découverte du fond stochastique d’ondes gravitationnelles" /><published>2023-07-03T09:00:00+02:00</published><updated>2023-07-03T09:00:00+02:00</updated><id>https://curl.group/outreach/2023/07/03/SGWB</id><content type="html" xml:base="https://curl.group/outreach/2023/07/03/SGWB.html"><![CDATA[<p>Plusieurs collaborations internationales en
+<a href="https://fr.wikipedia.org/wiki/Radioastronomie"><strong>radio-astronomie</strong></a>
+viennent d’annoncer la première détection du <strong>fond stochastique
+d’ondes gravitationnelles</strong>. <a href="/members/auclair.html"><strong>Pierre</strong></a> a
+cosigné la publication de
+l’<a href="https://en.wikipedia.org/wiki/European_Pulsar_Timing_Array"><strong>EPTA</strong></a>.</p>
+
+<p>Ce <strong>jeudi 29 Juin 2023</strong>, plusieurs collaborations internationales en
+radio-astronomie,
+<a href="https://en.wikipedia.org/wiki/North_American_Nanohertz_Observatory_for_Gravitational_Waves"><strong>NANOGRAV</strong></a>,
+<a href="https://en.wikipedia.org/wiki/European_Pulsar_Timing_Array"><strong>EPTA</strong></a>,
+<a href="https://en.wikipedia.org/wiki/Parkes_Observatory#Parkes_Pulsar_Timing_Array"><strong>PPTA</strong></a>,
+<a href="https://inpta.iitr.ac.in/"><strong>InPTA</strong></a> et
+<a href="https://en.wikipedia.org/wiki/Five-hundred-meter_Aperture_Spherical_Telescope"><strong>CPTA</strong></a>,
+ont annoncé avoir détecté indépendamment un <a href="https://en.wikipedia.org/wiki/Gravitational_wave_background"><strong>fond stochastique
+d’ondes
+gravitationnelles</strong></a>
+dans une bande de fréquences située autour du milliardième de
+Hertz. C’est une découverte majeure qui devrait nous permettre d’en
+apprendre beaucoup sur la formation des galaxies et sur la physique a
+l’œuvre dans tout l’Univers.</p>
+
+<p>Les contributions de <a href="/members/auclair.html"><strong>Pierre</strong></a> à la
+publication de EPTA, Ref. <a class="citation" href="#antoniadis:2023xlr">[1]</a>, concernent l’analyse des
+différentes sources cosmologiques possibles, dont les
+<strong>cordes cosmiques</strong>, un des domaines d’expertise de <a href="/"><strong>CURL</strong></a>.</p>
+
+<p>Le <strong>fond stochastique d’ondes gravitationnelles</strong> est la
+superposition de toutes les ondes gravitationnelles émises dans
+l’univers. Par analogie avec le son, c’est comme si nous avions etendu
+le brouhaha d’une foule sans toutefois parvenir à distinguer une
+conversation en particulier. Ce bruit de fond est très intéressant car
+il donne accès aux propriétés stochastiques et globales de toutes les
+sources à la fois.</p>
+
+<p>Tout aussi spectaculaire que cette découverte est la méthode utilisée
+pour trouver ce fond d’ondes gravitationnelles. Point de détecteurs
+terrestres ou spatiaux, mais des <a href="https://fr.wikipedia.org/wiki/%C3%89toile_%C3%A0_neutrons"><strong>étoiles à
+neutrons</strong></a>
+particulières. Une étoile à neutron est le cœur chaud et ulta-dense
+qu’il reste après qu’une étoile supermassive (entre 10 et 20 fois la
+masse du Soleil) ait explosé en supernova. La fameuse <a href="https://fr.wikipedia.org/wiki/N%C3%A9buleuse_du_Crabe"><strong>nébuleuse du
+Crabe</strong></a>, un
+rémanent de supernova, contient un pulsar en son centre.</p>
+
+<p><img src="/assets/images/outreach/m1_HaSIIOIII_cut.jpg" alt="M1, la nébuleuse du Crabe" /></p>
+
+<p>Les <strong>réseaux de pulsars millisecondes</strong>, ou <a href="https://en.wikipedia.org/wiki/Pulsar_timing_array"><strong>Pulsar Timing
+Arrays</strong></a> (PTA) en
+anglais, utilisent des étoiles à neutrons tournant très rapidement
+sur elles-même et émettant un fort rayonnement dans la direction de leur axe
+magnétique.  À la manière d’un phare, le <strong>pulsar</strong> semble avoir une
+<em>pulsation</em> lorsque ce rayonnement radio se trouve en direction de la Terre.</p>
+
+<p><img src="/assets/images/outreach/pulsar.gif" alt="Un pulsar" /></p>
+
+<p>La pulsation très régulière des pulsars en font des horloges célestes
+extrêmement précises. En observant ces pulsars pendant plus de dix ans
+au moyen de radiotélescopes, et en notant soigneusement les petites
+irrégularités dans les temps d’arrivée de leur flash, les
+radioastronomes sont parvenus à mettre en évidence l’existence de ce
+fond stochastique d’ondes gravitationnelles. En effet, lorsque ces
+ondes gravitationnelles passent entre la Terre et les pulsars, elles
+induisent des déformations de l’espace-temps qui laissent une
+corrélation caractéristique entre les temps d’arrivée des flashs.</p>
+
+<p><img src="/assets/images/outreach/hellings_downs_correlations.jpg" alt="Corrélations de Hellings and Downs" /></p>
+
+<p>Si la nature “onde gravitationnelle” de ce signal est donc établie,
+plusieurs interprétations sont néanmoins possibles concernant son
+origine. L’hypothèse présentée comme la plus naturelle est celle d’un
+fond stochastique dû à des binaires de trous noirs
+supermassifs. D’autres propositions, comme les cordes cosmiques ou les
+transitions de phases du premier ordre, permettraient aussi
+d’expliquer les observations, avec d’importantes conséquences pour
+notre compréhension des premiers instants de l’Univers.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Plusieurs collaborations internationales en radio-astronomie viennent d’annoncer la première détection du fond stochastique d’ondes gravitationnelles. Pierre a cosigné la publication de l’EPTA.]]></summary></entry><entry><title type="html">Euclid sur les starting blocks</title><link href="https://curl.group/outreach/2023/06/23/EuclidBxe.html" rel="alternate" type="text/html" title="Euclid sur les starting blocks" /><published>2023-06-23T09:00:00+02:00</published><updated>2023-06-23T09:00:00+02:00</updated><id>https://curl.group/outreach/2023/06/23/EuclidBxe</id><content type="html" xml:base="https://curl.group/outreach/2023/06/23/EuclidBxe.html"><![CDATA[<p>Le télescope spatial
 <a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a> de
 l’Agence Spatiale Européenne est sur les starting blocks. Les
 scientifiques belges impliqués dans la mission donnent une conférence
@@ -441,49 +516,4 @@ time: the Cray XE6
 at the <a href="https://www.nersc.gov/"><strong>NERSC</strong></a>. This image has been used
 to search for Cosmic Strings in the <a href="https://en.wikipedia.org/wiki/Planck_(spacecraft)"><strong>Planck
 satellite</strong></a> data
-(ESA).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Anticipating the opening of the Brout-Englert-Lemaître Center, a few aesthetic pictures associated with our researches will be on display during the “Walk in the Park” event, on Saturday the 25th at the Tournay Solvay Park (11am).]]></summary></entry><entry><title type="html">Stochastic gravitational waves from long cosmic strings</title><link href="https://curl.group/news/2022/05/30/2205.04349.html" rel="alternate" type="text/html" title="Stochastic gravitational waves from long cosmic strings" /><published>2022-05-30T09:00:00+02:00</published><updated>2022-05-30T09:00:00+02:00</updated><id>https://curl.group/news/2022/05/30/2205.04349</id><content type="html" xml:base="https://curl.group/news/2022/05/30/2205.04349.html"><![CDATA[<p>A cosmic strings network present in our Universe should be incessantly
-emitting gravitational waves. An absolute lower limit of the expected
-signal can be found by determining the gravitational waves created
-by the back bones of the network: the long cosmic
-strings. <a href="/members/dacunha.html"><strong>Disrael</strong></a> and <a href="/members/chris.html"><strong>Christophe</strong></a>, in collaboration with
-<a href="http://www2.iap.fr/users/bouchet/bouchet.html"><strong>François R. Bouchet</strong></a>, have
-computed this irreducible contribution using new numerical
-simulations of Nambu-Goto cosmic strings.</p>
-
-<p>In Ref. <a class="citation" href="#dacunha:2022chf">[1]</a>, we have run new simulations of
-Nambu-Goto cosmic strings evolving during the radiation, the
-transition, and the matter eras to compute the unequal time
-correlators of the anisotropic stress tensor associated with the long
-strings. The following figure shows a snapshot of one of these
-simulation, the long strings have been represented in white whereas
-all the other objects are loops, see Ref. <a class="citation" href="#ringeval:2017eww">[2]</a>
-and <a href="/news/2019/04/07/1903.06685.html">this post</a>.</p>
-
-<p><img src="/assets/images/2205.04349/snapshot_h063.png" alt="nbsimu" /></p>
-
-<p>This correlator sources the gravitational waves and it allows us to
-solve for their creation, and propagation, all along the Universe
-history. By using the Green’s function method we can then predict the
-strain, \(k^2 \mathcal{P}_h\), and the energy density parameter
-\(\Omega_{\mathrm{GW}}^{\mathrm{mat}}\) of the gravitational waves
-that can be measured today. Their power spectra are represented below
-as a function of the wavenumber \(k\).</p>
-
-<p><img src="/assets/images/2205.04349/k2calPh.png" alt="k2calPh" /></p>
-
-<p><img src="/assets/images/2205.04349/OmegaGW.png" alt="OmegaGW" /></p>
-
-<p>In these figures, the exact numerical result is represented in black
-while the blue and red curves show some semi-analytical approximations
-that we had proposed in a previous paper, calibrated using the
-amplitude found with the simulations, see Ref. <a class="citation" href="#dacunha:2021wyy">[3]</a>. The only significant deviations show up around \(k/\mathcal{H}_0
-\simeq 100\), which corresponds to the transition between the
-radiation and matter era. An interesting point to notice is that most
-of strain signal is actually generated by the long cosmic strings in
-the matter era, i.e., close to us.</p>
-
-<p>As we discuss in Ref. <a class="citation" href="#dacunha:2022chf">[1]</a>, this signal is quite
-small, but reachable by the
-<a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a>
-satellites. These ones will be sensitive to long strings that are
-undetectable today in the Cosmic Microwave Background.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[A cosmic strings network present in our Universe should be incessantly emitting gravitational waves. An absolute lower limit of the expected signal can be found by determining the gravitational waves created by the back bones of the network: the long cosmic strings. Disrael and Christophe, in collaboration with François R. Bouchet, have computed this irreducible contribution using new numerical simulations of Nambu-Goto cosmic strings.]]></summary></entry></feed>
+(ESA).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Anticipating the opening of the Brout-Englert-Lemaître Center, a few aesthetic pictures associated with our researches will be on display during the “Walk in the Park” event, on Saturday the 25th at the Tournay Solvay Park (11am).]]></summary></entry></feed>
