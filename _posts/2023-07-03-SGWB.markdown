@@ -54,15 +54,16 @@ rémanent de supernova, contient un pulsar en son centre.
 
 Les **réseaux de pulsars millisecondes**, ou [**Pulsar Timing
 Arrays**](https://en.wikipedia.org/wiki/Pulsar_timing_array) (PTA) en
-anglais, utilisent des étoiles à neutrons tournant très rapidement
-sur elles-même et émettant un fort rayonnement dans la direction de leur axe
-magnétique.  À la manière d'un phare, le **pulsar** semble avoir une
-*pulsation* lorsque ce rayonnement radio se trouve en direction de la Terre.
+anglais, utilisent des étoiles à neutrons tournant très rapidement sur
+elles-même, plusieurs centaines de fois par seconde, qui émettent un
+fort rayonnement dans la direction de leur axe magnétique. À la
+manière d'un phare, le **pulsar** semble avoir une *pulsation* lorsque
+ce rayonnement radio se trouve en direction de la Terre.
 
 ![Un pulsar](/assets/images/outreach/pulsar.gif)
 
 La pulsation très régulière des pulsars en font des horloges célestes
-extrêmement précises. En observant ces pulsars pendant plus de dix ans
+extrêmement précises. En observant ces pulsars pendant plus de vingt ans
 au moyen de radiotélescopes, et en notant soigneusement les petites
 irrégularités dans les temps d'arrivée de leur flash, les
 radioastronomes sont parvenus à mettre en évidence l'existence de ce
