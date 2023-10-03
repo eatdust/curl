@@ -14,7 +14,7 @@ orientation: portrait
 bibfile: dacunha
 bibname: 'da Cunha, Disrael'
 position: 'Research Associate'
-visiting: 'yes'
+visiting:
 ---
 
 I work on searches for physics beyond the standard model. Given that a
