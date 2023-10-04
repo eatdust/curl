@@ -1,0 +1,47 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2023-10-26 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Thursday 2nd** of
+November, seminar **room E349** at **2pm**. Our guest speaker will be
+**Suvashis Maity** from the Indian Institute of Technology (IIT)
+Madras (Chennai, India).
+
+---
+
+At 2pm, room E349,  Suvashis Maity (IIT Madras), will be talking about
+
+### Ultra slow roll inflation and loop corrections to the scalar power spectrum
+
+*Recently, there have been efforts to examine the contributions to the
+ scalar power spectrum due to the loops arising from the cubic order
+ terms in the action describing the perturbations, specifically in
+ inflationary scenarios that permit a brief epoch of ultra slow roll
+ (USR). A phase of USR inflation leads to significant observational
+ consequences, such as the copious production of primordial black
+ holes. In this talk, I shall discuss the loop contributions to the
+ scalar power spectrum in scenarios of USR inflation arising due to
+ the quartic order terms in the action describing the scalar
+ perturbations. I shall initially describe the computation of the loop
+ contributions to the scalar power spectrum due to the dominant term
+ in the action at the quartic order. Thereafter, I shall consider a
+ scenario wherein a phase of USR is sandwiched between two stages of
+ slow roll inflation and describe the behavior of the loop
+ contributions in situations involving late, intermediate and early
+ epochs of USR. In the inflationary scenario involving a late phase of
+ USR, for reasonable choices of the parameters, I shall show that the
+ loop corrections are negligible for the entire range of wave
+ numbers. In the intermediate case, the contributions from the loops
+ prove to be scale invariant over large scales, and we find that these
+ contributions can amount to 30% of the power spectrum at the leading
+ order. In the case wherein USR sets in early, we find that the loop
+ contributions could be negative and can dominate the power spectrum
+ at the leading order, which indicates a breakdown of the perturbative
+ expansion. I shall conclude with a brief summary and outlook.*
+
+
+
+
