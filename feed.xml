@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-10-09T14:52:44+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Découverte du fond stochastique d’ondes gravitationnelles</title><link href="https://curl.group/outreach/2023/07/03/SGWB.html" rel="alternate" type="text/html" title="Découverte du fond stochastique d’ondes gravitationnelles" /><published>2023-07-03T09:00:00+02:00</published><updated>2023-07-03T09:00:00+02:00</updated><id>https://curl.group/outreach/2023/07/03/SGWB</id><content type="html" xml:base="https://curl.group/outreach/2023/07/03/SGWB.html"><![CDATA[<p>Plusieurs collaborations internationales en
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-10-11T13:16:36+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/10/11/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-10-11T09:00:00+02:00</published><updated>2023-10-11T09:00:00+02:00</updated><id>https://curl.group/news/2023/10/11/seminar</id><content type="html" xml:base="https://curl.group/news/2023/10/11/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 2nd</strong> of
+November, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
+<strong>Suvashis Maity</strong> from the Indian Institute of Technology (IIT)
+Madras (Chennai, India).</p>
+
+<hr />
+
+<p>At 2pm, room E349,  Suvashis Maity (IIT Madras), will be talking about</p>
+
+<h3 id="ultra-slow-roll-inflation-and-loop-corrections-to-the-scalar-power-spectrum">Ultra slow roll inflation and loop corrections to the scalar power spectrum</h3>
+
+<p><em>Recently, there have been efforts to examine the contributions to the
+ scalar power spectrum due to the loops arising from the cubic order
+ terms in the action describing the perturbations, specifically in
+ inflationary scenarios that permit a brief epoch of ultra slow roll
+ (USR). A phase of USR inflation leads to significant observational
+ consequences, such as the copious production of primordial black
+ holes. In this talk, I shall discuss the loop contributions to the
+ scalar power spectrum in scenarios of USR inflation arising due to
+ the quartic order terms in the action describing the scalar
+ perturbations. I shall initially describe the computation of the loop
+ contributions to the scalar power spectrum due to the dominant term
+ in the action at the quartic order. Thereafter, I shall consider a
+ scenario wherein a phase of USR is sandwiched between two stages of
+ slow roll inflation and describe the behavior of the loop
+ contributions in situations involving late, intermediate and early
+ epochs of USR. In the inflationary scenario involving a late phase of
+ USR, for reasonable choices of the parameters, I shall show that the
+ loop corrections are negligible for the entire range of wave
+ numbers. In the intermediate case, the contributions from the loops
+ prove to be scale invariant over large scales, and we find that these
+ contributions can amount to 30% of the power spectrum at the leading
+ order. In the case wherein USR sets in early, we find that the loop
+ contributions could be negative and can dominate the power spectrum
+ at the leading order, which indicates a breakdown of the perturbative
+ expansion. I shall conclude with a brief summary and outlook.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 2nd of November, seminar room E349 at 2pm. Our guest speaker will be Suvashis Maity from the Indian Institute of Technology (IIT) Madras (Chennai, India).]]></summary></entry><entry><title type="html">Découverte du fond stochastique d’ondes gravitationnelles</title><link href="https://curl.group/outreach/2023/07/03/SGWB.html" rel="alternate" type="text/html" title="Découverte du fond stochastique d’ondes gravitationnelles" /><published>2023-07-03T09:00:00+02:00</published><updated>2023-07-03T09:00:00+02:00</updated><id>https://curl.group/outreach/2023/07/03/SGWB</id><content type="html" xml:base="https://curl.group/outreach/2023/07/03/SGWB.html"><![CDATA[<p>Plusieurs collaborations internationales en
 <a href="https://fr.wikipedia.org/wiki/Radioastronomie"><strong>radio-astronomie</strong></a>
 viennent d’annoncer la première détection du <strong>fond stochastique
 d’ondes gravitationnelles</strong>. <a href="/members/auclair.html"><strong>Pierre</strong></a> a
@@ -437,84 +472,4 @@ incoming cosmological observations from the
 telescopes, but also from the ground based
 <a href="https://cmb-s4.org/"><strong>CMB-S4</strong></a> telescopes and <a href="https://en.wikipedia.org/wiki/Simons_Observatory"><strong>Simons
 Observatory</strong></a>. Are
-we going to detect a non-vanishing \(\epsilon_{3*}\)?</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Cosmic Inflation, the most favoured scenario of the early Universe, implies that all forms of matter and radiation observed today are the outcome of quantum fluctuations occurring around the event horizon of a exponentially fast accelerating space-time. Clearing the ground for the incoming spatial and ground based cosmological observations, Pierre and Christophe have derived, at an unprecedented level of precision, the shape of the expected power spectra of both the quantum-generated gravitational waves and curvature perturbations.]]></summary></entry><entry><title type="html">BEL Center exhibition</title><link href="https://curl.group/outreach/2022/06/22/BEL.html" rel="alternate" type="text/html" title="BEL Center exhibition" /><published>2022-06-22T09:00:00+02:00</published><updated>2022-06-22T09:00:00+02:00</updated><id>https://curl.group/outreach/2022/06/22/BEL</id><content type="html" xml:base="https://curl.group/outreach/2022/06/22/BEL.html"><![CDATA[<p>Anticipating the opening of the Brout-Englert-Lemaître Center, a few
-aesthetic pictures associated with our researches will be on display
-during the “Walk in the Park” event, on Saturday the 25th at the
-Tournay Solvay Park (11am).</p>
-
-<h3 id="anamorphosis-from-the-big-bang">Anamorphosis from the Big-Bang</h3>
-
-<p>On display, you’ll find a black and white fractal image, extracted
-from Ref. <a class="citation" href="#clesse:2009ur">[1]</a>.</p>
-
-<p><img src="/assets/images/outreach/anamorphosis.png" alt="ichybrid" /></p>
-
-<p><em>Cosmic inflation is an hypothetic phase of accelerated expansion of
-the Universe, a tiny fraction of second after the Big-Bang, induced by
-the existence of a scalar field in the early Universe and suspected to
-be at the origin of the present structures of the Universe. During
-inflation, in about \(10^{-35}\) second, the distance between any two
-points in the Universe separated by one meter becomes larger than the
-distance to the farthest galaxies. This makes inflation one of the
-most fascinating phenomena in Science.</em></p>
-
-<p><em>This picture shows the results of more than 4 millions numerical
-simulations of inflation in a model with two scalar fields, called
-hybrid inflation, for which inflation stops due a broken symmetry,
-similar to the Brout-Englert-Higgs mechanism. The \(x\) and \(y\) axis
-represent the initial value of each scalar field, a white dot indicate
-that the simulation led to enough expansion for being compatible with
-our Universe, whereas for black dots, there is no, or not enough,
-inflation.</em></p>
-
-<p><em>Before these results were obtained in Ref. <a class="citation" href="#clesse:2009ur">[1]</a>,
-at ULB and UCLouvain, it was thought that only the thin vertical white
-band could lead to inflation, suggesting a fine-tuning problem. This
-picture shows that, on the contrary, a large number of initial
-conditions are satisfactory and form a complex fractal structure. In
-analogy with anamorphosis, a phenomena consisting in the distortion of
-an image through an optical instrument, one can see this fractal
-structure as the image of the thin vertical band seen through the
-potential associated with the scalar fields, playing the role of the
-optical instrument.</em></p>
-
-<hr />
-
-<h3 id="the-night-sky-by-gaia">The night sky by GAIA</h3>
-
-<p>Using the recently released public domain data DR3 from the GAIA satellite
-(ESA), we have reconstructed a view of our night sky, as you would see
-it with very sensitive eyes, eyes that would allow you to actually see
-daylight colors but in the dark.</p>
-
-<p><a href="https://curl.irmp.ucl.ac.be/vlimages/gaialaxy.html"><img src="/assets/images/outreach/gaialaxy.png" alt="gaialaxy" /></a></p>
-
-<p><em>This image represents the integrated light flux coming from all faint
-sources of light, of magnitude greater than \(10\), in human-visible
-colors (sRGB). These sources are mostly stars from our own Galaxy and
-have been measured by the <a href="https://en.wikipedia.org/wiki/Gaia_(spacecraft)"><strong>Gaia
-satellite</strong></a>
-(ESA/Gaia/DPAC). There are more than 1.5 billion of stars accounted
-for in this image. The image making code is available here:
-<a href="https://github.com/eatdust/gaialaxy"><strong>gaialaxy</strong></a>.</em></p>
-
-<hr />
-
-<h3 id="the-cosmic-strings-microwave-sky">The Cosmic Strings Microwave Sky</h3>
-
-<p>Extracted from Ref. <a class="citation" href="#ringeval:2012tk">[2]</a>, a small piece of a
-computer generated all sky map of the Cosmic Microwave Background
-generated by Cosmic Strings.</p>
-
-<p><img src="/assets/images/outreach/gradmap.png" alt="gradmag" /></p>
-
-<p><em>These objects are line-like defects in the fabric of space-time and
-could have been formed in the earliest times of the Universe history.
-This picture is a small part of a full sky image computed using
-\(12000\) processors of one of the largest world computer at that
-time: the Cray XE6
-<a href="https://www.nersc.gov/about/nersc-history/history-of-systems/"><strong>Hopper</strong></a>
-at the <a href="https://www.nersc.gov/"><strong>NERSC</strong></a>. This image has been used
-to search for Cosmic Strings in the <a href="https://en.wikipedia.org/wiki/Planck_(spacecraft)"><strong>Planck
-satellite</strong></a> data
-(ESA).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Anticipating the opening of the Brout-Englert-Lemaître Center, a few aesthetic pictures associated with our researches will be on display during the “Walk in the Park” event, on Saturday the 25th at the Tournay Solvay Park (11am).]]></summary></entry></feed>
+we going to detect a non-vanishing \(\epsilon_{3*}\)?</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Cosmic Inflation, the most favoured scenario of the early Universe, implies that all forms of matter and radiation observed today are the outcome of quantum fluctuations occurring around the event horizon of a exponentially fast accelerating space-time. Clearing the ground for the incoming spatial and ground based cosmological observations, Pierre and Christophe have derived, at an unprecedented level of precision, the shape of the expected power spectra of both the quantum-generated gravitational waves and curvature perturbations.]]></summary></entry></feed>
