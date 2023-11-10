@@ -13,6 +13,6 @@ image: /assets/images/people/deproost.png
 orientation: portrait
 bibfile:
 bibname: deproost
-position: 'PhD student at the Royal Observatory, Brussels (Belgium)'
+position: 'Post-doc at the Institute of Astronomy, KULeuven, Leuven (Belgium)'
 ---
 
