@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-10-11T13:16:36+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/10/11/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-10-11T09:00:00+02:00</published><updated>2023-10-11T09:00:00+02:00</updated><id>https://curl.group/news/2023/10/11/seminar</id><content type="html" xml:base="https://curl.group/news/2023/10/11/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 2nd</strong> of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-11-17T14:44:36+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/11/17/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-11-17T08:00:00+01:00</published><updated>2023-11-17T08:00:00+01:00</updated><id>https://curl.group/news/2023/11/17/seminar</id><content type="html" xml:base="https://curl.group/news/2023/11/17/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 24th</strong> of November,
+seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be <strong>Bryce
+Cyr</strong> from the <a href="https://www.jodrellbank.manchester.ac.uk/"><strong>Jodrell Bank Centre for Astrophysics</strong></a> at the University
+of Manchester (Manchester, United Kingdom).</p>
+
+<hr />
+
+<p>At 2pm, room E349,  <strong>Bryce Cyr</strong> (University of Manchester), will be talking about</p>
+
+<h3 id="synergies-between-gravitational-waves-and-cmb-spectral-distortions">Synergies between gravitational waves and CMB spectral distortions</h3>
+
+<p><em>In this talk, I will discuss various ways in which distortions to the
+ frequency spectrum of the cosmic microwave background can be used to
+ place constraints on stochastic backgrounds of gravitational
+ waves. After a brief overview of spectral distortion theory, I will
+ show how enhancements to the small-scale primordial power spectrum of
+ curvature perturbations can induce sizeable distortions. Even in the
+ absence of enhancements, a nearly-scale invariant spectrum presents a
+ target well within reach of next generation
+ experiments. Additionally, I will highlight how the presence of
+ primordial tensor modes will also lead to an inevitable (although
+ small) distortion signature. I will then apply this formalism to a
+ model of scalar induced gravitational waves (SIGWs), showcasing how
+ constraints on the primordial scalar power spectrum can be mapped to
+ the gravitational wave parameter space for these models. Time
+ permitting, I will also how our updated formalism can be used to
+ improve constraints on the parameter space of primordial black
+ holes.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 24th of November, seminar room E349 at 2pm. Our guest speaker will be Bryce Cyr from the Jodrell Bank Centre for Astrophysics at the University of Manchester (Manchester, United Kingdom).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/10/11/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-10-11T09:00:00+02:00</published><updated>2023-10-11T09:00:00+02:00</updated><id>https://curl.group/news/2023/10/11/seminar</id><content type="html" xml:base="https://curl.group/news/2023/10/11/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 2nd</strong> of
 November, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
 <strong>Suvashis Maity</strong> from the Indian Institute of Technology (IIT)
 Madras (Chennai, India).</p>
@@ -423,53 +450,4 @@ September, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest
  dominate the universe for a small duration. Combining these two
  effects can help us probe primordial black hole scenarios and details
  of reheating histories, leaving diverse implications for cosmology
- and particle physics.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 30th of September, seminar room E349 at 2pm. Our guest speaker will be Nilanjandev Bhaumik from the Indian Institute of Science (Bangalore, India).]]></summary></entry><entry><title type="html">Slow-roll Inflation at N3LO</title><link href="https://curl.group/news/2022/09/15/2205.12608.html" rel="alternate" type="text/html" title="Slow-roll Inflation at N3LO" /><published>2022-09-15T09:00:00+02:00</published><updated>2022-09-15T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/15/2205.12608</id><content type="html" xml:base="https://curl.group/news/2022/09/15/2205.12608.html"><![CDATA[<p>Cosmic Inflation, the most favoured scenario of the early Universe,
-implies that all forms of matter and radiation observed today are the
-outcome of quantum fluctuations occurring around the event horizon of a
-exponentially fast accelerating space-time. Clearing the ground for
-the incoming spatial and ground based cosmological observations,
-<a href="/members/auclair.html"><strong>Pierre</strong></a> and
-<a href="/members/chris.html"><strong>Christophe</strong></a> have derived, at an
-unprecedented level of precision, the shape of the expected power
-spectra of both the quantum-generated gravitational waves and
-curvature perturbations.</p>
-
-<p>Cosmic Inflation is an hypothetical early phase of accelerated
-expansion that has occurred before the first billionth of a second of
-existence of our Universe. It provides a natural mechanism to explain
-the observed flatness of our Universe today and naturally solves the
-so-called horizon problems of the Big-Bang model.</p>
-
-<p>In a spectacular way, the quantum fluctuations that are inherently
-sourced during the inflationary era are exactly what is needed to
-explain the origin of the cosmological perturbations: the <strong>seeds of the
-galaxies</strong> of today.</p>
-
-<p><img src="/assets/images/2205.12608/ngc83.jpg" alt="ngc83" title="Galaxy Group NGC80" /></p>
-
-<p>These quantum fluctuations are deeply rooted in gravity and appear as
-both primordial gravitational waves \(h_{ij}\) and curvature
-perturbations \(\zeta\), with very peculiar correlation functions. In
-Ref. <a class="citation" href="#auclair:2022yxs">[1]</a>, we have pushed to third order the
-calculation of these correlation functions. They are completely
-determined by the Hubble parameter during inflation \(H(N)\) and its
-logarithmic derivatives, \(\epsilon_i(N) \equiv \mathrm{d}\ln H /
-\mathrm{d} \ln N\) (the so-called Hubble flow functions). Here \(N=\ln a\)
-is the logarithm of the scale factor \(a\).</p>
-
-<p>Slow-roll inflation <strong>predicts</strong> the correlation functions to be
-given by these spectra:</p>
-
-<p><img src="/assets/images/2205.12608/pzeta.png" alt="pzeta" title="Scalar Power Spectrum" /></p>
-
-<p><img src="/assets/images/2205.12608/ph.png" alt="ph" title="Tensor Power Spectrum" /></p>
-
-<p>They are expanded around an observable wavenumber
-\(k_*=0.05\,\mathrm{Mpc}^{-1}\) and readily testable with the
-incoming cosmological observations from the
-<a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a> and
-<a href="https://en.wikipedia.org/wiki/LiteBIRD"><strong>LiteBird</strong></a> space
-telescopes, but also from the ground based
-<a href="https://cmb-s4.org/"><strong>CMB-S4</strong></a> telescopes and <a href="https://en.wikipedia.org/wiki/Simons_Observatory"><strong>Simons
-Observatory</strong></a>. Are
-we going to detect a non-vanishing \(\epsilon_{3*}\)?</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Cosmic Inflation, the most favoured scenario of the early Universe, implies that all forms of matter and radiation observed today are the outcome of quantum fluctuations occurring around the event horizon of a exponentially fast accelerating space-time. Clearing the ground for the incoming spatial and ground based cosmological observations, Pierre and Christophe have derived, at an unprecedented level of precision, the shape of the expected power spectra of both the quantum-generated gravitational waves and curvature perturbations.]]></summary></entry></feed>
+ and particle physics.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 30th of September, seminar room E349 at 2pm. Our guest speaker will be Nilanjandev Bhaumik from the Indian Institute of Science (Bangalore, India).]]></summary></entry></feed>
