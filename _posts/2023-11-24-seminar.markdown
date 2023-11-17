@@ -1,0 +1,39 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2023-11-17 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Friday 24th** of November,
+seminar **room E349** at **2pm**. Our guest speaker will be **Bryce
+Cyr** from the Jodrell Bank Centre for Astrophysics at the University
+of Manchester (Manchester, United Kingdom).
+
+---
+
+At 2pm, room E349,  Bryce Cyr (University of Manchester), will be talking about
+
+### Synergies between gravitational waves and CMB spectral distortions
+
+*In this talk, I will discuss various ways in which distortions to the
+ frequency spectrum of the cosmic microwave background can be used to
+ place constraints on stochastic backgrounds of gravitational
+ waves. After a brief overview of spectral distortion theory, I will
+ show how enhancements to the small-scale primordial power spectrum of
+ curvature perturbations can induce sizeable distortions. Even in the
+ absence of enhancements, a nearly-scale invariant spectrum presents a
+ target well within reach of next generation
+ experiments. Additionally, I will highlight how the presence of
+ primordial tensor modes will also lead to an inevitable (although
+ small) distortion signature. I will then apply this formalism to a
+ model of scalar induced gravitational waves (SIGWs), showcasing how
+ constraints on the primordial scalar power spectrum can be mapped to
+ the gravitational wave parameter space for these models. Time
+ permitting, I will also how our updated formalism can be used to
+ improve constraints on the parameter space of primordial black
+ holes.*
+
+
+
+
