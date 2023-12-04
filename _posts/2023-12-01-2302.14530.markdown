@@ -49,7 +49,7 @@ $$ \langle \Omega_\mathrm{K_0} \rangle = -\frac{\langle K e^{-2\xi} \rangle}{a_0
 
 More importantly, because $$\Omega_\mathrm{K_0}$$ is a stochastic
 variable, it also fluctuates and its realizations are, in fact,
-dictated by its variance
+dictated by its standard deviation
 
 $$ \sqrt{\langle{\Omega_\mathrm{K_0}^2}\rangle-\langle{\Omega_\mathrm{K_0}}\rangle^2} \simeq \dfrac{1}{3}
 \sqrt{\mathcal{P}_*} \simeq 1.5 \times 10^{-5}.$$
