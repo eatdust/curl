@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-11-21T08:11:40+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/11/17/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-11-17T08:00:00+01:00</published><updated>2023-11-17T08:00:00+01:00</updated><id>https://curl.group/news/2023/11/17/seminar</id><content type="html" xml:base="https://curl.group/news/2023/11/17/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 24th</strong> of November,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-12-04T11:38:23+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Spatial Curvature from Super-Hubble Cosmological Fluctuations</title><link href="https://curl.group/news/2023/12/01/2302.14530.html" rel="alternate" type="text/html" title="Spatial Curvature from Super-Hubble Cosmological Fluctuations" /><published>2023-12-01T08:00:00+01:00</published><updated>2023-12-01T08:00:00+01:00</updated><id>https://curl.group/news/2023/12/01/2302.14530</id><content type="html" xml:base="https://curl.group/news/2023/12/01/2302.14530.html"><![CDATA[<p>Could cosmological perturbations stretched over distances larger than
+the size of the observable Universe modify the shape of our
+space-time? <a href="/members/blachier.html"><strong>Baptiste</strong></a>,
+<a href="/members/auclair.html"><strong>Pierre</strong></a>
+and <a href="/members/chris.html"><strong>Christophe</strong></a>, in collaboration with
+<a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent Vennin</strong></a>, have
+recently shown that this is the case through the spatial curvature.</p>
+
+<p>It is a common Cosmologist’s intuition that cosmological fluctuations,
+the tiny perturbations of amplitude \(10^{-5}\) at the origin of
+galaxies, should induce some kind of noise on the cosmological
+parameters. Is this quantifiable? Are super-Hubble cosmological
+perturbations having an effect at all?</p>
+
+<p>In Ref. <a class="citation" href="#blachier:2023ooc">[1]</a>, we show that arbitrarily long
+perturbations have an observable effect. More precisely, the gradient
+and Laplacian of these fluctuations are dynamically <strong>creating a
+spatial curvature</strong> in the homogeneous and isotropic metric of local
+observers. In the following picture, we sketch how one of these modes,
+having a wavelength much larger than the observer’s Hubble radius, can
+be “felt” through its gradient.</p>
+
+<p><img src="/assets/images/2302.14530/cosmograd.png" alt="grad" title="Super-Hubble gradient" /></p>
+
+<p>It is not a few Hubble-sized fluctuations that contribute, but an infinite
+number of super-Hubble modes, all those having wavelength larger than our observable
+universe. Denoting by \(K\) the curvature of the FLRW spatial sections,
+and \(\xi\) the sum of these constant modes, we find</p>
+
+\[K = -\frac{2}{3} \Delta \xi - \frac{1}{3} \left(\nabla \xi \right)^2.\]
+
+<p>However, because fluctuations are, by definition, of random nature, we
+cannot predict a definite value for the curvature density parameter
+\(\Omega_\mathrm{K_0}\). This one is now promoted to a stochastic
+variable. Even though the sum of all super-Hubble modes averages to
+zero, i.e. \(\langle \xi \rangle = 0\), we predict, for the standard
+Gaussian and scale-invariant cosmological perturbations, a very small
+non-vanishing value</p>
+
+\[\langle \Omega_\mathrm{K_0} \rangle = -\frac{\langle K e^{-2\xi} \rangle}{a_0^2 H_0^2} = \frac{5}{6} \mathcal{P}_* \simeq 1.7 \times 10^{-9}.\]
+
+<p>More importantly, because \(\Omega_\mathrm{K_0}\) is a stochastic
+variable, it also fluctuates and its realizations are, in fact,
+dictated by its variance</p>
+
+\[\sqrt{\langle{\Omega_\mathrm{K_0}^2}\rangle-\langle{\Omega_\mathrm{K_0}}\rangle^2} \simeq \dfrac{1}{3}
+\sqrt{\mathcal{P}_*} \simeq 1.5 \times 10^{-5}.\]
+
+<p>This is the <strong>typical value</strong> that any observer will measure <strong>at any
+epoch</strong> during the cosmic history.</p>
+
+<hr />
+
+<p>But there is more. The spatial curvature of our local Hubble patch is
+thus a measurable number that can tell us what is going on on the
+largest possible length scales of the Universe, length scales that are
+much larger than our Hubble volume. What if the infinite sum of very
+large wavelength modes, \(\xi\) here, is no longer a small
+quantity? Such a situation could very well be happening if the
+Universe has experienced a period of stochastic inflation in its
+infancy!</p>
+
+<p>In Ref. <a class="citation" href="#blachier:2023ooc">[1]</a>, we have been able to estimate the
+full probability distribution function for \(\Omega_\mathrm{K_0}\)
+when cosmological fluctuations are generated by Cosmic Inflation. If
+\(\xi\) remains small, it is a slightly distorted Gaussian
+distribution with a typical width of \(10^{-5}\), as expected. But if
+inflation last for a long period, enough for \(\xi\) to be of order
+unity, the distribution becomes highly non-Gaussian, as represented in
+the following figure (red curve)</p>
+
+<p><img src="/assets/images/2302.14530/probomega_tails.jpg" alt="proba" title="Non-Gaussian probability distribution" /></p>
+
+<p>In this plot, the black curve is what would be a Gaussian probability
+distribution with same width. Clearly, large values of
+\(\Omega_\mathrm{K_0}\) are now much more probable than what one could
+have naively expected. Are we going to measure a non-vanishing
+\(\Omega_\mathrm{K_0}\) in the future?</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Could cosmological perturbations stretched over distances larger than the size of the observable Universe modify the shape of our space-time? Baptiste, Pierre and Christophe, in collaboration with Vincent Vennin, have recently shown that this is the case through the spatial curvature.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/11/17/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-11-17T08:00:00+01:00</published><updated>2023-11-17T08:00:00+01:00</updated><id>https://curl.group/news/2023/11/17/seminar</id><content type="html" xml:base="https://curl.group/news/2023/11/17/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 24th</strong> of November,
 seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be <strong>Bryce
 Cyr</strong> from the <a href="https://www.jodrellbank.manchester.ac.uk/"><strong>Jodrell Bank Centre for Astrophysics</strong></a> at the University
 of Manchester (Manchester, United Kingdom).</p>
@@ -422,32 +499,4 @@ simulations made in two, three and four dimensions.</p>
 
 <p>If you want to explore a RAP in depth, feel free to zoom in that
 <a href="https://curl.irmp.ucl.ac.be/~pierre/index.html"><strong>picture</strong></a>, it
-contains more than a million spheres.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Bubble nucleation is a phenomenon ubiquitous in physics, with applications ranging from the geometry of tree crowns, the structure of porous media and of sphere packing. Bubbles also find applications in cosmology such as the characterization of cosmic voids in the large scale structure and the signatures of cosmological phase transitions. In a new preprint, Pierre proposes a new method to determine the fractal properties of the so-called Random Apollonian Packing.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2022/09/26/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2022-09-26T09:00:00+02:00</published><updated>2022-09-26T09:00:00+02:00</updated><id>https://curl.group/news/2022/09/26/seminar</id><content type="html" xml:base="https://curl.group/news/2022/09/26/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 30th</strong> of
-September, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
-<strong>Nilanjandev Bhaumik</strong> from the Indian Institute of Science (Bangalore, India).</p>
-
-<hr />
-
-<p>At 2pm, room E349, Nilanjan Bhaumik (IIS), will be talking about</p>
-
-<h3 id="stochastic-gravitational-waves-background-to-probe-the-reheating-histories-in-the-presence-of-primordial-black-holes">Stochastic gravitational waves background to probe the reheating histories in the presence of primordial black holes</h3>
-
-<p><em>Primordial black hole (PBH) is one of the most promising cold dark
- matter candidates in recent years. The signature of PBHs in the
- stochastic gravitational-wave background (SGWB) is natural as PBH
- formation requires a significant amplification in inflationary scalar
- curvature perturbation, which sources the tensor perturbation in
- second order and amplifies the SGWB. We explore this possibility to
- probe different possible reheating histories. We find that any change
- in reheating histories can shift the PBH mass range and the peak
- frequency of SGWB. Still, only the matter-dominated reheating phase
- can lead to an additional resonant amplification in SGWB at a very
- high frequency.
- Isocurvature perturbation from PBH distributions
- contributes to the adiabatic perturbation. It also leads to
- detectable amplification in the induced GW background and can
- contribute to Baryogenesis for ultra-low mass PBHs, which can
- dominate the universe for a small duration. Combining these two
- effects can help us probe primordial black hole scenarios and details
- of reheating histories, leaving diverse implications for cosmology
- and particle physics.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 30th of September, seminar room E349 at 2pm. Our guest speaker will be Nilanjandev Bhaumik from the Indian Institute of Science (Bangalore, India).]]></summary></entry></feed>
+contains more than a million spheres.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Bubble nucleation is a phenomenon ubiquitous in physics, with applications ranging from the geometry of tree crowns, the structure of porous media and of sphere packing. Bubbles also find applications in cosmology such as the characterization of cosmic voids in the large scale structure and the signatures of cosmological phase transitions. In a new preprint, Pierre proposes a new method to determine the fractal properties of the so-called Random Apollonian Packing.]]></summary></entry></feed>
