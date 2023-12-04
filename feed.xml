@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-12-04T11:38:23+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Spatial Curvature from Super-Hubble Cosmological Fluctuations</title><link href="https://curl.group/news/2023/12/01/2302.14530.html" rel="alternate" type="text/html" title="Spatial Curvature from Super-Hubble Cosmological Fluctuations" /><published>2023-12-01T08:00:00+01:00</published><updated>2023-12-01T08:00:00+01:00</updated><id>https://curl.group/news/2023/12/01/2302.14530</id><content type="html" xml:base="https://curl.group/news/2023/12/01/2302.14530.html"><![CDATA[<p>Could cosmological perturbations stretched over distances larger than
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2023-12-04T11:44:52+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Spatial Curvature from Super-Hubble Cosmological Fluctuations</title><link href="https://curl.group/news/2023/12/01/2302.14530.html" rel="alternate" type="text/html" title="Spatial Curvature from Super-Hubble Cosmological Fluctuations" /><published>2023-12-01T08:00:00+01:00</published><updated>2023-12-01T08:00:00+01:00</updated><id>https://curl.group/news/2023/12/01/2302.14530</id><content type="html" xml:base="https://curl.group/news/2023/12/01/2302.14530.html"><![CDATA[<p>Could cosmological perturbations stretched over distances larger than
 the size of the observable Universe modify the shape of our
 space-time? <a href="/members/blachier.html"><strong>Baptiste</strong></a>,
 <a href="/members/auclair.html"><strong>Pierre</strong></a>
@@ -41,7 +41,7 @@ non-vanishing value</p>
 
 <p>More importantly, because \(\Omega_\mathrm{K_0}\) is a stochastic
 variable, it also fluctuates and its realizations are, in fact,
-dictated by its variance</p>
+dictated by its standard deviation</p>
 
 \[\sqrt{\langle{\Omega_\mathrm{K_0}^2}\rangle-\langle{\Omega_\mathrm{K_0}}\rangle^2} \simeq \dfrac{1}{3}
 \sqrt{\mathcal{P}_*} \simeq 1.5 \times 10^{-5}.\]
