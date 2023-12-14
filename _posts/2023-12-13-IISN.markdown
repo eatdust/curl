@@ -5,9 +5,9 @@ category: Jobs
 date: 2023-12-13 08:00:00 +0100
 ---
 
-We are pleased to open a **post-doctoral position** in Cosmology at
-[**CURL**](https://curl.group) (Cosmology, Universe and Relativity at
-Louvain), [**Institute of Mathematics and
+We are pleased to announce the opening a **post-doctoral position** in
+Cosmology within the [**CURL**](https://curl.group) group at the
+[**Institute of Mathematics and
 Physics**](https://uclouvain.be/en/research-institutes/irmp), Louvain
 University (Belgium), starting fall 2024.
 
@@ -29,9 +29,10 @@ parenthood.
 Letters of application (including a curriculum vitae, a list of
 publications, a brief statement of research interests) and at least
 two recommendation letters from senior scientists should be submitted
-on-line, by the 15th of January 2024, at:
+on-line, by the 21st of January 2024, at:
 
-[**https://cp3.irmp.ucl.ac.be/jobs/74**](https://cp3.irmp.ucl.ac.be/jobs/74)
+[**https://cp3.irmp.ucl.ac.be/job/94**](https://cp3.irmp.ucl.ac.be/job/94)
+
 
 For more information, or postal applications, please contact:
 ```
