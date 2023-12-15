@@ -1,0 +1,55 @@
+---
+layout: post
+title: Post-doctoral opening in Cosmology with Euclid
+category: Jobs
+date: 2023-12-20 08:00:00 +0100
+---
+
+We are pleased to announce the opening a **post-doctoral position** in
+Cosmology, focused on the exploitation of the Euclid data, within the
+[**CURL**](https://curl.group) group at the [**Institute of
+Mathematics and
+Physics**](https://uclouvain.be/en/research-institutes/irmp), Louvain
+University (Belgium), starting no later than fall 2024.
+
+Applicants with expertises in cosmic inflation, large scale
+structures, data analysis and Bayesian inference, PBH, skilled in
+computing and analytics, are particularly encouraged to apply.
+
+The position is supported by the Belgium Euclid Science
+Exploitation **ESA-Prodex** research program which unifies
+expertises between
+[**Ugent**](https://research.ugent.be/web/person/sven-de-rijcke-0/en)
+(Gent), [**ULiege**](https://www.astro.uliege.be/~sluse/) (Liège),
+[**ULB**](https://physth.ulb.be/people_SClesse.html) (Brussels) and
+[**UCLouvain**](https://curl.irmp.ucl.ac.be/members/chris.html)
+(Louvain-la-Neuve) universities. There will be close collaborations
+between these groups, computing and travelling support are excellent.
+
+Appointment is available for three years.
+
+---
+
+Letters of application (including a curriculum vitae, a list of
+publications, a brief statement of research interests) and at least
+two recommendation letters from senior scientists should be submitted
+on-line, by the 21st of January 2024, at:
+
+[**https://cp3.irmp.ucl.ac.be/job/95**](https://cp3.irmp.ucl.ac.be/job/95)
+
+
+For more information, or postal applications, please contact:
+```
+christophe.ringeval@uclouvain.be
+Cosmology, Universe and Relativity at Louvain
+Institute of Mathematics and Physics
+Louvain University
+2, Chemin du Cyclotron
+1348 Louvain-la-Neuve
+Belgium
+```
+
+---
+
+
+
