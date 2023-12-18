@@ -2,7 +2,7 @@
 layout: post
 title: Post-doctoral opening in Cosmology with Euclid
 category: Jobs
-date: 2023-12-20 08:00:00 +0100
+date: 2023-12-18 08:00:00 +0100
 ---
 
 We are pleased to announce the opening a **post-doctoral position** in
@@ -13,7 +13,7 @@ Physics**](https://uclouvain.be/en/research-institutes/irmp), Louvain
 University (Belgium), starting no later than fall 2024.
 
 Applicants with expertises in cosmic inflation, large scale
-structures, data analysis and Bayesian inference, PBH, skilled in
+structures, data analysis and Bayesian inference, skilled in
 computing and analytics, are particularly encouraged to apply.
 
 The position is supported by the Belgium Euclid Science
@@ -33,7 +33,7 @@ Appointment is available for three years.
 Letters of application (including a curriculum vitae, a list of
 publications, a brief statement of research interests) and at least
 two recommendation letters from senior scientists should be submitted
-on-line, by the 21st of January 2024, at:
+on-line, by the 28th of January 2024, at:
 
 [**https://cp3.irmp.ucl.ac.be/job/95**](https://cp3.irmp.ucl.ac.be/job/95)
 
