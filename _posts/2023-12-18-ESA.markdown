@@ -5,7 +5,7 @@ category: Jobs
 date: 2023-12-18 08:00:00 +0100
 ---
 
-We are pleased to announce the opening a **post-doctoral position** in
+We are pleased to announce the opening of a **post-doctoral position** in
 Cosmology, focused on the exploitation of the Euclid data, within the
 [**CURL**](https://curl.group) group at the [**Institute of
 Mathematics and
