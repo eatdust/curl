@@ -2,7 +2,7 @@
 layout: post
 title: Post-doctoral opening in Cosmology
 category: Jobs
-date: 2024-01-01 08:00:00 +0100
+date: 2023-12-26 08:00:00 +0100
 ---
 
 We are pleased to announce the opening a **post-doctoral position** in
