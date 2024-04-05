@@ -1,0 +1,16 @@
+---
+layout: post
+title: Le télescope spatial Euclid
+category: Outreach
+date: 2024-03-23 08:00:00 +0100
+---
+
+During the outreach week [**Printemps des
+Sciences]**(https://www.printempsdessciencesucl.be/evenement/7/activite/803),
+C. Ringeval gives a public lecture on the Euclid space telescope for
+the Astro Club of Ottignies Louvain-la-Neuve (starts at 8:00pm). More
+information at [**CAO**](http://www.caolln.be/).
+
+### Le télescope spatial Euclid et les implications attendues pour l'univers primordial
+
+![CAO banner](/assets/images/outreach/euclid_cao.jpg)
