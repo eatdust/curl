@@ -1,11 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-04-05T11:57:09+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Le télescope spatial Euclid</title><link href="https://curl.group/outreach/2024/03/23/CAO.html" rel="alternate" type="text/html" title="Le télescope spatial Euclid" /><published>2024-03-23T08:00:00+01:00</published><updated>2024-03-23T08:00:00+01:00</updated><id>https://curl.group/outreach/2024/03/23/CAO</id><content type="html" xml:base="https://curl.group/outreach/2024/03/23/CAO.html"><![CDATA[<p>During the outreach week <a href="https://www.printempsdessciencesucl.be/evenement/7/activite/803"><strong>Printemps des Sciences</strong></a>,
-C. Ringeval gives a public lecture on the Euclid space telescope for
-the Astro Club of Ottignies Louvain-la-Neuve (starts at 8:00pm). More
-information at <a href="http://www.caolln.be/"><strong>CAO</strong></a>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-04-10T14:36:30+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">New Insights into the Clustering Behaviour of Primordial Black Holes</title><link href="https://curl.group/news/2024/04/10/2402.00600.html" rel="alternate" type="text/html" title="New Insights into the Clustering Behaviour of Primordial Black Holes" /><published>2024-04-10T09:00:00+02:00</published><updated>2024-04-10T09:00:00+02:00</updated><id>https://curl.group/news/2024/04/10/2402.00600</id><content type="html" xml:base="https://curl.group/news/2024/04/10/2402.00600.html"><![CDATA[<p>Are primordial black holes already clustered in the early universe?
+In a recent publication, <a href="/members/blachier"><strong>Baptiste</strong></a> and
+<a href="/members/auclair"><strong>Pierre</strong></a> tackle the clustering problem of these
+enigmatic objects using an excursion-set approach to deal with the
+so-called “cloud-in-cloud” mechanism.</p>
+
+<p>Primordial black holes (PBH) are cosmological objects that could have
+been formed in the earliest instants of the universe’s history, for
+instance, when large overdensities collapse under their own gravity.
+Understanding how these PBHs cluster is essential as it can provide
+insights into the evolution of structure formation in the universe and
+could potentially help in assessing how much, and when, binaries of
+these objects appear.</p>
+
+<p>In Ref. <a class="citation" href="#auclair:2024jwj">[1]</a>, <a href="/members/auclair"><strong>Pierre</strong></a>
+and <a href="/members/blachier"><strong>Baptiste</strong></a> have used the excursion-set
+formalism to quantify the initial spatial clustering of PBHs generated
+from large Gaussian density fluctuations. Their method takes into
+account the “cloud-in-cloud” mechanism, which is a critical aspect
+that is overlooked in studies using the Poisson model of clustering.</p>
+
+<p>In the excursion-set formalism, the collapse of an overdensity to form
+a PBH of mass \(M\) is recast into the probability of finding the
+first crossing of a random walk at some scale \(S(M)\). This approach
+has been already applied to study the formation of large-scale
+structure, in which multiple crossings of a random walk describe a
+hierarchy of structures. This formalism was first developed to solve
+the “cloud-in-cloud” problem, that is resolving this hierarchy of
+structures.</p>
+
+<p><img src="/assets/images/2402.00600/spread.png" alt="spread" /></p>
+
+<p>The cloud-in-cloud mechanism implies that PBHs should be part of
+larger structures: they don’t just appear randomly as per the Poisson
+assumption. This results in a natural and intrinsic correlation
+between the formation of pairs of PBHs, which is important for
+accurately modelling the clustering behaviour at small scales. The
+following picture shows two random walks that share a common past
+until the “time” \(S_{r}\): they come from the same realisation of a
+large scale density perturbation. Subsequently, they evolve in
+distinct ways and this results in two different collapses that occur
+respectively at the first-crossing times \(S_{1}\) and \(S_{2}\)</p>
+
+<p><img src="/assets/images/2402.00600/duo.png" alt="duo" /></p>
+
+<p>Such an approach automatically includes short-range exclusion effects:
+PBHs are anti-correlated at short distances!</p>
+
+<p>The authors also present explicit expressions for the excess
+probability to find pairs of PBHs separated by a given distance and
+for the excess probability to find pairs with an asymmetric mass
+ratio.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Are primordial black holes already clustered in the early universe? In a recent publication, Baptiste and Pierre tackle the clustering problem of these enigmatic objects using an excursion-set approach to deal with the so-called “cloud-in-cloud” mechanism.]]></summary></entry><entry><title type="html">Le télescope spatial Euclid</title><link href="https://curl.group/outreach/2024/03/23/CAO.html" rel="alternate" type="text/html" title="Le télescope spatial Euclid" /><published>2024-03-23T08:00:00+01:00</published><updated>2024-03-23T08:00:00+01:00</updated><id>https://curl.group/outreach/2024/03/23/CAO</id><content type="html" xml:base="https://curl.group/outreach/2024/03/23/CAO.html"><![CDATA[<p>Lors de la semaine du <a href="https://www.printempsdessciencesucl.be/evenement/7/activite/803"><strong>Printemps des
+Sciences</strong></a>,
+<a href="/members/chris.html"><strong>Christophe</strong></a> donne une conférence publique sur le télescope spatial
+Euclid pour le Club d’Astronomie de Ottignies Louvain-la-Neuve
+(8:00pm). Plus d’informations sur le site du <a href="http://www.caolln.be/"><strong>CAO</strong></a>.</p>
 
 <h3 id="le-télescope-spatial-euclid-et-les-implications-attendues-pour-lunivers-primordial">Le télescope spatial Euclid et les implications attendues pour l’univers primordial</h3>
 
-<p><img src="/assets/images/outreach/euclid_cao.jpg" alt="CAO banner" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[During the outreach week Printemps des Sciences, C. Ringeval gives a public lecture on the Euclid space telescope for the Astro Club of Ottignies Louvain-la-Neuve (starts at 8:00pm). More information at CAO.]]></summary></entry><entry><title type="html">~~Post-doctoral opening in Cosmology~~</title><link href="https://curl.group/jobs/2023/12/26/IISN.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Cosmology~~" /><published>2023-12-26T08:00:00+01:00</published><updated>2023-12-26T08:00:00+01:00</updated><id>https://curl.group/jobs/2023/12/26/IISN</id><content type="html" xml:base="https://curl.group/jobs/2023/12/26/IISN.html"><![CDATA[<p>We are pleased to announce the opening of another <strong>post-doctoral position</strong> in
+<p><img src="/assets/images/outreach/euclid_cao.jpg" alt="CAO banner" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Lors de la semaine du Printemps des Sciences, Christophe donne une conférence publique sur le télescope spatial Euclid pour le Club d’Astronomie de Ottignies Louvain-la-Neuve (8:00pm). Plus d’informations sur le site du CAO.]]></summary></entry><entry><title type="html">LISA is adopted</title><link href="https://curl.group/news/2024/01/25/LISA.html" rel="alternate" type="text/html" title="LISA is adopted" /><published>2024-01-25T08:00:00+01:00</published><updated>2024-01-25T08:00:00+01:00</updated><id>https://curl.group/news/2024/01/25/LISA</id><content type="html" xml:base="https://curl.group/news/2024/01/25/LISA.html"><![CDATA[<p>On this historic day, the European Space Agency
+(<a href="https://www.esa.int"><strong>ESA</strong></a>) gave
+<a href="https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead"><strong>approval</strong></a>
+to
+<a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a>,
+the Laser Interferometer Space Antenna. This decision marks a
+significant milestone for the LISA mission as it signifies the
+acceptance of its design and scientific goals.</p>
+
+<p>LISA will be the next-generation observatory in the field of
+gravitational waves, surpassing current terrestrial capabilities by
+exploring lower frequencies and longer timescales, opening up a new
+observation window into the universe.  and technological
+innovation. The LISA definition study report, which <a href="https://arxiv.org/abs/2402.07571"><strong>Pierre</strong></a> was a
+part of, presents an in-depth analysis of the mission’s scientific
+rationale, design, and implementation plans. It highlights the
+groundbreaking discoveries that LISA is expected to make</p>
+
+<p><img src="/assets/images/outreach/LISA_motion.gif" alt="LISA spacecrafts" /></p>
+
+<p>With ESA’s approval, the LISA mission moves one step closer to
+reality!</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[On this historic day, the European Space Agency (ESA) gave approval to LISA, the Laser Interferometer Space Antenna. This decision marks a significant milestone for the LISA mission as it signifies the acceptance of its design and scientific goals.]]></summary></entry><entry><title type="html">~~Post-doctoral opening in Cosmology~~</title><link href="https://curl.group/jobs/2023/12/26/IISN.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Cosmology~~" /><published>2023-12-26T08:00:00+01:00</published><updated>2023-12-26T08:00:00+01:00</updated><id>https://curl.group/jobs/2023/12/26/IISN</id><content type="html" xml:base="https://curl.group/jobs/2023/12/26/IISN.html"><![CDATA[<p>We are pleased to announce the opening of another <strong>post-doctoral position</strong> in
 Cosmology within the <a href="https://curl.group"><strong>CURL</strong></a> group at the
 <a href="https://uclouvain.be/en/research-institutes/irmp"><strong>Institute of Mathematics and
 Physics</strong></a>, Louvain
@@ -314,215 +387,4 @@ TV</strong></a>. D’ici là, une
 conférence de presse est organisée au Planétarium de Bruxelles,
 <strong>lundi 26 juin</strong> à <strong>10h</strong>.</p>
 
-<p><a href="https://indico.cern.ch/event/1298261/"><strong>Inscriptions</strong></a> et <a href="https://owncloud.ulb.ac.be/index.php/s/SBnbtB5onJvaEFe"><strong>press release</strong></a></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Le télescope spatial Euclid de l’Agence Spatiale Européenne est sur les starting blocks. Les scientifiques belges impliqués dans la mission donnent une conférence de presse au Planétarium de Bruxelles. Rendez-vous lundi 26 juin à 10h.]]></summary></entry><entry><title type="html">The opiparous edition of Encyclopædia Inflationaris</title><link href="https://curl.group/news/2023/05/08/EI.html" rel="alternate" type="text/html" title="The opiparous edition of Encyclopædia Inflationaris" /><published>2023-05-08T09:00:00+02:00</published><updated>2023-05-08T09:00:00+02:00</updated><id>https://curl.group/news/2023/05/08/EI</id><content type="html" xml:base="https://curl.group/news/2023/05/08/EI.html"><![CDATA[<p>We have released a new version of <a href="https://arxiv.org/abs/1303.3787"><strong>Encyclopædia
-Inflationaris</strong></a> and its associated
-public code
-<a href="https://github.com/cosmicinflation/aspic"><strong>ASPIC</strong></a>. This opiparous
-edition extends the original paper by 400 pages and features 46 new
-models of inflation that have been proposed in the last decade. Cosmic
-Inflation is ready to tackle the data challenges of tomorrow.</p>
-
-<p>The first edition of <strong>Encyclopædia Inflationaris</strong> was published in
-Ref. <a class="citation" href="#martin:2014vha">[1]</a> and authored by <a href="https://inspirehep.net/authors/998637"><strong>Jérôme
-Martin</strong></a>,
-<a href="/members/chris.html"><strong>Christophe</strong></a> and <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
-Vennin</strong></a>. It
-was built upon the slow-roll models of inflation proposed prior to
-2013, the year of the first
-<a href="https://en.wikipedia.org/wiki/Planck_(spacecraft)"><strong>Planck</strong></a> data
-release. It contains accurate reheating-consistent slow-roll
-calculations of the background universe and of the expected scalar and
-tensor perturbations for all these models. Although it is now often
-seen as a review, it is a genuine paper as it goes beyond the mere
-gathering of known results. Indeed, a fair fraction of these models
-had been studied only under rough approximations, which were not
-matching the accuracy needed by the Cosmic Microwave Background (CMB)
-data. The ambition of the project was, and still is, to provide an
-(almost) exact treatment of single-field inflationary models using
-only the slow-roll approximation while incorporating the kinematic
-effects of reheating.</p>
-
-<p>All these results are also incorporated in a public runtime library,
-<strong>ASPIC</strong> <a class="citation" href="#aspic">[2]</a>, which has been used in a number of
-subsequent works. For instance, Bayesian model comparison using the
-Planck CMB data has been presented in Refs. <a class="citation" href="#martin:2013nzq">[3]</a>
-and <a class="citation" href="#martin:2014rqa">[4]</a> while the constraints derived on the
-reheating epoch have been separately presented in Refs. <a class="citation" href="#martin:2014nya">[5]</a> and <a class="citation" href="#martin:2016oyk">[6]</a>.</p>
-
-<hr />
-
-<p>Ten years later Cosmic Inflation remains the most favoured scenario
-of the early universe <a class="citation" href="#chowdhury:2019otk">[7]</a> but several
-developments have called for the release of a new edition:</p>
-
-<ul>
-  <li>
-    <p>First, at the theoretical level, new models have been proposed. Some
-of them boil down to one of the functional forms of the inflationary
-potentials already encoded in ASPIC, in which case they have been
-added in the relevant sections<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Some other models give rise to
-new inflationary potentials, and therefore constitute new sections
-of Encyclopædia Inflationaris, as well as new entries in the ASPIC
-library. There are 24 such new potential functions in the new
-edition (here ordered alphabetically): <strong>Axion Hilltop Inflation</strong>
-(AHI), <strong>Cubicly Corrected Starobinsky Inflation</strong> (CCSI),<strong>Double
-Exponential Inflation</strong> (DEI), <strong>Dual Inflation</strong> (DI), <strong>Fibre
-Inflation</strong> (FI), <strong>Generalized Double Well Inflation</strong> (GDWI),
-<strong>Hyperbolic Inflation</strong> (HBI), <strong>Hybrid Natural Inflation</strong> (HNI),
-<strong>Non-Renormalizable Corrected Loop Inflation</strong> (NCLI),
-<strong>N-Formalism Inflation</strong> (NFI), <strong>Non-Minimal Large Field
-Inflation</strong> (NMLFI), <strong>Pure Arctan Inflation</strong> (PAI), <strong>Radiatively
-Corrected Inflection Point Inflation</strong> (RCIPI), <strong>Radiatively
-Corrected Large Field Inflation</strong> (RCLFI), <strong>String Axion Inflation
-I</strong> (SAII), <strong>String Axion Inflation II (SAIII), Super-conformal
-Alpha Attractor A Inflation</strong> (SAAI), <strong>T-Model Inflation</strong> (TMI),
-<strong>Super-conformal Alpha Attractor B Inflation</strong> (SABI),
-<strong>Super-conformal Alpha Attractor T Inflation</strong> (SATI), <strong>Symmetry
-Breaking Kähler Inflation</strong> (SBKI), <strong>S-Dual Inflation</strong> (SDI),
-<strong>Smeared Higgs Inflation</strong> (SHI), <strong>Mukhanov Inflation</strong>
-(VFMI). The inclusion of these models allows the new edition to
-provide an up-to-date landscape of all single-field slow-roll
-inflationary models, bringing the number of models included in the
-<strong>ASPIC</strong> library to 118.</p>
-  </li>
-  <li>
-    <p>Second, at the observational level, the first edition compared the
-predictions of single-field models with the early release of the
-Planck 2013 data. Since then, additional data has been collected,
-and the second edition features second-order slow-roll constraints
-from the full <a href="https://pla.esac.esa.int"><strong>Planck Legacy +
-Bicep-Keck</strong></a> data combination. The
-Bayesian evidence of all models has also been re-computed with the
-new data set, and the results will be presented in a separate
-publication.</p>
-  </li>
-  <li>
-    <p>Third, as the accuracy of the recent data releases has kept
-improving, several projects are on their way that should deliver
-even more accurate cosmological data in the years to come. In
-particular, let us mention ground-based experiments that are
-currently operating such as <a href="http://bicepkeck.org/"><strong>BICEP3 &amp; Keck
-array</strong></a> and
-<a href="https://en.wikipedia.org/wiki/South_Pole_Telescope"><strong>SPT</strong></a> in
-Antarctica,
-<a href="https://research.iac.es/proyecto/quijote/pages/en/home.php"><strong>QUIJOTE</strong></a>
-in the Canary islands, and
-<a href="https://en.wikipedia.org/wiki/Cosmology_Large_Angular_Scale_Surveyor"><strong>CLASS</strong></a>,
-<a href="https://en.wikipedia.org/wiki/Atacama_Cosmology_Telescope"><strong>ACT</strong></a>
-and <a href="https://en.wikipedia.org/wiki/POLARBEAR"><strong>Polarbear</strong></a> in the
-Atacama desert. They have been very recently joined by
-<a href="https://en.wikipedia.org/wiki/Qubic_experiment"><strong>QUBIC</strong></a>. In
-space, the
-<a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a>
-satellite is soon to be launched and will provide unprecedented
-measurements on the matter power spectrum, down to very small
-scales. The <a href="https://en.wikipedia.org/wiki/LiteBIRD"><strong>LiteBIRD</strong></a>
-satellite is planned to be launched in 2028 and should allow us to
-further constrain the \(B\)-mode signal in the polarisation of the
-CMB. These prospects of ever increasing precision confirm the
-relevance of the original Encyclopædia Inflationaris and ASPIC
-projects, namely the need for accurate predictions on a
-model-to-model basis. For this reason, we have continued to pay
-special attention to solve the inflationary dynamics exactly,
-without any other approximations than those contained in the
-slow-roll framework. This one has indeed been shown to be
-sufficiently accurate for the Planck CMB data <a class="citation" href="#ringeval:2013lea">[8]</a> and can be extended to arbitrary precision if
-needed <a class="citation" href="#auclair:2022yxs">[9]</a>. On the contrary, as discussed in
-Ref. <a class="citation" href="#martin:2016iqo">[10]</a> other commonly-employed
-approximations are now too imprecise to allow for a fair comparison
-with the data.</p>
-  </li>
-</ul>
-
-<hr />
-
-<p>Some of the new models are compatible with the present data, as one
-could have expected, but this statement is <strong>strongly</strong> reheating
-dependent. This can be illustrated by the following figure. It shows
-their predictions, namely spectral index \(n_\mathrm{S}\) and
-tensor-to-scalar ratio \(r\) as a function of the reheating energy
-scale \(E_{\mathrm{reh}}\) (assuming a matter-like reheating for
-illustration purposes). The contours are the \(68\%\) and \(95\%\)
-confidence intervals associated with the successive Planck data
-releases since 2013.</p>
-
-<p><a href="/assets/images/opiparous/nslogr_plc3_bkppol.png"><img src="/assets/images/opiparous/nslogr_plc3_bkppol.png" alt="nslogr" title="Spectral index and tensor-to-scalar ratio" /></a></p>
-
-<p>As this figure shows, getting reheating-consistent predictions has
-never been so crucial. The reheating expansion history determines the
-part of the inflationary potential being probed by cosmological
-measurements, it can now substantially affect the preference shown by
-the data for a given model (in technical terms, the Bayesian
-evidence). This is one of the reasons why, in the opirarous edition,
-the <strong>Starobinsky model</strong> (SI) and <strong>Higgs Inflation</strong> (HI) are now
-treated as distinct models, since they come with different reheating
-histories. Moreover, even though they are often treated as sharing the
-same potential, this is only correct at leading order in an expansion
-with respect to the inverse of the non-minimal coupling of the
-field. Differences arise at next-to-leading order that we now account
-for in an exact manner.</p>
-
-<p>The previous figure certainly confirms the strategy adopted since the
-early days of Encyclopædia Inflationaris to derive
-reheating-consistent predictions. Ignoring it can indeed be
-catastrophic. As an example, here are the reheating-consistent
-predictions of one of the new model proposed <em>after</em> the Planck data
-release. Not including reheating effects would imply selecting random
-points in this mess…</p>
-
-<p><img src="/assets/images/opiparous/nsr_saiii3p_3.png" alt="saiii3p" /></p>
-
-<hr />
-
-<p>Let us note that in its new edition, the format of the paper has been
-purposely kept similar to its original version. In particular, the
-introduction (section 2) has been essentially left untouched in order
-to keep track of our original motivations, and of the main
-considerations that were discussed in the field at that time. We have
-also not completed section 3 with a list of new analytical results
-derived in the 46 new potentials, given that we think it has already
-become clear that Encyclopædia Inflationaris is more than a review
-indeed. At the time of this post, the opiparous edition is made public
-only through <a href="https://arxiv.org/abs/1303.3787"><strong>arXiv:1303.3787v4</strong></a> with a full open access <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><strong>CC BY-NC-SA
-4.0</strong></a> license.</p>
-
-<hr />
-
-<p>Finally, about the benefit of a second edition, let us quote <a href="https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert"><strong>Jean
-Le Rond
-d’Alembert</strong></a>
-(in a letter to
-<a href="https://en.wikipedia.org/wiki/Voltaire"><strong>Voltaire</strong></a>, June 23,
-1766):</p>
-<blockquote>
-
-  <p>Quant à l’ouvrage, il est maigre, mais il est aisé de lui donner de l’embonpoint dans une seconde édition.</p>
-
-</blockquote>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>These models may nonetheless come with different values for the parameters describing the potential, i.e. different priors in the framework of a Bayesian analysis. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[We have released a new version of Encyclopædia Inflationaris and its associated public code ASPIC. This opiparous edition extends the original paper by 400 pages and features 46 new models of inflation that have been proposed in the last decade. Cosmic Inflation is ready to tackle the data challenges of tomorrow.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/04/03/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-04-03T09:00:00+02:00</published><updated>2023-04-03T09:00:00+02:00</updated><id>https://curl.group/news/2023/04/03/seminar</id><content type="html" xml:base="https://curl.group/news/2023/04/03/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 5th</strong> of
-April, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
-<strong>Danièle Steer</strong> from APC (Paris, France).</p>
-
-<hr />
-
-<p>At 2pm, room E349, Danièle Steer (APC), will be talking about</p>
-
-<h3 id="cosmology-and-distance-measurements-with-gravitational-wave-observations">Cosmology and distance measurements with gravitational wave observations</h3>
-
-<p><em>In this talk I will outline the main different methods on the market
- for measuring cosmological parameters (including modified gravity
- parameters) with GWs, and the main sources of errors in these
- measurements. Then I will highlight the current results on
- cosmological parameters obtained with the O3 run of LIGO-Virgo, as
- well as give predictions for future expectations. Finally I will go
- into more technical details and explain an analytical approach to
- estimate distance errors with GW observations (from any number of
- ground based interferometers placed at different positions on
- earth).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Wednesday 5th of April, seminar room E349 at 2pm. Our guest speaker will be Danièle Steer from APC (Paris, France).]]></summary></entry></feed>
+<p><a href="https://indico.cern.ch/event/1298261/"><strong>Inscriptions</strong></a> et <a href="https://owncloud.ulb.ac.be/index.php/s/SBnbtB5onJvaEFe"><strong>press release</strong></a></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Le télescope spatial Euclid de l’Agence Spatiale Européenne est sur les starting blocks. Les scientifiques belges impliqués dans la mission donnent une conférence de presse au Planétarium de Bruxelles. Rendez-vous lundi 26 juin à 10h.]]></summary></entry></feed>
