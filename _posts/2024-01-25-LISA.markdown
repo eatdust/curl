@@ -1,0 +1,29 @@
+---
+layout: post
+title: LISA is adopted
+category: News
+date: 2024-01-25 08:00:00 +0100
+---
+
+On this historic day, the European Space Agency
+([**ESA**](https://www.esa.int)) gave
+[**approval**](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
+to
+[**LISA**](https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna),
+the Laser Interferometer Space Antenna. This decision marks a
+significant milestone for the LISA mission as it signifies the
+acceptance of its design and scientific goals.
+
+LISA will be the next-generation observatory in the field of
+gravitational waves, surpassing current terrestrial capabilities by
+exploring lower frequencies and longer timescales, opening up a new
+observation window into the universe.  and technological
+innovation. The LISA definition study report, which [**Pierre**](https://arxiv.org/abs/2402.07571) was a
+part of, presents an in-depth analysis of the mission's scientific
+rationale, design, and implementation plans. It highlights the
+groundbreaking discoveries that LISA is expected to make
+
+![LISA spacecrafts](/assets/images/outreach/LISA_motion.gif)
+
+With ESA's approval, the LISA mission moves one step closer to
+reality!
