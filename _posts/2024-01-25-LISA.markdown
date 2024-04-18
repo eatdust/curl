@@ -18,9 +18,10 @@ LISA will be the next-generation observatory in the field of
 gravitational waves, surpassing current terrestrial capabilities by
 exploring lower frequencies and longer timescales, opening up a new
 observation window into the universe.  and technological
-innovation. The LISA definition study report, which [**Pierre**](https://arxiv.org/abs/2402.07571) was a
-part of, presents an in-depth analysis of the mission's scientific
-rationale, design, and implementation plans. It highlights the
+innovation. The LISA definition study report, in which [**Pierre**](/members/auclair) was a
+contributor, presents an in-depth analysis of the mission's scientific
+rationale, design, and implementation plans, see Ref. {% cite
+colpi:2024xhw %}. It highlights the
 groundbreaking discoveries that LISA is expected to make
 
 ![LISA spacecrafts](/assets/images/outreach/LISA_motion.gif)
