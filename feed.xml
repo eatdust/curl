@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-04-17T11:42:11+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">New Insights into the Clustering Behaviour of Primordial Black Holes</title><link href="https://curl.group/news/2024/04/10/2402.00600.html" rel="alternate" type="text/html" title="New Insights into the Clustering Behaviour of Primordial Black Holes" /><published>2024-04-10T09:00:00+02:00</published><updated>2024-04-10T09:00:00+02:00</updated><id>https://curl.group/news/2024/04/10/2402.00600</id><content type="html" xml:base="https://curl.group/news/2024/04/10/2402.00600.html"><![CDATA[<p>Are primordial black holes already clustered in the early universe?
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-04-18T18:28:39+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Interview for Quanta Magazine</title><link href="https://curl.group/outreach/2024/04/18/QuantaMag.html" rel="alternate" type="text/html" title="Interview for Quanta Magazine" /><published>2024-04-18T09:00:00+02:00</published><updated>2024-04-18T09:00:00+02:00</updated><id>https://curl.group/outreach/2024/04/18/QuantaMag</id><content type="html" xml:base="https://curl.group/outreach/2024/04/18/QuantaMag.html"><![CDATA[<p><a href="/members/auclair"><strong>Pierre</strong></a> gave an interview for <a href="https://en.wikipedia.org/wiki/Quanta_Magazine"><strong>Quanta
+Magazine</strong></a> in an
+article dedicated to the <a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a> mission.</p>
+
+<p><a href="https://www.quantamagazine.org/hopes-of-big-bang-discoveries-ride-on-a-future-spacecraft-20240417/"><strong>Hopes of Big Bang Discoveries Ride on a Future Spacecraft</strong></a></p>
+
+<p>More details can be found in the scientific paper Ref. <a class="citation" href="#colpi:2024xhw">[1]</a> and this <a href="/news/2024/01/25/LISA.html"><strong>post</strong></a>.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Pierre gave an interview for Quanta Magazine in an article dedicated to the LISA mission.]]></summary></entry><entry><title type="html">New Insights into the Clustering Behaviour of Primordial Black Holes</title><link href="https://curl.group/news/2024/04/10/2402.00600.html" rel="alternate" type="text/html" title="New Insights into the Clustering Behaviour of Primordial Black Holes" /><published>2024-04-10T09:00:00+02:00</published><updated>2024-04-10T09:00:00+02:00</updated><id>https://curl.group/news/2024/04/10/2402.00600</id><content type="html" xml:base="https://curl.group/news/2024/04/10/2402.00600.html"><![CDATA[<p>Are primordial black holes already clustered in the early universe?
 In a recent publication, <a href="/members/blachier"><strong>Baptiste</strong></a> and
 <a href="/members/auclair"><strong>Pierre</strong></a> tackle the clustering problem of these
 enigmatic objects using an excursion-set approach to deal with the
@@ -70,9 +76,9 @@ acceptance of its design and scientific goals.</p>
 gravitational waves, surpassing current terrestrial capabilities by
 exploring lower frequencies and longer timescales, opening up a new
 observation window into the universe.  and technological
-innovation. The LISA definition study report, which <a href="https://arxiv.org/abs/2402.07571"><strong>Pierre</strong></a> was a
-part of, presents an in-depth analysis of the mission’s scientific
-rationale, design, and implementation plans. It highlights the
+innovation. The LISA definition study report, in which <a href="/members/auclair"><strong>Pierre</strong></a> was a
+contributor, presents an in-depth analysis of the mission’s scientific
+rationale, design, and implementation plans, see Ref. <a class="citation" href="#colpi:2024xhw">[1]</a>. It highlights the
 groundbreaking discoveries that LISA is expected to make</p>
 
 <p><img src="/assets/images/outreach/LISA_motion.gif" alt="LISA spacecrafts" /></p>
@@ -373,18 +379,4 @@ fond stochastique dû à des binaires de trous noirs
 supermassifs. D’autres propositions, comme les cordes cosmiques ou les
 transitions de phases du premier ordre, permettraient aussi
 d’expliquer les observations, avec d’importantes conséquences pour
-notre compréhension des premiers instants de l’Univers.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Plusieurs collaborations internationales en radio-astronomie viennent d’annoncer la première détection du fond stochastique d’ondes gravitationnelles. Pierre a cosigné la publication de l’EPTA.]]></summary></entry><entry><title type="html">Euclid sur les starting blocks</title><link href="https://curl.group/outreach/2023/06/23/EuclidBxe.html" rel="alternate" type="text/html" title="Euclid sur les starting blocks" /><published>2023-06-23T09:00:00+02:00</published><updated>2023-06-23T09:00:00+02:00</updated><id>https://curl.group/outreach/2023/06/23/EuclidBxe</id><content type="html" xml:base="https://curl.group/outreach/2023/06/23/EuclidBxe.html"><![CDATA[<p>Le télescope spatial
-<a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a> de
-l’Agence Spatiale Européenne est sur les starting blocks. Les
-scientifiques belges impliqués dans la mission donnent une conférence
-de presse au Planétarium de Bruxelles. Rendez-vous <strong>lundi 26 juin</strong> à
-<strong>10h</strong>.</p>
-
-<p>Le lancement du satellite Euclid (ESA) est prévu pour le 1er juillet
-2023 à 17h11 (CEST) depuis Cap Canaveral, à suivre en direct sur
-l’<a href="https://www.esa.int/ESA_Multimedia/ESA_Web_TV"><strong>ESA web
-TV</strong></a>. D’ici là, une
-conférence de presse est organisée au Planétarium de Bruxelles,
-<strong>lundi 26 juin</strong> à <strong>10h</strong>.</p>
-
-<p><a href="https://indico.cern.ch/event/1298261/"><strong>Inscriptions</strong></a> et <a href="https://owncloud.ulb.ac.be/index.php/s/SBnbtB5onJvaEFe"><strong>press release</strong></a></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Le télescope spatial Euclid de l’Agence Spatiale Européenne est sur les starting blocks. Les scientifiques belges impliqués dans la mission donnent une conférence de presse au Planétarium de Bruxelles. Rendez-vous lundi 26 juin à 10h.]]></summary></entry></feed>
+notre compréhension des premiers instants de l’Univers.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Plusieurs collaborations internationales en radio-astronomie viennent d’annoncer la première détection du fond stochastique d’ondes gravitationnelles. Pierre a cosigné la publication de l’EPTA.]]></summary></entry></feed>
