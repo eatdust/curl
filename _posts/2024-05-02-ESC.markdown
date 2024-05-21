@@ -1,0 +1,15 @@
+---
+layout: post
+title: Space is all around
+category: Outreach
+date: 2024-05-02 08:00:00 +0100
+---
+
+[**Christophe**](/members/chris.html) gives a lecture on **Cosmology
+with space-based observatories** at the [**Euro Space
+Center**](https://www.eurospacecenter.be) for the school [**Space
+is all around**](https://universeh.eu/events/introduction-to-space-sciences-space-is-all-around-spring-school/)
+
+###  Cosmology with space-based observatories
+
+![outline](/assets/images/outreach/spaceisallaround.jpg)
