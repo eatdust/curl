@@ -1,0 +1,31 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2024-05-21 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Wednesday 29th** of May,
+seminar **room E349** at **2pm**. Our guest speaker will be **Eemeli
+Tomberg** from the **Lancaster University** (Lancaster, United Kingdom).
+
+---
+
+At 2pm, room E349,  **Eemeli Tomberg** (Lancaster University), will be talking about
+
+### Primordial black holes and stochastic inflation
+
+*Quantum fluctuations from cosmic inflation give rise to the
+ macroscopic structures of the universe. The strongest fluctuations
+ collapse into primordial black holes, a dark matter candidate and a
+ possible source of gravitational waves. Stochastic inflation is a
+ tool to compute the fluctuation statistics non-perturbatively, needed
+ for accurate black hole predictions. I discuss recent progress in
+ these computations, their numerical implementation and analytical
+ approximations, and the implications for black hole abundance in
+ single-field models of inflation.*
+ 
+
+
+
+
