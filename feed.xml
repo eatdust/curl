@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-05-21T10:23:36+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2024/05/21/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2024-05-21T09:00:00+02:00</published><updated>2024-05-21T09:00:00+02:00</updated><id>https://curl.group/news/2024/05/21/seminar</id><content type="html" xml:base="https://curl.group/news/2024/05/21/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 29th</strong> of May,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-05-21T10:49:02+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2024/05/21/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2024-05-21T09:00:00+02:00</published><updated>2024-05-21T09:00:00+02:00</updated><id>https://curl.group/news/2024/05/21/seminar</id><content type="html" xml:base="https://curl.group/news/2024/05/21/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 29th</strong> of May,
 seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be <strong>Eemeli
 Tomberg</strong> from the <strong>Lancaster University</strong> (Lancaster, United Kingdom).</p>
 
@@ -16,7 +16,14 @@ Tomberg</strong> from the <strong>Lancaster University</strong> (Lancaster, Unit
  for accurate black hole predictions. I discuss recent progress in
  these computations, their numerical implementation and analytical
  approximations, and the implications for black hole abundance in
- single-field models of inflation.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Wednesday 29th of May, seminar room E349 at 2pm. Our guest speaker will be Eemeli Tomberg from the Lancaster University (Lancaster, United Kingdom).]]></summary></entry><entry><title type="html">Interview for Quanta Magazine</title><link href="https://curl.group/outreach/2024/04/18/QuantaMag.html" rel="alternate" type="text/html" title="Interview for Quanta Magazine" /><published>2024-04-18T09:00:00+02:00</published><updated>2024-04-18T09:00:00+02:00</updated><id>https://curl.group/outreach/2024/04/18/QuantaMag</id><content type="html" xml:base="https://curl.group/outreach/2024/04/18/QuantaMag.html"><![CDATA[<p><a href="/members/auclair"><strong>Pierre</strong></a> gave an interview for <a href="https://en.wikipedia.org/wiki/Quanta_Magazine"><strong>Quanta
+ single-field models of inflation.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Wednesday 29th of May, seminar room E349 at 2pm. Our guest speaker will be Eemeli Tomberg from the Lancaster University (Lancaster, United Kingdom).]]></summary></entry><entry><title type="html">Space is all around</title><link href="https://curl.group/outreach/2024/05/02/ESC.html" rel="alternate" type="text/html" title="Space is all around" /><published>2024-05-02T09:00:00+02:00</published><updated>2024-05-02T09:00:00+02:00</updated><id>https://curl.group/outreach/2024/05/02/ESC</id><content type="html" xml:base="https://curl.group/outreach/2024/05/02/ESC.html"><![CDATA[<p><a href="/members/chris.html"><strong>Christophe</strong></a> gives a lecture on <strong>Cosmology
+with space-based observatories</strong> at the <a href="https://www.eurospacecenter.be"><strong>Euro Space
+Center</strong></a> for the school <a href="https://universeh.eu/events/introduction-to-space-sciences-space-is-all-around-spring-school/"><strong>Space
+is all around</strong></a></p>
+
+<h3 id="cosmology-with-space-based-observatories">Cosmology with space-based observatories</h3>
+
+<p><img src="/assets/images/outreach/spaceisallaround.jpg" alt="outline" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Christophe gives a lecture on Cosmology with space-based observatories at the Euro Space Center for the school Space is all around]]></summary></entry><entry><title type="html">Interview for Quanta Magazine</title><link href="https://curl.group/outreach/2024/04/18/QuantaMag.html" rel="alternate" type="text/html" title="Interview for Quanta Magazine" /><published>2024-04-18T09:00:00+02:00</published><updated>2024-04-18T09:00:00+02:00</updated><id>https://curl.group/outreach/2024/04/18/QuantaMag</id><content type="html" xml:base="https://curl.group/outreach/2024/04/18/QuantaMag.html"><![CDATA[<p><a href="/members/auclair"><strong>Pierre</strong></a> gave an interview for <a href="https://en.wikipedia.org/wiki/Quanta_Magazine"><strong>Quanta
 Magazine</strong></a> in an
 article dedicated to the <a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a> mission.</p>
 
@@ -286,39 +293,4 @@ of Manchester (Manchester, United Kingdom).</p>
  the gravitational wave parameter space for these models. Time
  permitting, I will also show our updated formalism can be used to
  improve constraints on the parameter space of primordial black
- holes.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 24th of November, seminar room E349 at 2pm. Our guest speaker will be Bryce Cyr from the Jodrell Bank Centre for Astrophysics at the University of Manchester (Manchester, United Kingdom).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/10/11/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-10-11T09:00:00+02:00</published><updated>2023-10-11T09:00:00+02:00</updated><id>https://curl.group/news/2023/10/11/seminar</id><content type="html" xml:base="https://curl.group/news/2023/10/11/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 2nd</strong> of
-November, seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be
-<strong>Suvashis Maity</strong> from the Indian Institute of Technology (IIT)
-Madras (Chennai, India).</p>
-
-<hr />
-
-<p>At 2pm, room E349,  Suvashis Maity (IIT Madras), will be talking about</p>
-
-<h3 id="ultra-slow-roll-inflation-and-loop-corrections-to-the-scalar-power-spectrum">Ultra slow roll inflation and loop corrections to the scalar power spectrum</h3>
-
-<p><em>Recently, there have been efforts to examine the contributions to the
- scalar power spectrum due to the loops arising from the cubic order
- terms in the action describing the perturbations, specifically in
- inflationary scenarios that permit a brief epoch of ultra slow roll
- (USR). A phase of USR inflation leads to significant observational
- consequences, such as the copious production of primordial black
- holes. In this talk, I shall discuss the loop contributions to the
- scalar power spectrum in scenarios of USR inflation arising due to
- the quartic order terms in the action describing the scalar
- perturbations. I shall initially describe the computation of the loop
- contributions to the scalar power spectrum due to the dominant term
- in the action at the quartic order. Thereafter, I shall consider a
- scenario wherein a phase of USR is sandwiched between two stages of
- slow roll inflation and describe the behavior of the loop
- contributions in situations involving late, intermediate and early
- epochs of USR. In the inflationary scenario involving a late phase of
- USR, for reasonable choices of the parameters, I shall show that the
- loop corrections are negligible for the entire range of wave
- numbers. In the intermediate case, the contributions from the loops
- prove to be scale invariant over large scales, and we find that these
- contributions can amount to 30% of the power spectrum at the leading
- order. In the case wherein USR sets in early, we find that the loop
- contributions could be negative and can dominate the power spectrum
- at the leading order, which indicates a breakdown of the perturbative
- expansion. I shall conclude with a brief summary and outlook.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 2nd of November, seminar room E349 at 2pm. Our guest speaker will be Suvashis Maity from the Indian Institute of Technology (IIT) Madras (Chennai, India).]]></summary></entry></feed>
+ holes.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 24th of November, seminar room E349 at 2pm. Our guest speaker will be Bryce Cyr from the Jodrell Bank Centre for Astrophysics at the University of Manchester (Manchester, United Kingdom).]]></summary></entry></feed>
