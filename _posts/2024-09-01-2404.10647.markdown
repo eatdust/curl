@@ -1,0 +1,121 @@
+---
+layout: post
+title: Cosmic Inflation at the Crossroads
+category: News
+date: 2024-09-01 08:00:00 +0100
+---
+
+What is the status of Cosmic Inflation given the latest cosmological
+data? In a 80 pages-long publication, we present the first ever data
+analysis using the [**third-order slow-roll power spectra**]({% post_url
+2022-09-15-2205.12608 %}) complemented by
+an unprecedented Bayesian model comparison in the landscape of nearly
+three-hundred models of single-field slow-roll inflation.
+
+
+In its simplest incarnation, Cosmic Inflation can be realised by a
+single field rolling down a potential and hundred of different
+theoretical embeddings have been proposed since the advent of the
+paradigm. Comparing these models to data could be viewed as Herculean
+tasks and we have been sharing these enjoyments with [**Jérôme
+Martin**](https://www.iap.fr) and [**Vincent
+Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en) in the
+past decade.
+
+In Ref. {% cite martin:2024qnn %}, we present the strongest contraints
+on inflation imposed by the lastest cosmological data, namely the
+[**Planck
+satellite**](https://en.wikipedia.org/wiki/Planck_(spacecraft)) 2020
+Cosmic Microwave Background data, the [**BICEP/Keck
+array**](https://bicepkeck.org/) 2021 polarization measurements, the
+[**South Pole Telescope**](https://pole.uchicago.edu/public/Home.html)
+third generation measurements and the full compilation of [**Baryonic
+Acoustic
+Oscillations**](https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations)
+for the [**Sloan Digital Sky Survey**](https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey).
+
+Our analysis incorporates the most accurate theoretical predictions
+for the quantum fluctuations generated during inflation, the so-called
+third-order slow-roll spectra for both primordial gravitational waves
+and curvature fluctuations (see this [**post**]({% post_url
+2022-09-15-2205.12608 %})). The Bayesian model comparison analysis
+uses some machine learning tools implementing the methods developped
+in Ref. {% cite ringeval:2013lea %} and include all the new models
+presented in the [**Opiparous Edition of the Encyclopædia
+Inflationaris**]({% post_url 2023-05-08-EI %}).
+
+---
+
+The following figure shows the one-dimensional marginalised posterior
+distributions obtained for the inflationary cosmological parameters,
+i.e., when the cosmic structures are seeded by the inflationary
+quantum fluctuations. 
+
+![sr3](/assets/images/2404.10647/sr3rdlogext_plc3_TTTEEE_lowE_camNPIPE_BK18_lens_BAO_SPT3G.png)
+
+Notice that the third slow-roll parameter
+$$\epsilon_3$$ is now constrained in a range perfectly consistent with slow-roll and we find
+
+$$ -0.44 < \epsilon_3 < 0.55 \quad (95\%\,\texttt{CL}) $$.
+
+One may also notice the maximum probability for $$\epsilon_1$$ at
+non-vanishing values, showing a weak statistical preference for the
+presence of primordial gravitational waves in the current data (mostly
+driven by the BICEP/Keck data). We have
+
+$$ \log(\epsilon_1) > 4.9 \quad (95\%\,\texttt{CL}),$$
+
+with
+
+$$ \log(\epsilon_1) < -2.6 \quad (98\%\,\texttt{CL}).$$
+
+---
+
+The Bayes' factors and maximum likelihood ratios for all models of the
+Encyclopædia Inflationaris are represented in the following
+figure.
+
+![bayes](/assets/images/2404.10647/bestevid.png)
+
+The reference model is denoted as "slow-roll" and represents the pure
+slow-roll analysis assuming no specific potential, only the natural
+priors for the slow-roll parameters $$\epsilon_i\in[-0.2,0.2]$$. Bars extended
+to the left mean disfavoured models, extended to the right are
+favoured (with respect to slow-roll). The bottom labels give the
+Jeffreys' scale of Bayesian evidence with respect to the best
+model. All in all, we find that $$40\%$$ of all scenarios can be
+considered ruled-out (strongly disfavoured according to the Jeffreys'
+scale) whereas $$20\%$$ of models are most probable given the current
+data.
+
+---
+
+Our approach also allows us to constrain the reheating epoch, the
+transition period between cosmic inflation and the hot Big-Bang phase
+in which the universe is a relativistic plasma.
+
+The following figures are scattered plots of inflationary models
+positionned according to their Bayesian evidence (horizontal axis) and the
+information gain on the reheating epoch (vertical axis). The color scale traces the mean value (over its posterior) of the reheating parameter $$\ln R_\mathrm{reh}$$.
+
+![obsreating](/assets/images/2404.10647/obsreheating_Dklreh.png)
+
+![obsreating](/assets/images/2404.10647/obsreheating_Dklreh_bestonly.png)
+
+Each model is also encircled in a gauge counting the number of
+unconstrained model parameters (derived using Bayesian
+dimensionality). No encircled model are models for which all
+parameters are constrained by the data, models with a full circle have
+all their parameters unconstrained.
+
+Weighted over the landscape, we find that the current data constrain
+the kinematics of reheating by $$1.3$$ bits. The precision reached by
+the current cosmological data is such that almost half of the
+inflationary landscape is out of the game, but, also, for each of the
+remaining models, the way the universe reheating to become a plasma
+also impacts observations.
+
+The future is bright and we are looking forward to the[**Euclid**](https://www.euclid-ec.org/)
+satellite measurements (see also this [**post**]({% post_url
+2023-06-26-EuclidBxe %})).
+
