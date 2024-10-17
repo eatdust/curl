@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+  
+  <title>
+    
+      Vanilla Inflation Predicts Negative Running &middot; CURL
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+
+</head>
+
+  
+  
+  <body class="post">
+    
+    <div id="sidebar">
+  <header>
+    <div class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        CURL
+      </a>
+    </div>
+    <p class="lead">Research Group</p>
+  </header>
+
+  <nav id="sidebar-nav-links">
+  
+  <a class="home-link "
+     href="/">Home</a>
+  
+
+  
+
+
+  
+    
+      <a class="page-link "
+          href="/people.html">Members</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/publications.html">Publications</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+
+  
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/news.html">News</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/jobs.html">Jobs</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/outreach.html">Outreach</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/about.html">About</a>
+    
+  
+
+  
+
+
+
+  <!-- Optional additional links to insert in sidebar nav -->
+
+
+  
+</nav>
+
+
+  
+
+  <nav id="sidebar-icon-links">
+  
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="/feed.xml">
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+  </a>
+
+  
+  
+  
+  
+
+  
+
+  
+    <a id="search-link"
+       class="icon"
+       title="Search" aria-label="Search"
+       href="/search.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+    </a>
+  
+
+  <!-- Optional additional links to insert for icons links -->
+</nav>
+  <p>
+  &copy; 2024
+  <a href="/LICENSE.md">CURL</a>
+</p>
+
+</div>
+  
+
+    <main class="container">
+      <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<header>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css">
+  <h1 class="post-title"><p>Vanilla Inflation Predicts Negative Running</p>
+</h1>  
+</header>
+<div class="content">
+  <div class="post-meta">
+  <span class="post-date">17 Oct 2024</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        <a href="/category/news.html">
+          News
+        </a>
+      
+    
+  </span>
+</div>
+
+  <div class="post-body">
+    <p>Within the landscape of single-field slow-roll models, and given the
+present cosmological data, we show that Cosmic Inflation predicts a
+small negative running of the spectral index of the cosmological
+fluctuations. This quantity imprints the large scale structures of the
+universe and we have just made a prediction for its value. Will it be
+measured negative and small?</p>
+
+<p>In inflationary cosmology, cosmic structures like galaxies find their
+origin in the quantum fluctuations occurring in the first instants of
+the universe history. Large and small structures today, represented in
+the following figure by two length scales \(\lambda_1\) and
+\(\lambda_2\), do not exit the Hubble radius during inflation at the
+same times. This time-shift at Hubble exit, combined with a small
+change of the Hubble radius itself, explains why cosmic structures are
+aggregated slightly differently at large and small distances. In
+technical terms, the power spectrum of the cosmological fluctuations
+is not scale invariant but has a spectral index which is, according to
+current observations, slightly red \(n_\mathrm{S} \lesssim 1\).</p>
+
+<p><img src="/assets/images/2404.15089/infsketch.png" alt="sketch" /></p>
+
+<p>The condition \(n_\mathrm{S} \lesssim 1\) is a “natural” expectation
+of the single-field scenarios depicted in the previous
+picture. Indeed, the accelerated slow rolling of the field along its
+potential necessarily triggers a small growth of the Hubble radius
+during inflation. Other inflation models do exist in which the slow
+rolling is actually decelerated and their predicted spectral index
+ends up being blue (\(n_\mathrm{S} \gtrsim 1\)). These models are
+however strongly disfavoured since the first measurements of
+\(n_\mathrm{S}\) by the
+<a href="https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe"><strong>WMAP</strong></a>
+satellite (see also this <a href="/news/2024/09/01/2404.10647.html"><strong>post</strong></a>).</p>
+
+<p>As can be seen in the previous figure, not only the Hubble radius
+grows but it also accelerates towards the end of inflation. This
+acceleration implies that the spectral index itself cannot be scale
+invariant, it should vary with length scales, and that is the
+definition of the running \(\alpha_\mathrm{S}\). As such, if our
+understanding of inflation is correct, measuring a red spectral index
+\(n_\mathrm{S} &lt; 1\) necessarily implies a negative running
+\(\alpha_\mathrm{S} &lt; 0\).</p>
+
+<p>In Ref. <a class="citation" href="#martin:2024nlo">[1]</a>, <a href="/member/chris"><strong>Christophe</strong></a>,
+<a href="https://www.iap.fr"><strong>Jérôme Martin</strong></a> and <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
+Vennin</strong></a> have
+computed the marginalized posterior probability of the running of the
+spectral index \(\alpha_\mathrm{S}\) given the latest Cosmic Microwave
+Background and Baryon Acoustic Oscillations measurements (see this
+<a href="/news/2024/09/01/2404.10647.html"><strong>post</strong></a> for more details on
+the cosmological data used). The probability distribution is
+represented below, along with various credible intervals, showing that
+single-field inflationary models predict a negative running.</p>
+
+<p><img src="/assets/images/2404.15089/running_posterior.png" alt="alphapost" /></p>
+
+<p>In numbers, we find (confidence given in parenthesis):</p>
+
+\[-8.8 \times 10^{-4}   &lt;  \alpha_\mathrm{S} &lt; -4.7 \times 10^{-4} \quad (68\%),\]
+
+\[-1.4 \times 10^{-3} &lt; \alpha_\mathrm{S} &lt; -2.4 \times 10^{-4} \quad (95\%),\]
+
+\[-1.8 \times 10^{-3} &lt; \alpha_\mathrm{S} &lt; -9.1 \times 10^{-5} \quad (98\%).\]
+
+<p>These credible intervals are actual predictions and result from the
+current data being analysed under the theoretical prior that inflation
+is in the landscape of the slow-roll single-field models. As such,
+they are highly non-trivial.</p>
+
+<p>For instance, dropping information from data, or, from the theoretical
+prior, would let us without any determination of the sign of
+\(\alpha_\mathrm{S}\). The following figure shows the posterior
+obtained by not assuming any specific inflationary scenario (“just
+slow-roll”) as a dashed blue curve. The posterior plotted earlier is
+reported here as a solid red curve (labelled “model space”). Allowed
+values of \(\alpha_\mathrm{S}\) under the “just slow-roll” hypothesis
+are orders of magnitude larger and the sign can be positive or
+negative.</p>
+
+<p><img src="/assets/images/2404.15089/compslowpost.png" alt="onlysr" /></p>
+
+<p>If, instead, we drop the data while keeping the theoretical prior to be
+single-field models, one gets</p>
+
+<p><img src="/assets/images/2404.15089/running_priors.png" alt="alphaprior" /></p>
+
+<p>The credible intervals are reported and they show that positive values
+of the running are allowed within the prior. Therefore, only the
+combination of the current cosmological data and the hypothesis that
+inflation occurred within the landscape of single-field models allows
+us to make the prediction that the running is negative.</p>
+
+    
+
+
+
+<div class="post-tags">
+  
+</div>
+  </div>
+
+  
+
+  <div class="bibliography" >
+
+    <h3>References</h3>
+
+    <class="bibliography"><li><div class="publication">
+
+  <span id="martin:2024nlo">[1] Martin J, Ringeval C and Vennin V 2024 Vanilla Inflation Predicts Negative Running</span>
+
+  <table>
+  
+  <tr>
+    <th>Abstract:</th>
+    <td> <a href="https://arxiv.org/abs/2404.15089">
+	arXiv:2404.15089 </a> </td>
+  </tr>
+
+  
+  
+
+  
+
+  </table>
+
+  <br>
+  
+</div>
+
+</li></>
+    
+  </div>
+
+
+
+  <section class="related">
+  <h2>Related Posts</h2>
+  <ul class="posts-list">
+    
+      <li>
+        <h3>
+          <a href="/news/2024/10/01/2406.14152.html">
+            <small>01 Oct 2024</small>
+	    <p>Clocking the End of Cosmic Inflation</p>
+
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/news/2024/09/01/2404.10647.html">
+            <small>01 Sep 2024</small>
+	    <p>Cosmic Inflation at the Crossroads</p>
+
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/news/2024/05/21/seminar.html">
+            <small>21 May 2024</small>
+	    <p>Cosmology Seminar</p>
+
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</section>
+
+</div>
+
+    </main>
+    
+    <!-- Optional footer content -->
+
+
+
+  </body>
+  
+</html>

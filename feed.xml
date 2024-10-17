@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-10-17T11:38:22+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Clocking the End of Cosmic Inflation</title><link href="https://curl.group/news/2024/10/01/2406.14152.html" rel="alternate" type="text/html" title="Clocking the End of Cosmic Inflation" /><published>2024-10-01T09:00:00+02:00</published><updated>2024-10-01T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/01/2406.14152</id><content type="html" xml:base="https://curl.group/news/2024/10/01/2406.14152.html"><![CDATA[<p>Making observable predictions for cosmic inflation requires
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-10-17T16:50:41+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Vanilla Inflation Predicts Negative Running</title><link href="https://curl.group/news/2024/10/17/2404.15089.html" rel="alternate" type="text/html" title="Vanilla Inflation Predicts Negative Running" /><published>2024-10-17T09:00:00+02:00</published><updated>2024-10-17T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/17/2404.15089</id><content type="html" xml:base="https://curl.group/news/2024/10/17/2404.15089.html"><![CDATA[<p>Within the landscape of single-field slow-roll models, and given the
+present cosmological data, we show that Cosmic Inflation predicts a
+small negative running of the spectral index of the cosmological
+fluctuations. This quantity imprints the large scale structures of the
+universe and we have just made a prediction for its value. Will it be
+measured negative and small?</p>
+
+<p>In inflationary cosmology, cosmic structures like galaxies find their
+origin in the quantum fluctuations occurring in the first instants of
+the universe history. Large and small structures today, represented in
+the following figure by two length scales \(\lambda_1\) and
+\(\lambda_2\), do not exit the Hubble radius during inflation at the
+same times. This time-shift at Hubble exit, combined with a small
+change of the Hubble radius itself, explains why cosmic structures are
+aggregated slightly differently at large and small distances. In
+technical terms, the power spectrum of the cosmological fluctuations
+is not scale invariant but has a spectral index which is, according to
+current observations, slightly red \(n_\mathrm{S} \lesssim 1\).</p>
+
+<p><img src="/assets/images/2404.15089/infsketch.png" alt="sketch" /></p>
+
+<p>The condition \(n_\mathrm{S} \lesssim 1\) is a “natural” expectation
+of the single-field scenarios depicted in the previous
+picture. Indeed, the accelerated slow rolling of the field along its
+potential necessarily triggers a small growth of the Hubble radius
+during inflation. Other inflation models do exist in which the slow
+rolling is actually decelerated and their predicted spectral index
+ends up being blue (\(n_\mathrm{S} \gtrsim 1\)). These models are
+however strongly disfavoured since the first measurements of
+\(n_\mathrm{S}\) by the
+<a href="https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe"><strong>WMAP</strong></a>
+satellite (see also this <a href="/news/2024/09/01/2404.10647.html"><strong>post</strong></a>).</p>
+
+<p>As can be seen in the previous figure, not only the Hubble radius
+grows but it also accelerates towards the end of inflation. This
+acceleration implies that the spectral index itself cannot be scale
+invariant, it should vary with length scales, and that is the
+definition of the running \(\alpha_\mathrm{S}\). As such, if our
+understanding of inflation is correct, measuring a red spectral index
+\(n_\mathrm{S} &lt; 1\) necessarily implies a negative running
+\(\alpha_\mathrm{S} &lt; 0\).</p>
+
+<p>In Ref. <a class="citation" href="#martin:2024nlo">[1]</a>, <a href="/member/chris"><strong>Christophe</strong></a>,
+<a href="https://www.iap.fr"><strong>Jérôme Martin</strong></a> and <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
+Vennin</strong></a> have
+computed the marginalized posterior probability of the running of the
+spectral index \(\alpha_\mathrm{S}\) given the latest Cosmic Microwave
+Background and Baryon Acoustic Oscillations measurements (see this
+<a href="/news/2024/09/01/2404.10647.html"><strong>post</strong></a> for more details on
+the cosmological data used). The probability distribution is
+represented below, along with various credible intervals, showing that
+single-field inflationary models predict a negative running.</p>
+
+<p><img src="/assets/images/2404.15089/running_posterior.png" alt="alphapost" /></p>
+
+<p>In numbers, we find (confidence given in parenthesis):</p>
+
+\[-8.8 \times 10^{-4}   &lt;  \alpha_\mathrm{S} &lt; -4.7 \times 10^{-4} \quad (68\%),\]
+
+\[-1.4 \times 10^{-3} &lt; \alpha_\mathrm{S} &lt; -2.4 \times 10^{-4} \quad (95\%),\]
+
+\[-1.8 \times 10^{-3} &lt; \alpha_\mathrm{S} &lt; -9.1 \times 10^{-5} \quad (98\%).\]
+
+<p>These credible intervals are actual predictions and result from the
+current data being analysed under the theoretical prior that inflation
+is in the landscape of the slow-roll single-field models. As such,
+they are highly non-trivial.</p>
+
+<p>For instance, dropping information from data, or, from the theoretical
+prior, would let us without any determination of the sign of
+\(\alpha_\mathrm{S}\). The following figure shows the posterior
+obtained by not assuming any specific inflationary scenario (“just
+slow-roll”) as a dashed blue curve. The posterior plotted earlier is
+reported here as a solid red curve (labelled “model space”). Allowed
+values of \(\alpha_\mathrm{S}\) under the “just slow-roll” hypothesis
+are orders of magnitude larger and the sign can be positive or
+negative.</p>
+
+<p><img src="/assets/images/2404.15089/compslowpost.png" alt="onlysr" /></p>
+
+<p>If, instead, we drop the data while keeping the theoretical prior to be
+single-field models, one gets</p>
+
+<p><img src="/assets/images/2404.15089/running_priors.png" alt="alphaprior" /></p>
+
+<p>The credible intervals are reported and they show that positive values
+of the running are allowed within the prior. Therefore, only the
+combination of the current cosmological data and the hypothesis that
+inflation occurred within the landscape of single-field models allows
+us to make the prediction that the running is negative.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Within the landscape of single-field slow-roll models, and given the present cosmological data, we show that Cosmic Inflation predicts a small negative running of the spectral index of the cosmological fluctuations. This quantity imprints the large scale structures of the universe and we have just made a prediction for its value. Will it be measured negative and small?]]></summary></entry><entry><title type="html">Clocking the End of Cosmic Inflation</title><link href="https://curl.group/news/2024/10/01/2406.14152.html" rel="alternate" type="text/html" title="Clocking the End of Cosmic Inflation" /><published>2024-10-01T09:00:00+02:00</published><updated>2024-10-01T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/01/2406.14152</id><content type="html" xml:base="https://curl.group/news/2024/10/01/2406.14152.html"><![CDATA[<p>Making observable predictions for cosmic inflation requires
 determining when the wavenumbers of astrophysical interest today
 exited the Hubble radius during the inflationary epoch. These instants
 are commonly evaluated using the slow-roll approximation and measured
@@ -17,17 +106,16 @@ satellite is expected to provide very soon new exquisite measurements of these
 fluctuations. Testing cosmic inflation will therefore require to have
 exquisite predictions as well.</p>
 
-<p>As aforementioned, observable predictions currently rely on the
-slow-roll approximation to determine the so-called e-fold times
-\(\Delta N=N−N_\mathrm{end}\), in reference to the e-fold
-\(N_\mathrm{end}\) at which inflation ended. These instants are
-actually used to map structures in the sky to quantum fluctuations
-during inflation. The precision at which they are determined is not so
-good, they are typically known at \(\mathcal{O}(1)\) e-fold
-precision. The following figure uses a full numerical integration of
-various inflationary models to compute the error made (vertical axis)
-using the slow-roll approximation as a function of the exact timing
-(horizontal axis).</p>
+<p>Observable predictions currently rely on the slow-roll approximation
+to determine the so-called e-fold times \(\Delta N=N−N_\mathrm{end}\),
+in reference to the e-fold \(N_\mathrm{end}\) at which inflation
+ended. These instants are actually used to map structures in the sky
+to quantum fluctuations during inflation. The precision at which they
+are determined is not so good, they are typically known at
+\(\mathcal{O}(1)\) e-fold precision. The following figure uses a full
+numerical integration of various inflationary models to compute the
+error made (vertical axis) using the slow-roll approximation as a
+function of the exact timing (horizontal axis).</p>
 
 <p><img src="/assets/images/2406.14152/fooisr.png" alt="sr" /></p>
 
@@ -59,7 +147,7 @@ Vennin</strong></a> in the
 past decade.</p>
 
 <p>In Ref. <a class="citation" href="#martin:2024qnn">[1]</a>, we present the most recent and
-strongest contraints on single-field inflation imposed by the lastest
+strongest constraints on single-field inflation imposed by the latest
 cosmological data, namely the <a href="https://en.wikipedia.org/wiki/Planck_(spacecraft)"><strong>Planck
 satellite</strong></a> 2020
 Cosmic Microwave Background data, the <a href="http://bicepkeck.org/"><strong>BICEP/Keck
@@ -75,7 +163,7 @@ Survey</strong></a>.</p>
 for the quantum fluctuations generated during inflation, the so-called
 third-order slow-roll spectra for both primordial gravitational waves
 and curvature fluctuations (see this <a href="/news/2022/09/15/2205.12608.html"><strong>post</strong></a>). The Bayesian model comparison analysis
-uses some machine learning tools implementing the methods developped
+uses some machine learning tools implementing the methods developed
 in Ref. <a class="citation" href="#ringeval:2013lea">[2]</a> and include all the new models
 presented in the <a href="/news/2023/05/08/EI.html"><strong>Opiparous Edition of the Encyclopædia
 Inflationaris</strong></a>.</p>
@@ -130,8 +218,8 @@ transition period between cosmic inflation and the hot Big-Bang phase
 in which the universe is a relativistic plasma.</p>
 
 <p>The following figures are scattered plots of inflationary models
-positionned according to their Bayesian evidence (horizontal axis) and
-the information gain on the reheating epoch (vertical axis). The color
+positioned according to their Bayesian evidence (horizontal axis) and
+the information gain on the reheating epoch (vertical axis). The colour
 scale traces the mean value (over its posterior) of the reheating
 parameter \(\ln R_\mathrm{reh}\).</p>
 
@@ -153,7 +241,8 @@ the current cosmological data is such that almost half of the
 inflationary landscape is out of the game, but, also, for each of the
 favoured models, the way the universe reheated to become a plasma can
 now be inferred by astrophysical and cosmological observations. We are
-talking here of an epoch of the universe being, at least, at redshift \(z &gt; 10^{10}\)!</p>
+talking here of an epoch of the universe being, at least, at redshift
+\(z &gt; 10^{10}\)!</p>
 
 <p>The future is bright and we are looking forward to the <a href="https://www.euclid-ec.org/"><strong>Euclid</strong></a>
 satellite measurements (see also this <a href="/outreach/2023/06/23/EuclidBxe.html"><strong>post</strong></a>).</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[What is the status of Cosmic Inflation given the latest cosmological data? In a 80 pages-long publication, we present the first ever data analysis using the third-order slow-roll power spectra complemented by an unprecedented Bayesian model comparison in the landscape of nearly three-hundred models of single-field slow-roll inflation.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2024/05/21/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2024-05-21T09:00:00+02:00</published><updated>2024-05-21T09:00:00+02:00</updated><id>https://curl.group/news/2024/05/21/seminar</id><content type="html" xml:base="https://curl.group/news/2024/05/21/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 29th</strong> of May,
@@ -305,46 +394,4 @@ Louvain University
 Belgium
 </code></pre></div></div>
 
-<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[We are pleased to announce the opening of another post-doctoral position in Cosmology within the CURL group at the Institute of Mathematics and Physics, Louvain University (Belgium), starting fall 2024.]]></summary></entry><entry><title type="html">~~Post-doctoral opening in Cosmology with Euclid~~</title><link href="https://curl.group/jobs/2023/12/18/ESA.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Cosmology with Euclid~~" /><published>2023-12-18T08:00:00+01:00</published><updated>2023-12-18T08:00:00+01:00</updated><id>https://curl.group/jobs/2023/12/18/ESA</id><content type="html" xml:base="https://curl.group/jobs/2023/12/18/ESA.html"><![CDATA[<p>We are pleased to announce the opening of a <strong>post-doctoral position</strong> in
-Cosmology, focused on the exploitation of the Euclid data, within the
-<a href="https://curl.group"><strong>CURL</strong></a> group at the <a href="https://uclouvain.be/en/research-institutes/irmp"><strong>Institute of
-Mathematics and
-Physics</strong></a>, Louvain
-University (Belgium), starting no later than fall 2024.</p>
-
-<p>Applicants with expertises in cosmic inflation, large scale
-structures, data analysis and Bayesian inference, skilled in
-computing and analytics, are particularly encouraged to apply.</p>
-
-<p>The position is supported by the Belgium Euclid Science
-Exploitation <strong>ESA-Prodex</strong> research program which unifies
-expertises between
-<a href="https://research.ugent.be/web/person/sven-de-rijcke-0/en"><strong>Ugent</strong></a>
-(Gent), <a href="https://www.astro.uliege.be/~sluse/"><strong>ULiege</strong></a> (Liège),
-<a href="https://physth.ulb.be/people_SClesse.html"><strong>ULB</strong></a> (Brussels) and
-<a href="https://curl.irmp.ucl.ac.be/members/chris.html"><strong>UCLouvain</strong></a>
-(Louvain-la-Neuve) universities. There will be close collaborations
-between these groups, computing and travelling support are excellent.</p>
-
-<p>Appointment is available for three years.</p>
-
-<hr />
-
-<p>Letters of application (including a curriculum vitae, a list of
-publications, a brief statement of research interests) and at least
-two recommendation letters from senior scientists should be submitted
-on-line, by the 28th of January 2024, at:</p>
-
-<p><a href="https://cp3.irmp.ucl.ac.be/job/95"><strong>https://cp3.irmp.ucl.ac.be/job/95</strong></a></p>
-
-<p>For more information, or postal applications, please contact:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>christophe.ringeval@uclouvain.be
-Cosmology, Universe and Relativity at Louvain
-Institute of Mathematics and Physics
-Louvain University
-2, Chemin du Cyclotron
-1348 Louvain-la-Neuve
-Belgium
-</code></pre></div></div>
-
-<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[We are pleased to announce the opening of a post-doctoral position in Cosmology, focused on the exploitation of the Euclid data, within the CURL group at the Institute of Mathematics and Physics, Louvain University (Belgium), starting no later than fall 2024.]]></summary></entry></feed>
+<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[We are pleased to announce the opening of another post-doctoral position in Cosmology within the CURL group at the Institute of Mathematics and Physics, Louvain University (Belgium), starting fall 2024.]]></summary></entry></feed>
