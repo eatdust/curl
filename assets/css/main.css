@@ -548,7 +548,7 @@ body {
 
 .polaroid, .post-body img + em, .post-body img {
   display: block;
-  max-width: 29rem;
+  max-width: 34.8rem;
   border: 1px solid grey;
   background-color: white;
   box-shadow: 0 4px 8px rgb(0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0.19);

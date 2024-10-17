@@ -1,4 +1,162 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-09-04T10:07:45+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2024/05/21/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2024-05-21T09:00:00+02:00</published><updated>2024-05-21T09:00:00+02:00</updated><id>https://curl.group/news/2024/05/21/seminar</id><content type="html" xml:base="https://curl.group/news/2024/05/21/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 29th</strong> of May,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-10-17T11:38:22+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Clocking the End of Cosmic Inflation</title><link href="https://curl.group/news/2024/10/01/2406.14152.html" rel="alternate" type="text/html" title="Clocking the End of Cosmic Inflation" /><published>2024-10-01T09:00:00+02:00</published><updated>2024-10-01T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/01/2406.14152</id><content type="html" xml:base="https://curl.group/news/2024/10/01/2406.14152.html"><![CDATA[<p>Making observable predictions for cosmic inflation requires
+determining when the wavenumbers of astrophysical interest today
+exited the Hubble radius during the inflationary epoch. These instants
+are commonly evaluated using the slow-roll approximation and measured
+in e-folds time. <a href="/members/auclair"><strong>Pierre</strong></a>,
+<a href="/members/blachier"><strong>Baptiste</strong></a> and <a href="/members/chris"><strong>Christophe</strong></a>
+propose a new analytical method to determine these instants with a
+precision reaching the tenth of an e-fold.</p>
+
+<p>Cosmic Inflation is the leading explanation for the origin of cosmic
+structures: these are seeded by quantum fluctuations occurring around
+the event horizon of a exponentially fast accelerating space-time, see
+this <a href="/news/2022/09/15/2205.12608.html"><strong>post</strong></a>. By measuring
+the distribution of galaxies in our universe, the
+<a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a>
+satellite is expected to provide very soon new exquisite measurements of these
+fluctuations. Testing cosmic inflation will therefore require to have
+exquisite predictions as well.</p>
+
+<p>As aforementioned, observable predictions currently rely on the
+slow-roll approximation to determine the so-called e-fold times
+\(\Delta N=N−N_\mathrm{end}\), in reference to the e-fold
+\(N_\mathrm{end}\) at which inflation ended. These instants are
+actually used to map structures in the sky to quantum fluctuations
+during inflation. The precision at which they are determined is not so
+good, they are typically known at \(\mathcal{O}(1)\) e-fold
+precision. The following figure uses a full numerical integration of
+various inflationary models to compute the error made (vertical axis)
+using the slow-roll approximation as a function of the exact timing
+(horizontal axis).</p>
+
+<p><img src="/assets/images/2406.14152/fooisr.png" alt="sr" /></p>
+
+<p>In Ref. <a class="citation" href="#auclair:2024udj">[1]</a>, we propose a new and simple
+<strong>velocity correction</strong>, on top of slow-roll, that increases by one
+order of magnitude the precision on \(\Delta N\). As
+shown in the following figure, when compared to the exact solution,
+our new method reaches an precision of about a tenth of e-fold (<strong>blue
+curve</strong> compared to the red one).</p>
+
+<p><img src="/assets/images/2406.14152/fooivce.png" alt="vce" /></p>
+
+<p>The other curves (green and purple) show other corrections, improving
+the determination of \(\phi_\mathrm{end}\), the field value at which
+inflation ends. These ones may, or may not, improve over the velocity
+correction, depending on the model at hand.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Making observable predictions for cosmic inflation requires determining when the wavenumbers of astrophysical interest today exited the Hubble radius during the inflationary epoch. These instants are commonly evaluated using the slow-roll approximation and measured in e-folds time. Pierre, Baptiste and Christophe propose a new analytical method to determine these instants with a precision reaching the tenth of an e-fold.]]></summary></entry><entry><title type="html">Cosmic Inflation at the Crossroads</title><link href="https://curl.group/news/2024/09/01/2404.10647.html" rel="alternate" type="text/html" title="Cosmic Inflation at the Crossroads" /><published>2024-09-01T09:00:00+02:00</published><updated>2024-09-01T09:00:00+02:00</updated><id>https://curl.group/news/2024/09/01/2404.10647</id><content type="html" xml:base="https://curl.group/news/2024/09/01/2404.10647.html"><![CDATA[<p>What is the status of Cosmic Inflation given the latest cosmological
+data? In a 80 pages-long publication, we present the first ever data
+analysis using the <a href="/news/2022/09/15/2205.12608.html"><strong>third-order slow-roll power spectra</strong></a> complemented by
+an unprecedented Bayesian model comparison in the landscape of nearly
+three-hundred models of single-field slow-roll inflation.</p>
+
+<p>In its simplest incarnation, Cosmic Inflation can be realised by a
+single field rolling down a potential and hundred of different
+theoretical embeddings have been proposed since the advent of the
+paradigm. Comparing these models to data could be viewed as Herculean
+tasks and we have been sharing these enjoyments with <a href="https://www.iap.fr"><strong>Jérôme
+Martin</strong></a> and <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
+Vennin</strong></a> in the
+past decade.</p>
+
+<p>In Ref. <a class="citation" href="#martin:2024qnn">[1]</a>, we present the most recent and
+strongest contraints on single-field inflation imposed by the lastest
+cosmological data, namely the <a href="https://en.wikipedia.org/wiki/Planck_(spacecraft)"><strong>Planck
+satellite</strong></a> 2020
+Cosmic Microwave Background data, the <a href="http://bicepkeck.org/"><strong>BICEP/Keck
+array</strong></a> 2021 polarization measurements, the
+<a href="https://pole.uchicago.edu/public/Home.html"><strong>South Pole Telescope</strong></a>
+third generation measurements and the full compilation of <a href="https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations"><strong>Baryonic
+Acoustic
+Oscillations</strong></a>
+for the <a href="https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey"><strong>Sloan Digital Sky
+Survey</strong></a>.</p>
+
+<p>Our analysis incorporates the most accurate theoretical predictions
+for the quantum fluctuations generated during inflation, the so-called
+third-order slow-roll spectra for both primordial gravitational waves
+and curvature fluctuations (see this <a href="/news/2022/09/15/2205.12608.html"><strong>post</strong></a>). The Bayesian model comparison analysis
+uses some machine learning tools implementing the methods developped
+in Ref. <a class="citation" href="#ringeval:2013lea">[2]</a> and include all the new models
+presented in the <a href="/news/2023/05/08/EI.html"><strong>Opiparous Edition of the Encyclopædia
+Inflationaris</strong></a>.</p>
+
+<hr />
+
+<p>The following figure shows the one-dimensional marginalised posterior
+distributions obtained for the inflationary cosmological parameters,
+i.e., when the cosmic structures are seeded by the inflationary
+quantum fluctuations.</p>
+
+<p><img src="/assets/images/2404.10647/sr3rdlogext_plc3_TTTEEE_lowE_camNPIPE_BK18_lens_BAO_SPT3G.png" alt="sr3" /></p>
+
+<p>Notice that the third slow-roll parameter
+\(\epsilon_3\) is now constrained in a range perfectly consistent with slow-roll and we find</p>
+
+<p>\(-0.44 &lt; \epsilon_3 &lt; 0.55 \quad (95\%\,\texttt{CL})\).</p>
+
+<p>One may also notice the maximum probability for \(\epsilon_1\) at
+non-vanishing values, showing a weak statistical preference for the
+presence of primordial gravitational waves in the current data (mostly
+driven by the BICEP/Keck data). We have</p>
+
+\[\log(\epsilon_1) &gt; 4.9 \quad (95\%\,\texttt{CL}),\]
+
+<p>with</p>
+
+\[\log(\epsilon_1) &lt; -2.6 \quad (98\%\,\texttt{CL}).\]
+
+<hr />
+
+<p>The Bayes’ factors and maximum likelihood ratios for all models of the
+Encyclopædia Inflationaris are:</p>
+
+<p><img src="/assets/images/2404.10647/bestevid.png" alt="bayes" /></p>
+
+<p>The reference model is denoted as “SR3” and represents the pure
+slow-roll analysis assuming no specific potential, only the natural
+priors for the slow-roll parameters \(\epsilon_i\in[-0.2,0.2]\). Bars
+extended to the left mean the models are models, they are favoured
+when the bar is extended to the right (with respect to agnostic
+slow-roll). The bottom labels give the Jeffreys’ scale of Bayesian
+evidence with respect to the best model. We find that \(40\%\) of all
+scenarios can be considered ruled-out (strongly disfavoured according
+to the Jeffreys’ scale) whereas \(20\%\) of the models are most probable
+given the current data.</p>
+
+<hr />
+
+<p>Our approach also allows us to constrain the reheating epoch, the
+transition period between cosmic inflation and the hot Big-Bang phase
+in which the universe is a relativistic plasma.</p>
+
+<p>The following figures are scattered plots of inflationary models
+positionned according to their Bayesian evidence (horizontal axis) and
+the information gain on the reheating epoch (vertical axis). The color
+scale traces the mean value (over its posterior) of the reheating
+parameter \(\ln R_\mathrm{reh}\).</p>
+
+<p><img src="/assets/images/2404.10647/obsreheating_Dklreh.png" alt="obsreating" /></p>
+
+<p><img src="/assets/images/2404.10647/obsreheating_Dklreh_bestonly.png" alt="obsreating" /></p>
+
+<p>Each model is also encircled in a gauge counting the number of
+unconstrained model parameters (derived using Bayesian
+dimensionality). Non-encircled models are models for which all
+parameters are constrained by the data, models with a full circle
+around have all their parameters unconstrained (which are then
+superfluous to fit the data). As such, the most probable and most
+efficient models are those on the right having no circle around.</p>
+
+<p>Weighted over the landscape, we find that the current data constrain
+the kinematics of reheating by \(1.3\) bits. The precision reached by
+the current cosmological data is such that almost half of the
+inflationary landscape is out of the game, but, also, for each of the
+favoured models, the way the universe reheated to become a plasma can
+now be inferred by astrophysical and cosmological observations. We are
+talking here of an epoch of the universe being, at least, at redshift \(z &gt; 10^{10}\)!</p>
+
+<p>The future is bright and we are looking forward to the <a href="https://www.euclid-ec.org/"><strong>Euclid</strong></a>
+satellite measurements (see also this <a href="/outreach/2023/06/23/EuclidBxe.html"><strong>post</strong></a>).</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[What is the status of Cosmic Inflation given the latest cosmological data? In a 80 pages-long publication, we present the first ever data analysis using the third-order slow-roll power spectra complemented by an unprecedented Bayesian model comparison in the landscape of nearly three-hundred models of single-field slow-roll inflation.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2024/05/21/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2024-05-21T09:00:00+02:00</published><updated>2024-05-21T09:00:00+02:00</updated><id>https://curl.group/news/2024/05/21/seminar</id><content type="html" xml:base="https://curl.group/news/2024/05/21/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 29th</strong> of May,
 seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be <strong>Eemeli
 Tomberg</strong> from the <strong>Lancaster University</strong> (Lancaster, United Kingdom).</p>
 
@@ -189,108 +347,4 @@ Louvain University
 Belgium
 </code></pre></div></div>
 
-<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[We are pleased to announce the opening of a post-doctoral position in Cosmology, focused on the exploitation of the Euclid data, within the CURL group at the Institute of Mathematics and Physics, Louvain University (Belgium), starting no later than fall 2024.]]></summary></entry><entry><title type="html">Spatial Curvature from Super-Hubble Cosmological Fluctuations</title><link href="https://curl.group/news/2023/12/01/2302.14530.html" rel="alternate" type="text/html" title="Spatial Curvature from Super-Hubble Cosmological Fluctuations" /><published>2023-12-01T08:00:00+01:00</published><updated>2023-12-01T08:00:00+01:00</updated><id>https://curl.group/news/2023/12/01/2302.14530</id><content type="html" xml:base="https://curl.group/news/2023/12/01/2302.14530.html"><![CDATA[<p>Could cosmological perturbations stretched over distances larger than
-the size of the observable Universe modify the shape of our
-space-time? <a href="/members/blachier.html"><strong>Baptiste</strong></a>,
-<a href="/members/auclair.html"><strong>Pierre</strong></a>
-and <a href="/members/chris.html"><strong>Christophe</strong></a>, in collaboration with
-<a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent Vennin</strong></a>, have
-recently shown that this is the case through the spatial curvature.</p>
-
-<p>It is a common Cosmologist’s intuition that cosmological fluctuations,
-the tiny perturbations of amplitude \(10^{-5}\) at the origin of
-galaxies, should induce some kind of noise on the cosmological
-parameters. Is this quantifiable? Are super-Hubble cosmological
-perturbations having an effect at all?</p>
-
-<p>In Ref. <a class="citation" href="#blachier:2023ooc">[1]</a>, we show that arbitrarily long
-perturbations have an observable effect. More precisely, the gradient
-and Laplacian of these fluctuations are dynamically <strong>creating a
-spatial curvature</strong> in the homogeneous and isotropic metric of local
-observers. In the following picture, we sketch how one of these modes,
-having a wavelength much larger than the observer’s Hubble radius, can
-be “felt” through its gradient.</p>
-
-<p><img src="/assets/images/2302.14530/cosmograd.png" alt="grad" title="Super-Hubble gradient" /></p>
-
-<p>It is not a few Hubble-sized fluctuations that contribute, but an infinite
-number of super-Hubble modes, all those having wavelength larger than our observable
-universe. Denoting by \(K\) the curvature of the FLRW spatial sections,
-and \(\xi\) the sum of these constant modes, we find</p>
-
-\[K = -\frac{2}{3} \Delta \xi - \frac{1}{3} \left(\nabla \xi \right)^2.\]
-
-<p>However, because fluctuations are, by definition, of random nature, we
-cannot predict a definite value for the curvature density parameter
-\(\Omega_\mathrm{K_0}\). This one is now promoted to a stochastic
-variable. Even though the sum of all super-Hubble modes averages to
-zero, i.e. \(\langle \xi \rangle = 0\), we predict, for the standard
-Gaussian and scale-invariant cosmological perturbations, a very small
-non-vanishing value</p>
-
-\[\langle \Omega_\mathrm{K_0} \rangle = -\frac{\langle K e^{-2\xi} \rangle}{a_0^2 H_0^2} = \frac{5}{6} \mathcal{P}_* \simeq 1.7 \times 10^{-9}.\]
-
-<p>More importantly, because \(\Omega_\mathrm{K_0}\) is a stochastic
-variable, it also fluctuates and its realizations are, in fact,
-dictated by its standard deviation</p>
-
-\[\sqrt{\langle{\Omega_\mathrm{K_0}^2}\rangle-\langle{\Omega_\mathrm{K_0}}\rangle^2} \simeq \dfrac{1}{3}
-\sqrt{\mathcal{P}_*} \simeq 1.5 \times 10^{-5}.\]
-
-<p>This is the <strong>typical value</strong> that any observer will measure <strong>at any
-epoch</strong> during the cosmic history.</p>
-
-<hr />
-
-<p>But there is more. The spatial curvature of our local Hubble patch is
-thus a measurable number that can tell us what is going on on the
-largest possible length scales of the Universe, length scales that are
-much larger than our Hubble volume. What if the infinite sum of very
-large wavelength modes, \(\xi\) here, is no longer a small
-quantity? Such a situation could very well be happening if the
-Universe has experienced a period of stochastic inflation in its
-infancy!</p>
-
-<p>In Ref. <a class="citation" href="#blachier:2023ooc">[1]</a>, we have been able to estimate the
-full probability distribution function for \(\Omega_\mathrm{K_0}\)
-when cosmological fluctuations are generated by Cosmic Inflation. If
-\(\xi\) remains small, it is a slightly distorted Gaussian
-distribution with a typical width of \(10^{-5}\), as expected. But if
-inflation last for a long period, enough for \(\xi\) to be of order
-unity, the distribution becomes highly non-Gaussian, as represented in
-the following figure (red curve)</p>
-
-<p><img src="/assets/images/2302.14530/probomega_tails.jpg" alt="proba" title="Non-Gaussian probability distribution" /></p>
-
-<p>In this plot, the black curve is what would be a Gaussian probability
-distribution with same width. Clearly, large values of
-\(\Omega_\mathrm{K_0}\) are now much more probable than what one could
-have naively expected. Are we going to measure a non-vanishing
-\(\Omega_\mathrm{K_0}\) in the future?</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Could cosmological perturbations stretched over distances larger than the size of the observable Universe modify the shape of our space-time? Baptiste, Pierre and Christophe, in collaboration with Vincent Vennin, have recently shown that this is the case through the spatial curvature.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2023/11/17/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2023-11-17T08:00:00+01:00</published><updated>2023-11-17T08:00:00+01:00</updated><id>https://curl.group/news/2023/11/17/seminar</id><content type="html" xml:base="https://curl.group/news/2023/11/17/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 24th</strong> of November,
-seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be <strong>Bryce
-Cyr</strong> from the <a href="https://www.jodrellbank.manchester.ac.uk/"><strong>Jodrell Bank Centre for Astrophysics</strong></a> at the University
-of Manchester (Manchester, United Kingdom).</p>
-
-<hr />
-
-<p>At 2pm, room E349,  <strong>Bryce Cyr</strong> (University of Manchester), will be talking about</p>
-
-<h3 id="synergies-between-gravitational-waves-and-cmb-spectral-distortions">Synergies between gravitational waves and CMB spectral distortions</h3>
-
-<p><em>In this talk, I will discuss various ways in which distortions to the
- frequency spectrum of the cosmic microwave background can be used to
- place constraints on stochastic backgrounds of gravitational
- waves. After a brief overview of spectral distortion theory, I will
- show how enhancements to the small-scale primordial power spectrum of
- curvature perturbations can induce sizeable distortions. Even in the
- absence of enhancements, a nearly-scale invariant spectrum presents a
- target well within reach of next generation
- experiments. Additionally, I will highlight how the presence of
- primordial tensor modes will also lead to an inevitable (although
- small) distortion signature. I will then apply this formalism to a
- model of scalar induced gravitational waves (SIGWs), showcasing how
- constraints on the primordial scalar power spectrum can be mapped to
- the gravitational wave parameter space for these models. Time
- permitting, I will also show our updated formalism can be used to
- improve constraints on the parameter space of primordial black
- holes.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 24th of November, seminar room E349 at 2pm. Our guest speaker will be Bryce Cyr from the Jodrell Bank Centre for Astrophysics at the University of Manchester (Manchester, United Kingdom).]]></summary></entry></feed>
+<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[We are pleased to announce the opening of a post-doctoral position in Cosmology, focused on the exploitation of the Euclid data, within the CURL group at the Institute of Mathematics and Physics, Louvain University (Belgium), starting no later than fall 2024.]]></summary></entry></feed>
