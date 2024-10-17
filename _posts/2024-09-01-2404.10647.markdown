@@ -23,7 +23,7 @@ Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en) in the
 past decade.
 
 In Ref. {% cite martin:2024qnn %}, we present the most recent and
-strongest contraints on single-field inflation imposed by the lastest
+strongest constraints on single-field inflation imposed by the latest
 cosmological data, namely the [**Planck
 satellite**](https://en.wikipedia.org/wiki/Planck_(spacecraft)) 2020
 Cosmic Microwave Background data, the [**BICEP/Keck
@@ -40,7 +40,7 @@ for the quantum fluctuations generated during inflation, the so-called
 third-order slow-roll spectra for both primordial gravitational waves
 and curvature fluctuations (see this [**post**]({% post_url
 2022-09-15-2205.12608 %})). The Bayesian model comparison analysis
-uses some machine learning tools implementing the methods developped
+uses some machine learning tools implementing the methods developed
 in Ref. {% cite ringeval:2013lea %} and include all the new models
 presented in the [**Opiparous Edition of the Encyclopædia
 Inflationaris**]({% post_url 2023-05-08-EI %}).
@@ -95,8 +95,8 @@ transition period between cosmic inflation and the hot Big-Bang phase
 in which the universe is a relativistic plasma.
 
 The following figures are scattered plots of inflationary models
-positionned according to their Bayesian evidence (horizontal axis) and
-the information gain on the reheating epoch (vertical axis). The color
+positioned according to their Bayesian evidence (horizontal axis) and
+the information gain on the reheating epoch (vertical axis). The colour
 scale traces the mean value (over its posterior) of the reheating
 parameter $$\ln R_\mathrm{reh}$$.
 
@@ -118,7 +118,8 @@ the current cosmological data is such that almost half of the
 inflationary landscape is out of the game, but, also, for each of the
 favoured models, the way the universe reheated to become a plasma can
 now be inferred by astrophysical and cosmological observations. We are
-talking here of an epoch of the universe being, at least, at redshift $$z > 10^{10}$$!
+talking here of an epoch of the universe being, at least, at redshift
+$$z > 10^{10}$$!
 
 The future is bright and we are looking forward to the [**Euclid**](https://www.euclid-ec.org/)
 satellite measurements (see also this [**post**]({% post_url

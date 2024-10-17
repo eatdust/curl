@@ -24,17 +24,16 @@ satellite is expected to provide very soon new exquisite measurements of these
 fluctuations. Testing cosmic inflation will therefore require to have
 exquisite predictions as well.
 
-As aforementioned, observable predictions currently rely on the
-slow-roll approximation to determine the so-called e-fold times
-$$\Delta N=N−N_\mathrm{end}$$, in reference to the e-fold
-$$N_\mathrm{end}$$ at which inflation ended. These instants are
-actually used to map structures in the sky to quantum fluctuations
-during inflation. The precision at which they are determined is not so
-good, they are typically known at $$\mathcal{O}(1)$$ e-fold
-precision. The following figure uses a full numerical integration of
-various inflationary models to compute the error made (vertical axis)
-using the slow-roll approximation as a function of the exact timing
-(horizontal axis).
+Observable predictions currently rely on the slow-roll approximation
+to determine the so-called e-fold times $$\Delta N=N−N_\mathrm{end}$$,
+in reference to the e-fold $$N_\mathrm{end}$$ at which inflation
+ended. These instants are actually used to map structures in the sky
+to quantum fluctuations during inflation. The precision at which they
+are determined is not so good, they are typically known at
+$$\mathcal{O}(1)$$ e-fold precision. The following figure uses a full
+numerical integration of various inflationary models to compute the
+error made (vertical axis) using the slow-roll approximation as a
+function of the exact timing (horizontal axis).
 
 ![sr](/assets/images/2406.14152/fooisr.png)
 
