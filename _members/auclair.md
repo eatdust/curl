@@ -2,9 +2,9 @@
 layout: member
 title: 'Pierre Auclair'
 description: Post-doctoral Research Associate
-funding: ARC
+funding: ARC-FNRS
 from: 2021, October 01
-to:
+to: 
 office: E353
 phone: +32 10 47 3344
 email: pierre.auclair@uclouvain.be

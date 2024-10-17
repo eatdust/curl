@@ -28,14 +28,15 @@ current observations, slightly red $$n_\mathrm{S} \lesssim 1$$.
 
 ![sketch](/assets/images/2404.15089/infsketch.png)
 
-Such a redness of $$n_\mathrm{S}$$ is a "natural" expectation of the
-single-field scenarios depicted in the previous picture. Indeed, the
-accelerated slow rolling of the field along its potential necessarily
-triggers a small growth of the Hubble radius during inflation. Other
-inflation models do exist in which the slow rolling is actually
-accelerated and their predicted spectral index ends up being
-blue. These models are however strongly disfavoured since the first
-measurements of $$n_\mathrm{S}$$ by the
+The condition $$n_\mathrm{S} \lesssim 1$$ is a "natural" expectation
+of the single-field scenarios depicted in the previous
+picture. Indeed, the accelerated slow rolling of the field along its
+potential necessarily triggers a small growth of the Hubble radius
+during inflation. Other inflation models do exist in which the slow
+rolling is actually decelerated and their predicted spectral index
+ends up being blue ($$n_\mathrm{S} \gtrsim 1$$). These models are
+however strongly disfavoured since the first measurements of
+$$n_\mathrm{S}$$ by the
 [**WMAP**](https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe)
 satellite (see also this [**post**]({% post_url 2024-09-01-2404.10647
 %})).
@@ -50,10 +51,9 @@ $$n_\mathrm{S} < 1$$ necessarily implies a negative running
 $$\alpha_\mathrm{S} < 0$$.
 
 
-In Ref. {% cite martin:2024nlo %}, [**Christophe**](/member/chris), in
-collaboration with [**Jérôme Martin**](https://www.iap.fr) and
-[**Vincent
-Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en), have
+In Ref. {% cite martin:2024nlo %}, [**Christophe**](/member/chris),
+[**Jérôme Martin**](https://www.iap.fr) and [**Vincent
+Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en) have
 computed the marginalized posterior probability of the running of the
 spectral index $$\alpha_\mathrm{S}$$ given the latest Cosmic Microwave
 Background and Baryon Acoustic Oscillations measurements (see this
