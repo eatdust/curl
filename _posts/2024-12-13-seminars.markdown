@@ -37,10 +37,21 @@ At 10am, room E349,  **Jibril Ben Achour**, will be talking about
 
 At 11am, room E349, **Hugo Roussille** will talk about
 
-### TBA
+### Algebraically special quadratic Schwarzschild perturbations
 
+* The equations describing linear perturbations around a Schwarzschild
+  black hole admit analytical solutions that describe waves of
+  specific wavelengths propagating outside the black hole. While
+  perturbations around a Schwarzschild black hole are generally of
+  Petrov type I, these analytical solutions describe spacetimes of
+  Petrov type II, and are thus dubbed 'algebraically special
+  modes'. The existence of these modes is linked to the isospectrality
+  theorem for Schwarzschild. In this work, I go beyond the linear
+  approximation and construct algebraically special perturbations
+  around a Schwarzschild black hole at the quadratic order, making use
+  of a family of exact twisting vacuum radiative solutions of General
+  Relativity. These quadratic perturbations can still be expressed
+  analytically, similarly to their linear sources. I study their
+  properties and show in particular how static quadratic perturbations
+  deform the Schwarzschild black hole.*
  
-
-
-
-
