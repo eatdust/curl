@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-12-11T14:18:21+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminars Marathon</title><link href="https://curl.group/news/2024/12/11/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars Marathon" /><published>2024-12-11T08:00:00+01:00</published><updated>2024-12-11T08:00:00+01:00</updated><id>https://curl.group/news/2024/12/11/seminars</id><content type="html" xml:base="https://curl.group/news/2024/12/11/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 13th</strong> of December,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-12-11T14:47:44+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminars Marathon</title><link href="https://curl.group/news/2024/12/11/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars Marathon" /><published>2024-12-11T08:00:00+01:00</published><updated>2024-12-11T08:00:00+01:00</updated><id>https://curl.group/news/2024/12/11/seminars</id><content type="html" xml:base="https://curl.group/news/2024/12/11/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 13th</strong> of December,
 seminar <strong>room E349</strong> at <strong>10am</strong>. Our guest speakers are <strong>Jibril
 Ben Achour</strong> from <strong>Munich U.</strong> (Germany) and Hugo Roussille from
 <strong>ENS Lyon</strong> (France).</p>
@@ -30,7 +30,22 @@ Ben Achour</strong> from <strong>Munich U.</strong> (Germany) and Hugo Roussille
 
 <p>At 11am, room E349, <strong>Hugo Roussille</strong> will talk about</p>
 
-<h3 id="tba">TBA</h3>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 13th of December, seminar room E349 at 10am. Our guest speakers are Jibril Ben Achour from Munich U. (Germany) and Hugo Roussille from ENS Lyon (France).]]></summary></entry><entry><title type="html">Vanilla Inflation Predicts Negative Running</title><link href="https://curl.group/news/2024/10/17/2404.15089.html" rel="alternate" type="text/html" title="Vanilla Inflation Predicts Negative Running" /><published>2024-10-17T09:00:00+02:00</published><updated>2024-10-17T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/17/2404.15089</id><content type="html" xml:base="https://curl.group/news/2024/10/17/2404.15089.html"><![CDATA[<p>Within the landscape of single-field slow-roll models, and given the
+<h3 id="algebraically-special-quadratic-schwarzschild-perturbations">Algebraically special quadratic Schwarzschild perturbations</h3>
+
+<p><em>The equations describing linear perturbations around a Schwarzschild
+ black hole admit analytical solutions that describe waves of specific
+ wavelengths propagating outside the black hole. While perturbations
+ around a Schwarzschild black hole are generally of Petrov type I,
+ these analytical solutions describe spacetimes of Petrov type II, and
+ are thus dubbed ‘algebraically special modes’. The existence of these
+ modes is linked to the isospectrality theorem for Schwarzschild. In
+ this work, I go beyond the linear approximation and construct
+ algebraically special perturbations around a Schwarzschild black hole
+ at the quadratic order, making use of a family of exact twisting
+ vacuum radiative solutions of General Relativity. These quadratic
+ perturbations can still be expressed analytically, similarly to their
+ linear sources. I study their properties and show in particular how
+ static quadratic perturbations deform the Schwarzschild black hole.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 13th of December, seminar room E349 at 10am. Our guest speakers are Jibril Ben Achour from Munich U. (Germany) and Hugo Roussille from ENS Lyon (France).]]></summary></entry><entry><title type="html">Vanilla Inflation Predicts Negative Running</title><link href="https://curl.group/news/2024/10/17/2404.15089.html" rel="alternate" type="text/html" title="Vanilla Inflation Predicts Negative Running" /><published>2024-10-17T09:00:00+02:00</published><updated>2024-10-17T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/17/2404.15089</id><content type="html" xml:base="https://curl.group/news/2024/10/17/2404.15089.html"><![CDATA[<p>Within the landscape of single-field slow-roll models, and given the
 present cosmological data, we show that Cosmic Inflation predicts a
 small negative running of the spectral index of the cosmological
 fluctuations. This quantity imprints the large scale structures of the
