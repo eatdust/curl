@@ -1,0 +1,46 @@
+---
+layout: post
+title: Cosmology Seminars Marathon
+category: News
+date: 2024-12-11 08:00:00 +0100
+---
+
+The next cosmology seminars take place on **Friday 13th** of December,
+seminar **room E349** at **10am**. Our guest speakers are **Jibril
+Ben Achour** from **Munich U.** (Germany) and Hugo Roussille from
+**ENS Lyon** (France).
+
+---
+
+At 10am, room E349,  **Jibril Ben Achour**, will be talking about
+
+### Classification of gravitational memory effects in a vacuum gravitational plane wave 
+
+*Gravitational memory effects are permanent and cumulative shifts of
+ relative observables (distance, velocity, angular momentum ...)
+ between two test particles induced by the passage of a gravitational
+ wave. They stand as one of the last prediction of general relativity
+ (GR) yet to be confirmed through the gravitational wave astronomy. In
+ turn, they are intimately related to the notion of degeneracy of the
+ vacuum in gauge theory and important efforts have been devoted to
+ characterize these effects through the relation to the symmetries of
+ spacetime. In this talk, I will consider the simplest exact
+ non-linear radiative solution of GR, namely a vacuum gravitational
+ plane wave, and show step by step how to classify the different
+ memory effects occurring in this case. I will show new relation
+ between memories and hidden symmetries, and resolve conflicting claim
+ in the literature. The goal being to illustrate a concrete method
+ based on symmetries and applicable to more complex radiative
+ spacetime, in particular asymptotically flat radiative spacetimes.*
+
+---
+
+At 11am, room E349, **Hugo Roussille** will talk about
+
+### TBA
+
+ 
+
+
+
+
