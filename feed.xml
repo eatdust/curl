@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-11-18T11:40:03+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Vanilla Inflation Predicts Negative Running</title><link href="https://curl.group/news/2024/10/17/2404.15089.html" rel="alternate" type="text/html" title="Vanilla Inflation Predicts Negative Running" /><published>2024-10-17T09:00:00+02:00</published><updated>2024-10-17T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/17/2404.15089</id><content type="html" xml:base="https://curl.group/news/2024/10/17/2404.15089.html"><![CDATA[<p>Within the landscape of single-field slow-roll models, and given the
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2024-12-11T14:18:21+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminars Marathon</title><link href="https://curl.group/news/2024/12/11/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars Marathon" /><published>2024-12-11T08:00:00+01:00</published><updated>2024-12-11T08:00:00+01:00</updated><id>https://curl.group/news/2024/12/11/seminars</id><content type="html" xml:base="https://curl.group/news/2024/12/11/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 13th</strong> of December,
+seminar <strong>room E349</strong> at <strong>10am</strong>. Our guest speakers are <strong>Jibril
+Ben Achour</strong> from <strong>Munich U.</strong> (Germany) and Hugo Roussille from
+<strong>ENS Lyon</strong> (France).</p>
+
+<hr />
+
+<p>At 10am, room E349,  <strong>Jibril Ben Achour</strong>, will be talking about</p>
+
+<h3 id="classification-of-gravitational-memory-effects-in-a-vacuum-gravitational-plane-wave">Classification of gravitational memory effects in a vacuum gravitational plane wave</h3>
+
+<p><em>Gravitational memory effects are permanent and cumulative shifts of
+ relative observables (distance, velocity, angular momentum …)
+ between two test particles induced by the passage of a gravitational
+ wave. They stand as one of the last prediction of general relativity
+ (GR) yet to be confirmed through the gravitational wave astronomy. In
+ turn, they are intimately related to the notion of degeneracy of the
+ vacuum in gauge theory and important efforts have been devoted to
+ characterize these effects through the relation to the symmetries of
+ spacetime. In this talk, I will consider the simplest exact
+ non-linear radiative solution of GR, namely a vacuum gravitational
+ plane wave, and show step by step how to classify the different
+ memory effects occurring in this case. I will show new relation
+ between memories and hidden symmetries, and resolve conflicting claim
+ in the literature. The goal being to illustrate a concrete method
+ based on symmetries and applicable to more complex radiative
+ spacetime, in particular asymptotically flat radiative spacetimes.</em></p>
+
+<hr />
+
+<p>At 11am, room E349, <strong>Hugo Roussille</strong> will talk about</p>
+
+<h3 id="tba">TBA</h3>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 13th of December, seminar room E349 at 10am. Our guest speakers are Jibril Ben Achour from Munich U. (Germany) and Hugo Roussille from ENS Lyon (France).]]></summary></entry><entry><title type="html">Vanilla Inflation Predicts Negative Running</title><link href="https://curl.group/news/2024/10/17/2404.15089.html" rel="alternate" type="text/html" title="Vanilla Inflation Predicts Negative Running" /><published>2024-10-17T09:00:00+02:00</published><updated>2024-10-17T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/17/2404.15089</id><content type="html" xml:base="https://curl.group/news/2024/10/17/2404.15089.html"><![CDATA[<p>Within the landscape of single-field slow-roll models, and given the
 present cosmological data, we show that Cosmic Inflation predicts a
 small negative running of the spectral index of the cosmological
 fluctuations. This quantity imprints the large scale structures of the
@@ -356,42 +388,4 @@ groundbreaking discoveries that LISA is expected to make</p>
 <p><img src="/assets/images/outreach/LISA_motion.gif" alt="LISA spacecrafts" /></p>
 
 <p>With ESA’s approval, the LISA mission moves one step closer to
-reality!</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[On this historic day, the European Space Agency (ESA) gave approval to LISA, the Laser Interferometer Space Antenna. This decision marks a significant milestone for the LISA mission as it signifies the acceptance of its design and scientific goals.]]></summary></entry><entry><title type="html">~~Post-doctoral opening in Cosmology~~</title><link href="https://curl.group/jobs/2023/12/26/IISN.html" rel="alternate" type="text/html" title="~~Post-doctoral opening in Cosmology~~" /><published>2023-12-26T08:00:00+01:00</published><updated>2023-12-26T08:00:00+01:00</updated><id>https://curl.group/jobs/2023/12/26/IISN</id><content type="html" xml:base="https://curl.group/jobs/2023/12/26/IISN.html"><![CDATA[<p>We are pleased to announce the opening of another <strong>post-doctoral position</strong> in
-Cosmology within the <a href="https://curl.group"><strong>CURL</strong></a> group at the
-<a href="https://uclouvain.be/en/research-institutes/irmp"><strong>Institute of Mathematics and
-Physics</strong></a>, Louvain
-University (Belgium), starting fall 2024.</p>
-
-<p>Applicants interested in early universe cosmology (cosmic inflation,
-reheating, cosmic defects…), CMB, large scale structures, gravitational
-waves cosmology, as well as data analysis for current and future
-cosmological observations (CMB-S4, Euclid, LiteBird, LISA…), are
-particularly encouraged to apply. A summary of our <a href="https://curl.group/publications.html"><strong>research
-interests</strong></a> can be consulted
-online.</p>
-
-<p>Appointment is available for two years. Please notice that applicants
-should have obtained their PhD no longer than 5 years before the
-starting date of the fellowship, plus one year of allowance for
-parenthood.</p>
-
-<hr />
-
-<p>Letters of application (including a curriculum vitae, a list of
-publications, a brief statement of research interests) and at least
-two recommendation letters from senior scientists should be submitted
-on-line, by the 28th of January 2024, at:</p>
-
-<p><a href="https://cp3.irmp.ucl.ac.be/job/94"><strong>https://cp3.irmp.ucl.ac.be/job/94</strong></a></p>
-
-<p>For more information, or postal applications, please contact:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>christophe.ringeval@uclouvain.be
-Cosmology, Universe and Relativity at Louvain
-Institute of Mathematics and Physics
-Louvain University
-2, Chemin du Cyclotron
-1348 Louvain-la-Neuve
-Belgium
-</code></pre></div></div>
-
-<hr />]]></content><author><name>Chris Ringeval</name></author><category term="Jobs" /><summary type="html"><![CDATA[We are pleased to announce the opening of another post-doctoral position in Cosmology within the CURL group at the Institute of Mathematics and Physics, Louvain University (Belgium), starting fall 2024.]]></summary></entry></feed>
+reality!</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[On this historic day, the European Space Agency (ESA) gave approval to LISA, the Laser Interferometer Space Antenna. This decision marks a significant milestone for the LISA mission as it signifies the acceptance of its design and scientific goals.]]></summary></entry></feed>
