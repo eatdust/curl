@@ -1,0 +1,55 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-01-23 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Thursday 30th** of January,
+**room E349** at **4:00pm**. Our guest speaker is **Anish Ghoshal** from **Warsaw U.** (Poland).
+
+---
+
+At 4pm, room E349,  **Anish Ghoshal**, will be talking about
+
+### Primordial Black Hole Archaeology with Gravitational Waves from cosmic strings and induced tensor perturbations
+
+*Ultra-low mass primordial black holes (PBH) which may briefly
+ dominate the energy density of the universe but completely evaporate
+ before the big bang nucleosynthesis (BBN), may lead to interesting
+ observable signatures. We propose a novel test of this scenario by
+ detecting its characteristic doubly peaked gravitational wave (GW)
+ spectrum in future GW observatories. Here the first-order adiabatic
+ perturbation from inflation and from the isocurvature perturbations
+ due to PBH distribution, source tensor perturbations in second-order
+ and lead to two peaks in the induced GW background. These resonant
+ peaks are generated at the beginning of standard radiation domination
+ in the presence of a prior PBH-dominated era. We explore the
+ possibility of probing a class of baryogenesis models wherein the
+ emission of massive unstable particles from the PBH evaporation and
+ their subsequent decay contributes to the matter-antimatter
+ asymmetry. We then include spinning PBHs and consider the emission of
+ light relativistic dark sector particles, which contribute to the
+ dark radiation (DR) and massive stable dark sector particles, thereby
+ accounting for the dark matter (DM) component of the universe. The
+ ISGWB can be used to probe the non-thermal production of these heavy
+ DM particles, which cannot be accessible in any laboratory
+ searches. For the case of DR, we find novel complementarity
+ measurements of ΔNeff from these emitted particles and the ISGWB from
+ PBH domination. Our results indicate that the ISGWB has a weak
+ dependence on the initial PBH spin. However, for gravitons as the DR
+ particles, the initial PBH spin plays a significant role, and between
+ the only above a critical value of the initial spin parameter $$a_∗$$,
+ which depends only on initial PBH mass, the graviton emission can be
+ probed in the CMB experiment. In the second part of the talk we will
+ discuss how such a PBH-dominated era can be probed successfully using
+ gravitational waves (GW) emitted by local and global cosmic
+ strings. In addition to the step-like suppression of the GW spectrum,
+ we propose a novel feature -- a knee in the step -- which provides
+ information on the duration of the PBH-dominated era. Detecting GW
+ from cosmic strings by detectors like LISA, ET, or BBO would set
+ constraints on PBHs with masses between $$10^6\mathrm{g}$$ and
+ $$10^9\mathrm{g}$$ for local strings with tension $$G\mu =
+ 10^{-11}$$, and PBHs masses between $$10^4\mathrm{g}$$ and
+ $$10^9\mathrm{g}$$ for global strings with symmetry-breaking scale
+ $$\eta = 10^{15}\mathrm{GeV}$$.*
