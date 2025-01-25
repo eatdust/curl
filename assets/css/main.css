@@ -463,7 +463,7 @@ pre {
 body {
   color: rgba(255, 255, 255, 0.75);
   background-color: black;
-  background-image: linear-gradient(to bottom, black, #00c7e6, #ffc333), url(../images/sdss_j1038_h.png), url(../images/gradmag_h.png), url(../images/background.png);
+  background-image: linear-gradient(to bottom, hsl(0, 0%, -100%), rgb(0, 198.9, 229.5), #ffc333), url(../images/sdss_j1038_h.png), url(../images/gradmag_h.png), url(../images/background.png);
   background-blend-mode: lighten;
   background-repeat: repeat-y, no-repeat, repeat-x, repeat;
   background-position: center, left top, left top, center;
@@ -529,7 +529,7 @@ body {
   margin-bottom: 4vh;
 }
 
-.diapositive, .members-landscape, .members-portrait {
+.diapositive, .members-portrait, .members-landscape {
   width: 14.5rem;
   height: 14.5rem;
   border: 1px solid grey;
@@ -540,13 +540,13 @@ body {
   margin-bottom: 25px;
 }
 
-.diapositive img, .members-landscape img, .members-portrait img {
+.diapositive img, .members-portrait img, .members-landscape img {
   border: 1px solid grey;
   border-radius: 0px;
   background: black;
 }
 
-.polaroid, .post-body img + em, .post-body img {
+.polaroid, .post-body img, .post-body img + em {
   display: block;
   max-width: 34.8rem;
   border: 1px solid grey;
@@ -561,7 +561,7 @@ body {
   padding: 25px;
 }
 
-.polaroid img, .post-body img + em img, .post-body img img {
+.polaroid img, .post-body img img, .post-body img + em img {
   max-width: 100%;
   background: white;
 }
