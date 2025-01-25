@@ -1,12 +1,15 @@
+@use "variables";
+@use "layout";
+
 // Posts and pages
 //
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
 article + *, .post-body ~ section {
-  padding-top: $section-spacing;
-  border-top: 1px solid $border-color;
-  margin-top: $section-spacing;
+  padding-top: variables.$section-spacing;
+  border-top: 1px solid variables.$border-color;
+  margin-top: variables.$section-spacing;
   
   > h2:first-child, > h3:first-child {
     margin-top: 0;
@@ -36,7 +39,7 @@ article + *, .post-body ~ section {
 .page-title,
 .post-title,
 .post-title a {
-  color: $heading-color;
+  color: variables.$heading-color;
 }
 .page-title,
 .post-title {
@@ -52,7 +55,7 @@ h2.post-title, h2.page-title {
 .post-meta {
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: $body-muted;
+  color: variables.$body-muted;
 }
 
 .post-tags a {
@@ -88,7 +91,7 @@ h2.post-title, h2.page-title {
     }
 
     a:hover {
-      color: $link-color;
+      color: variables.$link-color;
       text-decoration: none;
 
       small {

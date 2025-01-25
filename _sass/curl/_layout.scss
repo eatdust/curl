@@ -1,17 +1,18 @@
 @use 'sass:color';
+@use "variables";
 
 body {    
     color: rgba(255,255,255,.75);
-    background-color: $sidebar-bg-color;
+    background-color: variables.$sidebar-bg-color;
     background-image: linear-gradient(
 	to bottom,
-	color.adjust($sidebar-bg-color, $lightness:- 100%),
-	color.adjust($sidebar-totob-color, $lightness: -5%),
-      	color.adjust($sidebar-totor-color, $lightness: 10%)),url(../images/sdss_j1038_h.png),url(../images/gradmag_h.png),url(../images/background.png); 
+	color.adjust(variables.$sidebar-bg-color, $lightness:- 100%),
+	color.adjust(variables.$sidebar-totob-color, $lightness: -5%),
+      	color.adjust(variables.$sidebar-totor-color, $lightness: 10%)),url(../images/sdss_j1038_h.png),url(../images/gradmag_h.png),url(../images/background.png); 
     background-blend-mode: lighten;
     background-repeat: repeat-y, no-repeat, repeat-x, repeat;
     background-position: center, left top, left top, center;
-    background-size: auto, auto 1.4*$margin-top, auto $margin-top, auto;    
+    background-size: auto, auto 1.4*variables.$margin-top, auto variables.$margin-top, auto;    
     display: flex;
     flex-direction: column;
     overflow-y: auto;
@@ -24,15 +25,15 @@ body {
 
 #sidebar {
     flex: 0 0 auto;
-    padding: $sidebar-padding 3*$sidebar-padding;
+    padding: variables.$sidebar-padding 3*variables.$sidebar-padding;
     
     .site-title {
 	font-weight: normal;
-	font-size: $large-title-size;
+	font-size: variables.$large-title-size;
 	color: black;
 	text-shadow: 0px 0px 5px white, 0px 0px 20px white, 0px 0px 30px white, 0px 0px 40px white, 0px 0px 50px white ;
 	margin-top: 0;
-	margin-bottom: $heading-spacing;
+	margin-bottom: variables.$heading-spacing;
 	a {
 	    color: inherit;
 	    &:hover {
@@ -55,39 +56,39 @@ body {
     display: flex;
     flex-direction: column;
     margin-top: 0;
-    max-height: $maximum-height;
-    border-top-left-radius: $border-corner $border-corner;
+    max-height: variables.$maximum-height;
+    border-top-left-radius: variables.$border-corner variables.$border-corner;
     > .content {
 	flex-grow: 1;
     }    
 }
 
 .content {    
-    background: $body-bg;
-    color: $body-color;
-    padding: $section-spacing;
-    border-top-left-radius: $border-corner $border-corner;
-    border-top-right-radius: $border-corner $border-corner;
+    background: variables.$body-bg;
+    color: variables.$body-color;
+    padding: variables.$section-spacing;
+    border-top-left-radius: variables.$border-corner variables.$border-corner;
+    border-top-right-radius: variables.$border-corner variables.$border-corner;
 }
 
 .banner {
-    color: $red ;		  
+    color: variables.$red ;		  
     font-family: Helvetica, sans-serif;
 //    font-variant: small-caps;
     font-weight: normal;
-    font-size: $large-title-size;
+    font-size: variables.$large-title-size;
     text-align: center;
     text-shadow: 2px 2px 1px grey;
-    margin-bottom: $margin-bottom;
+    margin-bottom: variables.$margin-bottom;
 }
 
 .diapositive {
-    width: $diapositive-size;
-    height: $diapositive-size;
+    width: variables.$diapositive-size;
+    height: variables.$diapositive-size;
     border: 1px solid grey;
     border-radius: 10px;
     background-color: white;
-    box-shadow: $diapositive-shadow;
+    box-shadow: variables.$diapositive-shadow;
     margin-top: 25px;
     margin-bottom: 25px;
 }
@@ -101,10 +102,10 @@ body {
 
 .polaroid {
     display: block;
-    max-width: 0.6*$maximum-width;
+    max-width: 0.6*variables.$maximum-width;
     border: 1px solid grey;
     background-color: white;
-    box-shadow: $diapositive-shadow;
+    box-shadow: variables.$diapositive-shadow;
     text-align: center;
     font-size: 0.8rem;
     margin-left: auto;
@@ -121,8 +122,8 @@ body {
 
 
 .bfimage {
-    width: $maximum_width;
-    height: $maximum_height;
+    width: variables.$maximum_width;
+    height: variables.$maximum_height;
     border: 0;
     margin: 0;
 }
@@ -137,7 +138,7 @@ body {
 
 
 .publication table {
-    max-width: 0.4*$maximum-width;
+    max-width: 0.4*variables.$maximum-width;
     padding: 0;
     margin: 0;
     border: 0;
@@ -146,7 +147,7 @@ body {
 }
 
 .publication th {
-    width: 0.07*$maximum-width;
+    width: 0.07*variables.$maximum-width;
 }
 
 
@@ -168,9 +169,9 @@ body {
 
 .container > header {
     color: white;
-    margin: ($heading-spacing - $section-spacing)
-		$section-spacing
-		$section-spacing;
+    margin: (variables.$heading-spacing - variables.$section-spacing)
+		variables.$section-spacing
+		variables.$section-spacing;
     h1, h2 {
 	color: white;
 
@@ -196,7 +197,7 @@ body {
 
     // Bigger title
     .site-title {
-	font-size: $large-title-size
+	font-size: variables.$large-title-size
     }
 
     // Show secondary nav content + lead
@@ -223,7 +224,7 @@ body {
   Tablet / Desktop view
 ----------------------------------------------------------- */
 
-@media (min-width: $large-breakpoint) {
+@media (min-width: variables.$large-breakpoint) {
     body {
 	flex-direction: row;
 	height: 100vh;
@@ -235,7 +236,7 @@ body {
 
     
     #sidebar, .index #sidebar {
-	width: $sidebar-width;
+	width: variables.$sidebar-width;
 	text-align: left;
 
 	> *:last-child {
@@ -245,7 +246,7 @@ body {
 
     #sidebar {
 	.site-title {
-	    font-size: $large-title-size;
+	    font-size: variables.$large-title-size;
 
 	    a { color: inherit; }
 	    .back-arrow { display: none; }
@@ -264,10 +265,10 @@ body {
 
     // Make entire container background white to contrast against sidebar
     .container {
-	background: $body-bg;
-	color: $body-color;
-	padding: $section-spacing $section-spacing * 2;
-	margin-top: $margin-top;
+	background: variables.$body-bg;
+	color: variables.$body-color;
+	padding: variables.$section-spacing variables.$section-spacing * 2;
+	margin-top: variables.$margin-top;
 	height: 100vh;
 
 	> header {
@@ -277,13 +278,13 @@ body {
 		color: inherit;
 
 		&:last-child {
-		    margin-bottom: $heading-spacing;
+		    margin-bottom: variables.$heading-spacing;
 		}
 	    }
 	}
 	
 	> * {
-	    max-width: $maximum-width;
+	    max-width: variables.$maximum-width;
 	    padding: 0;
 	}
     }
@@ -336,7 +337,7 @@ body {
     justify-content: center;
     margin-top: 1rem;
 
-    @media (min-width: $large-breakpoint) {
+    @media (min-width: variables.$large-breakpoint) {
 	margin-left: -0.25em;
 	justify-content: flex-start;
     }
@@ -361,8 +362,8 @@ body {
   bottom of the sidebar in tablets and up.
 ----------------------------------------------------------- */
 
-@if $sidebar-sticky {
-    @media (min-width: $large-breakpoint) {
+@if variables.$sidebar-sticky {
+    @media (min-width: variables.$large-breakpoint) {
 	body {
 	    align-items: flex-end;
 	}
@@ -377,8 +378,8 @@ body {
   on the right.
 ----------------------------------------------------------- */
 
-@if $layout-reverse {
-    @media (min-width: $large-breakpoint) {
+@if variables.$layout-reverse {
+    @media (min-width: variables.$large-breakpoint) {
 	.container {
 	    order: -1;
 	}

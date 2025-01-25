@@ -3,6 +3,7 @@
 # only main files contain this front matter, not partials.
 ---
 
-@import "curl";
-
-$sidebar-sticky: false;
+@use 'curl' with (
+    $link-color: #ac4142,
+    $sidebar-sticky: false,
+);

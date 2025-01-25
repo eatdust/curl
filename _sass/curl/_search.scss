@@ -1,7 +1,9 @@
+@use "variables";
+
 .search-row {
   display: flex;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
+  border: 1px solid variables.$border-color;
+  border-radius: variables.$border-radius;
   padding: 2px;
 
   input {

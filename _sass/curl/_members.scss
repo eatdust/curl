@@ -1,11 +1,14 @@
+@use "variables";
+@use "layout";
+
 .member-title {
     margin-top: 0;
 }
 
 
 .members-type {
-    padding-top: $section-spacing;
-    border-bottom: 1px solid $border-color;
+    padding-top: variables.$section-spacing;
+    border-bottom: 1px solid variables.$border-color;
 }
 	     
 
@@ -13,7 +16,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    max-width: $maximum-width;
+    max-width: variables.$maximum-width;
     list-style: disc outside;
 }
 
@@ -21,35 +24,35 @@
     margin-left:0;
     margin-right:0;
     text-align:left;
-    max-width: 0.45*$maximum-width;
+    max-width: 0.45*variables.$maximum-width;
 }  
 
 
 .members-list > * {
     flex-shrink: 1;
     flex-grow: 1;
-    width: 0.5*$maximum-width;
+    width: 0.5*variables.$maximum-width;
 }
 
 .members-portrait {
     @extend .diapositive;
-    padding: $film-padding-portrait;
+    padding: variables.$film-padding-portrait;
 }
 
 .members-portrait img {    
-    width: $film-short-size;
-    height: $film-long-size;
+    width: variables.$film-short-size;
+    height: variables.$film-long-size;
 }
 
 
 .members-landscape {
     @extend .diapositive;
-    padding: $film-padding-landscape;   
+    padding: variables.$film-padding-landscape;   
 }
 
 .members-landscape img {  
-    width: $film-long-size;
-    height: $film-short-size;
+    width: variables.$film-long-size;
+    height: variables.$film-short-size;
 }
 
 
