@@ -1,11 +1,13 @@
+@use 'sass:color';
+
 body {    
     color: rgba(255,255,255,.75);
     background-color: $sidebar-bg-color;
     background-image: linear-gradient(
-			      to bottom,
-			      darken($sidebar-bg-color, 100%),
-			      darken($sidebar-totob-color, 5%),
-			      lighten($sidebar-totor-color, 10%)),url(../images/sdss_j1038_h.png),url(../images/gradmag_h.png),url(../images/background.png);    
+	to bottom,
+	color.adjust($sidebar-bg-color, $lightness:- 100%),
+	color.adjust($sidebar-totob-color, $lightness: -5%),
+      	color.adjust($sidebar-totor-color, $lightness: 10%)),url(../images/sdss_j1038_h.png),url(../images/gradmag_h.png),url(../images/background.png); 
     background-blend-mode: lighten;
     background-repeat: repeat-y, no-repeat, repeat-x, repeat;
     background-position: center, left top, left top, center;
