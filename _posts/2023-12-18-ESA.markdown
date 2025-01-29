@@ -22,7 +22,7 @@ expertises between
 [**Ugent**](https://research.ugent.be/web/person/sven-de-rijcke-0/en)
 (Gent), [**ULiege**](https://www.astro.uliege.be/~sluse/) (Liège),
 [**ULB**](https://physth.ulb.be/people_SClesse.html) (Brussels) and
-[**UCLouvain**](https://curl.irmp.ucl.ac.be/members/chris.html)
+[**UCLouvain**](https://curl.irmp.ucl.ac.be/members/chris)
 (Louvain-la-Neuve) universities. There will be close collaborations
 between these groups, computing and travelling support are excellent.
 

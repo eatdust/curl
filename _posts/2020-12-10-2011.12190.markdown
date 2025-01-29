@@ -5,8 +5,8 @@ category: News
 date: 2020-12-10 09:42:07 +0100
 ---
 
-In a recent preprint, [**Cristian**](/members/joana.html) and
-[**Sébastien**](/members/clesse.html) show the robustness of
+In a recent preprint, [**Cristian**](/members/joana) and
+[**Sébastien**](/members/clesse) show the robustness of
 Starobinsky and Higgs inflation to inhomogeneous initial conditions of
 all sizes. They have performed full numerical relativity simulations
 with strong inhomogeneous initial field and velocities. After

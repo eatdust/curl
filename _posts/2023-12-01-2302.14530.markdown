@@ -8,8 +8,8 @@ date: 2023-12-01 08:00:00 +0100
 Could cosmological perturbations stretched over distances larger than
 the size of the observable Universe modify the shape of our
 space-time? [**Baptiste**](/members/blachier.html),
-[**Pierre**](/members/auclair.html)
-and [**Christophe**](/members/chris.html), in collaboration with
+[**Pierre**](/members/auclair)
+and [**Christophe**](/members/chris), in collaboration with
 [**Vincent Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en), have
 recently shown that this is the case through the spatial curvature.
 

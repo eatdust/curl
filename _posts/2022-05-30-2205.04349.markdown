@@ -9,7 +9,7 @@ A cosmic strings network present in our Universe should be incessantly
 emitting gravitational waves. An absolute lower limit of the expected
 signal can be found by determining the gravitational waves created
 by the back bones of the network: the long cosmic
-strings. [**Disrael**](/members/dacunha.html) and [**Christophe**](/members/chris.html), in collaboration with
+strings. [**Disrael**](/members/dacunha) and [**Christophe**](/members/chris), in collaboration with
 [**François R. Bouchet**](http://www2.iap.fr/users/bouchet/bouchet.html), have
 computed this irreducible contribution using new numerical
 simulations of Nambu-Goto cosmic strings.
