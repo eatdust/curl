@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Harvesting primordial black holes from stochastic trees with FOREST
+title: Harvesting primordial black holes from stochastic trees
 category: News
 date: 2025-01-29 08:00:00 +0100
 ---
@@ -10,27 +10,28 @@ In a recent publication,
 [**Baptiste**](/members/blachier), together with [**Vincent
 Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en),
 have developed a novel framework to implement stochastic inflation on
-stochastic trees. These trees represent dynamically how different
+random trees. These trees represent dynamically how different
 regions of space grow and gradually become causally disconnected.
 
 Cosmic Inflation is an hypothetical early phase of accelerated
 expansion that has occurred before the first billionth of a second of
-existence of our Universe. It provides a natural mechanism to seed the
-galaxies of today by the quantum fluctuations that are inherently
-sourced during the inflationary era (see this [**post**]({% post_url
-2022-09-15-2205.12608 %})).
+existence of our Universe. It provides a natural mechanism, [**quantum
+fluctuations**](https://en.wikipedia.org/wiki/Quantum_fluctuation), to
+seed the galaxies of today, see this [**post**]({% post_url
+2022-09-15-2205.12608 %}).
 
-Traditionally, we model these perturbations using a **perturbative**
-approach, assuming they are small enough not to significantly affect
-the background metric. However, if perturbations grow large enough,
-they start influencing the overall structure of spacetime and this is
-where non-perturbative methods come into play.
+Traditionally, these quantum fluctuations are modeled using a
+semi-classical **perturbative** approach, assuming they are small
+enough not to significantly affect the background metric. However, if
+perturbations grow large enough, they start influencing the overall
+structure of spacetime and this is where non-perturbative methods come
+into play.
 
 **Stochastic inflation** is a non-perturbative treatment that models
 cosmic inflation as a stochastic process, much like a random walk.
-This approach allows for a more realistic description of the
-universe's dynamics during inflation, capturing both quantum diffusion
-and backreaction effects.
+This approach allows for a description of the universe's dynamics
+during inflation capturing both quantum diffusion and backreaction
+effects.
 
 ---
 
@@ -61,15 +62,15 @@ formation of primordial black holes (PBH) from large curvature
 fluctuations. In Ref. {% cite animali:2025pyf %}, we discuss why, and
 how, PBHs can form at the unbalanced nodes in the stochastic trees and
 FOREST allows us to estimate their mass distribution. The following
-figure shows a two-dimensional comoving map tracing the fluctuations
-of the curvature perturbation due to strong quantum effects. These
-lead to the formation of five PBH (dark regions).
+figure shows a two-dimensional comoving map tracing the curvature
+perturbations induced by strong quantum effects. These lead to the
+formation of five PBHs in the darkest regions.
 
 ![map](/assets/images/2501.05371/laplacian_04_no_pattern.png "2D comoving map with five PBHs")
 
 Applied to the "quantum-well" model, a toy setting in which stochastic
 inflation takes place, we find the PBHs to have masses following a
-mild power law terminated by exponential tails. The following figure
+mild power-law distribution terminated by exponential tails. The following figure
 shows the mass distribution as a function of the size of the quantum
 well $$\mu$$.
 
