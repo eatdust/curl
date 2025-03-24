@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-01-29T16:48:04+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Harvesting primordial black holes from stochastic trees</title><link href="https://curl.group/news/2025/01/29/2501.05371.html" rel="alternate" type="text/html" title="Harvesting primordial black holes from stochastic trees" /><published>2025-01-29T08:00:00+01:00</published><updated>2025-01-29T08:00:00+01:00</updated><id>https://curl.group/news/2025/01/29/2501.05371</id><content type="html" xml:base="https://curl.group/news/2025/01/29/2501.05371.html"><![CDATA[<p>In a recent publication,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-03-24T09:46:32+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminars</title><link href="https://curl.group/news/2025/03/24/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars" /><published>2025-03-24T08:00:00+01:00</published><updated>2025-03-24T08:00:00+01:00</updated><id>https://curl.group/news/2025/03/24/seminars</id><content type="html" xml:base="https://curl.group/news/2025/03/24/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 28th</strong> of March,
+<strong>room E349</strong> at <strong>2:00pm</strong>. We have the pleasure to listen to our new
+members, <strong>Chiara Animali</strong> and <strong>Eemeli Tomberg</strong>.</p>
+
+<hr />
+
+<p>At 2pm, room E349,  <strong>Chiara Animali</strong>, will be talking about</p>
+
+<h3 id="large-perturbations-from-inflation-recent-results-and-open-challenges-in-the-stochastic-delta-n-formalism">Large perturbations from inflation: recent results and open challenges in the stochastic delta N formalism</h3>
+
+<p><em>During inflation, quantum vacuum fluctuations are stretched beyond
+the Hubble radius, modifying the large-scale dynamics of the
+universe. Although typically negligible in the perturbative regime,
+this backreaction can become significant in regimes leading to
+primordial black hole (PBH) formation, where large density
+fluctuations arise. The combination of stochastic inflation and delta
+N formalisms provides an efficient non-perturbative framework to track
+these large fluctuations.  In this context, I will explore recent
+results and ongoing challenges, particularly in describing backward
+quantities, which requires a deeper understanding of the relationship
+between field values and physical distances, as well as how this
+information is encoded within the recursive geometry of a
+stochastically inflating universe, thereby enabling the consistent
+inclusion of volume-weighting effects. The implications for primordial
+black holes (as their abundance and clustering properties) will also
+be discussed.</em></p>
+
+<hr />
+
+<p>Around 3pm, same place, <strong>Eemeli Tomberg</strong> will talk about</p>
+
+<h3 id="new-developments-in-stochastic-inflation">New developments in stochastic inflation</h3>
+
+<p><em>Stochastic inflation lets us compute the statistics of inflationary
+perturbations non-perturbatively. I discuss new developments in these
+computations. First, I talk about the choice of the stochastic scheme,
+Itô or Stratonovich, and show that the distinction results from the
+Markovian approximation. If this approximation is dropped, the
+different schemes become equivalent. Then, using stochastic tools, I
+discuss eternal inflation in models that produce primordial black
+holes. I argue that eternal inflation is common in these models and
+may jeopardize their CMB predictions.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 28th of March, room E349 at 2:00pm. We have the pleasure to listen to our new members, Chiara Animali and Eemeli Tomberg.]]></summary></entry><entry><title type="html">Harvesting primordial black holes from stochastic trees</title><link href="https://curl.group/news/2025/01/29/2501.05371.html" rel="alternate" type="text/html" title="Harvesting primordial black holes from stochastic trees" /><published>2025-01-29T08:00:00+01:00</published><updated>2025-01-29T08:00:00+01:00</updated><id>https://curl.group/news/2025/01/29/2501.05371</id><content type="html" xml:base="https://curl.group/news/2025/01/29/2501.05371.html"><![CDATA[<p>In a recent publication,
 <a href="/members/animali"><strong>Chiara</strong></a>, <a href="/members/auclair"><strong>Pierre</strong></a> and
 <a href="/members/blachier"><strong>Baptiste</strong></a>, together with <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
 Vennin</strong></a>,
@@ -438,55 +479,4 @@ article dedicated to the <a href="https://en.wikipedia.org/wiki/Laser_Interferom
 
 <p><a href="https://www.quantamagazine.org/hopes-of-big-bang-discoveries-ride-on-a-future-spacecraft-20240417/"><strong>Hopes of Big Bang Discoveries Ride on a Future Spacecraft</strong></a></p>
 
-<p>More details can be found in the scientific paper Ref. <a class="citation" href="#colpi:2024xhw">[1]</a> and this <a href="/news/2024/01/25/LISA.html"><strong>post</strong></a>.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Pierre gave an interview for Quanta Magazine in an article dedicated to the LISA mission.]]></summary></entry><entry><title type="html">New Insights into the Clustering Behaviour of Primordial Black Holes</title><link href="https://curl.group/news/2024/04/10/2402.00600.html" rel="alternate" type="text/html" title="New Insights into the Clustering Behaviour of Primordial Black Holes" /><published>2024-04-10T09:00:00+02:00</published><updated>2024-04-10T09:00:00+02:00</updated><id>https://curl.group/news/2024/04/10/2402.00600</id><content type="html" xml:base="https://curl.group/news/2024/04/10/2402.00600.html"><![CDATA[<p>Are primordial black holes already clustered in the early universe?
-In a recent publication, <a href="/members/blachier"><strong>Baptiste</strong></a> and
-<a href="/members/auclair"><strong>Pierre</strong></a> tackle the clustering problem of these
-enigmatic objects using an excursion-set approach to deal with the
-so-called “cloud-in-cloud” mechanism.</p>
-
-<p>Primordial black holes (PBH) are cosmological objects that could have
-been formed in the earliest instants of the universe’s history, for
-instance, when large overdensities collapse under their own gravity.
-Understanding how these PBHs cluster is essential as it can provide
-insights into the evolution of structure formation in the universe and
-could potentially help in assessing how much, and when, binaries of
-these objects appear.</p>
-
-<p>In Ref. <a class="citation" href="#auclair:2024jwj">[1]</a>, <a href="/members/auclair"><strong>Pierre</strong></a>
-and <a href="/members/blachier"><strong>Baptiste</strong></a> have used the excursion-set
-formalism to quantify the initial spatial clustering of PBHs generated
-from large Gaussian density fluctuations. Their method takes into
-account the “cloud-in-cloud” mechanism, which is a critical aspect
-that is overlooked in studies using the Poisson model of clustering.</p>
-
-<p>In the excursion-set formalism, the collapse of an overdensity to form
-a PBH of mass \(M\) is recast into the probability of finding the
-first crossing of a random walk at some scale \(S(M)\). This approach
-has been already applied to study the formation of large-scale
-structure, in which multiple crossings of a random walk describe a
-hierarchy of structures. This formalism was first developed to solve
-the “cloud-in-cloud” problem, that is resolving this hierarchy of
-structures.</p>
-
-<p><img src="/assets/images/2402.00600/spread.png" alt="spread" /></p>
-
-<p>The cloud-in-cloud mechanism implies that PBHs should be part of
-larger structures: they don’t just appear randomly as per the Poisson
-assumption. This results in a natural and intrinsic correlation
-between the formation of pairs of PBHs, which is important for
-accurately modelling the clustering behaviour at small scales. The
-following picture shows two random walks that share a common past
-until the “time” \(S_{r}\): they come from the same realisation of a
-large scale density perturbation. Subsequently, they evolve in
-distinct ways and this results in two different collapses that occur
-respectively at the first-crossing times \(S_{1}\) and \(S_{2}\)</p>
-
-<p><img src="/assets/images/2402.00600/duo.png" alt="duo" /></p>
-
-<p>Such an approach automatically includes short-range exclusion effects:
-PBHs are anti-correlated at short distances!</p>
-
-<p>The authors also present explicit expressions for the excess
-probability to find pairs of PBHs separated by a given distance and
-for the excess probability to find pairs with an asymmetric mass
-ratio.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Are primordial black holes already clustered in the early universe? In a recent publication, Baptiste and Pierre tackle the clustering problem of these enigmatic objects using an excursion-set approach to deal with the so-called “cloud-in-cloud” mechanism.]]></summary></entry></feed>
+<p>More details can be found in the scientific paper Ref. <a class="citation" href="#colpi:2024xhw">[1]</a> and this <a href="/news/2024/01/25/LISA.html"><strong>post</strong></a>.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Pierre gave an interview for Quanta Magazine in an article dedicated to the LISA mission.]]></summary></entry></feed>
