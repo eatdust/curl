@@ -13,7 +13,7 @@ image: /assets/images/people/fidler.png
 orientation: portrait
 bibfile: cfidler
 bibname: "fidler, christian"
-position: 'Post-doctoral researcher'
+position: 'Senior Post-doctoral researcher'
 location: 'Aachen University (Germany)'
 visiting:
 ---

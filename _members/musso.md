@@ -13,7 +13,7 @@ image: /assets/images/people/marcello.png
 orientation: portrait
 bibfile: mmusso
 bibname: marcello musso
-position: 'Distinguished Researcher'
+position: 'Senior Lecturer'
 location: 'University of Salamanca (Spain)'
 visiting:
 ---

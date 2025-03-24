@@ -1,0 +1,54 @@
+---
+layout: post
+title: Cosmology Seminars
+category: News
+date: 2025-03-24 08:00:00 +0100
+---
+
+The next cosmology seminars take place on **Friday 28th** of March,
+**room E349** at **2:00pm**. We have the pleasure to listen to our new
+members, **Chiara Animali** and **Eemeli Tomberg**.
+
+---
+
+At 2pm, room E349,  **Chiara Animali**, will be talking about
+
+### Large perturbations from inflation: recent results and open challenges in the stochastic delta N formalism
+
+*During inflation, quantum vacuum fluctuations are stretched beyond
+the Hubble radius, modifying the large-scale dynamics of the
+universe. Although typically negligible in the perturbative regime,
+this backreaction can become significant in regimes leading to
+primordial black hole (PBH) formation, where large density
+fluctuations arise. The combination of stochastic inflation and delta
+N formalisms provides an efficient non-perturbative framework to track
+these large fluctuations.  In this context, I will explore recent
+results and ongoing challenges, particularly in describing backward
+quantities, which requires a deeper understanding of the relationship
+between field values and physical distances, as well as how this
+information is encoded within the recursive geometry of a
+stochastically inflating universe, thereby enabling the consistent
+inclusion of volume-weighting effects. The implications for primordial
+black holes (as their abundance and clustering properties) will also
+be discussed.*
+
+---
+
+Around 3pm, same place, **Eemeli Tomberg** will talk about
+
+### New developments in stochastic inflation
+
+*Stochastic inflation lets us compute the statistics of inflationary
+perturbations non-perturbatively. I discuss new developments in these
+computations. First, I talk about the choice of the stochastic scheme,
+Itô or Stratonovich, and show that the distinction results from the
+Markovian approximation. If this approximation is dropped, the
+different schemes become equivalent. Then, using stochastic tools, I
+discuss eternal inflation in models that produce primordial black
+holes. I argue that eternal inflation is common in these models and
+may jeopardize their CMB predictions.*
+
+
+
+
+
