@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-03-24T09:46:32+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminars</title><link href="https://curl.group/news/2025/03/24/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars" /><published>2025-03-24T08:00:00+01:00</published><updated>2025-03-24T08:00:00+01:00</updated><id>https://curl.group/news/2025/03/24/seminars</id><content type="html" xml:base="https://curl.group/news/2025/03/24/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 28th</strong> of March,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-04-01T16:33:40+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/04/01/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-04-01T09:00:00+02:00</published><updated>2025-04-01T09:00:00+02:00</updated><id>https://curl.group/news/2025/04/01/seminar</id><content type="html" xml:base="https://curl.group/news/2025/04/01/seminar.html"><![CDATA[<p>The next cosmology seminar take place on <strong>Friday 4th</strong> of April,
+<strong>room E349</strong> at <strong>10:00am</strong>. We will have the pleasure to listen to
+<strong>Siyao Li</strong> from the Institute of Science (Tokyo, Japan) and the
+Institute of Basic Science (Daejeon, South Korea).</p>
+
+<p>At 10:00am, room E349, <strong>Siyao Li</strong> will be talking about</p>
+
+<h3 id="classical-oscillon-decay-accelerated-by-external-scalar-field-resonance">Classical oscillon decay accelerated by external scalar field resonance</h3>
+
+<p><em>Oscillons are long-lived, spherical solitons that arise in real scalar
+field theories with potential flatter than quadratic. They are
+considered to form via parametric resonance during preheating after
+inflation and the energy of the inflaton field can be stored in
+oscillons. Because of their long lifetime, they can play an important
+role in the early universe, especially in the reheating
+process. However, the estimation of their lifetime is greatly affected
+by considering the coupling of the inflaton field to other fields. We
+investigate the impact of an external real scalar filed coupled to an
+oscillon on its decay and lifetime. We find the external scalar field
+can grow exponentially on the inhomogeneous oscillon background due to
+parametric resonance. We find this exponential growth can destroy
+oscillon structure very rapidly when the coupling is very
+strong. Interestingly, we also find an unexpected large intermediate
+coupling regime where the decay of oscillon is only temporarily
+accelerated by the massive external field.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar take place on Friday 4th of April, room E349 at 10:00am. We will have the pleasure to listen to Siyao Li from the Institute of Science (Tokyo, Japan) and the Institute of Basic Science (Daejeon, South Korea).]]></summary></entry><entry><title type="html">Cosmology Seminars</title><link href="https://curl.group/news/2025/03/24/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars" /><published>2025-03-24T08:00:00+01:00</published><updated>2025-03-24T08:00:00+01:00</updated><id>https://curl.group/news/2025/03/24/seminars</id><content type="html" xml:base="https://curl.group/news/2025/03/24/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 28th</strong> of March,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We have the pleasure to listen to our new
 members, <strong>Chiara Animali</strong> and <strong>Eemeli Tomberg</strong>.</p>
 
@@ -473,10 +497,4 @@ is all around</strong></a>.</p>
 
 <h3 id="cosmology-with-space-based-observatories">Cosmology with space-based observatories</h3>
 
-<p><img src="/assets/images/outreach/spaceisallaround.jpg" alt="outline" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Christophe gives a lecture on Cosmology with space-based observatories at the Euro Space Center for the school Space is all around.]]></summary></entry><entry><title type="html">Interview for Quanta Magazine</title><link href="https://curl.group/outreach/2024/04/18/QuantaMag.html" rel="alternate" type="text/html" title="Interview for Quanta Magazine" /><published>2024-04-18T09:00:00+02:00</published><updated>2024-04-18T09:00:00+02:00</updated><id>https://curl.group/outreach/2024/04/18/QuantaMag</id><content type="html" xml:base="https://curl.group/outreach/2024/04/18/QuantaMag.html"><![CDATA[<p><a href="/members/auclair"><strong>Pierre</strong></a> gave an interview for <a href="https://en.wikipedia.org/wiki/Quanta_Magazine"><strong>Quanta
-Magazine</strong></a> in an
-article dedicated to the <a href="https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna"><strong>LISA</strong></a> mission.</p>
-
-<p><a href="https://www.quantamagazine.org/hopes-of-big-bang-discoveries-ride-on-a-future-spacecraft-20240417/"><strong>Hopes of Big Bang Discoveries Ride on a Future Spacecraft</strong></a></p>
-
-<p>More details can be found in the scientific paper Ref. <a class="citation" href="#colpi:2024xhw">[1]</a> and this <a href="/news/2024/01/25/LISA.html"><strong>post</strong></a>.</p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Pierre gave an interview for Quanta Magazine in an article dedicated to the LISA mission.]]></summary></entry></feed>
+<p><img src="/assets/images/outreach/spaceisallaround.jpg" alt="outline" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="Outreach" /><summary type="html"><![CDATA[Christophe gives a lecture on Cosmology with space-based observatories at the Euro Space Center for the school Space is all around.]]></summary></entry></feed>
