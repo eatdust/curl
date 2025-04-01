@@ -1,0 +1,36 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-04-01 08:00:00 +0100
+---
+
+The next cosmology seminar take place on **Friday 4th** of April,
+**room E349** at **10:00am**. We will have the pleasure to listen to
+**Siyao Li** from the Institute of Science (Tokyo, Japan) and the
+Institute of Basic Science (Daejeon, South Korea).
+
+
+At 10:00am, room E349, **Siyao Li** will be talking about
+
+### Classical oscillon decay accelerated by external scalar field resonance
+
+*Oscillons are long-lived, spherical solitons that arise in real scalar
+field theories with potential flatter than quadratic. They are
+considered to form via parametric resonance during preheating after
+inflation and the energy of the inflaton field can be stored in
+oscillons. Because of their long lifetime, they can play an important
+role in the early universe, especially in the reheating
+process. However, the estimation of their lifetime is greatly affected
+by considering the coupling of the inflaton field to other fields. We
+investigate the impact of an external real scalar filed coupled to an
+oscillon on its decay and lifetime. We find the external scalar field
+can grow exponentially on the inhomogeneous oscillon background due to
+parametric resonance. We find this exponential growth can destroy
+oscillon structure very rapidly when the coupling is very
+strong. Interestingly, we also find an unexpected large intermediate
+coupling regime where the decay of oscillon is only temporarily
+accelerated by the massive external field.*
+
+
+
