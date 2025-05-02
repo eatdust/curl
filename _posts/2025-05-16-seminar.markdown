@@ -1,0 +1,29 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-05-09 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Friday 16th** of May,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+**Eleni Tsaprazi** from Imperial College (London, United Kingdom).
+
+
+At 2:00pm, room E349, **Eleni Tsaprazi** will be talking about
+
+### Bayesian inferences in the cosmic large-scale structure
+
+*The next generation of cosmological surveys will deliver an
+unprecedented wealth of data, promising precision tests of our
+cosmological models. Combined with advances in our ability to model
+the cosmic large-scale structure, the coming decade will open new
+windows into the connection between cosmological tracers and the
+underlying matter distribution. To fully exploit this opportunity, it
+is essential to rigorously control systematic effects that could
+otherwise bias cosmological inferences. In this talk, I will present
+Bayesian frameworks designed to both mitigate systematics and harness
+the full statistical power of current and forthcoming datasets. I
+will demonstrate applications on clustering and Type Ia supernova
+cosmology, concluding with a perspective on future developments aimed
+at maximising the scientific return of next-generation surveys.*
