@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-05-14T09:56:27+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/05/09/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-05-09T09:00:00+02:00</published><updated>2025-05-09T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/09/seminar</id><content type="html" xml:base="https://curl.group/news/2025/05/09/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 16th</strong> of May,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-05-19T16:08:50+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Time-reversed Stochastic Inflation</title><link href="https://curl.group/news/2025/05/16/2504.17680.html" rel="alternate" type="text/html" title="Time-reversed Stochastic Inflation" /><published>2025-05-16T09:00:00+02:00</published><updated>2025-05-16T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/16/2504.17680</id><content type="html" xml:base="https://curl.group/news/2025/05/16/2504.17680.html"><![CDATA[<p>Stochastic Inflation is a regime of Cosmic Inflation in which <a href="https://en.wikipedia.org/wiki/Quantum_fluctuation"><strong>quantum
+fluctuations</strong></a>
+dominate over the semi-classical evolution. If triggered, it can
+create strong inhomogeneities and, possibly, a multiverse structure with
+eternally inflating regions. By reversing time,
+<a href="/members/blachier"><strong>Baptiste</strong></a> and <a href="/members/chris"><strong>Christophe</strong></a>
+have developed a new formalism to compute the statistics of these
+inhomogeneities and apply it to the flat semi-infinite potential where
+stochastic inflation is purely quantum.</p>
+
+<p><a href="/news/2022/09/15/2205.12608.html"><strong>Cosmic Inflation</strong></a> is the
+currently favored scenario of the early universe and refers to an
+accelerated expansion of the spacetime in its earliest instant. See
+this <a href="/news/2024/09/01/2404.10647.html"><strong>post</strong></a> for
+state-of-the-art observational constraints.</p>
+
+<p>Among the simplest inflationary scenarios, the so-called plateau models
+may exhibit a very flat potential, as it is the case for the
+Starobinsky model plotted below. Cosmic inflation occurs in the
+semi-classical regime and cosmological perturbations are generated for
+field values close to \(\phi_*\) (see figure).</p>
+
+<p><img src="/assets/images/2504.17680/sidomains.png" alt="sidom" title="Stochastic inflation within Starokinsky potential" /></p>
+
+<p>However, there is also a field value, \(\phi_{\mathrm{qw}}\), above
+which quantum fluctuations dominate, here referred to as the “quantum
+domain”. The field evolution in there is stochastic, \(\phi\) can move
+up or down the potential while the universe keeps inflating. The
+quantum fluctuations being driving the dynamics also implies that the
+spacetime can become strongly curved, in ways which cannot be easily
+calculated with semi-classical methods.</p>
+
+<p>Putting numbers together, one finds \(\phi_* \simeq 5 \,
+M_{\mathrm{Pl}}\) and \(\phi_{\mathrm{qw}} \simeq 47
+\,M_{\mathrm{Pl}}\). In other words, the quantum domain is very far
+away from everything than can be usually observed in Cosmology. In
+fact, we can associate some length scales with it by counting how much
+semi-classical expansion occurs between \(\phi_\mathrm{qw}\) and
+\(\phi_*\). We find that the quantum domain may affect our universe on
+length scales larger than \(10^{10^{16}}\,\mathrm{Gpc}\), a
+tetration. Therefore, cosmic inflation extended with stochastic
+inflation imply that quantum physics is in charge not only within the
+microscopic world but also on the largest possible distances. Why
+bothering? First, as we discuss in this <a href="/news/2023/12/01/2302.14530.html"><strong>post</strong></a>, some residual gradients of these
+inhomogeneities might create a non-vanishing curvature in our
+observable Hubble volume, and this could be a mean to determine, given
+some curvature measurement, how likely stochastic inflation is. Then,
+on more fundamental grounds, this quantum domain is a natural
+extension of what we expect from cosmic inflation in plateau
+potentials, understanding the structure of the universe it is creating
+is what Cosmology is all about.</p>
+
+<p>Working out the dynamics of the field-metric system when \(\phi &gt;
+\phi_\mathrm{qw}\) can be made using the so-called stochastic
+inflation formalism (see this <a href="/news/2025/01/29/2501.05371.html"><strong>post</strong></a> for an application to primordial black
+holes). It is an <a href="https://en.wikipedia.org/wiki/Effective_field_theory"><strong>effective field
+theory</strong></a> in
+which quantum fluctuations on sub-Hubble scales are integrated out to
+determine the field and metric evolution on super-Hubble scales, the
+latter emerging as real stochastic variables.</p>
+
+<hr />
+
+<p>Unfortunately, when applied to a potential \(V(\phi) = 3
+H_{\mathrm{inf}}^2\) being exactly constant for \(\phi &gt;
+\phi_\mathrm{qw}\), stochastic inflation leads to divergences and that
+is preventing the determination of the spacetime curvature. Indeed,
+assuming that stochastic inflation started at \(\phi_0\), at a time
+\(N_0\), it stops when the quantum fluctuations push the field away
+from the quantum domain, i.e. when \(\phi = \phi_{\mathrm{qw}}\) at a
+time \(N_{\mathrm{qw}}\). Using the stochastic formalism, one can show
+that the mean value of the lifetime</p>
+
+\[\langle N_{\mathrm{qw}}-N_0\rangle = \infty.\]
+
+<p>In other words, stochastic inflation lasts, on average, an infinite
+amount of time. However, we are living for sure in one of the
+realizations in which stochastic inflation ended. As such, when
+concerned with cosmological observables, we should be only concerned
+with the set of all quantum realizations in which stochastic inflation
+ends.</p>
+
+<p>A way to enforce the ending condition is to <strong>reverse the flow of
+time</strong>: we now force the quantum field to start at
+\((\phi_{\mathrm{qw}},N_{\mathrm{qw}})\) and to evolve backward in
+times to end its evolution at \((\phi_0,N_0)\). Even is the idea is
+very simple, its practical implementation requires to mathematically
+perform what is called a time-reversion in diffusion processes. This
+is what we have done in Ref. <a class="citation" href="#blachier:2025tcq">[1]</a> for
+stochastic inflation by reversing stochastic inflation from the
+lifetime. Defining the reverse time by</p>
+
+\[\Delta N \equiv N_{\mathrm{qw}} - N,\]
+
+<p>Together with the field value in reference to the quantum wall \(\Delta
+\phi \equiv \phi - \phi_{\mathrm{qw}}\), the following picture shows
+one of these reverse-time realization of stochastic inflation.</p>
+
+<p><img src="/assets/images/2504.17680/revdomains.png" alt="revdom" title="A time-reversed realization of stochastic inflation" /></p>
+
+<p>This trick allows us to interpret stochastic inflation as a collection
+of random processes conditioned by their lifetimes \(\Delta N_0\). On
+the mathematical side, the associated probability distribution
+\(\bar{P}(\phi,\Delta N|\phi_0,\Delta N_0)\) has been shown to follow
+a <strong>reverse Fokker-Planck equation</strong> that we have solved, one of the
+solution being represented below.</p>
+
+<p><img src="/assets/images/2504.17680/revprob.png" alt="revprob" title="Reversed-time probability distribution" /></p>
+
+<hr />
+
+<p>In such a reverse-time stochastic inflation formalism, all divergences
+are gone and we were able to determine the distribution
+\(P(\zeta|\phi_0)\) of the spacetime curvature fluctuations
+\(\zeta\). It is a well-defined and normalizable distribution, which
+has been obtained by marginalization over all possible lifetimes,
+including the infinite limit. We find that it does only depend on one
+parameter, the initial field excursion value \(\Delta \phi_0 =
+\phi_0-\phi_{\mathrm{qw}}\) expressed in unit of the Hubble parameter
+during inflation, i.e.</p>
+
+\[\chi_0 \equiv \frac{2\pi \Delta \phi_0}{H_{\mathrm{inf}}}.\]
+
+<p>The probability distribution for \(\zeta\) is plotted below as a blue
+curve.</p>
+
+<p><img src="/assets/images/2504.17680/pzeta.png" alt="pz" title="Curvature PDF" />
+<img src="/assets/images/2504.17680/pzetazoom.png" alt="pzoom" title="Curvature PDF zoom-in" /></p>
+
+<p>It is skewed towards positive values and has tails decaying slowly as
+\(|\zeta|^{-3/2}\). In fact, the orange curve is an analytical
+approximation matching very well the exact distribution in the tails. It reads</p>
+
+\[\chi_0^2 P(\zeta|\phi_0) \simeq \mathrm{erf}\left(\frac{\chi_0}{2\sqrt{|\zeta|}}\right) - \frac{\chi_0}{\sqrt{|\zeta|}} \dfrac{\exp{\left(-\frac{\chi_0^2}{4|\zeta|}\right)}}{\sqrt{\pi}}.\]
+
+<p>In qualitative terms, our result shows that nothing really bad occurs
+when stochastic inflation occurs within the flat semi-infinite
+potential. The distribution of \(\zeta\) ends up being peaked around
+vanishing values with a width typically given by \(\chi_0^2\). As
+such, it is very well possible that our observable universe is a
+classical slice sandwiched between two quantum worlds, the very small
+and the very large!</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Stochastic Inflation is a regime of Cosmic Inflation in which quantum fluctuations dominate over the semi-classical evolution. If triggered, it can create strong inhomogeneities and, possibly, a multiverse structure with eternally inflating regions. By reversing time, Baptiste and Christophe have developed a new formalism to compute the statistics of these inhomogeneities and apply it to the flat semi-infinite potential where stochastic inflation is purely quantum.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/05/09/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-05-09T09:00:00+02:00</published><updated>2025-05-09T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/09/seminar</id><content type="html" xml:base="https://curl.group/news/2025/05/09/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 16th</strong> of May,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
 <strong>Eleni Tsaprazi</strong> from Imperial College (London, United Kingdom).</p>
 
@@ -424,10 +565,9 @@ quantum fluctuations.</p>
 
 <p><img src="/assets/images/2404.10647/sr3rdlogext_plc3_TTTEEE_lowE_camNPIPE_BK18_lens_BAO_SPT3G.png" alt="sr3" /></p>
 
-<p>Notice that the third slow-roll parameter
-\(\epsilon_3\) is now constrained in a range perfectly consistent with slow-roll and we find</p>
+<p>Notice that the third slow-roll parameter \(\epsilon_3\) is now constrained in a range perfectly consistent with slow-roll and we find</p>
 
-<p>\(-0.44 &lt; \epsilon_3 &lt; 0.55 \quad (95\%\,\texttt{CL})\).</p>
+\[-0.44 &lt; \epsilon_3 &lt; 0.55 \quad (95\%\,\texttt{CL}).\]
 
 <p>One may also notice the maximum probability for \(\epsilon_1\) at
 non-vanishing values, showing a weak statistical preference for the
@@ -492,22 +632,4 @@ talking here of an epoch of the universe being, at least, at redshift
 \(z &gt; 10^{10}\)!</p>
 
 <p>The future is bright and we are looking forward to the <a href="https://www.euclid-ec.org/"><strong>Euclid</strong></a>
-satellite measurements (see also this <a href="/outreach/2023/06/23/EuclidBxe.html"><strong>post</strong></a>).</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[What is the status of Cosmic Inflation given the latest cosmological data? In a 80 pages-long publication, we present the first ever data analysis using the third-order slow-roll power spectra complemented by an unprecedented Bayesian model comparison in the landscape of nearly three-hundred models of single-field slow-roll inflation.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2024/05/21/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2024-05-21T09:00:00+02:00</published><updated>2024-05-21T09:00:00+02:00</updated><id>https://curl.group/news/2024/05/21/seminar</id><content type="html" xml:base="https://curl.group/news/2024/05/21/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 29th</strong> of May,
-seminar <strong>room E349</strong> at <strong>2pm</strong>. Our guest speaker will be <strong>Eemeli
-Tomberg</strong> from the <strong>Lancaster University</strong> (Lancaster, United Kingdom).</p>
-
-<hr />
-
-<p>At 2pm, room E349,  <strong>Eemeli Tomberg</strong> (Lancaster University), will be talking about</p>
-
-<h3 id="primordial-black-holes-and-stochastic-inflation">Primordial black holes and stochastic inflation</h3>
-
-<p><em>Quantum fluctuations from cosmic inflation give rise to the
- macroscopic structures of the universe. The strongest fluctuations
- collapse into primordial black holes, a dark matter candidate and a
- possible source of gravitational waves. Stochastic inflation is a
- tool to compute the fluctuation statistics non-perturbatively, needed
- for accurate black hole predictions. I discuss recent progress in
- these computations, their numerical implementation and analytical
- approximations, and the implications for black hole abundance in
- single-field models of inflation.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Wednesday 29th of May, seminar room E349 at 2pm. Our guest speaker will be Eemeli Tomberg from the Lancaster University (Lancaster, United Kingdom).]]></summary></entry></feed>
+satellite measurements (see also this <a href="/outreach/2023/06/23/EuclidBxe.html"><strong>post</strong></a>).</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[What is the status of Cosmic Inflation given the latest cosmological data? In a 80 pages-long publication, we present the first ever data analysis using the third-order slow-roll power spectra complemented by an unprecedented Bayesian model comparison in the landscape of nearly three-hundred models of single-field slow-roll inflation.]]></summary></entry></feed>
