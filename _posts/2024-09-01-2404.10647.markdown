@@ -54,10 +54,9 @@ quantum fluctuations.
 
 ![sr3](/assets/images/2404.10647/sr3rdlogext_plc3_TTTEEE_lowE_camNPIPE_BK18_lens_BAO_SPT3G.png)
 
-Notice that the third slow-roll parameter
-$$\epsilon_3$$ is now constrained in a range perfectly consistent with slow-roll and we find
+Notice that the third slow-roll parameter $$\epsilon_3$$ is now constrained in a range perfectly consistent with slow-roll and we find
 
-$$ -0.44 < \epsilon_3 < 0.55 \quad (95\%\,\texttt{CL}) $$.
+$$ -0.44 < \epsilon_3 < 0.55 \quad (95\%\,\texttt{CL}).$$
 
 One may also notice the maximum probability for $$\epsilon_1$$ at
 non-vanishing values, showing a weak statistical preference for the

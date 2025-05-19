@@ -1,0 +1,151 @@
+---
+layout: post
+title: Time-reversed Stochastic Inflation
+category: News
+date: 2025-05-16 08:00:00 +0100
+---
+
+Stochastic Inflation is a regime of Cosmic Inflation in which [**quantum
+fluctuations**](https://en.wikipedia.org/wiki/Quantum_fluctuation)
+dominate over the semi-classical evolution. If triggered, it can
+create strong inhomogeneities and, possibly, a multiverse structure with
+eternally inflating regions. By reversing time,
+[**Baptiste**](/members/blachier) and [**Christophe**](/members/chris)
+have developed a new formalism to compute the statistics of these
+inhomogeneities and apply it to the flat semi-infinite potential where
+stochastic inflation is purely quantum.
+
+[**Cosmic Inflation**]({% post_url 2022-09-15-2205.12608 %}) is the
+currently favored scenario of the early universe and refers to an
+accelerated expansion of the spacetime in its earliest instant. See
+this [**post**]({% post_url 2024-09-01-2404.10647 %}) for
+state-of-the-art observational constraints.
+
+Among the simplest inflationary scenarios, the so-called plateau models
+may exhibit a very flat potential, as it is the case for the
+Starobinsky model plotted below. Cosmic inflation occurs in the
+semi-classical regime and cosmological perturbations are generated for
+field values close to $$\phi_*$$ (see figure).
+
+![sidom](/assets/images/2504.17680/sidomains.png "Stochastic inflation within Starokinsky potential")
+
+However, there is also a field value, $$\phi_{\mathrm{qw}}$$, above
+which quantum fluctuations dominate, here referred to as the "quantum
+domain". The field evolution in there is stochastic, $$\phi$$ can move
+up or down the potential while the universe keeps inflating. The
+quantum fluctuations being driving the dynamics also implies that the
+spacetime can become strongly curved, in ways which cannot be easily
+calculated with semi-classical methods.
+
+Putting numbers together, one finds $$\phi_* \simeq 5 \,
+M_{\mathrm{Pl}}$$ and $$\phi_{\mathrm{qw}} \simeq 47
+\,M_{\mathrm{Pl}}$$. In other words, the quantum domain is very far
+away from everything than can be usually observed in Cosmology. In
+fact, we can associate some length scales with it by counting how much
+semi-classical expansion occurs between $$\phi_\mathrm{qw}$$ and
+$$\phi_*$$. We find that the quantum domain may affect our universe on
+length scales larger than $$10^{10^{16}}\,\mathrm{Gpc}$$, a
+tetration. Therefore, cosmic inflation extended with stochastic
+inflation imply that quantum physics is in charge not only within the
+microscopic world but also on the largest possible distances. Why
+bothering? First, as we discuss in this [**post**]({% post_url
+2023-12-01-2302.14530 %}), some residual gradients of these
+inhomogeneities might create a non-vanishing curvature in our
+observable Hubble volume, and this could be a mean to determine, given
+some curvature measurement, how likely stochastic inflation is. Then,
+on more fundamental grounds, this quantum domain is a natural
+extension of what we expect from cosmic inflation in plateau
+potentials, understanding the structure of the universe it is creating
+is what Cosmology is all about.
+
+Working out the dynamics of the field-metric system when $$\phi >
+\phi_\mathrm{qw}$$ can be made using the so-called stochastic
+inflation formalism (see this [**post**]({% post_url
+2025-01-29-2501.05371 %}) for an application to primordial black
+holes). It is an [**effective field
+theory**](https://en.wikipedia.org/wiki/Effective_field_theory) in
+which quantum fluctuations on sub-Hubble scales are integrated out to
+determine the field and metric evolution on super-Hubble scales, the
+latter emerging as real stochastic variables.
+
+---
+
+Unfortunately, when applied to a potential $$V(\phi) = 3
+H_{\mathrm{inf}}^2$$ being exactly constant for $$\phi >
+\phi_\mathrm{qw}$$, stochastic inflation leads to divergences and that
+is preventing the determination of the spacetime curvature. Indeed,
+assuming that stochastic inflation started at $$\phi_0$$, at a time
+$$N_0$$, it stops when the quantum fluctuations push the field away
+from the quantum domain, i.e. when $$\phi = \phi_{\mathrm{qw}}$$ at a
+time $$N_{\mathrm{qw}}$$. Using the stochastic formalism, one can show
+that the mean value of the lifetime
+
+$$\langle N_{\mathrm{qw}}-N_0\rangle = \infty.$$
+
+In other words, stochastic inflation lasts, on average, an infinite
+amount of time. However, we are living for sure in one of the
+realizations in which stochastic inflation ended. As such, when
+concerned with cosmological observables, we should be only concerned
+with the set of all quantum realizations in which stochastic inflation
+ends.
+
+A way to enforce the ending condition is to **reverse the flow of
+time**: we now force the quantum field to start at
+$$(\phi_{\mathrm{qw}},N_{\mathrm{qw}})$$ and to evolve backward in
+times to end its evolution at $$(\phi_0,N_0)$$. Even is the idea is
+very simple, its practical implementation requires to mathematically
+perform what is called a time-reversion in diffusion processes. This
+is what we have done in Ref. {% cite blachier:2025tcq %} for
+stochastic inflation by reversing stochastic inflation from the
+lifetime. Defining the reverse time by
+
+$$\Delta N \equiv N_{\mathrm{qw}} - N,$$
+
+Together with the field value in reference to the quantum wall $$\Delta
+\phi \equiv \phi - \phi_{\mathrm{qw}}$$, the following picture shows
+one of these reverse-time realization of stochastic inflation.
+
+![revdom](/assets/images/2504.17680/revdomains.png "A time-reversed realization of stochastic inflation")
+
+This trick allows us to interpret stochastic inflation as a collection
+of random processes conditioned by their lifetimes $$\Delta N_0$$. On
+the mathematical side, the associated probability distribution
+$$\bar{P}(\phi,\Delta N|\phi_0,\Delta N_0)$$ has been shown to follow
+a **reverse Fokker-Planck equation** that we have solved, one of the
+solution being represented below.
+
+![revprob](/assets/images/2504.17680/revprob.png "Reversed-time probability distribution")
+
+---
+
+In such a reverse-time stochastic inflation formalism, all divergences
+are gone and we were able to determine the distribution
+$$P(\zeta|\phi_0)$$ of the spacetime curvature fluctuations
+$$\zeta$$. It is a well-defined and normalizable distribution, which
+has been obtained by marginalization over all possible lifetimes,
+including the infinite limit. We find that it does only depend on one
+parameter, the initial field excursion value $$\Delta \phi_0 =
+\phi_0-\phi_{\mathrm{qw}}$$ expressed in unit of the Hubble parameter
+during inflation, i.e.
+
+$$\chi_0 \equiv \frac{2\pi \Delta \phi_0}{H_{\mathrm{inf}}}.$$
+
+The probability distribution for $$\zeta$$ is plotted below as a blue
+curve.
+
+![pz](/assets/images/2504.17680/pzeta.png "Curvature PDF")
+![pzoom](/assets/images/2504.17680/pzetazoom.png "Curvature PDF zoom-in")
+
+It is skewed towards positive values and has tails decaying slowly as
+$$|\zeta|^{-3/2}$$. In fact, the orange curve is an analytical
+approximation matching very well the exact distribution in the tails. It reads
+
+$$\chi_0^2 P(\zeta|\phi_0) \simeq \mathrm{erf}\left(\frac{\chi_0}{2\sqrt{|\zeta|}}\right) - \frac{\chi_0}{\sqrt{|\zeta|}} \dfrac{\exp{\left(-\frac{\chi_0^2}{4|\zeta|}\right)}}{\sqrt{\pi}}.$$
+
+In qualitative terms, our result shows that nothing really bad occurs
+when stochastic inflation occurs within the flat semi-infinite
+potential. The distribution of $$\zeta$$ ends up being peaked around
+vanishing values with a width typically given by $$\chi_0^2$$. As
+such, it is very well possible that our observable universe is a
+classical slice sandwiched between two quantum worlds, the very small
+and the very large!
