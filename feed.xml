@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-05-19T16:08:50+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Time-reversed Stochastic Inflation</title><link href="https://curl.group/news/2025/05/16/2504.17680.html" rel="alternate" type="text/html" title="Time-reversed Stochastic Inflation" /><published>2025-05-16T09:00:00+02:00</published><updated>2025-05-16T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/16/2504.17680</id><content type="html" xml:base="https://curl.group/news/2025/05/16/2504.17680.html"><![CDATA[<p>Stochastic Inflation is a regime of Cosmic Inflation in which <a href="https://en.wikipedia.org/wiki/Quantum_fluctuation"><strong>quantum
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-05-20T09:50:34+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Time-reversed Stochastic Inflation</title><link href="https://curl.group/news/2025/05/16/2504.17680.html" rel="alternate" type="text/html" title="Time-reversed Stochastic Inflation" /><published>2025-05-16T09:00:00+02:00</published><updated>2025-05-16T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/16/2504.17680</id><content type="html" xml:base="https://curl.group/news/2025/05/16/2504.17680.html"><![CDATA[<p>Stochastic Inflation is a regime of Cosmic Inflation in which <a href="https://en.wikipedia.org/wiki/Quantum_fluctuation"><strong>quantum
 fluctuations</strong></a>
 dominate over the semi-classical evolution. If triggered, it can
 create strong inhomogeneities and, possibly, a multiverse structure with
@@ -9,8 +9,8 @@ inhomogeneities and apply it to the flat semi-infinite potential where
 stochastic inflation is purely quantum.</p>
 
 <p><a href="/news/2022/09/15/2205.12608.html"><strong>Cosmic Inflation</strong></a> is the
-currently favored scenario of the early universe and refers to an
-accelerated expansion of the spacetime in its earliest instant. See
+currently favoured scenario of the early universe and refers to an
+accelerated expansion of the spacetime in its earliest instants. See
 this <a href="/news/2024/09/01/2404.10647.html"><strong>post</strong></a> for
 state-of-the-art observational constraints.</p>
 
@@ -18,7 +18,7 @@ state-of-the-art observational constraints.</p>
 may exhibit a very flat potential, as it is the case for the
 Starobinsky model plotted below. Cosmic inflation occurs in the
 semi-classical regime and cosmological perturbations are generated for
-field values close to \(\phi_*\) (see figure).</p>
+field values around \(\phi_*\) (see figure).</p>
 
 <p><img src="/assets/images/2504.17680/sidomains.png" alt="sidom" title="Stochastic inflation within Starokinsky potential" /></p>
 
@@ -33,13 +33,13 @@ calculated with semi-classical methods.</p>
 <p>Putting numbers together, one finds \(\phi_* \simeq 5 \,
 M_{\mathrm{Pl}}\) and \(\phi_{\mathrm{qw}} \simeq 47
 \,M_{\mathrm{Pl}}\). In other words, the quantum domain is very far
-away from everything than can be usually observed in Cosmology. In
-fact, we can associate some length scales with it by counting how much
+away from everything than can be observed in Cosmology. In fact, we
+can associate some length scales to this region by counting how much
 semi-classical expansion occurs between \(\phi_\mathrm{qw}\) and
 \(\phi_*\). We find that the quantum domain may affect our universe on
 length scales larger than \(10^{10^{16}}\,\mathrm{Gpc}\), a
 tetration. Therefore, cosmic inflation extended with stochastic
-inflation imply that quantum physics is in charge not only within the
+inflation implies that quantum physics is in charge not only within the
 microscopic world but also on the largest possible distances. Why
 bothering? First, as we discuss in this <a href="/news/2023/12/01/2302.14530.html"><strong>post</strong></a>, some residual gradients of these
 inhomogeneities might create a non-vanishing curvature in our
@@ -74,27 +74,27 @@ that the mean value of the lifetime</p>
 \[\langle N_{\mathrm{qw}}-N_0\rangle = \infty.\]
 
 <p>In other words, stochastic inflation lasts, on average, an infinite
-amount of time. However, we are living for sure in one of the
+amount of time. However, we are necessarily living in one of the
 realizations in which stochastic inflation ended. As such, when
-concerned with cosmological observables, we should be only concerned
+concerned with cosmological observables, we should only be concerned
 with the set of all quantum realizations in which stochastic inflation
 ends.</p>
 
 <p>A way to enforce the ending condition is to <strong>reverse the flow of
-time</strong>: we now force the quantum field to start at
-\((\phi_{\mathrm{qw}},N_{\mathrm{qw}})\) and to evolve backward in
+time</strong>: the quantum field starts at
+\((\phi_{\mathrm{qw}},N_{\mathrm{qw}})\) and evolves backward in
 times to end its evolution at \((\phi_0,N_0)\). Even is the idea is
 very simple, its practical implementation requires to mathematically
 perform what is called a time-reversion in diffusion processes. This
 is what we have done in Ref. <a class="citation" href="#blachier:2025tcq">[1]</a> for
-stochastic inflation by reversing stochastic inflation from the
+stochastic inflation by reversing from the
 lifetime. Defining the reverse time by</p>
 
 \[\Delta N \equiv N_{\mathrm{qw}} - N,\]
 
-<p>Together with the field value in reference to the quantum wall \(\Delta
-\phi \equiv \phi - \phi_{\mathrm{qw}}\), the following picture shows
-one of these reverse-time realization of stochastic inflation.</p>
+<p>together with \(\Delta \phi \equiv \phi - \phi_{\mathrm{qw}}\), the
+field value in reference to the quantum wall, the following picture
+shows one of these reverse-time realization.</p>
 
 <p><img src="/assets/images/2504.17680/revdomains.png" alt="revdom" title="A time-reversed realization of stochastic inflation" /></p>
 
@@ -103,13 +103,14 @@ of random processes conditioned by their lifetimes \(\Delta N_0\). On
 the mathematical side, the associated probability distribution
 \(\bar{P}(\phi,\Delta N|\phi_0,\Delta N_0)\) has been shown to follow
 a <strong>reverse Fokker-Planck equation</strong> that we have solved, one of the
-solution being represented below.</p>
+solution being represented below. The colors encode how probable it is
+to find the field at a given value, at a given reverse time.</p>
 
 <p><img src="/assets/images/2504.17680/revprob.png" alt="revprob" title="Reversed-time probability distribution" /></p>
 
 <hr />
 
-<p>In such a reverse-time stochastic inflation formalism, all divergences
+<p>In the reverse-time stochastic inflation formalism, all divergences
 are gone and we were able to determine the distribution
 \(P(\zeta|\phi_0)\) of the spacetime curvature fluctuations
 \(\zeta\). It is a well-defined and normalizable distribution, which
@@ -117,7 +118,7 @@ has been obtained by marginalization over all possible lifetimes,
 including the infinite limit. We find that it does only depend on one
 parameter, the initial field excursion value \(\Delta \phi_0 =
 \phi_0-\phi_{\mathrm{qw}}\) expressed in unit of the Hubble parameter
-during inflation, i.e.</p>
+during inflation, i.e. the quantity</p>
 
 \[\chi_0 \equiv \frac{2\pi \Delta \phi_0}{H_{\mathrm{inf}}}.\]
 
@@ -127,9 +128,9 @@ curve.</p>
 <p><img src="/assets/images/2504.17680/pzeta.png" alt="pz" title="Curvature PDF" />
 <img src="/assets/images/2504.17680/pzetazoom.png" alt="pzoom" title="Curvature PDF zoom-in" /></p>
 
-<p>It is skewed towards positive values and has tails decaying slowly as
-\(|\zeta|^{-3/2}\). In fact, the orange curve is an analytical
-approximation matching very well the exact distribution in the tails. It reads</p>
+<p>It is skewed towards positive values and has tails slowly decaying as
+\(|\zeta|^{-3/2}\). The orange curve is an analytical approximation
+matching very well the exact distribution in the tails. It reads</p>
 
 \[\chi_0^2 P(\zeta|\phi_0) \simeq \mathrm{erf}\left(\frac{\chi_0}{2\sqrt{|\zeta|}}\right) - \frac{\chi_0}{\sqrt{|\zeta|}} \dfrac{\exp{\left(-\frac{\chi_0^2}{4|\zeta|}\right)}}{\sqrt{\pi}}.\]
 
