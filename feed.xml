@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-05-20T09:50:34+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Time-reversed Stochastic Inflation</title><link href="https://curl.group/news/2025/05/16/2504.17680.html" rel="alternate" type="text/html" title="Time-reversed Stochastic Inflation" /><published>2025-05-16T09:00:00+02:00</published><updated>2025-05-16T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/16/2504.17680</id><content type="html" xml:base="https://curl.group/news/2025/05/16/2504.17680.html"><![CDATA[<p>Stochastic Inflation is a regime of Cosmic Inflation in which <a href="https://en.wikipedia.org/wiki/Quantum_fluctuation"><strong>quantum
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-06-05T10:03:34+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/06/05/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-06-05T09:00:00+02:00</published><updated>2025-06-05T09:00:00+02:00</updated><id>https://curl.group/news/2025/06/05/seminar</id><content type="html" xml:base="https://curl.group/news/2025/06/05/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 12th</strong> of June,
+<strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
+<strong>Carlos Martins</strong> from the Institute of Astrophysics and Space
+Sciences, Porto (Portugal).</p>
+
+<p>At 2:00pm, room E349, <strong>Carlos J.A.P. Martins</strong> will be talking about</p>
+
+<h3 id="to-scale-or-not-to-scale">To scale, or not to scale</h3>
+
+<p><em>Cosmic defect networks are fossil relics of earlier stages in the
+universe’s evolution. Their astrophysical detection would provide
+unique insights into these earlier stages, and even upper limits
+yield valuable information. However, for these analyses to be reliable,
+one needs a precise and accurate understanding of the evolution of
+these networks. I will describe recent progress, both on analytic
+modelling and on numerical simulations, to improve the understanding
+of this evolution. The focus will be on the issue of scaling of the
+networks. The linear scaling solution is known to be an attractor for
+the simplest defects, such as plain cosmic strings, but in more general
+(and arguably more realistic) models, such as those in which the defects
+have worldsheet charges and currents, other cosmological scaling solutions
+can in principle occur, depending on the microphysics of the model. I
+will present a taxonomy of these solutions, and briefly comment on how
+different models could be distinguished in the event of future detections.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 12th of June, room E349 at 2:00pm. We will have the pleasure to listen to Carlos Martins from the Institute of Astrophysics and Space Sciences, Porto (Portugal).]]></summary></entry><entry><title type="html">Time-reversed Stochastic Inflation</title><link href="https://curl.group/news/2025/05/16/2504.17680.html" rel="alternate" type="text/html" title="Time-reversed Stochastic Inflation" /><published>2025-05-16T09:00:00+02:00</published><updated>2025-05-16T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/16/2504.17680</id><content type="html" xml:base="https://curl.group/news/2025/05/16/2504.17680.html"><![CDATA[<p>Stochastic Inflation is a regime of Cosmic Inflation in which <a href="https://en.wikipedia.org/wiki/Quantum_fluctuation"><strong>quantum
 fluctuations</strong></a>
 dominate over the semi-classical evolution. If triggered, it can
 create strong inhomogeneities and, possibly, a multiverse structure with
@@ -83,7 +106,7 @@ ends.</p>
 <p>A way to enforce the ending condition is to <strong>reverse the flow of
 time</strong>: the quantum field starts at
 \((\phi_{\mathrm{qw}},N_{\mathrm{qw}})\) and evolves backward in
-times to end its evolution at \((\phi_0,N_0)\). Even is the idea is
+times to end its evolution at \((\phi_0,N_0)\). Even if the idea is
 very simple, its practical implementation requires to mathematically
 perform what is called a time-reversion in diffusion processes. This
 is what we have done in Ref. <a class="citation" href="#blachier:2025tcq">[1]</a> for
@@ -104,7 +127,8 @@ the mathematical side, the associated probability distribution
 \(\bar{P}(\phi,\Delta N|\phi_0,\Delta N_0)\) has been shown to follow
 a <strong>reverse Fokker-Planck equation</strong> that we have solved, one of the
 solution being represented below. The colors encode how probable it is
-to find the field at a given value, at a given reverse time.</p>
+to find the field at a given value, at a given reverse time, and for a
+given lifetime \(\Delta N_0\) of the processes.</p>
 
 <p><img src="/assets/images/2504.17680/revprob.png" alt="revprob" title="Reversed-time probability distribution" /></p>
 
@@ -115,8 +139,8 @@ are gone and we were able to determine the distribution
 \(P(\zeta|\phi_0)\) of the spacetime curvature fluctuations
 \(\zeta\). It is a well-defined and normalizable distribution, which
 has been obtained by marginalization over all possible lifetimes,
-including the infinite limit. We find that it does only depend on one
-parameter, the initial field excursion value \(\Delta \phi_0 =
+including the infinite limit. We find that it depends on one
+parameter only, the initial field excursion value \(\Delta \phi_0 =
 \phi_0-\phi_{\mathrm{qw}}\) expressed in unit of the Hubble parameter
 during inflation, i.e. the quantity</p>
 
@@ -520,117 +544,4 @@ curve</strong> compared to the red one).</p>
 <p>The other curves (green and purple) show other corrections, improving
 the determination of \(\phi_\mathrm{end}\), the field value at which
 inflation ends. These ones may, or may not, improve over the velocity
-correction, depending on the model at hand.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Making observable predictions for cosmic inflation requires determining when the wavenumbers of astrophysical interest today exited the Hubble radius during the inflationary epoch. These instants are commonly evaluated using the slow-roll approximation and measured in e-folds time. Pierre, Baptiste and Christophe propose a new analytical method to determine these instants with a precision reaching the tenth of an e-fold.]]></summary></entry><entry><title type="html">Cosmic Inflation at the Crossroads</title><link href="https://curl.group/news/2024/09/01/2404.10647.html" rel="alternate" type="text/html" title="Cosmic Inflation at the Crossroads" /><published>2024-09-01T09:00:00+02:00</published><updated>2024-09-01T09:00:00+02:00</updated><id>https://curl.group/news/2024/09/01/2404.10647</id><content type="html" xml:base="https://curl.group/news/2024/09/01/2404.10647.html"><![CDATA[<p>What is the status of Cosmic Inflation given the latest cosmological
-data? In a 80 pages-long publication, we present the first ever data
-analysis using the <a href="/news/2022/09/15/2205.12608.html"><strong>third-order slow-roll power spectra</strong></a> complemented by
-an unprecedented Bayesian model comparison in the landscape of nearly
-three-hundred models of single-field slow-roll inflation.</p>
-
-<p>In its simplest incarnation, Cosmic Inflation can be realised by a
-single field rolling down a potential and hundred of different
-theoretical embeddings have been proposed since the advent of the
-paradigm. Comparing these models to data could be viewed as Herculean
-tasks and we have been sharing these enjoyments with <a href="https://www.iap.fr"><strong>Jérôme
-Martin</strong></a> and <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
-Vennin</strong></a> in the
-past decade.</p>
-
-<p>In Ref. <a class="citation" href="#martin:2024qnn">[1]</a>, we present the most recent and
-strongest constraints on single-field inflation imposed by the latest
-cosmological data, namely the <a href="https://en.wikipedia.org/wiki/Planck_(spacecraft)"><strong>Planck
-satellite</strong></a> 2020
-Cosmic Microwave Background data, the <a href="http://bicepkeck.org/"><strong>BICEP/Keck
-array</strong></a> 2021 polarization measurements, the
-<a href="https://pole.uchicago.edu/public/Home.html"><strong>South Pole Telescope</strong></a>
-third generation measurements and the full compilation of <a href="https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations"><strong>Baryonic
-Acoustic
-Oscillations</strong></a>
-for the <a href="https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey"><strong>Sloan Digital Sky
-Survey</strong></a>.</p>
-
-<p>Our analysis incorporates the most accurate theoretical predictions
-for the quantum fluctuations generated during inflation, the so-called
-third-order slow-roll spectra for both primordial gravitational waves
-and curvature fluctuations (see this <a href="/news/2022/09/15/2205.12608.html"><strong>post</strong></a>). The Bayesian model comparison analysis
-uses some machine learning tools implementing the methods developed
-in Ref. <a class="citation" href="#ringeval:2013lea">[2]</a> and include all the new models
-presented in the <a href="/news/2023/05/08/EI.html"><strong>Opiparous Edition of the Encyclopædia
-Inflationaris</strong></a>.</p>
-
-<hr />
-
-<p>The following figure shows the one-dimensional marginalised posterior
-distributions obtained for the inflationary cosmological parameters,
-i.e., when the cosmic structures are seeded by the inflationary
-quantum fluctuations.</p>
-
-<p><img src="/assets/images/2404.10647/sr3rdlogext_plc3_TTTEEE_lowE_camNPIPE_BK18_lens_BAO_SPT3G.png" alt="sr3" /></p>
-
-<p>Notice that the third slow-roll parameter \(\epsilon_3\) is now constrained in a range perfectly consistent with slow-roll and we find</p>
-
-\[-0.44 &lt; \epsilon_3 &lt; 0.55 \quad (95\%\,\texttt{CL}).\]
-
-<p>One may also notice the maximum probability for \(\epsilon_1\) at
-non-vanishing values, showing a weak statistical preference for the
-presence of primordial gravitational waves in the current data (mostly
-driven by the BICEP/Keck data). We have</p>
-
-\[\log(\epsilon_1) &gt; 4.9 \quad (95\%\,\texttt{CL}),\]
-
-<p>with</p>
-
-\[\log(\epsilon_1) &lt; -2.6 \quad (98\%\,\texttt{CL}).\]
-
-<hr />
-
-<p>The Bayes’ factors and maximum likelihood ratios for all models of the
-Encyclopædia Inflationaris are:</p>
-
-<p><img src="/assets/images/2404.10647/bestevid.png" alt="bayes" /></p>
-
-<p>The reference model is denoted as “SR3” and represents the pure
-slow-roll analysis assuming no specific potential, only the natural
-priors for the slow-roll parameters \(\epsilon_i\in[-0.2,0.2]\). Bars
-extended to the left mean the models are models, they are favoured
-when the bar is extended to the right (with respect to agnostic
-slow-roll). The bottom labels give the Jeffreys’ scale of Bayesian
-evidence with respect to the best model. We find that \(40\%\) of all
-scenarios can be considered ruled-out (strongly disfavoured according
-to the Jeffreys’ scale) whereas \(20\%\) of the models are most probable
-given the current data.</p>
-
-<hr />
-
-<p>Our approach also allows us to constrain the reheating epoch, the
-transition period between cosmic inflation and the hot Big-Bang phase
-in which the universe is a relativistic plasma.</p>
-
-<p>The following figures are scattered plots of inflationary models
-positioned according to their Bayesian evidence (horizontal axis) and
-the information gain on the reheating epoch (vertical axis). The colour
-scale traces the mean value (over its posterior) of the reheating
-parameter \(\ln R_\mathrm{reh}\).</p>
-
-<p><img src="/assets/images/2404.10647/obsreheating_Dklreh.png" alt="obsreating" /></p>
-
-<p><img src="/assets/images/2404.10647/obsreheating_Dklreh_bestonly.png" alt="obsreating" /></p>
-
-<p>Each model is also encircled in a gauge counting the number of
-unconstrained model parameters (derived using Bayesian
-dimensionality). Non-encircled models are models for which all
-parameters are constrained by the data, models with a full circle
-around have all their parameters unconstrained (which are then
-superfluous to fit the data). As such, the most probable and most
-efficient models are those on the right having no circle around.</p>
-
-<p>Weighted over the landscape, we find that the current data constrain
-the kinematics of reheating by \(1.3\) bits. The precision reached by
-the current cosmological data is such that almost half of the
-inflationary landscape is out of the game, but, also, for each of the
-favoured models, the way the universe reheated to become a plasma can
-now be inferred by astrophysical and cosmological observations. We are
-talking here of an epoch of the universe being, at least, at redshift
-\(z &gt; 10^{10}\)!</p>
-
-<p>The future is bright and we are looking forward to the <a href="https://www.euclid-ec.org/"><strong>Euclid</strong></a>
-satellite measurements (see also this <a href="/outreach/2023/06/23/EuclidBxe.html"><strong>post</strong></a>).</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[What is the status of Cosmic Inflation given the latest cosmological data? In a 80 pages-long publication, we present the first ever data analysis using the third-order slow-roll power spectra complemented by an unprecedented Bayesian model comparison in the landscape of nearly three-hundred models of single-field slow-roll inflation.]]></summary></entry></feed>
+correction, depending on the model at hand.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Making observable predictions for cosmic inflation requires determining when the wavenumbers of astrophysical interest today exited the Hubble radius during the inflationary epoch. These instants are commonly evaluated using the slow-roll approximation and measured in e-folds time. Pierre, Baptiste and Christophe propose a new analytical method to determine these instants with a precision reaching the tenth of an e-fold.]]></summary></entry></feed>
