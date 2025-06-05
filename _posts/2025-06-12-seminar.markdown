@@ -1,0 +1,32 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-06-05 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Thursday 12th** of June,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+**Carlos Martins** from the Institute of Astrophysics and Space
+Sciences, Porto (Portugal).
+
+
+At 2:00pm, room E349, **Carlos J.A.P. Martins** will be talking about
+
+### To scale, or not to scale
+
+*Cosmic defect networks are fossil relics of earlier stages in the
+universe's evolution. Their astrophysical detection would provide
+unique insights into these earlier stages, and even upper limits
+yield valuable information. However, for these analyses to be reliable,
+one needs a precise and accurate understanding of the evolution of
+these networks. I will describe recent progress, both on analytic
+modelling and on numerical simulations, to improve the understanding
+of this evolution. The focus will be on the issue of scaling of the
+networks. The linear scaling solution is known to be an attractor for
+the simplest defects, such as plain cosmic strings, but in more general
+(and arguably more realistic) models, such as those in which the defects
+have worldsheet charges and currents, other cosmological scaling solutions
+can in principle occur, depending on the microphysics of the model. I
+will present a taxonomy of these solutions, and briefly comment on how
+different models could be distinguished in the event of future detections.*

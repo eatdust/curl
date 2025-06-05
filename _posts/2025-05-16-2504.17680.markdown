@@ -92,7 +92,7 @@ ends.
 A way to enforce the ending condition is to **reverse the flow of
 time**: the quantum field starts at
 $$(\phi_{\mathrm{qw}},N_{\mathrm{qw}})$$ and evolves backward in
-times to end its evolution at $$(\phi_0,N_0)$$. Even is the idea is
+times to end its evolution at $$(\phi_0,N_0)$$. Even if the idea is
 very simple, its practical implementation requires to mathematically
 perform what is called a time-reversion in diffusion processes. This
 is what we have done in Ref. {% cite blachier:2025tcq %} for
@@ -113,7 +113,8 @@ the mathematical side, the associated probability distribution
 $$\bar{P}(\phi,\Delta N|\phi_0,\Delta N_0)$$ has been shown to follow
 a **reverse Fokker-Planck equation** that we have solved, one of the
 solution being represented below. The colors encode how probable it is
-to find the field at a given value, at a given reverse time.
+to find the field at a given value, at a given reverse time, and for a
+given lifetime $$\Delta N_0$$ of the processes.
 
 ![revprob](/assets/images/2504.17680/revprob.png "Reversed-time probability distribution")
 
@@ -124,8 +125,8 @@ are gone and we were able to determine the distribution
 $$P(\zeta|\phi_0)$$ of the spacetime curvature fluctuations
 $$\zeta$$. It is a well-defined and normalizable distribution, which
 has been obtained by marginalization over all possible lifetimes,
-including the infinite limit. We find that it does only depend on one
-parameter, the initial field excursion value $$\Delta \phi_0 =
+including the infinite limit. We find that it depends on one
+parameter only, the initial field excursion value $$\Delta \phi_0 =
 \phi_0-\phi_{\mathrm{qw}}$$ expressed in unit of the Hubble parameter
 during inflation, i.e. the quantity
 
