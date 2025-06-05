@@ -1,10 +1,9 @@
 ---
 layout: member
-title: David Frenay
+name: David Frenay
 description: Master student
 funding: UCLouvain
 from: 2011, January 01
 to: 2011, September 15
-position:
 ---
 

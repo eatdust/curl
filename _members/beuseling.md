@@ -1,10 +1,9 @@
 ---
 layout: member
-title: Niels Beuseling
+name: Niels Beuseling
 description: Master student
 funding: UCLouvain
 from: 2019, January 01
 to: 2019, September 01
-position:
 ---
 

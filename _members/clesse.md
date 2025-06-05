@@ -5,8 +5,12 @@ description: Post-doctoral Research Associate
 funding: FNRS
 from: 2017, October 01
 to: 2020, September 30
+odescription: PhD Student
+ofunding: FRIA
+ofrom: 2007, September 01
+oto: 2011, June 30
 office: E354
-phone: +32 10 47 3155 
+phone: +32 10 47 3155
 email: sebastien.clesse@ulb.ac.be
 homepage: https://sebclesse.wixsite.com/clesse
 image: /assets/images/people/clesse.png
