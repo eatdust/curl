@@ -13,7 +13,7 @@ image: /assets/images/people/dacunha.png
 orientation: portrait
 bibfile: dacunha
 bibname: 'da Cunha, Disrael'
-position: 'Research Associate'
+position: 'Educational Content Developer in Data Science, Softex, Brasília University'
 visiting:
 ---
 

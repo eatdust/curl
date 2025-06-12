@@ -5,7 +5,7 @@ description: Post-doctoral Research Associate
 funding: FNRS
 from: 2017, October 01
 to: 2020, September 30
-odescription: PhD Student
+odescription: PhD student
 ofunding: FRIA
 ofrom: 2007, September 01
 oto: 2011, June 30
