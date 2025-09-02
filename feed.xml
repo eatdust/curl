@@ -1,4 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-08-22T17:09:44+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/06/05/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-06-05T09:00:00+02:00</published><updated>2025-06-05T09:00:00+02:00</updated><id>https://curl.group/news/2025/06/05/seminar</id><content type="html" xml:base="https://curl.group/news/2025/06/05/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 12th</strong> of June,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-02T14:14:11+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Eternal inflation near inflection points</title><link href="http://localhost:4000/news/2025/09/01/2507.15522.html" rel="alternate" type="text/html" title="Eternal inflation near inflection points" /><published>2025-09-01T09:00:00+02:00</published><updated>2025-09-01T09:00:00+02:00</updated><id>http://localhost:4000/news/2025/09/01/2507.15522</id><content type="html" xml:base="http://localhost:4000/news/2025/09/01/2507.15522.html"><![CDATA[<p>In collaboration with <a href="https://www.lancaster.ac.uk/physics/about-us/people/konstantinos-dimopoulos"><strong>Konstantinos
+Dimopoulos</strong></a>
+from the University of Lancaster, <a href="/members/tomberg"><strong>Eemeli</strong></a> has
+studied the possibility of eternal inflation in models that produce
+primordial black holes.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Cosmic_inflation"><strong>Cosmic inflation</strong></a>
+is a period of accelerated expansion of space which likely took place
+in the very early universe. The expansion is driven by the inflaton, a
+scalar field that undergoes random motion due to quantum effects. This
+random motion shows up as inhomogeneities in the late universe,
+seeding cosmic structure such as galaxies and galaxy groups. If the
+inhomogeneities are particularly strong at short scales, they may form
+structures even before galaxy formation, collapsing straight into
+<a href="https://en.wikipedia.org/wiki/Primordial_black_hole"><strong>primordial black holes</strong></a>. Such
+black holes would be dark matter and would radiate gravitational waves
+that could be observable by gravitational wave detectors.</p>
+
+<p>A popular way to produce the strong inhomogeneities needed for black
+hole formation is to give the inflaton an inflection point potential
+with a local bump (see figure). As the inflaton climbs over the bump,
+it slows down, so the quantum fluctuations can have a stronger
+relative effect. Besides black holes, such strong quantum effects may
+lead to another phenomenon: <a href="https://en.wikipedia.org/wiki/Eternal_inflation"><strong>eternal
+inflation</strong></a>. In
+eternal inflation, quantum kicks oppose classical forces enough to
+keep the inflaton near the bump eternally in some regions of space.</p>
+
+<p><img src="/assets/images/2507.15522/potential.png" alt="potential" title="Example inflation point potential" /></p>
+
+<p>To test if inflation is eternal in primordial black hole models, in
+Ref. <a class="citation" href="#tomberg:2025fku">[1]</a>, we solved the Fokker-Planck
+equation, which describes the time evolution of the inflaton’s
+probability distribution (\(N\) is the time variable):</p>
+
+\[\partial_N P(\phi,N) = \partial_\phi\left\{\partial_\phi\left[\frac{1}{2} \sigma^2(\phi) P(\phi,N)\right] - \mu(\phi) P(\phi,N)\right\}  .\]
+
+<p>The classical drift \(\mu\) and the quantum diffusion coefficient
+\(\sigma\) depend on the model, but take universal forms near the
+potential’s local minimum and maximum, which are most important for
+eternal inflation. We were able to show that eternal inflation happens
+generically near the minimum if field variations are Planckian, \(\phi
+\sim M_\text{Pl}\), and also near the maximum if the potential’s
+second derivative there is not too large in magnitude, \(|V''(\phi)|
+\leq 6V(\phi)/M_\text{Pl}^2\). We checked these conditions against
+three typical models from the literature, and they were satisfied in
+all three cases. Eternal inflation is a generic consequence of such
+inflection point models.</p>
+
+<p>Why is eternal inflation interesting? Eternal inflation fractures
+space into a multiverse of different regions, each of which exits the
+eternally inflating bulk at a different time. Making cosmological
+predictions then becomes complicated: different regions have undergone
+different inflationary histories which may show up as different
+structures and inhomogeneities in the late universe. This is sketched
+in the figure below: the “usual” primordial black hole space time is
+marked as U1, but where the inhomogeneities are large - i.e. inside
+the black holes - there are regions which continue inflation eternally
+(E) or exit in a couple of different fashions (U2, U3). The “new
+universes” U1 and U2 still see the edge of the E region, which makes
+them violently inhomogeneous at large scales, incompatible with the
+cosmos we see around us.</p>
+
+<p><img src="/assets/images/2507.15522/multiverse.png" alt="multiverse" title="Sketch of the eternally inflating multiverse" /></p>
+
+<p>Since the volume of the eternally inflating universe is infinite, it
+is not easy to assign probabilities for the different universes U1,
+U2, and U3. This is called the <em>measure problem</em>. However, in our
+case, all reasonable solutions to the measure problem seem to suggest
+that the U1 universe (the one that could match our observable
+universe) is the rarest one, since the others “branch out” of it in an
+infinite fashion. In other words, eternal inflation presents a
+challenge to primordial black hole models: the homogeneous pockets of
+space with black holes are actually the last places we would expect to
+find ourselves in. To solve this challenge, we may need to consider
+new types of primordial black hole models or rethink our approach to
+the measure problem.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In collaboration with Konstantinos Dimopoulos from the University of Lancaster, Eemeli has studied the possibility of eternal inflation in models that produce primordial black holes.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="http://localhost:4000/news/2025/06/05/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-06-05T09:00:00+02:00</published><updated>2025-06-05T09:00:00+02:00</updated><id>http://localhost:4000/news/2025/06/05/seminar</id><content type="html" xml:base="http://localhost:4000/news/2025/06/05/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 12th</strong> of June,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
 <strong>Carlos Martins</strong> from the Institute of Astrophysics and Space
 Sciences, Porto (Portugal).</p>
@@ -21,7 +97,7 @@ the simplest defects, such as plain cosmic strings, but in more general
 have worldsheet charges and currents, other cosmological scaling solutions
 can in principle occur, depending on the microphysics of the model. I
 will present a taxonomy of these solutions, and briefly comment on how
-different models could be distinguished in the event of future detections.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 12th of June, room E349 at 2:00pm. We will have the pleasure to listen to Carlos Martins from the Institute of Astrophysics and Space Sciences, Porto (Portugal).]]></summary></entry><entry><title type="html">Time-reversed Stochastic Inflation</title><link href="https://curl.group/news/2025/05/16/2504.17680.html" rel="alternate" type="text/html" title="Time-reversed Stochastic Inflation" /><published>2025-05-16T09:00:00+02:00</published><updated>2025-05-16T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/16/2504.17680</id><content type="html" xml:base="https://curl.group/news/2025/05/16/2504.17680.html"><![CDATA[<p>Stochastic Inflation is a regime of Cosmic Inflation in which <a href="https://en.wikipedia.org/wiki/Quantum_fluctuation"><strong>quantum
+different models could be distinguished in the event of future detections.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 12th of June, room E349 at 2:00pm. We will have the pleasure to listen to Carlos Martins from the Institute of Astrophysics and Space Sciences, Porto (Portugal).]]></summary></entry><entry><title type="html">Time-reversed Stochastic Inflation</title><link href="http://localhost:4000/news/2025/05/16/2504.17680.html" rel="alternate" type="text/html" title="Time-reversed Stochastic Inflation" /><published>2025-05-16T09:00:00+02:00</published><updated>2025-05-16T09:00:00+02:00</updated><id>http://localhost:4000/news/2025/05/16/2504.17680</id><content type="html" xml:base="http://localhost:4000/news/2025/05/16/2504.17680.html"><![CDATA[<p>Stochastic Inflation is a regime of Cosmic Inflation in which <a href="https://en.wikipedia.org/wiki/Quantum_fluctuation"><strong>quantum
 fluctuations</strong></a>
 dominate over the semi-classical evolution. If triggered, it can
 create strong inhomogeneities and, possibly, a multiverse structure with
@@ -164,7 +240,7 @@ potential. The distribution of \(\zeta\) ends up being peaked around
 vanishing values with a width typically given by \(\chi_0^2\). As
 such, it is very well possible that our observable universe is a
 classical slice sandwiched between two quantum worlds, the very small
-and the very large!</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Stochastic Inflation is a regime of Cosmic Inflation in which quantum fluctuations dominate over the semi-classical evolution. If triggered, it can create strong inhomogeneities and, possibly, a multiverse structure with eternally inflating regions. By reversing time, Baptiste and Christophe have developed a new formalism to compute the statistics of these inhomogeneities and apply it to the flat semi-infinite potential where stochastic inflation is purely quantum.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/05/09/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-05-09T09:00:00+02:00</published><updated>2025-05-09T09:00:00+02:00</updated><id>https://curl.group/news/2025/05/09/seminar</id><content type="html" xml:base="https://curl.group/news/2025/05/09/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 16th</strong> of May,
+and the very large!</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Stochastic Inflation is a regime of Cosmic Inflation in which quantum fluctuations dominate over the semi-classical evolution. If triggered, it can create strong inhomogeneities and, possibly, a multiverse structure with eternally inflating regions. By reversing time, Baptiste and Christophe have developed a new formalism to compute the statistics of these inhomogeneities and apply it to the flat semi-infinite potential where stochastic inflation is purely quantum.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="http://localhost:4000/news/2025/05/09/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-05-09T09:00:00+02:00</published><updated>2025-05-09T09:00:00+02:00</updated><id>http://localhost:4000/news/2025/05/09/seminar</id><content type="html" xml:base="http://localhost:4000/news/2025/05/09/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 16th</strong> of May,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
 <strong>Eleni Tsaprazi</strong> from Imperial College (London, United Kingdom).</p>
 
@@ -184,7 +260,7 @@ Bayesian frameworks designed to both mitigate systematics and harness
 the full statistical power of current and forthcoming datasets. I
 will demonstrate applications on clustering and Type Ia supernova
 cosmology, concluding with a perspective on future developments aimed
-at maximising the scientific return of next-generation surveys.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 16th of May, room E349 at 2:00pm. We will have the pleasure to listen to Eleni Tsaprazi from Imperial College (London, United Kingdom).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/04/01/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-04-01T09:00:00+02:00</published><updated>2025-04-01T09:00:00+02:00</updated><id>https://curl.group/news/2025/04/01/seminar</id><content type="html" xml:base="https://curl.group/news/2025/04/01/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 4th</strong> of April,
+at maximising the scientific return of next-generation surveys.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 16th of May, room E349 at 2:00pm. We will have the pleasure to listen to Eleni Tsaprazi from Imperial College (London, United Kingdom).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="http://localhost:4000/news/2025/04/01/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-04-01T09:00:00+02:00</published><updated>2025-04-01T09:00:00+02:00</updated><id>http://localhost:4000/news/2025/04/01/seminar</id><content type="html" xml:base="http://localhost:4000/news/2025/04/01/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 4th</strong> of April,
 <strong>room E349</strong> at <strong>10:00am</strong>. We will have the pleasure to listen to
 <strong>Siyao Li</strong> from the Institute of Science (Tokyo, Japan) and the
 Institute of Basic Science (Daejeon, South Korea).</p>
@@ -208,7 +284,7 @@ parametric resonance. We find this exponential growth can destroy
 oscillon structure very rapidly when the coupling is very
 strong. Interestingly, we also find an unexpected large intermediate
 coupling regime where the decay of oscillon is only temporarily
-accelerated by the massive external field.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 4th of April, room E349 at 10:00am. We will have the pleasure to listen to Siyao Li from the Institute of Science (Tokyo, Japan) and the Institute of Basic Science (Daejeon, South Korea).]]></summary></entry><entry><title type="html">Cosmology Seminars</title><link href="https://curl.group/news/2025/03/24/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars" /><published>2025-03-24T08:00:00+01:00</published><updated>2025-03-24T08:00:00+01:00</updated><id>https://curl.group/news/2025/03/24/seminars</id><content type="html" xml:base="https://curl.group/news/2025/03/24/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 28th</strong> of March,
+accelerated by the massive external field.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 4th of April, room E349 at 10:00am. We will have the pleasure to listen to Siyao Li from the Institute of Science (Tokyo, Japan) and the Institute of Basic Science (Daejeon, South Korea).]]></summary></entry><entry><title type="html">Cosmology Seminars</title><link href="http://localhost:4000/news/2025/03/24/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars" /><published>2025-03-24T08:00:00+01:00</published><updated>2025-03-24T08:00:00+01:00</updated><id>http://localhost:4000/news/2025/03/24/seminars</id><content type="html" xml:base="http://localhost:4000/news/2025/03/24/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 28th</strong> of March,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We have the pleasure to listen to our new
 members, <strong>Chiara Animali</strong> and <strong>Eemeli Tomberg</strong>.</p>
 
@@ -249,7 +325,7 @@ Markovian approximation. If this approximation is dropped, the
 different schemes become equivalent. Then, using stochastic tools, I
 discuss eternal inflation in models that produce primordial black
 holes. I argue that eternal inflation is common in these models and
-may jeopardize their CMB predictions.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 28th of March, room E349 at 2:00pm. We have the pleasure to listen to our new members, Chiara Animali and Eemeli Tomberg.]]></summary></entry><entry><title type="html">Harvesting primordial black holes from stochastic trees</title><link href="https://curl.group/news/2025/01/29/2501.05371.html" rel="alternate" type="text/html" title="Harvesting primordial black holes from stochastic trees" /><published>2025-01-29T08:00:00+01:00</published><updated>2025-01-29T08:00:00+01:00</updated><id>https://curl.group/news/2025/01/29/2501.05371</id><content type="html" xml:base="https://curl.group/news/2025/01/29/2501.05371.html"><![CDATA[<p>In a recent publication,
+may jeopardize their CMB predictions.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 28th of March, room E349 at 2:00pm. We have the pleasure to listen to our new members, Chiara Animali and Eemeli Tomberg.]]></summary></entry><entry><title type="html">Harvesting primordial black holes from stochastic trees</title><link href="http://localhost:4000/news/2025/01/29/2501.05371.html" rel="alternate" type="text/html" title="Harvesting primordial black holes from stochastic trees" /><published>2025-01-29T08:00:00+01:00</published><updated>2025-01-29T08:00:00+01:00</updated><id>http://localhost:4000/news/2025/01/29/2501.05371</id><content type="html" xml:base="http://localhost:4000/news/2025/01/29/2501.05371.html"><![CDATA[<p>In a recent publication,
 <a href="/members/animali"><strong>Chiara</strong></a>, <a href="/members/auclair"><strong>Pierre</strong></a> and
 <a href="/members/blachier"><strong>Baptiste</strong></a>, together with <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
 Vennin</strong></a>,
@@ -317,7 +393,7 @@ mild power-law distribution terminated by exponential tails. The following figur
 shows the mass distribution as a function of the size of the quantum
 well \(\mu\).</p>
 
-<p><img src="/assets/images/2501.05371/hist_pbhs.png" alt="hist" title="Mass distribution of formed PBHs" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Chiara, Pierre and Baptiste, together with Vincent Vennin, have developed a novel framework to implement stochastic inflation on random trees. These trees represent dynamically how different regions of space grow and gradually become causally disconnected.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/01/23/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-01-23T08:00:00+01:00</published><updated>2025-01-23T08:00:00+01:00</updated><id>https://curl.group/news/2025/01/23/seminar</id><content type="html" xml:base="https://curl.group/news/2025/01/23/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 30th</strong> of January,
+<p><img src="/assets/images/2501.05371/hist_pbhs.png" alt="hist" title="Mass distribution of formed PBHs" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Chiara, Pierre and Baptiste, together with Vincent Vennin, have developed a novel framework to implement stochastic inflation on random trees. These trees represent dynamically how different regions of space grow and gradually become causally disconnected.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="http://localhost:4000/news/2025/01/23/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-01-23T08:00:00+01:00</published><updated>2025-01-23T08:00:00+01:00</updated><id>http://localhost:4000/news/2025/01/23/seminar</id><content type="html" xml:base="http://localhost:4000/news/2025/01/23/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 30th</strong> of January,
 <strong>room E349</strong> at <strong>4:00pm</strong>. Our guest speaker is <strong>Anish Ghoshal</strong> from <strong>Warsaw U.</strong> (Poland).</p>
 
 <hr />
@@ -364,7 +440,7 @@ well \(\mu\).</p>
  \(10^9\mathrm{g}\) for local strings with tension \(G\mu =
  10^{-11}\), and PBHs masses between \(10^4\mathrm{g}\) and
  \(10^9\mathrm{g}\) for global strings with symmetry-breaking scale
- \(\eta = 10^{15}\mathrm{GeV}\).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of January, room E349 at 4:00pm. Our guest speaker is Anish Ghoshal from Warsaw U. (Poland).]]></summary></entry><entry><title type="html">Cosmology Seminars Marathon</title><link href="https://curl.group/news/2024/12/11/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars Marathon" /><published>2024-12-11T08:00:00+01:00</published><updated>2024-12-11T08:00:00+01:00</updated><id>https://curl.group/news/2024/12/11/seminars</id><content type="html" xml:base="https://curl.group/news/2024/12/11/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 13th</strong> of December,
+ \(\eta = 10^{15}\mathrm{GeV}\).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of January, room E349 at 4:00pm. Our guest speaker is Anish Ghoshal from Warsaw U. (Poland).]]></summary></entry><entry><title type="html">Cosmology Seminars Marathon</title><link href="http://localhost:4000/news/2024/12/11/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars Marathon" /><published>2024-12-11T08:00:00+01:00</published><updated>2024-12-11T08:00:00+01:00</updated><id>http://localhost:4000/news/2024/12/11/seminars</id><content type="html" xml:base="http://localhost:4000/news/2024/12/11/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 13th</strong> of December,
 seminar <strong>room E349</strong> at <strong>9:45am</strong>. Our guest speakers are <strong>Jibril
 Ben Achour</strong> from <strong>Munich U.</strong> (Germany) and Hugo Roussille from
 <strong>ENS Lyon</strong> (France).</p>
@@ -411,7 +487,7 @@ Ben Achour</strong> from <strong>Munich U.</strong> (Germany) and Hugo Roussille
  vacuum radiative solutions of General Relativity. These quadratic
  perturbations can still be expressed analytically, similarly to their
  linear sources. I study their properties and show in particular how
- static quadratic perturbations deform the Schwarzschild black hole.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 13th of December, seminar room E349 at 9:45am. Our guest speakers are Jibril Ben Achour from Munich U. (Germany) and Hugo Roussille from ENS Lyon (France).]]></summary></entry><entry><title type="html">Vanilla Inflation Predicts Negative Running</title><link href="https://curl.group/news/2024/10/17/2404.15089.html" rel="alternate" type="text/html" title="Vanilla Inflation Predicts Negative Running" /><published>2024-10-17T09:00:00+02:00</published><updated>2024-10-17T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/17/2404.15089</id><content type="html" xml:base="https://curl.group/news/2024/10/17/2404.15089.html"><![CDATA[<p>Within the landscape of single-field slow-roll models, and given the
+ static quadratic perturbations deform the Schwarzschild black hole.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 13th of December, seminar room E349 at 9:45am. Our guest speakers are Jibril Ben Achour from Munich U. (Germany) and Hugo Roussille from ENS Lyon (France).]]></summary></entry><entry><title type="html">Vanilla Inflation Predicts Negative Running</title><link href="http://localhost:4000/news/2024/10/17/2404.15089.html" rel="alternate" type="text/html" title="Vanilla Inflation Predicts Negative Running" /><published>2024-10-17T09:00:00+02:00</published><updated>2024-10-17T09:00:00+02:00</updated><id>http://localhost:4000/news/2024/10/17/2404.15089</id><content type="html" xml:base="http://localhost:4000/news/2024/10/17/2404.15089.html"><![CDATA[<p>Within the landscape of single-field slow-roll models, and given the
 present cosmological data, we show that Cosmic Inflation predicts a
 small negative running of the spectral index of the cosmological
 fluctuations. This quantity imprints the large scale structures of the
@@ -500,48 +576,4 @@ single-field models, one gets</p>
 of the running are allowed within the prior. Therefore, only the
 combination of the current cosmological data and the hypothesis that
 inflation occurred within the landscape of single-field models allows
-us to make the prediction that the running is negative.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Within the landscape of single-field slow-roll models, and given the present cosmological data, we show that Cosmic Inflation predicts a small negative running of the spectral index of the cosmological fluctuations. This quantity imprints the large scale structures of the universe and we have just made a prediction for its value. Will it be measured negative and small?]]></summary></entry><entry><title type="html">Clocking the End of Cosmic Inflation</title><link href="https://curl.group/news/2024/10/01/2406.14152.html" rel="alternate" type="text/html" title="Clocking the End of Cosmic Inflation" /><published>2024-10-01T09:00:00+02:00</published><updated>2024-10-01T09:00:00+02:00</updated><id>https://curl.group/news/2024/10/01/2406.14152</id><content type="html" xml:base="https://curl.group/news/2024/10/01/2406.14152.html"><![CDATA[<p>Making observable predictions for cosmic inflation requires
-determining when the wavenumbers of astrophysical interest today
-exited the Hubble radius during the inflationary epoch. These instants
-are commonly evaluated using the slow-roll approximation and measured
-in e-folds time. <a href="/members/auclair"><strong>Pierre</strong></a>,
-<a href="/members/blachier"><strong>Baptiste</strong></a> and <a href="/members/chris"><strong>Christophe</strong></a>
-propose a new analytical method to determine these instants with a
-precision reaching the tenth of an e-fold.</p>
-
-<p>Cosmic Inflation is the leading explanation for the origin of cosmic
-structures: these are seeded by quantum fluctuations occurring around
-the event horizon of a exponentially fast accelerating space-time, see
-this <a href="/news/2022/09/15/2205.12608.html"><strong>post</strong></a>. By measuring
-the distribution of galaxies in our universe, the
-<a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)"><strong>Euclid</strong></a>
-satellite is expected to provide very soon new exquisite measurements of these
-fluctuations. Testing cosmic inflation will therefore require to have
-exquisite predictions as well.</p>
-
-<p>Observable predictions currently rely on the slow-roll approximation
-to determine the so-called e-fold times \(\Delta N=N−N_\mathrm{end}\),
-in reference to the e-fold \(N_\mathrm{end}\) at which inflation
-ended. These instants are actually used to map structures in the sky
-to quantum fluctuations during inflation. The precision at which they
-are determined is not so good, they are typically known at
-\(\mathcal{O}(1)\) e-fold precision. The following figure uses a full
-numerical integration of various inflationary models to compute the
-error made (vertical axis) using the slow-roll approximation as a
-function of the exact timing (horizontal axis).</p>
-
-<p><img src="/assets/images/2406.14152/fooisr.png" alt="sr" /></p>
-
-<p>In Ref. <a class="citation" href="#auclair:2024udj">[1]</a>, we propose a new and simple
-<strong>velocity correction</strong>, on top of slow-roll, that increases by one
-order of magnitude the precision on \(\Delta N\). As
-shown in the following figure, when compared to the exact solution,
-our new method reaches an precision of about a tenth of e-fold (<strong>blue
-curve</strong> compared to the red one).</p>
-
-<p><img src="/assets/images/2406.14152/fooivce.png" alt="vce" /></p>
-
-<p>The other curves (green and purple) show other corrections, improving
-the determination of \(\phi_\mathrm{end}\), the field value at which
-inflation ends. These ones may, or may not, improve over the velocity
-correction, depending on the model at hand.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Making observable predictions for cosmic inflation requires determining when the wavenumbers of astrophysical interest today exited the Hubble radius during the inflationary epoch. These instants are commonly evaluated using the slow-roll approximation and measured in e-folds time. Pierre, Baptiste and Christophe propose a new analytical method to determine these instants with a precision reaching the tenth of an e-fold.]]></summary></entry></feed>
+us to make the prediction that the running is negative.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Within the landscape of single-field slow-roll models, and given the present cosmological data, we show that Cosmic Inflation predicts a small negative running of the spectral index of the cosmological fluctuations. This quantity imprints the large scale structures of the universe and we have just made a prediction for its value. Will it be measured negative and small?]]></summary></entry></feed>
