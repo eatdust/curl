@@ -6,8 +6,8 @@ date: 2025-01-29 08:00:00 +0100
 ---
 
 In a recent publication,
-[**Chiara**](/members/animali), [**Pierre**](/members/auclair) and
-[**Baptiste**](/members/blachier), together with [**Vincent
+[**Chiara**](/members/animali.html), [**Pierre**](/members/auclair.html) and
+[**Baptiste**](/members/blachier.html), together with [**Vincent
 Vennin**](https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en),
 have developed a novel framework to implement stochastic inflation on
 random trees. These trees represent dynamically how different

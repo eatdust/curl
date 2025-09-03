@@ -9,8 +9,8 @@ Making observable predictions for cosmic inflation requires
 determining when the wavenumbers of astrophysical interest today
 exited the Hubble radius during the inflationary epoch. These instants
 are commonly evaluated using the slow-roll approximation and measured
-in e-folds time. [**Pierre**](/members/auclair),
-[**Baptiste**](/members/blachier) and [**Christophe**](/members/chris)
+in e-folds time. [**Pierre**](/members/auclair.html),
+[**Baptiste**](/members/blachier.html) and [**Christophe**](/members/chris.html)
 propose a new analytical method to determine these instants with a
 precision reaching the tenth of an e-fold.
 

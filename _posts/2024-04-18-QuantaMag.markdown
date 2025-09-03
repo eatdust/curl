@@ -5,7 +5,7 @@ category: Outreach
 date: 2024-04-18 08:00:00 +0100
 ---
 
-[**Pierre**](/members/auclair) gave an interview for [**Quanta
+[**Pierre**](/members/auclair.html) gave an interview for [**Quanta
 Magazine**](https://en.wikipedia.org/wiki/Quanta_Magazine) in an
 article dedicated to the [**LISA**](https://en.wikipedia.org/wiki/Laser_Interferometer_Space_Antenna) mission.
 

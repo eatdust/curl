@@ -8,7 +8,7 @@ date: 2020-07-13 09:42:07 +0100
 The two recent gravitational-wave events GW190425 and GW190814 from
 the third observing run of LIGO/Virgo have both a companion which is
 unexpected if originated from a neutron star or a stellar black
-hole. [**Sébastien**](/members/clesse) and [**Juan
+hole. [**Sébastien**](/members/clesse.html) and [**Juan
 García-Bellido**](https://uam.academia.edu/JuanGarciaBellido)
 investigate the possibility that these objects are Primordial Black
 Holes (PBHs) in Ref. {% cite clesse:2020ghq %}.

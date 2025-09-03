@@ -10,7 +10,7 @@ fluctuations**](https://en.wikipedia.org/wiki/Quantum_fluctuation)
 dominate over the semi-classical evolution. If triggered, it can
 create strong inhomogeneities and, possibly, a multiverse structure with
 eternally inflating regions. By reversing time,
-[**Baptiste**](/members/blachier) and [**Christophe**](/members/chris)
+[**Baptiste**](/members/blachier.html) and [**Christophe**](/members/chris.html)
 have developed a new formalism to compute the statistics of these
 inhomogeneities and apply it to the flat semi-infinite potential where
 stochastic inflation is purely quantum.

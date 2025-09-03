@@ -8,7 +8,7 @@ date: 2023-07-03 08:00:00 +0100
 Plusieurs collaborations internationales en
 [**radio-astronomie**](https://fr.wikipedia.org/wiki/Radioastronomie)
 viennent d'annoncer la première détection du **fond stochastique
-d'ondes gravitationnelles**. [**Pierre**](/members/auclair) a
+d'ondes gravitationnelles**. [**Pierre**](/members/auclair.html) a
 cosigné la publication de
 l'[**EPTA**](https://en.wikipedia.org/wiki/European_Pulsar_Timing_Array).
 
@@ -27,7 +27,7 @@ Hertz. C'est une découverte majeure qui devrait nous permettre d'en
 apprendre beaucoup sur la formation des galaxies et sur la physique a
 l’œuvre dans tout l'Univers.
 
-Les contributions de [**Pierre**](/members/auclair) à la
+Les contributions de [**Pierre**](/members/auclair.html) à la
 publication de EPTA, Ref. {% cite antoniadis:2023xlr %}, concernent l'analyse des
 différentes sources cosmologiques possibles, dont les
 **cordes cosmiques**, un des domaines d'expertise de [**CURL**](/).

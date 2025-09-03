@@ -7,7 +7,7 @@ date: 2025-09-01 08:00:00 +0100
 
 In collaboration with [**Konstantinos
 Dimopoulos**](https://www.lancaster.ac.uk/physics/about-us/people/konstantinos-dimopoulos)
-from the University of Lancaster, [**Eemeli**](/members/tomberg) has
+from the University of Lancaster, [**Eemeli**](/members/tomberg.html) has
 studied the possibility of eternal inflation in models that produce
 primordial black holes.
 

@@ -6,8 +6,8 @@ date: 2024-04-10 08:00:00 +0100
 ---
 
 Are primordial black holes already clustered in the early universe?
-In a recent publication, [**Baptiste**](/members/blachier) and
-[**Pierre**](/members/auclair) tackle the clustering problem of these
+In a recent publication, [**Baptiste**](/members/blachier.html) and
+[**Pierre**](/members/auclair.html) tackle the clustering problem of these
 enigmatic objects using an excursion-set approach to deal with the
 so-called "cloud-in-cloud" mechanism.
 
@@ -20,8 +20,8 @@ insights into the evolution of structure formation in the universe and
 could potentially help in assessing how much, and when, binaries of
 these objects appear.
 
-In Ref. {% cite auclair:2024jwj %}, [**Pierre**](/members/auclair)
-and [**Baptiste**](/members/blachier) have used the excursion-set
+In Ref. {% cite auclair:2024jwj %}, [**Pierre**](/members/auclair.html)
+and [**Baptiste**](/members/blachier.html) have used the excursion-set
 formalism to quantify the initial spatial clustering of PBHs generated
 from large Gaussian density fluctuations. Their method takes into
 account the "cloud-in-cloud" mechanism, which is a critical aspect
