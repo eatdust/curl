@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-09-02T18:04:28+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Eternal inflation near inflection points</title><link href="https://curl.group/news/2025/09/01/2507.15522.html" rel="alternate" type="text/html" title="Eternal inflation near inflection points" /><published>2025-09-01T09:00:00+02:00</published><updated>2025-09-01T09:00:00+02:00</updated><id>https://curl.group/news/2025/09/01/2507.15522</id><content type="html" xml:base="https://curl.group/news/2025/09/01/2507.15522.html"><![CDATA[<p>In collaboration with <a href="https://www.lancaster.ac.uk/physics/about-us/people/konstantinos-dimopoulos"><strong>Konstantinos
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-09-03T11:41:05+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Eternal inflation near inflection points</title><link href="https://curl.group/news/2025/09/01/2507.15522.html" rel="alternate" type="text/html" title="Eternal inflation near inflection points" /><published>2025-09-01T09:00:00+02:00</published><updated>2025-09-01T09:00:00+02:00</updated><id>https://curl.group/news/2025/09/01/2507.15522</id><content type="html" xml:base="https://curl.group/news/2025/09/01/2507.15522.html"><![CDATA[<p>In collaboration with <a href="https://www.lancaster.ac.uk/physics/about-us/people/konstantinos-dimopoulos"><strong>Konstantinos
 Dimopoulos</strong></a>
-from the University of Lancaster, <a href="/members/tomberg"><strong>Eemeli</strong></a> has
+from the University of Lancaster, <a href="/members/tomberg.html"><strong>Eemeli</strong></a> has
 studied the possibility of eternal inflation in models that produce
 primordial black holes.</p>
 
@@ -102,7 +102,7 @@ fluctuations</strong></a>
 dominate over the semi-classical evolution. If triggered, it can
 create strong inhomogeneities and, possibly, a multiverse structure with
 eternally inflating regions. By reversing time,
-<a href="/members/blachier"><strong>Baptiste</strong></a> and <a href="/members/chris"><strong>Christophe</strong></a>
+<a href="/members/blachier.html"><strong>Baptiste</strong></a> and <a href="/members/chris.html"><strong>Christophe</strong></a>
 have developed a new formalism to compute the statistics of these
 inhomogeneities and apply it to the flat semi-infinite potential where
 stochastic inflation is purely quantum.</p>
@@ -326,8 +326,8 @@ different schemes become equivalent. Then, using stochastic tools, I
 discuss eternal inflation in models that produce primordial black
 holes. I argue that eternal inflation is common in these models and
 may jeopardize their CMB predictions.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 28th of March, room E349 at 2:00pm. We have the pleasure to listen to our new members, Chiara Animali and Eemeli Tomberg.]]></summary></entry><entry><title type="html">Harvesting primordial black holes from stochastic trees</title><link href="https://curl.group/news/2025/01/29/2501.05371.html" rel="alternate" type="text/html" title="Harvesting primordial black holes from stochastic trees" /><published>2025-01-29T08:00:00+01:00</published><updated>2025-01-29T08:00:00+01:00</updated><id>https://curl.group/news/2025/01/29/2501.05371</id><content type="html" xml:base="https://curl.group/news/2025/01/29/2501.05371.html"><![CDATA[<p>In a recent publication,
-<a href="/members/animali"><strong>Chiara</strong></a>, <a href="/members/auclair"><strong>Pierre</strong></a> and
-<a href="/members/blachier"><strong>Baptiste</strong></a>, together with <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
+<a href="/members/animali.html"><strong>Chiara</strong></a>, <a href="/members/auclair.html"><strong>Pierre</strong></a> and
+<a href="/members/blachier.html"><strong>Baptiste</strong></a>, together with <a href="https://www.lpens.ens.psl.eu/vincent-vennin/?lang=en"><strong>Vincent
 Vennin</strong></a>,
 have developed a novel framework to implement stochastic inflation on
 random trees. These trees represent dynamically how different
