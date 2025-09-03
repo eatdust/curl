@@ -8,7 +8,7 @@ body {
 	to bottom,
 	color.adjust(variables.$sidebar-bg-color, $lightness:- 100%),
 	color.adjust(variables.$sidebar-totob-color, $lightness: -5%),
-      	color.adjust(variables.$sidebar-totor-color, $lightness: 10%)),url(../images/sdss_j1038_h.png),url(../images/gradmag_h.png),url(../images/background.png); 
+      	color.adjust(variables.$sidebar-totor-color, $lightness: 10%)),url(../images/sdss_j1038_h.png),url(../images/gradmag_h_ring.jpg),url(../images/background.png); 
     background-blend-mode: lighten;
     background-repeat: repeat-y, no-repeat, repeat-x, repeat;
     background-position: center, left top, left top, center;
