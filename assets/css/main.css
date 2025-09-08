@@ -828,10 +828,12 @@ h2.post-title, h2.page-title {
   font-size: 0.8em;
   margin-right: 0.5rem;
   white-space: nowrap;
-  opacity: 0.75;
 }
 .post-tags a .tag-name {
   text-transform: capitalize;
+}
+.post-tags a {
+  opacity: 0.75;
 }
 .post-tags a:hover {
   text-decoration: none;
