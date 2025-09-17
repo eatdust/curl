@@ -14,6 +14,6 @@ orientation: portrait
 bibfile: suyama
 bibname: teruaki suyama
 position: 'Full Professor'
-location: 'Tokyo Institute of Technology, Tokyo (Japan)'
+location: 'Institute of Science Tokyo (Japan)'
 visiting:
 ---

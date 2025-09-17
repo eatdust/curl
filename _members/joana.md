@@ -7,14 +7,14 @@ from: 2019, January 01
 to: 2023, January 31
 office: E354
 phone: +32 10 47 3155
-email: cristian.joana@itp.ac.cn
+email: cjoana@proton.me
 homepage: https://cjoana.github.io
 image: /assets/images/people/joana.png
 orientation: portrait
 bibfile: joana
 bibname: "Joana, Cristian"
 position: Post-doctoral researcher
-location: Institute of Theoretical Physics, Beijing (China)
+location: International Centre for Theoretical Physics Asia-Pacific, Beijing (China)
 ---
 
 I am involved in the use and development of numerical relativity tools

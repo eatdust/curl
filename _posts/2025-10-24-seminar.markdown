@@ -1,0 +1,36 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-10-13 08:00:00 +0100
+---
+
+The second cosmology seminar of the week takes place on **Friday 24th** of October,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+**José Beltrán Jiménez** from the Gravitation and Cosmology Group, University of Salamanca (Spain).
+
+
+At 2:00pm, room E349, **José Beltrán Jiménez** will be talking about
+
+### Electromagnetically K-mouflaged dark matter and the ladder symmetries of screened objects
+
+*I will discuss a cosmological scenario where dark matter is provided
+with a dark electric charge with a dark electromagnetic sector
+featuring a screening mechanism so that all the effects only appear at
+low redshift, when dark matter is sufficiently clustered. Within these
+models, it is natural to have a universe described by a Lemaitre model
+instead of a FLRW. Instead of solving the full relativistic equations,
+I will consider a Newtonian approach that is sufficient for a matter
+dominated universe with, possibly, a cosmological constant. In this
+scenario, it is possible to explain the Hubble tension in terms of the
+dark electric repulsion between dark matter halos. After reviewing
+some phenomenological consequences, I will proceed to analysing the
+deformability of dark matter haloes due to the dark electromagnetic
+interaction and show the emergence of a curious 2-ladder structure
+connecting different multipoles for the case of Born-Infeld
+electromagnetism. Furthermore, some multipoles exhibit a vanishing
+polarisability or magnetisation, thus showing an intriguing
+resemblance with the vanishing of the Love numbers of black
+holes. Finally, I will explain how analogous results arise for the
+scalar DBI theories in arbitrary dimensions and some finite size
+effects.*

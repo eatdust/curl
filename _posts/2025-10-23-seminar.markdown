@@ -1,0 +1,31 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-10-13 08:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Thursday 23rd** of October,
+**room E349** at **11:00am**. We will have the pleasure to listen to
+**José Beltrán Jiménez** from the Gravitation and Cosmology Group, University of Salamanca (Spain).
+
+
+At 11:00am, room E349, **José Beltrán Jiménez** will be talking about
+
+### The Cosmological Principle: its non-trivial realisations with some phenomenological consequences
+
+*The Cosmological Principle is one of the pillars of the standard
+ model of cosmology and it is commonly realised in a trivial way with
+ homogeneous SO(3)-scalars. I will discuss several scenarios where the
+ matter sector realises the Cosmological Principle in a non-trivial
+ manner by resorting to combinations of spacetime and internal
+ symmetries. These scenarios include the effective field theory of
+ fluids and solids (as well as their dual formulations), but more
+ general setups based on e.g. vector fields with internal
+ symmetries. A natural consequence of some of these scenarios is the
+ appearance of a second helicity-2 mode in the cosmological
+ perturbations that produces oscillations of gravitational waves with
+ distinctive signatures. I will also discuss some intriguing
+ realisations that occur on shell and lead to the possibility of
+ having preferred directions in an exactly isotropic background
+ universe.*
