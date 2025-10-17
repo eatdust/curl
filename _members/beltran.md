@@ -14,8 +14,8 @@ orientation: portrait
 bibfile: beltran
 bibname: beltran jimenez
 position: 'Associate Professor'
-location:  'University of Salamanca (Spain)'
-visiting: 
+location: 'University of Salamanca (Spain)'
+visiting: 'yes'
 ---
 
 Cosmology, dark energy, modified gravity.
