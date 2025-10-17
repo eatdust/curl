@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-10-13T17:58:57+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/10/13/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-10-13T09:00:00+02:00</published><updated>2025-10-13T09:00:00+02:00</updated><id>https://curl.group/news/2025/10/13/seminar</id><content type="html" xml:base="https://curl.group/news/2025/10/13/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 23rd</strong> of October,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-10-17T14:09:04+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar++</title><link href="https://curl.group/news/2025/10/14/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar++" /><published>2025-10-14T09:00:00+02:00</published><updated>2025-10-14T09:00:00+02:00</updated><id>https://curl.group/news/2025/10/14/seminar</id><content type="html" xml:base="https://curl.group/news/2025/10/14/seminar.html"><![CDATA[<p>The second cosmology seminar of the week takes place on <strong>Friday 24th</strong> of October,
+<strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
+<strong>José Beltrán Jiménez</strong> from the Gravitation and Cosmology Group, University of Salamanca (Spain).</p>
+
+<p>At 2:00pm, room E349, <strong>José Beltrán Jiménez</strong> will be talking about</p>
+
+<h3 id="electromagnetically-k-mouflaged-dark-matter-and-the-ladder-symmetries-of-screened-objects">Electromagnetically K-mouflaged dark matter and the ladder symmetries of screened objects</h3>
+
+<p><em>I will discuss a cosmological scenario where dark matter is provided
+with a dark electric charge with a dark electromagnetic sector
+featuring a screening mechanism so that all the effects only appear at
+low redshift, when dark matter is sufficiently clustered. Within these
+models, it is natural to have a universe described by a Lemaitre model
+instead of a FLRW. Instead of solving the full relativistic equations,
+I will consider a Newtonian approach that is sufficient for a matter
+dominated universe with, possibly, a cosmological constant. In this
+scenario, it is possible to explain the Hubble tension in terms of the
+dark electric repulsion between dark matter halos. After reviewing
+some phenomenological consequences, I will proceed to analysing the
+deformability of dark matter haloes due to the dark electromagnetic
+interaction and show the emergence of a curious 2-ladder structure
+connecting different multipoles for the case of Born-Infeld
+electromagnetism. Furthermore, some multipoles exhibit a vanishing
+polarisability or magnetisation, thus showing an intriguing
+resemblance with the vanishing of the Love numbers of black
+holes. Finally, I will explain how analogous results arise for the
+scalar DBI theories in arbitrary dimensions and some finite size
+effects.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The second cosmology seminar of the week takes place on Friday 24th of October, room E349 at 2:00pm. We will have the pleasure to listen to José Beltrán Jiménez from the Gravitation and Cosmology Group, University of Salamanca (Spain).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/10/13/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-10-13T09:00:00+02:00</published><updated>2025-10-13T09:00:00+02:00</updated><id>https://curl.group/news/2025/10/13/seminar</id><content type="html" xml:base="https://curl.group/news/2025/10/13/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 23rd</strong> of October,
 <strong>room E349</strong> at <strong>11:00am</strong>. We will have the pleasure to listen to
 <strong>José Beltrán Jiménez</strong> from the Gravitation and Cosmology Group, University of Salamanca (Spain).</p>
 
@@ -462,51 +489,4 @@ well \(\mu\).</p>
  \(10^9\mathrm{g}\) for local strings with tension \(G\mu =
  10^{-11}\), and PBHs masses between \(10^4\mathrm{g}\) and
  \(10^9\mathrm{g}\) for global strings with symmetry-breaking scale
- \(\eta = 10^{15}\mathrm{GeV}\).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of January, room E349 at 4:00pm. Our guest speaker is Anish Ghoshal from Warsaw U. (Poland).]]></summary></entry><entry><title type="html">Cosmology Seminars Marathon</title><link href="https://curl.group/news/2024/12/11/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars Marathon" /><published>2024-12-11T08:00:00+01:00</published><updated>2024-12-11T08:00:00+01:00</updated><id>https://curl.group/news/2024/12/11/seminars</id><content type="html" xml:base="https://curl.group/news/2024/12/11/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 13th</strong> of December,
-seminar <strong>room E349</strong> at <strong>9:45am</strong>. Our guest speakers are <strong>Jibril
-Ben Achour</strong> from <strong>Munich U.</strong> (Germany) and Hugo Roussille from
-<strong>ENS Lyon</strong> (France).</p>
-
-<hr />
-
-<p>At 9:45am, room E349,  <strong>Jibril Ben Achour</strong>, will be talking about</p>
-
-<h3 id="classification-of-gravitational-memory-effects-in-a-vacuum-gravitational-plane-wave">Classification of gravitational memory effects in a vacuum gravitational plane wave</h3>
-
-<p><em>Gravitational memory effects are permanent and cumulative shifts of
- relative observables (distance, velocity, angular momentum …)
- between two test particles induced by the passage of a gravitational
- wave. They stand as one of the last prediction of general relativity
- (GR) yet to be confirmed through the gravitational wave astronomy. In
- turn, they are intimately related to the notion of degeneracy of the
- vacuum in gauge theory and important efforts have been devoted to
- characterize these effects through the relation to the symmetries of
- spacetime. In this talk, I will consider the simplest exact
- non-linear radiative solution of GR, namely a vacuum gravitational
- plane wave, and show step by step how to classify the different
- memory effects occurring in this case. I will show new relation
- between memories and hidden symmetries, and resolve conflicting claim
- in the literature. The goal being to illustrate a concrete method
- based on symmetries and applicable to more complex radiative
- spacetime, in particular asymptotically flat radiative spacetimes.</em></p>
-
-<hr />
-
-<p>At 11am, room E349, <strong>Hugo Roussille</strong> will talk about</p>
-
-<h3 id="algebraically-special-quadratic-schwarzschild-perturbations">Algebraically special quadratic Schwarzschild perturbations</h3>
-
-<p><em>The equations describing linear perturbations around a Schwarzschild
- black hole admit analytical solutions that describe waves of specific
- wavelengths propagating outside the black hole. While perturbations
- around a Schwarzschild black hole are generally of Petrov type I,
- these analytical solutions describe spacetimes of Petrov type II, and
- are thus dubbed ‘algebraically special modes’. The existence of these
- modes is linked to the isospectrality theorem for Schwarzschild. In
- this work, I go beyond the linear approximation and construct
- algebraically special perturbations around a Schwarzschild black hole
- at the quadratic order, making use of a family of exact twisting
- vacuum radiative solutions of General Relativity. These quadratic
- perturbations can still be expressed analytically, similarly to their
- linear sources. I study their properties and show in particular how
- static quadratic perturbations deform the Schwarzschild black hole.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 13th of December, seminar room E349 at 9:45am. Our guest speakers are Jibril Ben Achour from Munich U. (Germany) and Hugo Roussille from ENS Lyon (France).]]></summary></entry></feed>
+ \(\eta = 10^{15}\mathrm{GeV}\).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of January, room E349 at 4:00pm. Our guest speaker is Anish Ghoshal from Warsaw U. (Poland).]]></summary></entry></feed>
