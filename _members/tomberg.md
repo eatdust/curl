@@ -8,7 +8,7 @@ to:
 office: E354
 phone: +32 10 47 3155
 email: eemeli.tomberg@uclouvain.be
-homepage: 
+homepage: https://eemelitomberg.net/
 image: /assets/images/people/tomberg.jpg
 orientation: portrait
 bibfile: tomberg
