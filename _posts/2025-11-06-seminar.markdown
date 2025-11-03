@@ -1,0 +1,41 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-11-07 14:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Friday 14th** of November,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+**Lisa Mickel** from the Institut d'Astrophysique de Paris (IAP, France).
+
+
+At 2:00pm, room E349, **Lisa Mickel** will be talking about
+
+### Trajectories for a superposition quantum universe 
+
+*In the quest to establish possible imprints of quantum gravity one
+can quantise the reduced FLRW phase space to obtain so-called
+minisuperspace models that should be understood as a low energy limit
+of a full quantum gravitational theory. For a minisuperspace model
+that uses a perfect fluid as internal time and an affine quantisation
+procedure one finds solutions for the wave function that correspond to
+bouncing universes, thus resolving the big bang singularity. Starting
+from such a bouncing minisuperspace model we will relax the assumption
+that the state of the quantum universe has to correspond to a single
+highly semiclassical state. Instead, we will consider a universe in a
+superposition of such states, in accordance with the superposition
+principle of quantum mechanics.
+We are then faced with the question of how to extract a semiclassical
+scale factor that can be connected to the classical evolution of GR
+from such a system. Here we propose to make use of the trajectory
+approach to quantum mechanics, which assigns a unique value to the
+scale factor at all times.  We introduce this approach to quantum
+mechanics more generally and show how it can be used to describe a
+single state universe, before continuing to investigate trajectories
+obtained for the case of a biverse (superposition of two semiclassical
+states). These trajectories exhibit features that significantly differ
+from the single state case.  Finally, we illustrate the treatment of
+tensor perturbations on a background given by a biverse trajectory and
+consider the implications of the existence of such a trajectory for
+the evolution of perturbations.*
