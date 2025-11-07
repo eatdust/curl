@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-10-30T15:06:36+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar++</title><link href="https://curl.group/news/2025/10/14/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar++" /><published>2025-10-14T09:00:00+02:00</published><updated>2025-10-14T09:00:00+02:00</updated><id>https://curl.group/news/2025/10/14/seminar</id><content type="html" xml:base="https://curl.group/news/2025/10/14/seminar.html"><![CDATA[<p>The second cosmology seminar of the week takes place on <strong>Friday 31st</strong> of October,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-11-07T15:12:20+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/11/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-11-07T14:00:00+01:00</published><updated>2025-11-07T14:00:00+01:00</updated><id>https://curl.group/news/2025/11/07/seminar</id><content type="html" xml:base="https://curl.group/news/2025/11/07/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 14th</strong> of November,
+<strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
+<strong>Lisa Mickel</strong> from the Institut d’Astrophysique de Paris (IAP, France).</p>
+
+<p>At 2:00pm, room E349, <strong>Lisa Mickel</strong> will be talking about</p>
+
+<h3 id="trajectories-for-a-superposition-quantum-universe">Trajectories for a superposition quantum universe</h3>
+
+<p><em>In the quest to establish possible imprints of quantum gravity one
+can quantise the reduced FLRW phase space to obtain so-called
+minisuperspace models that should be understood as a low energy limit
+of a full quantum gravitational theory. For a minisuperspace model
+that uses a perfect fluid as internal time and an affine quantisation
+procedure one finds solutions for the wave function that correspond to
+bouncing universes, thus resolving the big bang singularity. Starting
+from such a bouncing minisuperspace model we will relax the assumption
+that the state of the quantum universe has to correspond to a single
+highly semiclassical state. Instead, we will consider a universe in a
+superposition of such states, in accordance with the superposition
+principle of quantum mechanics.
+We are then faced with the question of how to extract a semiclassical
+scale factor that can be connected to the classical evolution of GR
+from such a system. Here we propose to make use of the trajectory
+approach to quantum mechanics, which assigns a unique value to the
+scale factor at all times.  We introduce this approach to quantum
+mechanics more generally and show how it can be used to describe a
+single state universe, before continuing to investigate trajectories
+obtained for the case of a biverse (superposition of two semiclassical
+states). These trajectories exhibit features that significantly differ
+from the single state case.  Finally, we illustrate the treatment of
+tensor perturbations on a background given by a biverse trajectory and
+consider the implications of the existence of such a trajectory for
+the evolution of perturbations.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 14th of November, room E349 at 2:00pm. We will have the pleasure to listen to Lisa Mickel from the Institut d’Astrophysique de Paris (IAP, France).]]></summary></entry><entry><title type="html">Cosmology Seminar++</title><link href="https://curl.group/news/2025/10/14/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar++" /><published>2025-10-14T09:00:00+02:00</published><updated>2025-10-14T09:00:00+02:00</updated><id>https://curl.group/news/2025/10/14/seminar</id><content type="html" xml:base="https://curl.group/news/2025/10/14/seminar.html"><![CDATA[<p>The second cosmology seminar of the week takes place on <strong>Friday 31st</strong> of October,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
 <strong>José Beltrán Jiménez</strong> from the Gravitation and Cosmology Group, University of Salamanca (Spain).</p>
 
@@ -442,51 +474,4 @@ mild power-law distribution terminated by exponential tails. The following figur
 shows the mass distribution as a function of the size of the quantum
 well \(\mu\).</p>
 
-<p><img src="/assets/images/2501.05371/hist_pbhs.png" alt="hist" title="Mass distribution of formed PBHs" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Chiara, Pierre and Baptiste, together with Vincent Vennin, have developed a novel framework to implement stochastic inflation on random trees. These trees represent dynamically how different regions of space grow and gradually become causally disconnected.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/01/23/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-01-23T08:00:00+01:00</published><updated>2025-01-23T08:00:00+01:00</updated><id>https://curl.group/news/2025/01/23/seminar</id><content type="html" xml:base="https://curl.group/news/2025/01/23/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 30th</strong> of January,
-<strong>room E349</strong> at <strong>4:00pm</strong>. Our guest speaker is <strong>Anish Ghoshal</strong> from <strong>Warsaw U.</strong> (Poland).</p>
-
-<hr />
-
-<p>At 4pm, room E349,  <strong>Anish Ghoshal</strong>, will be talking about</p>
-
-<h3 id="primordial-black-hole-archaeology-with-gravitational-waves-from-cosmic-strings-and-induced-tensor-perturbations">Primordial Black Hole Archaeology with Gravitational Waves from cosmic strings and induced tensor perturbations</h3>
-
-<p><em>Ultra-low mass primordial black holes (PBH) which may briefly
- dominate the energy density of the universe but completely evaporate
- before the big bang nucleosynthesis (BBN), may lead to interesting
- observable signatures. We propose a novel test of this scenario by
- detecting its characteristic doubly peaked gravitational wave (GW)
- spectrum in future GW observatories. Here the first-order adiabatic
- perturbation from inflation and from the isocurvature perturbations
- due to PBH distribution, source tensor perturbations in second-order
- and lead to two peaks in the induced GW background. These resonant
- peaks are generated at the beginning of standard radiation domination
- in the presence of a prior PBH-dominated era. We explore the
- possibility of probing a class of baryogenesis models wherein the
- emission of massive unstable particles from the PBH evaporation and
- their subsequent decay contributes to the matter-antimatter
- asymmetry. We then include spinning PBHs and consider the emission of
- light relativistic dark sector particles, which contribute to the
- dark radiation (DR) and massive stable dark sector particles, thereby
- accounting for the dark matter (DM) component of the universe. The
- ISGWB can be used to probe the non-thermal production of these heavy
- DM particles, which cannot be accessible in any laboratory
- searches. For the case of DR, we find novel complementarity
- measurements of ΔNeff from these emitted particles and the ISGWB from
- PBH domination. Our results indicate that the ISGWB has a weak
- dependence on the initial PBH spin. However, for gravitons as the DR
- particles, the initial PBH spin plays a significant role, and between
- the only above a critical value of the initial spin parameter \(a_∗\),
- which depends only on initial PBH mass, the graviton emission can be
- probed in the CMB experiment. In the second part of the talk we will
- discuss how such a PBH-dominated era can be probed successfully using
- gravitational waves (GW) emitted by local and global cosmic
- strings. In addition to the step-like suppression of the GW spectrum,
- we propose a novel feature – a knee in the step – which provides
- information on the duration of the PBH-dominated era. Detecting GW
- from cosmic strings by detectors like LISA, ET, or BBO would set
- constraints on PBHs with masses between \(10^6\mathrm{g}\) and
- \(10^9\mathrm{g}\) for local strings with tension \(G\mu =
- 10^{-11}\), and PBHs masses between \(10^4\mathrm{g}\) and
- \(10^9\mathrm{g}\) for global strings with symmetry-breaking scale
- \(\eta = 10^{15}\mathrm{GeV}\).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of January, room E349 at 4:00pm. Our guest speaker is Anish Ghoshal from Warsaw U. (Poland).]]></summary></entry></feed>
+<p><img src="/assets/images/2501.05371/hist_pbhs.png" alt="hist" title="Mass distribution of formed PBHs" /></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Chiara, Pierre and Baptiste, together with Vincent Vennin, have developed a novel framework to implement stochastic inflation on random trees. These trees represent dynamically how different regions of space grow and gradually become causally disconnected.]]></summary></entry></feed>
