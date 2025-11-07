@@ -1,0 +1,25 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2025-11-12 14:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Wednesday 19th** of November,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+Prof. **Tomo Takahashi** from Saga University (Japan).
+
+
+At 2:00pm, room E349, **Tomo Takahashi** will be talking about
+
+### More fields are different: Stochastic view of multi-field inflationary scenario
+
+*High-energy physics often motivates multi-field inflationary
+scenarios where stochastic effects play a crucial role. Peculiar to
+multi-field models, the noise-induced centrifugal force results in a
+longer duration of inflation depending on the number of fields, even
+when the stochastic noises themselves are small. We show that, in
+such small-noise regimes, the number of fields generically
+discriminates whether inflation successfully terminates or lasts
+forever. Our results indicate that inflation with an extremely large
+number of fields may fail to realise our observable Universe.*
