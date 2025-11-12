@@ -15,7 +15,7 @@ bibfile: beltran
 bibname: beltran jimenez
 position: 'Associate Professor'
 location: 'University of Salamanca (Spain)'
-visiting: 'yes'
+visiting:
 ---
 
 Cosmology, dark energy, modified gravity.
