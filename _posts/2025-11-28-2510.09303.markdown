@@ -39,9 +39,10 @@ that a high curvature perturbation corresponds to a high compaction
 function, so that the curvature perturbation can be used to estimate
 the abundance of primordial black holes. In Ref. {% cite
 raatikainen:2025gpd %}, together with [**Syksy
-Räsänen**](https://www.mv.helsinki.fi/home/syrasane/) and **Sami
-Raatikainen** from the University of Helsinki, Eemeli has shown that
-this is not always the case.
+Räsänen**](https://www.mv.helsinki.fi/home/syrasane/) and [**Sami
+Raatikainen**](https://en.wikipedia.org/wiki/Sami_Raatikainen) from
+the University of Helsinki, Eemeli has shown that this is not always
+the case.
 
 In Ref. {% cite raatikainen:2025gpd %}, the authors performed a
 numerical study of inflationary perturbations using the method of
