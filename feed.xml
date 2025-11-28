@@ -1,4 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-11-27T16:46:41+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/11/12/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-11-12T14:00:00+01:00</published><updated>2025-11-12T14:00:00+01:00</updated><id>https://curl.group/news/2025/11/12/seminar</id><content type="html" xml:base="https://curl.group/news/2025/11/12/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 19th</strong> of November,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-11-28T10:53:55+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Prmordial black holes from spiky perturbations</title><link href="https://curl.group/news/2025/11/28/2510.09303.html" rel="alternate" type="text/html" title="Prmordial black holes from spiky perturbations" /><published>2025-11-28T08:00:00+01:00</published><updated>2025-11-28T08:00:00+01:00</updated><id>https://curl.group/news/2025/11/28/2510.09303</id><content type="html" xml:base="https://curl.group/news/2025/11/28/2510.09303.html"><![CDATA[<p><a href="/members/tomberg.html"><strong>Eemeli</strong></a> has studied the formation of primordial
+black holes from inflationary perturbations together with
+collaborators from the University of Helsinki.</p>
+
+<p>As discussed in, for example,
+<a href="/news/2025/09/01/2507.15522.html">here</a>, cosmic
+inflation is an early era during which a scalar field makes the
+Universe expand extremely fast. Small ripples in the field can get
+amplified, so that some patches of space end up with more matter than
+others when inflation ends. If the extra matter is compact enough, it
+collapses into a <strong>primordial black hole</strong>. Computing the black hole
+statistics from a given model of inflation is an active field of
+study.</p>
+
+<p>Compactness of matter is measured with the <strong>compaction function</strong>
+\(\mathcal{C}\), the extra mass \(\Delta M\) in a given patch of space
+divided by the patch’s radius \(R\). To see if a black hole forms
+around a given point in space, we can compute the compaction function
+for many patches of varying radii around the point. These give the
+radial profile of the compaction function. The profile goes to zero
+for small and large radii (where \(\Delta M\) becomes small and \(R\)
+becomes large, respectively), but may have a high peak at intermediate
+scales. If the peak is high enough, it triggers black hole
+collapse. The radius at the peak gives the black hole’s mass.</p>
+
+<p>The compaction function is tricky to compute from models of inflation;
+indeed, usually cosmologists like to work with another perturbation
+quantity, the <em>curvature perturbation</em> \(\zeta\). The two quantities
+are related but not identical: the compaction function is related to
+the curvature perturbation’s radial derivative. It is commonly assumed
+that a high curvature perturbation corresponds to a high compaction
+function, so that the curvature perturbation can be used to estimate
+the abundance of primordial black holes. In Ref. <a class="citation" href="#raatikainen:2025gpd">[1]</a>, together with <a href="https://www.mv.helsinki.fi/home/syrasane/"><strong>Syksy
+Räsänen</strong></a> and <strong>Sami
+Raatikainen</strong> from the University of Helsinki, Eemeli has shown that
+this is not always the case.</p>
+
+<p>In Ref. <a class="citation" href="#raatikainen:2025gpd">[1]</a>, the authors performed a
+numerical study of inflationary perturbations using the method of
+<strong>stochastic inflation</strong> (for more on stochastic inflation, see these
+posts: <a href="/news/2025/09/01/2507.15522.html">arXiv:2507.15522</a>, <a href="/news/2025/05/16/2504.17680.html">arXiv:2504.17680</a>, and <a href="/news/2025/01/29/2501.05371.html">arXiv:2501.05371</a>. With Finnish supercomputers, they built \(10^8\) radial
+perturbation profiles in three typical single-field primordial black
+hole models. The study is the first one to construct the full radial
+profiles; previous studies have been limited to studying the
+perturbations only at fixed length scales. This was achieved through a
+Fourier transform of over 10 000 correlated momentum shells, revealing
+the full correlations between different radii. Interestingly, the
+compaction profiles turned out to be very spiky, with sharp dips up
+and down instead of wide, smooth peaks. The figure below shows an
+example case: on the left, the curvature perturbation profile, and on
+the right, the corresponding compaction function profile (together
+with various estimates; for details, see Ref. <a class="citation" href="#raatikainen:2025gpd">[1]</a>).</p>
+
+<p><img src="/assets/images/2510.09303/profiles.png" alt="potential" title="Example profiles of curvature perturbation (left) and compaction function (right)" /></p>
+
+<p>Previous studies have mainly used the curvature perturbation amplitude
+as a criterion for black hole formation. The statistics of the radial
+profiles show, however, that the maximum amplitudes of the compaction
+function and the curvature perturbation are not very strongly
+correlated, see the figure below:</p>
+
+<p><img src="/assets/images/2510.09303/correlation.png" alt="potential" title="Correlation between the maximum curvature perturbation and compaction function" /></p>
+
+<p>Previous work has argued that black hole abundance is enhanced by
+non-perturbative effects that modify the curvature perturbation
+distribution, giving it an exponential tail. The results of <a class="citation" href="#raatikainen:2025gpd">[1]</a>
+indicate that the spikiness of the profiles has an even larger effect
+on the abundance, increasing it by many orders of magnitude compared
+to previous estimates. The compaction function spikes rise well over
+typical mean profiles deduced from the curvature perturbation
+amplitude, forming black holes even in cases where the curvature
+perturbation stays small. As a consequence, the curvature perturbation
+spectrum required to form abundant black holes is smaller than
+previously assumed, of order 0.001 by a preliminary estimate. Since
+the spikes can form at many different scales, the black hole mass
+distribution becomes wide, as shown below. Such a wide distribution
+may clash with observational constraints.</p>
+
+<p><img src="/assets/images/2510.09303/masses.png" alt="potential" title="Example mass distribution" /></p>
+
+<p>The results of <a class="citation" href="#raatikainen:2025gpd">[1]</a> come with caveats. The
+collapse threshold used in this work is based on earlier numerical
+relativity simulations, which consider gravitational collapse starting
+from smooth profiles. The narrow and spiky compaction function peaks
+found here are quite different, and new collapse simulations are needed to
+see how this affects the collapse threshold. The wide mass
+distributions also suffer from convergence issues, and it is possible
+that the large-scale peaks get wiped out by cosmological evolution
+before they have time to collapse into black holes. More work is
+needed extract all information from the spiky perturbation profiles.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Eemeli has studied the formation of primordial black holes from inflationary perturbations together with collaborators from the University of Helsinki.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/11/12/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-11-12T14:00:00+01:00</published><updated>2025-11-12T14:00:00+01:00</updated><id>https://curl.group/news/2025/11/12/seminar</id><content type="html" xml:base="https://curl.group/news/2025/11/12/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Wednesday 19th</strong> of November,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
 Prof. <strong>Tomo Takahashi</strong> from Saga University (Japan).</p>
 
@@ -381,45 +470,4 @@ parametric resonance. We find this exponential growth can destroy
 oscillon structure very rapidly when the coupling is very
 strong. Interestingly, we also find an unexpected large intermediate
 coupling regime where the decay of oscillon is only temporarily
-accelerated by the massive external field.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 4th of April, room E349 at 10:00am. We will have the pleasure to listen to Siyao Li from the Institute of Science (Tokyo, Japan) and the Institute of Basic Science (Daejeon, South Korea).]]></summary></entry><entry><title type="html">Cosmology Seminars</title><link href="https://curl.group/news/2025/03/24/seminars.html" rel="alternate" type="text/html" title="Cosmology Seminars" /><published>2025-03-24T08:00:00+01:00</published><updated>2025-03-24T08:00:00+01:00</updated><id>https://curl.group/news/2025/03/24/seminars</id><content type="html" xml:base="https://curl.group/news/2025/03/24/seminars.html"><![CDATA[<p>The next cosmology seminars take place on <strong>Friday 28th</strong> of March,
-<strong>room E349</strong> at <strong>2:00pm</strong>. We have the pleasure to listen to our new
-members, <strong>Chiara Animali</strong> and <strong>Eemeli Tomberg</strong>.</p>
-
-<hr />
-
-<p>At 2pm, room E349,  <strong>Chiara Animali</strong>, will be talking about</p>
-
-<h3 id="large-perturbations-from-inflation-recent-results-and-open-challenges-in-the-stochastic-delta-n-formalism">Large perturbations from inflation: recent results and open challenges in the stochastic delta N formalism</h3>
-
-<p><em>During inflation, quantum vacuum fluctuations are stretched beyond
-the Hubble radius, modifying the large-scale dynamics of the
-universe. Although typically negligible in the perturbative regime,
-this backreaction can become significant in regimes leading to
-primordial black hole (PBH) formation, where large density
-fluctuations arise. The combination of stochastic inflation and delta
-N formalisms provides an efficient non-perturbative framework to track
-these large fluctuations.  In this context, I will explore recent
-results and ongoing challenges, particularly in describing backward
-quantities, which requires a deeper understanding of the relationship
-between field values and physical distances, as well as how this
-information is encoded within the recursive geometry of a
-stochastically inflating universe, thereby enabling the consistent
-inclusion of volume-weighting effects. The implications for primordial
-black holes (as their abundance and clustering properties) will also
-be discussed.</em></p>
-
-<hr />
-
-<p>Around 3pm, same place, <strong>Eemeli Tomberg</strong> will talk about</p>
-
-<h3 id="new-developments-in-stochastic-inflation">New developments in stochastic inflation</h3>
-
-<p><em>Stochastic inflation lets us compute the statistics of inflationary
-perturbations non-perturbatively. I discuss new developments in these
-computations. First, I talk about the choice of the stochastic scheme,
-Itô or Stratonovich, and show that the distinction results from the
-Markovian approximation. If this approximation is dropped, the
-different schemes become equivalent. Then, using stochastic tools, I
-discuss eternal inflation in models that produce primordial black
-holes. I argue that eternal inflation is common in these models and
-may jeopardize their CMB predictions.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminars take place on Friday 28th of March, room E349 at 2:00pm. We have the pleasure to listen to our new members, Chiara Animali and Eemeli Tomberg.]]></summary></entry></feed>
+accelerated by the massive external field.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 4th of April, room E349 at 10:00am. We will have the pleasure to listen to Siyao Li from the Institute of Science (Tokyo, Japan) and the Institute of Basic Science (Daejeon, South Korea).]]></summary></entry></feed>
