@@ -4,7 +4,7 @@ title: 'Pierre Auclair'
 description: Post-doctoral Research Associate
 funding: ARC-FNRS
 from: 2021, October 01
-to: 
+to: 2025, November 30
 office: E353
 phone: +32 10 47 3344
 email: pierre.auclair@uclouvain.be
@@ -13,6 +13,8 @@ image: /assets/images/people/auclair.png
 orientation: portrait
 bibfile: auclair
 bibname: 'Auclair, Pierre'
+position: 'Chargé de Recherche CNRS'
+location: 'Institut d'Astrophysique de Paris (France)'
 ---
 
 I am a cosmologist mostly interested with the physics of the very
