@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-11-28T10:53:55+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Prmordial black holes from spiky perturbations</title><link href="https://curl.group/news/2025/11/28/2510.09303.html" rel="alternate" type="text/html" title="Prmordial black holes from spiky perturbations" /><published>2025-11-28T08:00:00+01:00</published><updated>2025-11-28T08:00:00+01:00</updated><id>https://curl.group/news/2025/11/28/2510.09303</id><content type="html" xml:base="https://curl.group/news/2025/11/28/2510.09303.html"><![CDATA[<p><a href="/members/tomberg.html"><strong>Eemeli</strong></a> has studied the formation of primordial
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-11-28T11:08:01+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Prmordial black holes from spiky perturbations</title><link href="https://curl.group/news/2025/11/28/2510.09303.html" rel="alternate" type="text/html" title="Prmordial black holes from spiky perturbations" /><published>2025-11-28T08:00:00+01:00</published><updated>2025-11-28T08:00:00+01:00</updated><id>https://curl.group/news/2025/11/28/2510.09303</id><content type="html" xml:base="https://curl.group/news/2025/11/28/2510.09303.html"><![CDATA[<p><a href="/members/tomberg.html"><strong>Eemeli</strong></a> has studied the formation of primordial
 black holes from inflationary perturbations together with
 collaborators from the University of Helsinki.</p>
 
@@ -31,9 +31,10 @@ the curvature perturbation’s radial derivative. It is commonly assumed
 that a high curvature perturbation corresponds to a high compaction
 function, so that the curvature perturbation can be used to estimate
 the abundance of primordial black holes. In Ref. <a class="citation" href="#raatikainen:2025gpd">[1]</a>, together with <a href="https://www.mv.helsinki.fi/home/syrasane/"><strong>Syksy
-Räsänen</strong></a> and <strong>Sami
-Raatikainen</strong> from the University of Helsinki, Eemeli has shown that
-this is not always the case.</p>
+Räsänen</strong></a> and <a href="https://en.wikipedia.org/wiki/Sami_Raatikainen"><strong>Sami
+Raatikainen</strong></a> from
+the University of Helsinki, Eemeli has shown that this is not always
+the case.</p>
 
 <p>In Ref. <a class="citation" href="#raatikainen:2025gpd">[1]</a>, the authors performed a
 numerical study of inflationary perturbations using the method of
