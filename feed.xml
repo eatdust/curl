@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-11-28T11:14:28+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Prmordial black holes from spiky perturbations</title><link href="https://curl.group/news/2025/11/28/2510.09303.html" rel="alternate" type="text/html" title="Prmordial black holes from spiky perturbations" /><published>2025-11-28T08:00:00+01:00</published><updated>2025-11-28T08:00:00+01:00</updated><id>https://curl.group/news/2025/11/28/2510.09303</id><content type="html" xml:base="https://curl.group/news/2025/11/28/2510.09303.html"><![CDATA[<p><a href="/members/tomberg.html"><strong>Eemeli</strong></a> has studied the formation of primordial
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2025-12-03T15:34:59+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Gravitational waves from stiff periods</title><link href="https://curl.group/news/2025/12/01/2511.08384.html" rel="alternate" type="text/html" title="Gravitational waves from stiff periods" /><published>2025-12-01T08:00:00+01:00</published><updated>2025-12-01T08:00:00+01:00</updated><id>https://curl.group/news/2025/12/01/2511.08384</id><content type="html" xml:base="https://curl.group/news/2025/12/01/2511.08384.html"><![CDATA[<p>In a recent publication, <a href="/members/tomberg"><strong>Eemeli</strong></a> and collaborators
+have studied the observability of stiff periods of decelerated
+expansion in the early history of the universe.</p>
+
+<p>There are reasons to believe the early Universe was dominated by a
+scalar field which caused space to expand in an accelerating
+manner. After this <a href="https://en.wikipedia.org/wiki/Cosmic_inflation"><strong>Cosmic
+Inflation</strong></a>, the
+scalar field was replaced by radiation consisting of <a href="https://en.wikipedia.org/wiki/Standard_Model"><strong>Standard
+Model</strong></a> particles. The
+subsequent radiation-dominated era is well understood. For example,
+the nuclei of light elements were born during it through the process
+of Big Bang Nucleosynthesis
+(<a href="https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis"><strong>BBN</strong></a>). Theoretical
+computations of BBN match very well the observed late-time abundances
+of these elements (with the possible exception of
+<a href="https://en.wikipedia.org/wiki/Cosmological_lithium_problem">lithium</a>). Hence,
+by BBN, the Universe must have settled to the standard
+radiation-dominated behaviour, and any exotic ingredients beyond the
+Standard Model must have vanished or become negligible. However, the
+era between inflation and BBN is less constrained, and exotic
+processes may have taken place there.</p>
+
+<p>It is, in fact, possible that scalar fields may have dominated the
+Universe for some time even after the end of inflation. This happens
+in models of <em>quintessential inflation</em>, where the scalar field
+responsible for inflation sticks around and later comes to play the
+role of dark energy, causing the Universe to inflate again at late
+times. Right after the primordial inflation, the scalar field
+typically undergoes <em>kination</em>, motion dominated by the scalar’s
+kinetic energy. A long period of kination leaves a mark: it amplifies
+gravitational waves born during inflation. This has a two-fold
+effect. First, the amplified gravitational waves may become detectable
+in future gravitational wave observatories. Second, the gravitational
+waves may break the delicate balance of BBN, producing wrong ratios of
+light elements and making the model unviable.</p>
+
+<p>The second effect tends to kick in before the first: observationally
+interesting models are ruined by their inability to abide by the BBN
+bound. In Ref. <a class="citation" href="#brissenden:2025ass">[1]</a>,
+<a href="/members/tomberg"><strong>Eemeli</strong></a> worked together with <a href="https://www.lancaster.ac.uk/physics/about-us/people/konstantinos-dimopoulos"><strong>Konstantinos
+Dimopoulos</strong></a>
+and <a href="https://inspirehep.net/authors/2621653"><strong>Lucy Brissenden</strong></a> from
+Lancaster University to show that there is a class of kination models
+that respects the BBN bound but is still detectable by future
+gravitational wave experiments. The trick is to make the transition
+from inflation kination (called a ‘stiff’ period) ‘soft,’ so that the
+Universe’s equation of state changes slowly during this era. The
+effect on the gravitational wave spectrum is depicted in the following
+figure:</p>
+
+<p><img src="/assets/images/2511.08384/spectrum.png" alt="spectrum" title="Gravitational wave spectrum and the sensitivities of experiments" /></p>
+
+<p>The colored curves represent the sensitivities of current and future
+gravitational wave (and other) experiments for various gravitational
+wave frequencies. BBN sets a universal limit on the gravitational wave
+spectrum across all frequencies. The semi-vertical lines are two
+example spectra, one with standard kination (dashed blue) and one with
+a soft transition period (purple). The standard case increases steeply
+all the way to the highest frequencies, narrowly avoiding the BBN
+bound, but also missing most of the gravitational wave detectors’
+sensitivities. The soft case has a rounded top (corresponding to the
+soft period), again avoids the BBN, but this time also hits the
+sensitivities of the <a href="https://en.wikipedia.org/wiki/Einstein_Telescope"><strong>Einstein
+Telescope</strong></a> (ET)
+and the <a href="https://en.wikipedia.org/wiki/Cosmic_Explorer_(gravitational_wave_observatory)"><strong>Cosmic
+Explorer</strong></a>
+(CE). The maximum frequency for both curves is approximately fixed by
+the energy scale of inflation, which is here set to the highest
+observationally allowed value, since this also produces the highest
+gravitational wave density.</p>
+
+<p>The soft period in <a class="citation" href="#brissenden:2025ass">[1]</a> was produced by a
+double-exponential scalar potential motivated by string theory. With
+only a little tuning, the model produces both detectable gravitational
+waves and the correct dark energy behaviour at late times. The model
+also satisfies other necessary constraints, such as the requirement
+for the scalar field itself to be sufficiently suppressed during
+BBN. It paves the way for other models that can produce similar
+effects.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Eemeli and collaborators have studied the observability of stiff periods of decelerated expansion in the early history of the universe.]]></summary></entry><entry><title type="html">Prmordial black holes from spiky perturbations</title><link href="https://curl.group/news/2025/11/28/2510.09303.html" rel="alternate" type="text/html" title="Prmordial black holes from spiky perturbations" /><published>2025-11-28T08:00:00+01:00</published><updated>2025-11-28T08:00:00+01:00</updated><id>https://curl.group/news/2025/11/28/2510.09303</id><content type="html" xml:base="https://curl.group/news/2025/11/28/2510.09303.html"><![CDATA[<p><a href="/members/tomberg.html"><strong>Eemeli</strong></a> has studied the formation of primordial
 black holes from inflationary perturbations together with
 collaborators from the University of Helsinki.</p>
 
@@ -447,28 +526,4 @@ Bayesian frameworks designed to both mitigate systematics and harness
 the full statistical power of current and forthcoming datasets. I
 will demonstrate applications on clustering and Type Ia supernova
 cosmology, concluding with a perspective on future developments aimed
-at maximising the scientific return of next-generation surveys.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 16th of May, room E349 at 2:00pm. We will have the pleasure to listen to Eleni Tsaprazi from Imperial College (London, United Kingdom).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/04/01/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-04-01T09:00:00+02:00</published><updated>2025-04-01T09:00:00+02:00</updated><id>https://curl.group/news/2025/04/01/seminar</id><content type="html" xml:base="https://curl.group/news/2025/04/01/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 4th</strong> of April,
-<strong>room E349</strong> at <strong>10:00am</strong>. We will have the pleasure to listen to
-<strong>Siyao Li</strong> from the Institute of Science (Tokyo, Japan) and the
-Institute of Basic Science (Daejeon, South Korea).</p>
-
-<p>At 10:00am, room E349, <strong>Siyao Li</strong> will be talking about</p>
-
-<h3 id="classical-oscillon-decay-accelerated-by-external-scalar-field-resonance">Classical oscillon decay accelerated by external scalar field resonance</h3>
-
-<p><em>Oscillons are long-lived, spherical solitons that arise in real scalar
-field theories with potential flatter than quadratic. They are
-considered to form via parametric resonance during preheating after
-inflation and the energy of the inflaton field can be stored in
-oscillons. Because of their long lifetime, they can play an important
-role in the early universe, especially in the reheating
-process. However, the estimation of their lifetime is greatly affected
-by considering the coupling of the inflaton field to other fields. We
-investigate the impact of an external real scalar filed coupled to an
-oscillon on its decay and lifetime. We find the external scalar field
-can grow exponentially on the inhomogeneous oscillon background due to
-parametric resonance. We find this exponential growth can destroy
-oscillon structure very rapidly when the coupling is very
-strong. Interestingly, we also find an unexpected large intermediate
-coupling regime where the decay of oscillon is only temporarily
-accelerated by the massive external field.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 4th of April, room E349 at 10:00am. We will have the pleasure to listen to Siyao Li from the Institute of Science (Tokyo, Japan) and the Institute of Basic Science (Daejeon, South Korea).]]></summary></entry></feed>
+at maximising the scientific return of next-generation surveys.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 16th of May, room E349 at 2:00pm. We will have the pleasure to listen to Eleni Tsaprazi from Imperial College (London, United Kingdom).]]></summary></entry></feed>
