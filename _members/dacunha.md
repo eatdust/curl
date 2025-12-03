@@ -13,7 +13,8 @@ image: /assets/images/people/dacunha.png
 orientation: portrait
 bibfile: dacunha
 bibname: 'da Cunha, Disrael'
-position: 'Educational Content Developer in Data Science, Softex, Brasília University'
+position: 'Educational Content Developer in Data Science, Softex'
+location: 'Brasília University (Brasil)'
 visiting:
 ---
 
