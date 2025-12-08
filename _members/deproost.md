@@ -15,7 +15,7 @@ homepage:
 image: /assets/images/people/deproost.png
 orientation: portrait
 bibfile:
-bibname: deproost
+bibname: 'Deproost, Marie-Hélène'
 position: 'Science and Technology Teacher at the Collège Saint-Michel, Brussels (Belgium)'
 ---
 
