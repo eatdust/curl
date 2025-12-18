@@ -97,7 +97,10 @@ layout: default
 {% unless member.bibname == null %}
 {% assign nfields = member.bibname | split: ' ' | size %}
 <h3> Publications @ <a href="{{ member.bibname | prepend:
-			     'http://inspirehep.net/search?p=FIND+A+'
+			     'https://scixplorer.org/search?n=10&p=1&q=author%3A'
+			     | append: '&sort=date+desc'}}">SciX</a>
+  @ <a href="{{ member.bibname | prepend:
+			     'https://inspirehep.net/search?p=FIND+A+'
 			     }}">Inspire</a>
   @ <a href="{{ member.bibname | prepend:
 	     'https://ui.adsabs.harvard.edu/#search/q='}}">ADS</a>
