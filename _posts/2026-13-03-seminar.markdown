@@ -1,0 +1,38 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2026-09-03 8:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Friday 13th** of March,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+**Pierre Auclair** from the Institut d'Astrophysique de Paris (IAP, France).
+
+
+At 2:00pm, room E349, **Pierre Auclair** will be talking about
+
+### Excursion-set for Primordial Black Holes: white noise and moving barrier
+
+*I will introduce pedagogically the Excursion-Set formalism, a
+framework in which the mass distribution of primordial black holes
+(PBHs) is derived from the first-passage time of a random walk
+describing the density contrast as the coarse-graining scale varies.
+In particular, I will address in detail two recent criticisms/remarks
+that have been raised about this approach. First, it was argued that
+the random walks are subject to colored (i.e. correlated over time)
+noise, making the first-passage-time problem cumbersome. We show that
+this arises from an incorrect separation of drift and noise when
+sampling on the Hubble-crossing surface: if Fourier modes are
+uncorrelated, the noise is strictly white. Moreover, sampling along
+the Hubble-crossing surface precludes using the density dispersion as
+a time variable, explaining the reported pathologies. Sampling instead
+on a synchronous surface removes both issues. This requires solving a
+first-passage-time problem with a moving barrier, for which we provide
+an efficient numerical framework. Second, it was suggested that
+cloud-in-cloud (i.e. that large black holes may engulf smaller ones)
+is irrelevant for PBHs and that the excursion set is therefore not
+needed. While valid for widely separated scales, this statement fails
+for broad power spectra with enhanced continua of modes. We further
+show that Press-Schechter estimates neglecting boundary evolution can
+break down even without cloud-in-cloud effects.*
