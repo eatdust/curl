@@ -35,4 +35,4 @@ is irrelevant for PBHs and that the excursion set is therefore not
 needed. While valid for widely separated scales, this statement fails
 for broad power spectra with enhanced continua of modes. We further
 show that Press-Schechter estimates neglecting boundary evolution can
-break down even without cloud-in-cloud effects.*
+break down even without cloud-in-cloud effects {% cite auclair:2026tfy %}.*
