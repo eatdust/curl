@@ -1,0 +1,16 @@
+---
+layout: post
+title:  S8* Cosmo Meeting on quantum diffusion
+category: News
+date: 2026-05-25 08:00:00 +0100
+---
+
+We hold an informal meeting gathering **CURL** and the
+[**SPT**](https://physth.ulb.be) (ULB) to discuss recent developments
+in the field of stochastic inflation and primordial black holes.
+
+Anticipating the eventual opening of the new express train lines S8*
+between Brussels and Louvain-la-Neuve, we organise an informal
+dicussion meeting on quantum diffusion. This takes place the 26th of
+May, seminar room E349 from 10 am.
+
