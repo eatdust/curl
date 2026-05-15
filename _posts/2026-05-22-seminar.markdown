@@ -1,0 +1,38 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2026-05-15 8:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Friday 22th** of May,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+**Samuel Sánchez López** from the Institut d'Astrophysique de Paris (IAP, France).
+
+At 2:00pm, room E349, **Samuel Sánchez López** will be talking about
+
+### Palatini Gravity Across Cosmic History
+
+*The ΛCDM model provides an excellent fit to a broad range of
+cosmological data spanning different epochs and scales. However, recent
+tensions between datasets, together with the unknown nature of inflation
+and dark energy, motivate the consideration of gravity beyond the
+Einstein-Hilbert action. In this talk, I will discuss several aspects of
+cosmology and weak-field gravity in the Palatini formulation, where the
+metric and connection are treated as independent fields.*
+
+*I will first present Palatini $$R^2$$ gravity as a framework for inflationary
+model building, emphasizing how higher-curvature terms modify the
+inflationary dynamics and the resulting predictions. I will then discuss
+scalar-induced gravitational waves generated during radiation domination,
+showing how Palatini $$f(R)$$ gravity can leave distinctive signatures in the
+stochastic gravitational-wave spectrum. Turning to late times, I will
+present non-minimally coupled quintessence in light of recent DESI data,
+focusing on the existence of a de Sitter attractor and the observational
+preference for dynamical dark energy. Finally, I will discuss Solar-System
+constraints on scalar-tensor gravity through a unified post-Newtonian
+treatment, deriving the effective scalar mass, gravitational coupling, and
+the PPN parameters γ and β. Together, these results show how observations
+across cosmic history can probe not only deviations from General
+Relativity, but also the variational formulation of gravity itself.*
+
