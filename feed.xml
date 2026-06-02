@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-06-01T17:09:38+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">RER-S8* Cosmo Meeting on quantum diffusion</title><link href="https://curl.group/news/2026/05/25/S8cosmo.html" rel="alternate" type="text/html" title="RER-S8* Cosmo Meeting on quantum diffusion" /><published>2026-05-25T09:00:00+02:00</published><updated>2026-05-25T09:00:00+02:00</updated><id>https://curl.group/news/2026/05/25/S8cosmo</id><content type="html" xml:base="https://curl.group/news/2026/05/25/S8cosmo.html"><![CDATA[<p>We hold an informal meeting gathering <strong>CURL</strong> and the
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-06-02T16:38:32+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/06/02/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-06-02T09:00:00+02:00</published><updated>2026-06-02T09:00:00+02:00</updated><id>https://curl.group/news/2026/06/02/seminar</id><content type="html" xml:base="https://curl.group/news/2026/06/02/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 11th</strong> of June,
+<strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
+<strong>Yoann Launay</strong> from the Hawking Center for Theoretical Cosmology
+(Cambridge, U.K.).</p>
+
+<p>At 2:00pm, room E349, <strong>Yoann Launay</strong> will be talking about</p>
+
+<h3 id="stochastic-scalars-tensor-inflation-theories">Stochastic scalar(s)-tensor (inflation) theories</h3>
+
+<p><em>In this talk, I will review our recent work and its attempt to extend
+the scope and predictive power of the stochastic formalism for
+inflation. After briefly introducing our gauge-invariant
+coarse-graining procedure, I will discuss our formulation of
+stochastic dynamics in full General Relativity, including all metric
+and scalar matter degrees of freedom, as well as gradient
+contributions. I will then present numerical implementations of these
+stochastic equations within the framework of Numerical Relativity,
+demonstrating their efficacy in well-understood scenarios and their
+application to ongoing investigations.
+With this framework fully established, I will show how the formalism
+can be generalised beyond General Relativity, in particular to
+scalar–tensor theories of dark energy and multifield scenarios, and
+potentially beyond.
+Finally, if time permits, and given the newly unlocked possibility of
+studying near-horizon phenomena and broader classes of theories, I
+will conclude by discussing how one can identify the stochastically
+relevant regions of spacetime.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 11th of June, room E349 at 2:00pm. We will have the pleasure to listen to Yoann Launay from the Hawking Center for Theoretical Cosmology (Cambridge, U.K.).]]></summary></entry><entry><title type="html">RER-S8* Cosmo Meeting on quantum diffusion</title><link href="https://curl.group/news/2026/05/25/S8cosmo.html" rel="alternate" type="text/html" title="RER-S8* Cosmo Meeting on quantum diffusion" /><published>2026-05-25T09:00:00+02:00</published><updated>2026-05-25T09:00:00+02:00</updated><id>https://curl.group/news/2026/05/25/S8cosmo</id><content type="html" xml:base="https://curl.group/news/2026/05/25/S8cosmo.html"><![CDATA[<p>We hold an informal meeting gathering <strong>CURL</strong> and the
 <a href="https://physth.ulb.be"><strong>SPT</strong></a> (ULB) to discuss recent developments
 in the field of stochastic inflation and primordial black holes.</p>
 
@@ -330,80 +356,4 @@ effects.</em></p>]]></content><author><name>Chris Ringeval</name></author><categ
  distinctive signatures. I will also discuss some intriguing
  realisations that occur on shell and lead to the possibility of
  having preferred directions in an exactly isotropic background
- universe.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of October, room E349 at 11:00am. We will have the pleasure to listen to José Beltrán Jiménez from the Gravitation and Cosmology Group, University of Salamanca (Spain).]]></summary></entry><entry><title type="html">Eternal inflation near inflection points</title><link href="https://curl.group/news/2025/09/01/2507.15522.html" rel="alternate" type="text/html" title="Eternal inflation near inflection points" /><published>2025-09-01T09:00:00+02:00</published><updated>2025-09-01T09:00:00+02:00</updated><id>https://curl.group/news/2025/09/01/2507.15522</id><content type="html" xml:base="https://curl.group/news/2025/09/01/2507.15522.html"><![CDATA[<p>In collaboration with <a href="https://www.lancaster.ac.uk/physics/about-us/people/konstantinos-dimopoulos"><strong>Konstantinos
-Dimopoulos</strong></a>
-from the University of Lancaster, <a href="/members/tomberg.html"><strong>Eemeli</strong></a> has
-studied the possibility of eternal inflation in models that produce
-primordial black holes.</p>
-
-<p><a href="https://en.wikipedia.org/wiki/Cosmic_inflation"><strong>Cosmic inflation</strong></a>
-is a period of accelerated expansion of space which likely took place
-in the very early universe. The expansion is driven by the inflaton, a
-scalar field that undergoes random motion due to quantum effects. This
-random motion shows up as inhomogeneities in the late universe,
-seeding cosmic structure such as galaxies and galaxy groups. If the
-inhomogeneities are particularly strong at short scales, they may form
-structures even before galaxy formation, collapsing straight into
-<a href="https://en.wikipedia.org/wiki/Primordial_black_hole"><strong>primordial black holes</strong></a>. Such
-black holes would be dark matter and would radiate gravitational waves
-that could be observable by gravitational wave detectors.</p>
-
-<p>A popular way to produce the strong inhomogeneities needed for black
-hole formation is to give the inflaton an inflection point potential
-with a local bump (see figure). As the inflaton climbs over the bump,
-it slows down, so the quantum fluctuations can have a stronger
-relative effect. Besides black holes, such strong quantum effects may
-lead to another phenomenon: <a href="https://en.wikipedia.org/wiki/Eternal_inflation"><strong>eternal
-inflation</strong></a>. In
-eternal inflation, quantum kicks oppose classical forces enough to
-keep the inflaton near the bump eternally in some regions of space.</p>
-
-<p><img src="/assets/images/2507.15522/potential.png" alt="potential" title="Example inflation point potential" /></p>
-
-<p>To test if inflation is eternal in primordial black hole models, in
-Ref. <a class="citation" href="#tomberg:2025fku">[1]</a>, we solved the Fokker-Planck
-equation, which describes the time evolution of the inflaton’s
-probability distribution (\(N\) is the time variable):</p>
-
-\[\partial_N P(\phi,N) = \partial_\phi\left\{\partial_\phi\left[\frac{1}{2} \sigma^2(\phi) P(\phi,N)\right] - \mu(\phi) P(\phi,N)\right\}  .\]
-
-<p>The classical drift \(\mu\) and the quantum diffusion coefficient
-\(\sigma\) depend on the model, but take universal forms near the
-potential’s local minimum and maximum, which are most important for
-eternal inflation. We were able to show that eternal inflation happens
-generically near the minimum if field variations are Planckian, \(\phi
-\sim M_\text{Pl}\), and also near the maximum if the potential’s
-second derivative there is not too large in magnitude, \(|V''(\phi)|
-\leq 6V(\phi)/M_\text{Pl}^2\). We checked these conditions against
-three typical models from the literature, and they were satisfied in
-all three cases. Eternal inflation is a generic consequence of such
-inflection point models.</p>
-
-<p>Why is eternal inflation interesting? Eternal inflation fractures
-space into a multiverse of different regions, each of which exits the
-eternally inflating bulk at a different time. Making cosmological
-predictions then becomes complicated: different regions have undergone
-different inflationary histories which may show up as different
-structures and inhomogeneities in the late universe. This is sketched
-in the figure below: the “usual” primordial black hole space time is
-marked as U1, but where the inhomogeneities are large - i.e. inside
-the black holes - there are regions which continue inflation eternally
-(E) or exit in a couple of different fashions (U2, U3). The “new
-universes” U1 and U2 still see the edge of the E region, which makes
-them violently inhomogeneous at large scales, incompatible with the
-cosmos we see around us.</p>
-
-<p><img src="/assets/images/2507.15522/multiverse.png" alt="multiverse" title="Sketch of the eternally inflating multiverse" /></p>
-
-<p>Since the volume of the eternally inflating universe is infinite, it
-is not easy to assign probabilities for the different universes U1,
-U2, and U3. This is called the <em>measure problem</em>. However, in our
-case, all reasonable solutions to the measure problem seem to suggest
-that the U1 universe (the one that could match our observable
-universe) is the rarest one, since the others “branch out” of it in an
-infinite fashion. In other words, eternal inflation presents a
-challenge to primordial black hole models: the homogeneous pockets of
-space with black holes are actually the last places we would expect to
-find ourselves in. To solve this challenge, we may need to consider
-new types of primordial black hole models or rethink our approach to
-the measure problem.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In collaboration with Konstantinos Dimopoulos from the University of Lancaster, Eemeli has studied the possibility of eternal inflation in models that produce primordial black holes.]]></summary></entry></feed>
+ universe.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of October, room E349 at 11:00am. We will have the pleasure to listen to José Beltrán Jiménez from the Gravitation and Cosmology Group, University of Salamanca (Spain).]]></summary></entry></feed>
