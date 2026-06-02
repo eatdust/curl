@@ -1,0 +1,36 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2026-06-02 8:00:00 +0100
+---
+
+The next cosmology seminar takes place on **Thursday 11th** of June,
+**room E349** at **2:00pm**. We will have the pleasure to listen to
+**Yoann Launay** from the Hawking Center for Theoretical Cosmology
+(Cambridge, U.K.).
+
+At 2:00pm, room E349, **Yoann Launay** will be talking about
+
+### Stochastic scalar(s)-tensor (inflation) theories
+
+*In this talk, I will review our recent work and its attempt to extend
+the scope and predictive power of the stochastic formalism for
+inflation. After briefly introducing our gauge-invariant
+coarse-graining procedure, I will discuss our formulation of
+stochastic dynamics in full General Relativity, including all metric
+and scalar matter degrees of freedom, as well as gradient
+contributions. I will then present numerical implementations of these
+stochastic equations within the framework of Numerical Relativity,
+demonstrating their efficacy in well-understood scenarios and their
+application to ongoing investigations.
+With this framework fully established, I will show how the formalism
+can be generalised beyond General Relativity, in particular to
+scalar–tensor theories of dark energy and multifield scenarios, and
+potentially beyond.
+Finally, if time permits, and given the newly unlocked possibility of
+studying near-horizon phenomena and broader classes of theories, I
+will conclude by discussing how one can identify the stochastically
+relevant regions of spacetime.*
+
+
