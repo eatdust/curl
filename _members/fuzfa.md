@@ -13,7 +13,7 @@ image: /assets/images/people/fuzfa.png
 orientation: portrait
 bibfile: 
 bibname: fuzfa
-position: 'Professor'
+position: 'Full Professor'
 location: 'Namur University (UNamur), Namur (Belgium)'
 visiting: 'yes'
 ---
