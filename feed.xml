@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-06-09T11:41:01+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/06/02/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-06-02T09:00:00+02:00</published><updated>2026-06-02T09:00:00+02:00</updated><id>https://curl.group/news/2026/06/02/seminar</id><content type="html" xml:base="https://curl.group/news/2026/06/02/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 11th</strong> of June,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-06-16T15:20:45+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/06/16/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-06-16T09:00:00+02:00</published><updated>2026-06-16T09:00:00+02:00</updated><id>https://curl.group/news/2026/06/16/seminar</id><content type="html" xml:base="https://curl.group/news/2026/06/16/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 26th</strong> of June,
+<strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
+<strong>Alipriyo Hoory</strong> from the Indian Institute of Technology (Chennai,
+India).</p>
+
+<p>At 2:00pm, room E349, <strong>Alipriyo Hoory</strong> will be talking about</p>
+
+<h3 id="power-spectrum-of-primary-gravitational-waves-at-high-frequencies">Power spectrum of primary gravitational waves at high frequencies</h3>
+
+<p><em>Primary gravitational waves (PGWs) are generated from the quantum
+vacuum during inflation. In slow roll inflation, the power spectrum
+(PS) of PGWs over large scales, which leave the Hubble radius during
+inflation, is nearly scale-invariant. However, over very small scales,
+which never leave the Hubble radius, the PS of PGWs rises
+quadratically. In this talk, I will first argue that the PS has to be
+regularized in order to truncate the unphysical, quadratic rise at
+high frequencies. Assuming instantaneous transitions from inflation to
+the epochs of radiation and matter domination, I will discuss the
+results of adiabatic subtraction to regularize the PS of
+PGWs. Thereafter, I will describe the effects of smoothing the
+transition from inflation to radiation domination (to be precise, we
+smooth the ‘effective potential’ governing the equation of motion of
+PGWs) and discuss the impact of the smoothing on the regularized PS of
+PGWs. Lastly, I will utilize the Born approximation to examine the
+behavior of the regularized PS of PGWs over small scales when they are
+evolved through smoother and smoother transitions from inflation to
+the epochs of radiation and matter domination. I will show that, at
+small scales or, equivalently, at high frequencies, the suppression in
+the regularized PS of PGWs occurs more and more sharply as the
+transition is smoothed further and further. With the help of specific
+examples, I will also illustrate that, in the case of completely
+smooth transitions described by an infinitely differentiable
+‘effective potential’, the regularized PS of PGWs exhibits an
+exponential suppression on small scales. I will conclude with a brief
+summary.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 26th of June, room E349 at 2:00pm. We will have the pleasure to listen to Alipriyo Hoory from the Indian Institute of Technology (Chennai, India).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/06/02/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-06-02T09:00:00+02:00</published><updated>2026-06-02T09:00:00+02:00</updated><id>https://curl.group/news/2026/06/02/seminar</id><content type="html" xml:base="https://curl.group/news/2026/06/02/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 11th</strong> of June,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
 <strong>Yoann Launay</strong> from the Hawking Center for Theoretical Cosmology
 (Cambridge, U.K.).</p>
@@ -334,26 +368,4 @@ polarisability or magnetisation, thus showing an intriguing
 resemblance with the vanishing of the Love numbers of black
 holes. Finally, I will explain how analogous results arise for the
 scalar DBI theories in arbitrary dimensions and some finite size
-effects.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The second cosmology seminar of the week takes place on Friday 31st of October, room E349 at 2:00pm. We will have the pleasure to listen to José Beltrán Jiménez from the Gravitation and Cosmology Group, University of Salamanca (Spain).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/10/13/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-10-13T09:00:00+02:00</published><updated>2025-10-13T09:00:00+02:00</updated><id>https://curl.group/news/2025/10/13/seminar</id><content type="html" xml:base="https://curl.group/news/2025/10/13/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 30th</strong> of October,
-<strong>room E349</strong> at <strong>11:00am</strong>. We will have the pleasure to listen to
-<strong>José Beltrán Jiménez</strong> from the Gravitation and Cosmology Group, University of Salamanca (Spain).</p>
-
-<p>At 11:00am, room E349, <strong>José Beltrán Jiménez</strong> will be talking about</p>
-
-<h3 id="the-cosmological-principle-its-non-trivial-realisations-with-some-phenomenological-consequences">The Cosmological Principle: its non-trivial realisations with some phenomenological consequences</h3>
-
-<p><em>The Cosmological Principle is one of the pillars of the standard
- model of cosmology and it is commonly realised in a trivial way with
- homogeneous SO(3)-scalars. I will discuss several scenarios where the
- matter sector realises the Cosmological Principle in a non-trivial
- manner by resorting to combinations of spacetime and internal
- symmetries. These scenarios include the effective field theory of
- fluids and solids (as well as their dual formulations), but more
- general setups based on e.g. vector fields with internal
- symmetries. A natural consequence of some of these scenarios is the
- appearance of a second helicity-2 mode in the cosmological
- perturbations that produces oscillations of gravitational waves with
- distinctive signatures. I will also discuss some intriguing
- realisations that occur on shell and lead to the possibility of
- having preferred directions in an exactly isotropic background
- universe.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 30th of October, room E349 at 11:00am. We will have the pleasure to listen to José Beltrán Jiménez from the Gravitation and Cosmology Group, University of Salamanca (Spain).]]></summary></entry></feed>
+effects.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The second cosmology seminar of the week takes place on Friday 31st of October, room E349 at 2:00pm. We will have the pleasure to listen to José Beltrán Jiménez from the Gravitation and Cosmology Group, University of Salamanca (Spain).]]></summary></entry></feed>
