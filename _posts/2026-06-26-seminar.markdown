@@ -2,7 +2,7 @@
 layout: post
 title: Cosmology Seminar
 category: News
-date: 2026-06-19 8:00:00 +0100
+date: 2026-06-16 8:00:00 +0100
 ---
 
 The next cosmology seminar takes place on **Friday 26th** of June,
