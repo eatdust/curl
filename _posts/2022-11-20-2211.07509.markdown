@@ -23,7 +23,7 @@ successively filling in more circles, each tangent to another three.
 
 ![gasket](/assets/images/2211.07509/gasket.svg "Apollonian Gasket started from three equidistant cercles")
 
-In Ref. {% cite 2022arxiv221107509a %}, Pierre examines a
+In Ref. {% cite auclair:2023pre %}, Pierre examines a
 related mechanism in which $$d$$-dimensional spheres are randomly
 seeded in space, one at a time, within a finite-sized volume, and
 with the largest possible radius that avoids overlap.
