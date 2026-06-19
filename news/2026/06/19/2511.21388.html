@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+  
+  <title>
+    
+      Time-reversed stochastic inflation in tilted potentials &middot; CURL
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+
+  <!-- Additional head bits without overriding original head -->
+
+</head>
+
+  
+  
+  <body class="post">
+    
+    <div id="sidebar">
+  <header>
+    <div class="site-title">
+      <a href="/">
+        
+          <span class="back-arrow icon"><svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h24v24H0z" fill="none"/>
+  <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+</svg></span>
+        
+        CURL
+      </a>
+    </div>
+    <p class="lead">Research Group</p>
+  </header>
+
+  <nav id="sidebar-nav-links">
+  
+  <a class="home-link "
+     href="/">Home</a>
+  
+
+  
+
+
+  
+    
+      <a class="page-link "
+          href="/people.html">Members</a>
+    
+  
+
+  
+    
+      <a class="page-link "
+          href="/publications.html">Publications</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+
+  
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/news.html">News</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/jobs.html">Jobs</a>
+    
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/outreach.html">Outreach</a>
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+      <a class="category-link "
+          href="/category/about.html">About</a>
+    
+  
+
+  
+
+
+
+  <!-- Optional additional links to insert in sidebar nav -->
+
+
+  
+</nav>
+
+
+  
+
+  <nav id="sidebar-icon-links">
+  
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="/feed.xml">
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h24v24H0z" fill="none"/>
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+  </a>
+
+  
+  
+  
+  
+
+  
+
+  
+    <a id="search-link"
+       class="icon"
+       title="Search" aria-label="Search"
+       href="/search.html">
+      <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+    <path d="M0 0h24v24H0z" fill="none"/>
+</svg>
+    </a>
+  
+
+  <!-- Optional additional links to insert for icons links -->
+</nav>
+  <p>
+  &copy; 2026
+  <a href="/LICENSE.md">CURL</a>
+</p>
+
+</div>
+  
+
+    <main class="container">
+      <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<header>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css">
+  <h1 class="post-title"><p>Time-reversed stochastic inflation in tilted potentials</p>
+</h1>  
+</header>
+<div class="content">
+  <div class="post-meta">
+  <span class="post-date">19 Jun 2026</span>
+  <span class="post-categories">
+    
+      &bull;
+
+      
+      
+      
+
+      
+        <a href="/category/news.html">
+          News
+        </a>
+      
+    
+  </span>
+</div>
+
+  <div class="post-body">
+    <p>In a recent publication, <a href="/members/blachier.html"><strong>Baptiste</strong></a> and
+<a href="/members/chris.html"><strong>Christophe</strong></a> have extended the
+<a href="/news/2025/05/16/2504.17680.html"><strong>time-reversed approach of stochastic inflation</strong></a> to the semi-infinite tilted potentials. For
+large positive tilts, the curvature fluctuations show some
+classical-like behaviour, their probability distribution transiting
+from exponential to Gaussian tails. For negative tilts, <a href="https://en.wikipedia.org/wiki/Eternal_inflation"><strong>eternal
+inflation</strong></a> takes
+place. Yet, the time-reversed approach remains regular and produces
+finite results typical of quantum tunnelling.</p>
+
+<p>Stochastic inflation refers to a regime of cosmic inflation in which
+quantum fluctuations drive the evolution of the field-metric
+system. Under some approximations, it is possible to relate this
+dynamics to the one of an effective, coarse-grained, inflaton field
+following a Langevin equation:</p>
+
+\[\frac{\mathrm{d}\phi}{\mathrm{d}N} = -\frac{1}{3 H^2} \frac{\mathrm{d}V}{\mathrm{d}\phi} + \frac{H}{2\pi} \xi(N),\]
+
+<p>where \(\xi\) is a Gaussian white noise.</p>
+
+<p>In Ref. <a class="citation" href="#blachier:2025tcq">[1]</a>, we have proposed a time-reversed
+approach to solve this stochastic equation backward in time, from the
+end of the quantum diffusion regime to some initial
+state. Time-reversing stochastic inflation happens to be equivalent to
+condition, and then to marginalise, the stochastic realisations of the
+Langevin equation by their lifetimes \(\Delta N_0\). The lifetime is
+indeed a random variable with a probability distribution
+\(P_\mathrm{LT}(\Delta N_0\vert\phi_0)\) that can be determined once
+the stochastic process is specified. As such, the time-reversal
+enforces that observers have to be in the regions of the universe
+where inflation ended and all statistical quantities are weighted by
+the probability of these regions to be formed. In other words, the
+observed background is now defined as one of its possible quantum
+realisations. This approach happens to regularise various divergences
+encountered in the standard, forward in time, stochastic \(\delta
+N\)-formalism. For instance, in a semi-infinite flat potential, the
+spacetime curvature fluctuations in the forward picture,
+\(\zeta_\mathrm{fw}\), are infinite. As discussed in this
+<a href="/news/2025/05/16/2504.17680.html"><strong>post</strong></a>, in the time-reversed
+approach, they have a normalisable probability distribution
+\(P(\zeta|\phi_0)\), exhibiting Levy-like power-law tails decaying as
+\(|\zeta|^{-3/2}\).</p>
+
+<hr />
+
+<p>In Ref. <a class="citation" href="#blachier:2025iwk">[2]</a>, we have extended these results to
+the case of a tilted semi-infinite potential, an example of a positively
+tilted potential being represented in the following figure:</p>
+
+<p><img src="/assets/images/2511.21388/sidomains_tilt_plus.png" alt="siplus" title="Potential with positive tilt" /></p>
+
+<p>A potential tilt creates a non-vanishing friction, or drift term, in
+the Langevin equation (the first term on the right-hand side). The
+field is then driven by both the drift and the noise. The former
+systematically pushing the field out of the quantum diffusion domain,
+one may expect stochastic inflation to be tamed compared to the
+exactly flat semi-infinite potential. This is indeed the case. As
+represented in the next figure, \(P(\zeta|\phi_0)\) develops
+exponential tails decaying must faster than the Levy-like power-law
+encountered in the flat potential.</p>
+
+<p><img src="/assets/images/2511.21388/logpzeta_tail.png" alt="exptails" title="Exponential tails in positively tilted potentials" /></p>
+
+<p>In the previous figure, the tilt of the potential is encoded in the
+parameter \(\hat{\alpha}\) while \(\chi_0\) is the initial field value
+in unit of the diffusion coefficient \(G \equiv H/(2\pi)\). For
+\(\hat{\alpha}\) of order unity (small tilt), it is possible to find
+some analytical approximation describing the tails as</p>
+
+\[\chi_0^2 e^{-\hat{\alpha}} P(\zeta|\phi_0) \simeq \dfrac{3}{16\sqrt{\pi}\, \hat{\alpha}^2}
+\left(\dfrac{\chi_0}{\sqrt{|\zeta|}}\right)^5
+e^{-\hat{\alpha}^2  \frac{|\zeta|}{\chi_0^2}}.\]
+
+<p>In the large \(\hat{\alpha}\) limit (large drift), quantum diffusion
+becomes sub-dominant, and we recover a classical-like behaviour. The
+probability distribution of the curvature fluctuations become sharply
+peaked at vanishing values while developing Gaussian tails:</p>
+
+<p><img src="/assets/images/2511.21388/logpzeta_gauss.png" alt="gausstails" title="Gaussian tails in positively tilted potentials" /></p>
+
+<p>In the infinite \(\hat{\alpha}\) limit, one can indeed show that</p>
+
+\[\lim_{\hat{\alpha}\to \infty} P(\zeta|\phi_0) = \dfrac{1}{2 |\zeta|} e^{-2 \frac{\hat{\alpha}^3}{\chi_0^4} \zeta^2},\]
+
+<p>which is represented as a dashed curve in the previous figure.</p>
+
+<hr />
+
+<p>Another interesting aspect of the tilted semi-infinite potential is
+that the forward approach is regular (provided \(\hat{\alpha} \ne 0\))
+and we can compare the distribution of the curvature fluctuations
+derived by both methods:</p>
+
+<p><img src="/assets/images/2511.21388/pzetafw_inf.png" alt="zetafw" title="Comparison of zetas" /></p>
+
+<p>The curvature distribution in the forward picture,
+\(P(\zeta_\mathrm{fw}|\phi_0)\), exhibits quite an asymmetry towards
+positive values and vanishes for
+\(\zeta_\mathrm{fw}\le-1/\hat{\alpha}\). On the positive side, both
+distributions have exponential tails, but</p>
+
+\[\chi_0^2 e^{-\hat{\alpha}} P(\zeta_\mathrm{fw}|\phi_0) \simeq \dfrac{1}{\sqrt{2\pi}}
+\left(\dfrac{\chi_0^2}{\zeta_\mathrm{fw}}\right)^{3/2} e^{-\hat{\alpha}^2 \frac{\zeta_\mathrm{fw}}{2\chi_0^2}},\]
+
+<p>which therefore decays twice as slow as \(P(\zeta\vert\phi_0)\) of the
+time-reversed approach. Contrary to the semi-classical regime, these
+differences between the forward and time-reversed approaches are not
+negligible and may have important consequences for tail-sensitive
+phenomena, at least when strong quantum diffusion is driving the
+dynamics.</p>
+
+<hr />
+
+<p>Finally, a negatively tilted potential allows us to study
+time-reversed stochastic inflation within a simple realisation of
+<a href="https://en.wikipedia.org/wiki/Eternal_inflation"><strong>eternal
+inflation</strong></a>. For
+\(\hat{\alpha}&lt;0\), the potential looks like this:</p>
+
+<p><img src="/assets/images/2511.21388/sidomains_tilt_neg.png" alt="sineg" title="Potential with negative tilt" /></p>
+
+<p>The drift term in the Langevin equation prevents inflation to end and
+only large quantum fluctuations will allow for the field to exit the
+quantum domain. The forward approach is pathological for
+\(\hat{\alpha}&lt;0\): the mean number of forward e-folds is negative
+while only very large values of \(\zeta_\mathrm{fw}&gt;-1/\hat{\alpha}\)
+are allowed if the tilt is small and negative.  In the time-reverse
+picture, the rescaled curvature distribution
+\(\chi_0^2e^{-\hat{\alpha}} P(\zeta|\phi_0)\) is unchanged and still
+given by the one plotted earlier. Therefore,
+\(\chi_0^2P(\zeta|\phi_0)\propto e^{+\hat{\alpha}}\) is now much
+reduced and one can also show that the Gaussian limit does not exist
+any more for \(\hat{\alpha}&lt;0\). In fact, this exponential damping
+factor is typical of tunnelling processes and it can be related to the
+fact that, for \(\hat{\alpha}&lt;0\), the survival probability after an
+infinite number of e-folds is non-vanishing</p>
+
+\[S(\infty|\phi_0) = 1 -\int_{0}^{+\infty}P_\mathrm{LT}(\Delta N_0\vert\phi_0) \mathrm{d}{\Delta N_0} = \Theta(-\hat{\alpha})\left(1-e^{-2 |\hat{\alpha}|} \right).\]
+
+<p>In other words, for \(\hat{\alpha}\) negatively large, the survival
+probability approaches unity and almost all realisations are locked
+forever in the quantum diffusion domain. Because the time-reversed
+formalism only count the realisations leaving that domain, it inherits
+this overall exponential damping. For \(\hat{\alpha} &lt; 0\), the
+curvature distribution is actually no longer normalised to unity but
+to</p>
+
+\[\int_{-\infty}^{\infty} P(\zeta|\phi_0) \mathrm{d}\zeta = e^{-2|\hat{\alpha}|}.\]
+
+<p>Therefore, the time-reversed formalism automatically encompasses a
+measure which is given by \(1-S(\infty)\), which is quite
+satisfactory. Indeed, why should we be concerned with trajectories in
+which inflation never ends? Assessing the statistics of cosmological
+observables should be performed in the subset of all possibilities
+leading to our universe, i.e., the Friedmann-Lemaître decelerating
+models.</p>
+
+    
+
+
+
+<div class="post-tags">
+  
+</div>
+  </div>
+
+  
+
+  <div class="bibliography" >
+
+    <h3>References</h3>
+
+    <class="bibliography"><li><div class="publication">
+
+  <span id="blachier:2025tcq">[1] Blachier B and Ringeval C 2025 Time-reversed stochastic inflation <i>JCAP</i> <b>11</b> 032</span>
+
+  <table>
+  
+  <tr>
+    <th>Abstract:</th>
+    <td> <a href="https://arxiv.org/abs/2504.17680">
+	arXiv:2504.17680 </a> </td>
+  </tr>
+
+  
+  
+  <tr>
+    <th>Journal:</th>
+    <td> <a href="https://doi.org/10.1088/1475-7516/2025/11/032">
+	10.1088/1475-7516/2025/11/032 </a> </td>
+  </tr>
+  
+
+  
+
+  </table>
+
+  <br>
+  
+</div>
+
+</li>
+<li><div class="publication">
+
+  <span id="blachier:2025iwk">[2] Blachier B and Ringeval C 2026 Friction in Stochastic Inflation <i>JCAP</i> <b>06</b> 051</span>
+
+  <table>
+  
+  <tr>
+    <th>Abstract:</th>
+    <td> <a href="https://arxiv.org/abs/2511.21388">
+	arXiv:2511.21388 </a> </td>
+  </tr>
+
+  
+  
+  <tr>
+    <th>Journal:</th>
+    <td> <a href="https://doi.org/10.1088/1475-7516/2026/06/051">
+	10.1088/1475-7516/2026/06/051 </a> </td>
+  </tr>
+  
+
+  
+
+  </table>
+
+  <br>
+  
+</div>
+
+</li></>
+    
+  </div>
+
+
+
+  <section class="related">
+  <h2>Related Posts</h2>
+  <ul class="posts-list">
+    
+      <li>
+        <h3>
+          <a href="/news/2026/06/16/seminar.html">
+            <small>16 Jun 2026</small>
+	    <p>Cosmology Seminar</p>
+
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/news/2026/06/02/seminar.html">
+            <small>02 Jun 2026</small>
+	    <p>Cosmology Seminar</p>
+
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/news/2026/05/25/S8cosmo.html">
+            <small>25 May 2026</small>
+	    <p>RER-S8* Cosmo Meeting on quantum diffusion</p>
+
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</section>
+
+</div>
+
+    </main>
+    
+    <!-- Optional footer content -->
+
+
+
+  </body>
+  
+</html>
