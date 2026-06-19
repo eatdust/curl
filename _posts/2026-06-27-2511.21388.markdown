@@ -1,0 +1,164 @@
+---
+layout: post
+title: Time-reversed stochastic inflation in tilted potentials
+category: News
+date: 2026-06-19 08:00:00 +0100
+---
+
+In a recent publication, [**Baptiste**](/members/blachier.html) and
+[**Christophe**](/members/chris.html) have extended the
+[**time-reversed approach of stochastic inflation**]({% post_url
+2025-05-16-2504.17680 %}) to the semi-infinite tilted potentials. For
+large positive tilts, the curvature fluctuations show some
+classical-like behaviour, their probability distribution transiting
+from exponential to Gaussian tails. For negative tilts, [**eternal
+inflation**](https://en.wikipedia.org/wiki/Eternal_inflation) takes
+place. Yet, the time-reversed approach remains regular and produces
+finite results typical of quantum tunnelling.
+
+Stochastic inflation refers to a regime of cosmic inflation in which
+quantum fluctuations drive the evolution of the field-metric
+system. Under some approximations, it is possible to relate this
+dynamics to the one of an effective, coarse-grained, inflaton field
+following a Langevin equation:
+
+$$\frac{\mathrm{d}\phi}{\mathrm{d}N} = -\frac{1}{3 H^2} \frac{\mathrm{d}V}{\mathrm{d}\phi} + \frac{H}{2\pi} \xi(N),$$
+
+where $$\xi$$ is a Gaussian white noise.
+
+In Ref. {% cite blachier:2025tcq %}, we have proposed a time-reversed
+approach to solve this stochastic equation backward in time, from the
+end of the quantum diffusion regime to some initial
+state. Time-reversing stochastic inflation happens to be equivalent to
+condition, and then to marginalise, the stochastic realisations of the
+Langevin equation by their lifetimes $$\Delta N_0$$. The lifetime is
+indeed a random variable with a probability distribution
+$$P_\mathrm{LT}(\Delta N_0\vert\phi_0)$$ that can be determined once
+the stochastic process is specified. As such, the time-reversal
+enforces that observers have to be in the regions of the universe
+where inflation ended and all statistical quantities are weighted by
+the probability of these regions to be formed. In other words, the
+observed background is now defined as one of its possible quantum
+realisations. This approach happens to regularise various divergences
+encountered in the standard, forward in time, stochastic $$\delta
+N$$-formalism. For instance, in a semi-infinite flat potential, the
+spacetime curvature fluctuations in the forward picture,
+$$\zeta_\mathrm{fw}$$, are infinite. As discussed in this
+[**post**]({% post_url 2025-05-16-2504.17680 %}), in the time-reversed
+approach, they have a normalisable probability distribution
+$$P(\zeta|\phi_0)$$, exhibiting Levy-like power-law tails decaying as
+$$|\zeta|^{-3/2}$$.
+
+---
+
+In Ref. {% cite blachier:2025iwk %}, we have extended these results to
+the case of a tilted semi-infinite potential, an example of a positively
+tilted potential being represented in the following figure:
+
+![siplus](/assets/images/2511.21388/sidomains_tilt_plus.png "Potential with positive tilt")
+
+A potential tilt creates a non-vanishing friction, or drift term, in
+the Langevin equation (the first term on the right-hand side). The
+field is then driven by both the drift and the noise. The former
+systematically pushing the field out of the quantum diffusion domain,
+one may expect stochastic inflation to be tamed compared to the
+exactly flat semi-infinite potential. This is indeed the case. As
+represented in the next figure, $$P(\zeta|\phi_0)$$ develops
+exponential tails decaying must faster than the Levy-like power-law
+encountered in the flat potential.
+
+![exptails](/assets/images/2511.21388/logpzeta_tail.png "Exponential tails in positively tilted potentials")
+
+In the previous figure, the tilt of the potential is encoded in the
+parameter $$\hat{\alpha}$$ while $$\chi_0$$ is the initial field value
+in unit of the diffusion coefficient $$G \equiv H/(2\pi)$$. For
+$$\hat{\alpha}$$ of order unity (small tilt), it is possible to find
+some analytical approximation describing the tails as
+
+$$\chi_0^2 e^{-\hat{\alpha}} P(\zeta|\phi_0) \simeq \dfrac{3}{16\sqrt{\pi}\, \hat{\alpha}^2}
+\left(\dfrac{\chi_0}{\sqrt{|\zeta|}}\right)^5
+e^{-\hat{\alpha}^2  \frac{|\zeta|}{\chi_0^2}}.$$
+
+In the large $$\hat{\alpha}$$ limit (large drift), quantum diffusion
+becomes sub-dominant, and we recover a classical-like behaviour. The
+probability distribution of the curvature fluctuations become sharply
+peaked at vanishing values while developing Gaussian tails:
+
+![gausstails](/assets/images/2511.21388/logpzeta_gauss.png "Gaussian tails in positively tilted potentials")
+
+In the infinite $$\hat{\alpha}$$ limit, one can indeed show that
+
+$$\lim_{\hat{\alpha}\to \infty} P(\zeta|\phi_0) = \dfrac{1}{2 |\zeta|} e^{-2 \frac{\hat{\alpha}^3}{\chi_0^4} \zeta^2},$$
+
+which is represented as a dashed curve in the previous figure.
+
+---
+
+Another interesting aspect of the tilted semi-infinite potential is
+that the forward approach is regular (provided $$\hat{\alpha} \ne 0$$)
+and we can compare the distribution of the curvature fluctuations
+derived by both methods:
+
+![zetafw](/assets/images/2511.21388/pzetafw_inf.png "Comparison of zetas")
+
+The curvature distribution in the forward picture,
+$$P(\zeta_\mathrm{fw}|\phi_0)$$, exhibits quite an asymmetry towards
+positive values and vanishes for
+$$\zeta_\mathrm{fw}\le-1/\hat{\alpha}$$. On the positive side, both
+distributions have exponential tails, but
+ 
+$$\chi_0^2 e^{-\hat{\alpha}} P(\zeta_\mathrm{fw}|\phi_0) \simeq \dfrac{1}{\sqrt{2\pi}}
+\left(\dfrac{\chi_0^2}{\zeta_\mathrm{fw}}\right)^{3/2} e^{-\hat{\alpha}^2 \frac{\zeta_\mathrm{fw}}{2\chi_0^2}},$$
+
+which therefore decays twice as slow as $$P(\zeta\vert\phi_0)$$ of the
+time-reversed approach. Contrary to the semi-classical regime, these
+differences between the forward and time-reversed approaches are not
+negligible and may have important consequences for tail-sensitive
+phenomena, at least when strong quantum diffusion is driving the
+dynamics.
+ 
+---
+
+Finally, a negatively tilted potential allows us to study
+time-reversed stochastic inflation within a simple realisation of
+[**eternal
+inflation**](https://en.wikipedia.org/wiki/Eternal_inflation). For
+$$\hat{\alpha}<0$$, the potential looks like this:
+
+![sineg](/assets/images/2511.21388/sidomains_tilt_neg.png "Potential with negative tilt")
+
+The drift term in the Langevin equation prevents inflation to end and
+only large quantum fluctuations will allow for the field to exit the
+quantum domain. The forward approach is pathological for
+$$\hat{\alpha}<0$$: the mean number of forward e-folds is negative
+while only very large values of $$\zeta_\mathrm{fw}>-1/\hat{\alpha}$$
+are allowed if the tilt is small and negative.  In the time-reverse
+picture, the rescaled curvature distribution
+$$\chi_0^2e^{-\hat{\alpha}} P(\zeta|\phi_0)$$ is unchanged and still
+given by the one plotted earlier. Therefore,
+$$\chi_0^2P(\zeta|\phi_0)\propto e^{+\hat{\alpha}}$$ is now much
+reduced and one can also show that the Gaussian limit does not exist
+any more for $$\hat{\alpha}<0$$. In fact, this exponential damping
+factor is typical of tunnelling processes and it can be related to the
+fact that, for $$\hat{\alpha}<0$$, the survival probability after an
+infinite number of e-folds is non-vanishing
+
+$$S(\infty|\phi_0) = 1 -\int_{0}^{+\infty}P_\mathrm{LT}(\Delta N_0\vert\phi_0) \mathrm{d}{\Delta N_0} = \Theta(-\hat{\alpha})\left(1-e^{-2 |\hat{\alpha}|} \right).$$
+
+In other words, for $$\hat{\alpha}$$ negatively large, the survival
+probability approaches unity and almost all realisations are locked
+forever in the quantum diffusion domain. Because the time-reversed
+formalism only count the realisations leaving that domain, it inherits
+this overall exponential damping. For $$\hat{\alpha} < 0$$, the
+curvature distribution is actually no longer normalised to unity but
+to
+
+$$\int_{-\infty}^{\infty} P(\zeta|\phi_0) \mathrm{d}\zeta = e^{-2|\hat{\alpha}|}.$$
+
+Therefore, the time-reversed formalism automatically encompasses a
+measure which is given by $$1-S(\infty)$$, which is quite
+satisfactory. Indeed, why should we be concerned with trajectories in
+which inflation never ends? Assessing the statistics of cosmological
+observables should be performed in the subset of all possibilities
+leading to our universe, i.e., the Friedmann-Lemaître decelerating
+models.
