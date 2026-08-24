@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-08-21T13:11:17+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Time-reversed stochastic inflation in tilted potentials</title><link href="https://curl.group/news/2026/06/19/2511.21388.html" rel="alternate" type="text/html" title="Time-reversed stochastic inflation in tilted potentials" /><published>2026-06-19T09:00:00+02:00</published><updated>2026-06-19T09:00:00+02:00</updated><id>https://curl.group/news/2026/06/19/2511.21388</id><content type="html" xml:base="https://curl.group/news/2026/06/19/2511.21388.html"><![CDATA[<p>In a recent publication, <a href="/members/blachier.html"><strong>Baptiste</strong></a> and
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-08-24T10:23:01+02:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/06/24/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-06-24T08:00:00+02:00</published><updated>2026-06-24T08:00:00+02:00</updated><id>https://curl.group/news/2026/06/24/seminar</id><content type="html" xml:base="https://curl.group/news/2026/06/24/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Thursday 10th</strong> of
+September, <strong>room E349</strong> at <strong>11:00am</strong>. We will have the pleasure to
+listen to <strong>Tomotaka Kuroda</strong> from the Institute of Science Tokyo
+(Japan) and the Institute for Basic Science (Daejeon, Korea).</p>
+
+<p>At 11:00am, room E349, <strong>Tomotaka Kuroda</strong> will be talking about</p>
+
+<h3 id="reconsideration-of-stochastic-inflation">Reconsideration of Stochastic Inflation</h3>
+
+<p><em>We investigate the nonlinear extension of stochastic inflation. At
+second order, non-Markovian effects and quadratic noise appear at the
+same perturbative order as the usual nonlinear terms. Including both
+effects, we derive the three-point functions for a scalar field in de
+Sitter spacetime and for slow-roll inflation. On superhorizon scales,
+our stochastic results exactly reproduce the corresponding in-in
+calculations.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Thursday 10th of September, room E349 at 11:00am. We will have the pleasure to listen to Tomotaka Kuroda from the Institute of Science Tokyo (Japan) and the Institute for Basic Science (Daejeon, Korea).]]></summary></entry><entry><title type="html">Time-reversed stochastic inflation in tilted potentials</title><link href="https://curl.group/news/2026/06/19/2511.21388.html" rel="alternate" type="text/html" title="Time-reversed stochastic inflation in tilted potentials" /><published>2026-06-19T09:00:00+02:00</published><updated>2026-06-19T09:00:00+02:00</updated><id>https://curl.group/news/2026/06/19/2511.21388</id><content type="html" xml:base="https://curl.group/news/2026/06/19/2511.21388.html"><![CDATA[<p>In a recent publication, <a href="/members/blachier.html"><strong>Baptiste</strong></a> and
 <a href="/members/chris.html"><strong>Christophe</strong></a> have extended the
 <a href="/news/2025/05/16/2504.17680.html"><strong>time-reversed approach of stochastic inflation</strong></a> to the semi-infinite tilted potentials. For
 large positive tilts, the curvature fluctuations show some
@@ -157,7 +172,7 @@ satisfactory. Indeed, why should we be concerned with trajectories in
 which inflation never ends? Assessing the statistics of cosmological
 observables should be performed in the subset of all possibilities
 leading to our universe, i.e., the Friedmann-Lemaître decelerating
-models.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Baptiste and Christophe have extended the time-reversed approach of stochastic inflation to the semi-infinite tilted potentials. For large positive tilts, the curvature fluctuations show some classical-like behaviour, their probability distribution transiting from exponential to Gaussian tails. For negative tilts, eternal inflation takes place. Yet, the time-reversed approach remains regular and produces finite results typical of quantum tunnelling.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/06/16/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-06-16T09:00:00+02:00</published><updated>2026-06-16T09:00:00+02:00</updated><id>https://curl.group/news/2026/06/16/seminar</id><content type="html" xml:base="https://curl.group/news/2026/06/16/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 26th</strong> of June,
+models.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Baptiste and Christophe have extended the time-reversed approach of stochastic inflation to the semi-infinite tilted potentials. For large positive tilts, the curvature fluctuations show some classical-like behaviour, their probability distribution transiting from exponential to Gaussian tails. For negative tilts, eternal inflation takes place. Yet, the time-reversed approach remains regular and produces finite results typical of quantum tunnelling.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/06/16/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-06-16T08:00:00+02:00</published><updated>2026-06-16T08:00:00+02:00</updated><id>https://curl.group/news/2026/06/16/seminar</id><content type="html" xml:base="https://curl.group/news/2026/06/16/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 26th</strong> of June,
 <strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
 <strong>Alipriyo Hoory</strong> from the Indian Institute of Technology (Chennai,
 India).</p>
@@ -468,36 +483,4 @@ when the stochastic noises themselves are small. We show that, in
 such small-noise regimes, the number of fields generically
 discriminates whether inflation successfully terminates or lasts
 forever. Our results indicate that inflation with an extremely large
-number of fields may fail to realise our observable Universe.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Wednesday 19th of November, room E349 at 2:00pm. We will have the pleasure to listen to Prof. Tomo Takahashi from Saga University (Japan).]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2025/11/07/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2025-11-07T14:00:00+01:00</published><updated>2025-11-07T14:00:00+01:00</updated><id>https://curl.group/news/2025/11/07/seminar</id><content type="html" xml:base="https://curl.group/news/2025/11/07/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 14th</strong> of November,
-<strong>room E349</strong> at <strong>2:00pm</strong>. We will have the pleasure to listen to
-<strong>Lisa Mickel</strong> from the Institut d’Astrophysique de Paris (IAP, France).</p>
-
-<p>At 2:00pm, room E349, <strong>Lisa Mickel</strong> will be talking about</p>
-
-<h3 id="trajectories-for-a-superposition-quantum-universe">Trajectories for a superposition quantum universe</h3>
-
-<p><em>In the quest to establish possible imprints of quantum gravity one
-can quantise the reduced FLRW phase space to obtain so-called
-minisuperspace models that should be understood as a low energy limit
-of a full quantum gravitational theory. For a minisuperspace model
-that uses a perfect fluid as internal time and an affine quantisation
-procedure one finds solutions for the wave function that correspond to
-bouncing universes, thus resolving the big bang singularity. Starting
-from such a bouncing minisuperspace model we will relax the assumption
-that the state of the quantum universe has to correspond to a single
-highly semiclassical state. Instead, we will consider a universe in a
-superposition of such states, in accordance with the superposition
-principle of quantum mechanics.
-We are then faced with the question of how to extract a semiclassical
-scale factor that can be connected to the classical evolution of GR
-from such a system. Here we propose to make use of the trajectory
-approach to quantum mechanics, which assigns a unique value to the
-scale factor at all times.  We introduce this approach to quantum
-mechanics more generally and show how it can be used to describe a
-single state universe, before continuing to investigate trajectories
-obtained for the case of a biverse (superposition of two semiclassical
-states). These trajectories exhibit features that significantly differ
-from the single state case.  Finally, we illustrate the treatment of
-tensor perturbations on a background given by a biverse trajectory and
-consider the implications of the existence of such a trajectory for
-the evolution of perturbations.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 14th of November, room E349 at 2:00pm. We will have the pleasure to listen to Lisa Mickel from the Institut d’Astrophysique de Paris (IAP, France).]]></summary></entry></feed>
+number of fields may fail to realise our observable Universe.</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Wednesday 19th of November, room E349 at 2:00pm. We will have the pleasure to listen to Prof. Tomo Takahashi from Saga University (Japan).]]></summary></entry></feed>
