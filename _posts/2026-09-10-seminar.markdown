@@ -1,0 +1,23 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2026-06-24 8:00:00 +0200
+---
+
+The next cosmology seminar takes place on **Thursday 10th** of
+September, **room E349** at **11:00am**. We will have the pleasure to
+listen to **Tomotaka Kuroda** from the Institute of Science Tokyo
+(Japan) and the Institute for Basic Science (Daejeon, Korea).
+
+At 11:00am, room E349, **Tomotaka Kuroda** will be talking about
+
+### Reconsideration of Stochastic Inflation
+
+*We investigate the nonlinear extension of stochastic inflation. At
+second order, non-Markovian effects and quadratic noise appear at the
+same perturbative order as the usual nonlinear terms. Including both
+effects, we derive the three-point functions for a scalar field in de
+Sitter spacetime and for slow-roll inflation. On superhorizon scales,
+our stochastic results exactly reproduce the corresponding in-in
+calculations.*
