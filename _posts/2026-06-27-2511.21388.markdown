@@ -161,8 +161,7 @@ $$\int_{-\infty}^{\infty} P(\zeta|\phi_0) \mathrm{d}\zeta = e^{-2|\hat{\alpha}|}
 
 Therefore, the time-reversed formalism automatically encompasses a
 measure which is given by $$1-S(\infty)$$, which is quite
-satisfactory. Indeed, why should we be concerned with trajectories in
-which inflation never ends? Assessing the statistics of cosmological
-observables should be performed in the subset of all possibilities
-leading to our universe, i.e., the Friedmann-Lemaître decelerating
-models.
+satisfactory. Indeed, while the statistics of cosmological observables
+is only performed in the subset of possibilities leading to the
+Friedmann-Lemaître decelerating models, the overall probability to
+measure them remains weighted by the likeliness of inflation to end.
