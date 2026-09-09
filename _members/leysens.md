@@ -4,6 +4,6 @@ name: Gwenaël Leysens
 description: Master student
 funding: UCLouvain
 from: 2025, September  01
-to:
+to: 2026, September 01
 ---
 
