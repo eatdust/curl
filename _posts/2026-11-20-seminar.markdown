@@ -1,0 +1,35 @@
+---
+layout: post
+title: Cosmology Seminar
+category: News
+date: 2026-11-12 8:00:00 +0200
+---
+
+The next cosmology seminar takes place on **Friday 20th** of
+November, **room E349** at **2pm**. We will have the pleasure to
+listen to **Angelo Caravano** from the University of Amsterdam (Netherlands).
+
+At 2pm, room E349, **Angelo Caravano** will be talking about
+
+### Lattice Monte Carlo of quantum field theory on de Sitter space
+
+*Quantum fields in de Sitter space behave in ways that have no
+counterpart in flat space. Because of the accelerated expansion,
+light fields become strongly coupled on large scales, however weak
+their interaction. In particle physics, strongly coupled theories are
+studied with lattice Monte Carlo methods, but bringing these tools to
+curved spacetime has been a major challenge, because discretizing a
+curved geometry typically breaks its symmetries. In this talk I will
+introduce a new lattice formulation that keeps the de Sitter
+symmetries exact, and show the first Monte Carlo simulations of an
+interacting scalar field on Euclidean de Sitter space. At weak
+coupling, the simulations reproduce the equilibrium of stochastic
+inflation to a few parts per thousand, without ever invoking a
+Langevin equation. Small deviations from this distribution closely
+follow the one-loop renormalization of the coupling. At strong
+coupling, the effective interaction saturates while the field
+distribution stays close to the stochastic prediction. This
+saturation is the de Sitter counterpart of the mechanism behind the
+lattice bound on the Higgs mass in flat space. More broadly, this new
+discretization opens up de Sitter space to lattice Monte Carlo
+methods.*
