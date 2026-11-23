@@ -1,4 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-11-12T11:10:35+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/11/12/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-11-12T07:00:00+01:00</published><updated>2026-11-12T07:00:00+01:00</updated><id>https://curl.group/news/2026/11/12/seminar</id><content type="html" xml:base="https://curl.group/news/2026/11/12/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 20th</strong> of
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://curl.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://curl.group/" rel="alternate" type="text/html" /><updated>2026-11-23T16:45:44+01:00</updated><id>https://curl.group/feed.xml</id><title type="html">CURL</title><subtitle>Research Group</subtitle><author><name>Chris Ringeval</name></author><entry><title type="html">Stochastic constant-roll inflation beyond the hilltop</title><link href="https://curl.group/news/2026/11/23/2606.09690.html" rel="alternate" type="text/html" title="Stochastic constant-roll inflation beyond the hilltop" /><published>2026-11-23T08:00:00+01:00</published><updated>2026-11-23T08:00:00+01:00</updated><id>https://curl.group/news/2026/11/23/2606.09690</id><content type="html" xml:base="https://curl.group/news/2026/11/23/2606.09690.html"><![CDATA[<p><a href="/members/eemeli.html"><strong>Eemeli</strong></a> exploits spectral methods to solve
+a stochastic inflation model in which the field goes over a hilltop
+potential and tunnel back to an exit boundary. For such a
+configuration, the mean value of the lifetime fails to properly
+describe the inflationary background and alternatives are proposed.</p>
+
+<p>Early in the cosmic history, during <a href="https://en.wikipedia.org/wiki/Cosmic_inflation"><strong>cosmic
+inflation</strong></a>, space
+expands rapidly. This expansion produces primordial perturbations that
+are important for the Universe’s later evolution: they may, for
+example, collapse into <a href="https://en.wikipedia.org/wiki/Primordial_black_hole"><strong>primordial black
+holes</strong></a>. These
+perturbations can be studied with stochastic inflation, a non-perturbative technique
+that traces the random motion of a coarse-grained inflaton \(\phi\), the scalar field
+that drives inflation.</p>
+
+<p>Stochastic inflation lets us compute the probability distribution
+\(P(\phi, N)\) of \(\phi\) at a given moment \(N\) (a time variable that
+grows in sync with the spatial expansion). The distribution follows
+the <a href="https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation"><strong>Fokker-Planck equation</strong></a></p>
+
+\[\partial_N P(\phi,N) = \underbrace{\partial_\phi\left[\partial_\phi\left(\frac{1}{2} \sigma^2(\phi) P(\phi,N)\right) - \mu(\phi) P(\phi,N)\right]}_{\equiv \mathcal{L} P(\phi,N)},\]
+
+<p>where \(\sigma\) and \(\mu\) are the diffusion and drift functions of the
+associated stochastic process. Equations of this form can be solved with the
+so-called spectral method, by computing the eigenfunctions \(u_n(\phi)\)
+and eigenvalues \(\lambda_n\) of the Fokker-Planck operator \(\mathcal{L}\):</p>
+
+\[\mathcal{L}u_n(\phi) = -\lambda_n u_n(\phi).\]
+
+<p>The new paper <a class="citation" href="#tomberg:2026uxl">[1]</a> exploits the spectral method for stochastic
+inflation, solving for the following explicit equation for \(P(\phi,N)\),
+starting from an initial value \(\phi_0\):</p>
+
+\[P(\phi, N) = \sum_{n=1}^{\infty} \bar{u}_n(\phi_0)u_n(\phi)e^{-\lambda_n N},\]
+
+<p>where \(\bar u_n(\phi)\) is the adjoint eigenfunction, which can be
+related back to \(u_n(\phi)\). One may also derive a similar expression
+for the total duration of inflation \(N\). The duration is important for
+the so-called \(\Delta N\)-formalism, which gives the local curvature
+perturbations as a difference between \(N\) and an averaged background
+value:</p>
+
+\[\zeta = \Delta N = N - N_\mathrm{bg}.\]
+
+<p>After developing the spectral formalism, Ref. <a class="citation" href="#tomberg:2026uxl">[1]</a> applies it to the special case of hilltop inflation, where the
+inflaton potential \(V(\phi)\) resembles an inverted parabola, as
+sketeched in the figure below. Such models are important in the study
+of primordial black holes (see, e.g., <a href="/news/2025/09/01/2507.15522.html"><strong>this post</strong></a>. They correspond to <strong>constant-roll
+inflation</strong>, where the drift \(\mu\) grows linearly with the distance
+from the hilltop.</p>
+
+<p><img src="/assets/images/2606.09690/hilltop_potential.png" alt="hilltop" title="Hilltop potential" /></p>
+
+<p>In these models, \(\phi\) typically undergoes stochastic motion on the
+left-hand slope of the parabola, close to the end of inflation limit
+set by an exit boundary \(\phi_a\). Eemeli earlier solved the system
+in this limit in <a href="https://arxiv.org/abs/2304.10903">arXiv:2304.10903</a>. However, this
+solution did not cover the rare, large perturbations that take
+\(\phi\) to the other side of the hilltop. Ref. <a class="citation" href="#tomberg:2026uxl">[1]</a> now takes them into account. We place a reflecting boundary on that
+side at \(\phi_r\) to mimic a local potential minimum typially found in
+primordial black holes models. If the field crosses the hilltop, it
+may spend a long time stuck near \(\phi_r\) before tunneling back out.</p>
+
+<p>The spectral decomposition is well-suited for studying the long-time
+behaviour, since most terms in the eigensums above become small in
+this limit, leaving only a few leading contributions. The eigenvalues
+\(\lambda_n\) can be solved semi-analytically, and they follow
+characteristic scalings for small and large \(n\), as can be seen in the
+figure below.</p>
+
+<p><img src="/assets/images/2606.09690/eigenvalues.png" alt="eigenvalues" title="Eigenvalues of the hilltop potential" /></p>
+
+<p>As this figure shows, the first eigenvalue is very small, \(\lambda_1
+\ll 1\); it is responsible for the tunneling behaviour described
+above.</p>
+
+<p>Armed with the eigensolutions, we can solve the probability
+dsitribution of \(\Delta N\). There is a subtlety, however: to compute
+\(\Delta N\), we need to choose the background value
+\(N_\mathrm{bg}\). Conventionally, this is chosen to be the <strong>mean</strong>
+of \(N\). In our setup, however, the mean is enormous, dominated by
+the tunneling solution of the lowest eigenvalue. The rare stochastic
+trajectories that get stuck near \(\phi_r\) for a long time completely
+drown out the typical trajectories that never cross the hilltop. Thus,
+the mean does not describe the typical field behaviour well, and is
+ill-suited as a background. Such a problem also occurs in
+semi-infinite flat potentials, see <a href="/news/2025/05/16/2504.17680.html"><strong>this post</strong></a>.</p>
+
+<p>Instead of the mean, one may consider the
+<a href="https://en.wikipedia.org/wiki/Median"><strong>median</strong></a> of \(N\) as
+\(N_\mathrm{bg}\). This works better: it turns out that near \(\phi_a\),
+the median follows the classical, non-stochastic expectation, around
+which most trajectories cluster. Using the median, we can finally
+estimate the \(\Delta N\) probability distribution, given by the figure below.</p>
+
+<p><img src="/assets/images/2606.09690/Delta_N_distribution.png" alt="perts" title="Perturbation distribution" /></p>
+
+<p>In this figure, the dashed line corresponds to the old, one-sided
+prediction of <a href="https://arxiv.org/abs/2304.10903">arXiv:2304.10903</a>. For large \(\Delta N\)
+values, trajectories that cross to the other side start to dominate
+and the old prediction fails; it is replaced by a long plateau and
+then a peak at the typical tunneling-out time. One should expect
+similar behaviour in realistic primordial black holes models.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[Eemeli exploits spectral methods to solve a stochastic inflation model in which the field goes over a hilltop potential and tunnel back to an exit boundary. For such a configuration, the mean value of the lifetime fails to properly describe the inflationary background and alternatives are proposed.]]></summary></entry><entry><title type="html">Cosmology Seminar</title><link href="https://curl.group/news/2026/11/12/seminar.html" rel="alternate" type="text/html" title="Cosmology Seminar" /><published>2026-11-12T07:00:00+01:00</published><updated>2026-11-12T07:00:00+01:00</updated><id>https://curl.group/news/2026/11/12/seminar</id><content type="html" xml:base="https://curl.group/news/2026/11/12/seminar.html"><![CDATA[<p>The next cosmology seminar takes place on <strong>Friday 20th</strong> of
 November, <strong>room E349</strong> at <strong>2pm</strong>. We will have the pleasure to
 listen to <strong>Angelo Caravano</strong> from the University of Amsterdam (Netherlands).</p>
 
@@ -330,83 +433,4 @@ is irrelevant for PBHs and that the excursion set is therefore not
 needed. While valid for widely separated scales, this statement fails
 for broad power spectra with enhanced continua of modes. We further
 show that Press-Schechter estimates neglecting boundary evolution can
-break down even without cloud-in-cloud effects (missing reference).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 13th of March, room E349 at 2:00pm. We will have the pleasure to listen to Pierre Auclair from the Institut d’Astrophysique de Paris (IAP, France).]]></summary></entry><entry><title type="html">Gravitational waves from stiff periods</title><link href="https://curl.group/news/2025/12/01/2511.08384.html" rel="alternate" type="text/html" title="Gravitational waves from stiff periods" /><published>2025-12-01T08:00:00+01:00</published><updated>2025-12-01T08:00:00+01:00</updated><id>https://curl.group/news/2025/12/01/2511.08384</id><content type="html" xml:base="https://curl.group/news/2025/12/01/2511.08384.html"><![CDATA[<p>In a recent publication, <a href="/members/tomberg"><strong>Eemeli</strong></a> and collaborators
-have studied the observability of stiff periods of decelerated
-expansion in the early history of the universe.</p>
-
-<p>There are reasons to believe the early Universe was dominated by a
-scalar field which caused space to expand in an accelerating
-manner. After this <a href="https://en.wikipedia.org/wiki/Cosmic_inflation"><strong>Cosmic
-Inflation</strong></a>, the
-scalar field was replaced by radiation consisting of <a href="https://en.wikipedia.org/wiki/Standard_Model"><strong>Standard
-Model</strong></a> particles. The
-subsequent radiation-dominated era is well understood. For example,
-the nuclei of light elements were born during it through the process
-of Big Bang Nucleosynthesis
-(<a href="https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis"><strong>BBN</strong></a>). Theoretical
-computations of BBN match very well the observed late-time abundances
-of these elements (with the possible exception of
-<a href="https://en.wikipedia.org/wiki/Cosmological_lithium_problem">lithium</a>). Hence,
-by BBN, the Universe must have settled to the standard
-radiation-dominated behaviour, and any exotic ingredients beyond the
-Standard Model must have vanished or become negligible. However, the
-era between inflation and BBN is less constrained, and exotic
-processes may have taken place there.</p>
-
-<p>It is, in fact, possible that scalar fields may have dominated the
-Universe for some time even after the end of inflation. This happens
-in models of <em>quintessential inflation</em>, where the scalar field
-responsible for inflation sticks around and later comes to play the
-role of dark energy, causing the Universe to inflate again at late
-times. Right after the primordial inflation, the scalar field
-typically undergoes <em>kination</em>, motion dominated by the scalar’s
-kinetic energy. A long period of kination leaves a mark: it amplifies
-gravitational waves born during inflation. This has a two-fold
-effect. First, the amplified gravitational waves may become detectable
-in future gravitational wave observatories. Second, the gravitational
-waves may break the delicate balance of BBN, producing wrong ratios of
-light elements and making the model unviable.</p>
-
-<p>The second effect tends to kick in before the first: observationally
-interesting models are ruined by their inability to abide by the BBN
-bound. In Ref. <a class="citation" href="#brissenden:2025ass">[1]</a>,
-<a href="/members/tomberg"><strong>Eemeli</strong></a> worked together with <a href="https://www.lancaster.ac.uk/physics/about-us/people/konstantinos-dimopoulos"><strong>Konstantinos
-Dimopoulos</strong></a>
-and <a href="https://inspirehep.net/authors/2621653"><strong>Lucy Brissenden</strong></a> from
-Lancaster University to show that there is a class of kination models
-that respects the BBN bound but is still detectable by future
-gravitational wave experiments. The trick is to make the transition
-from inflation kination (called a ‘stiff’ period) ‘soft,’ so that the
-Universe’s equation of state changes slowly during this era. The
-effect on the gravitational wave spectrum is depicted in the following
-figure:</p>
-
-<p><img src="/assets/images/2511.08384/spectrum.png" alt="spectrum" title="Gravitational wave spectrum and the sensitivities of experiments" /></p>
-
-<p>The colored curves represent the sensitivities of current and future
-gravitational wave (and other) experiments for various gravitational
-wave frequencies. BBN sets a universal limit on the gravitational wave
-spectrum across all frequencies. The semi-vertical lines are two
-example spectra, one with standard kination (dashed blue) and one with
-a soft transition period (purple). The standard case increases steeply
-all the way to the highest frequencies, narrowly avoiding the BBN
-bound, but also missing most of the gravitational wave detectors’
-sensitivities. The soft case has a rounded top (corresponding to the
-soft period), again avoids the BBN, but this time also hits the
-sensitivities of the <a href="https://en.wikipedia.org/wiki/Einstein_Telescope"><strong>Einstein
-Telescope</strong></a> (ET)
-and the <a href="https://en.wikipedia.org/wiki/Cosmic_Explorer_(gravitational_wave_observatory)"><strong>Cosmic
-Explorer</strong></a>
-(CE). The maximum frequency for both curves is approximately fixed by
-the energy scale of inflation, which is here set to the highest
-observationally allowed value, since this also produces the highest
-gravitational wave density.</p>
-
-<p>The soft period in <a class="citation" href="#brissenden:2025ass">[1]</a> was produced by a
-double-exponential scalar potential motivated by string theory. With
-only a little tuning, the model produces both detectable gravitational
-waves and the correct dark energy behaviour at late times. The model
-also satisfies other necessary constraints, such as the requirement
-for the scalar field itself to be sufficiently suppressed during
-BBN. It paves the way for other models that can produce similar
-effects.</p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[In a recent publication, Eemeli and collaborators have studied the observability of stiff periods of decelerated expansion in the early history of the universe.]]></summary></entry></feed>
+break down even without cloud-in-cloud effects (missing reference).</em></p>]]></content><author><name>Chris Ringeval</name></author><category term="News" /><summary type="html"><![CDATA[The next cosmology seminar takes place on Friday 13th of March, room E349 at 2:00pm. We will have the pleasure to listen to Pierre Auclair from the Institut d’Astrophysique de Paris (IAP, France).]]></summary></entry></feed>
