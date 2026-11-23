@@ -5,7 +5,7 @@ category: News
 date: 2026-11-23 08:00:00 +0100
 ---
 
-[**Eemeli**](/members/eemeli.html) exploits spectral methods to solve
+[**Eemeli**](/members/tomberg.html) exploits spectral methods to solve
 a stochastic inflation model in which the field goes over a hilltop
 potential and tunnel back to an exit boundary. For such a
 configuration, the mean value of the lifetime fails to properly
@@ -55,7 +55,7 @@ After developing the spectral formalism, Ref. {% cite tomberg:2026uxl
 inflaton potential $$V(\phi)$$ resembles an inverted parabola, as
 sketeched in the figure below. Such models are important in the study
 of primordial black holes (see, e.g., [**this post**]({% post_url
-2025-09-01-2507.15522 %}). They correspond to **constant-roll
+2025-09-01-2507.15522 %})). They correspond to **constant-roll
 inflation**, where the drift $$\mu$$ grows linearly with the distance
 from the hilltop.
 
