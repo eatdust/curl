@@ -11,7 +11,7 @@ email: andre.fuzfa@unamur.be
 homepage: 
 image: /assets/images/people/fuzfa.png
 orientation: portrait
-bibfile: 
+bibfile: fuzfa
 bibname: fuzfa
 position: 'Full Professor'
 location: 'Namur University (UNamur), Namur (Belgium)'
