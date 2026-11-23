@@ -64,7 +64,7 @@ from the hilltop.
 In these models, $$\phi$$ typically undergoes stochastic motion on the
 left-hand slope of the parabola, close to the end of inflation limit
 set by an exit boundary $$\phi_a$$. Eemeli earlier solved the system
-in this limit in Ref. {% cite tomberg:2023kli %}. However, this
+in this limit in [arXiv:2304.10903](https://arxiv.org/abs/2304.10903). However, this
 solution did not cover the rare, large perturbations that take
 $$\phi$$ to the other side of the hilltop. Ref. {% cite tomberg:2026uxl
 %} now takes them into account. We place a reflecting boundary on that
@@ -108,7 +108,7 @@ estimate the $$\Delta N$$ probability distribution, given by the figure below.
 ![perts](/assets/images/2606.09690/Delta_N_distribution.png "Perturbation distribution")
 
 In this figure, the dashed line corresponds to the old, one-sided
-prediction of Ref. {% cite tomberg:2023kli %}. For large $$\Delta N$$
+prediction of [arXiv:2304.10903](https://arxiv.org/abs/2304.10903). For large $$\Delta N$$
 values, trajectories that cross to the other side start to dominate
 and the old prediction fails; it is replaced by a long plateau and
 then a peak at the typical tunneling-out time. One should expect
